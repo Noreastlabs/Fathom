@@ -1,0 +1,648 @@
+GUITAR EXERCISES - SECTION VI, LEVEL 58
+SIXTEENTH-NOTE RHYTHM GUITAR, SYNCOPATION, DEAD STROKES, RELEASES, ANTICIPATIONS, FUNK COMPING, AND FULL-SONG CAPSTONE
+
+PURPOSE
+Turn the chord, triad, CAGED, progression, and seventh-chord vocabulary from Levels 49-57 into complete rhythm-guitar performance. Maintain a continuous 1-e-&-a right-hand path while deciding whether each stroke produces pitch, a dead contact, a tie, a pressure release, or no contact.
+
+SYMBOLS
+P = pitched chord attack
+x = dead / muted strum
+- = air stroke; no string contact
+~ = tie or sustain; no new attack
+R = left-hand pressure release
+> = accent the following contact
+
+RIGHT-HAND GRID
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+
+REFERENCE VOICINGS
+G     3 2 0 0 0 3
+D     x x 0 2 3 2
+Em    0 2 2 0 0 0
+C     x 3 2 0 1 0
+A     x 0 2 2 2 0
+E     0 2 2 1 0 0
+Am    x 0 2 2 1 0
+Dm    x x 0 2 3 1
+E7    0 2 0 1 0 0
+Dm7      x 5 x 5 6 x
+G7       3 x 3 4 x x
+Cmaj7    x 3 x 4 5 x
+Bm7b5    x 2 3 2 3 x
+Am7      5 x 5 5 x x
+A7       5 x 5 6 x x
+D7       x 5 x 5 7 x
+E7-shell x 7 x 7 9 x
+
+COMPLETE NOTATED WORKLOAD: 1018 string contacts plus continuous silent air strokes.
+
+========================================================================================================================
+MODULE A - FIFTEEN ONE-BEAT ATTACK MASKS
+========================================================================================================================
+A1. Beat only
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|P---|P---|P---|
+Repeat the one-beat mask on all four beats.
+Contacts: 4
+
+A2. e only
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|-P--|-P--|-P--|-P--|
+Repeat the one-beat mask on all four beats.
+Contacts: 4
+
+A3. & only
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|--P-|--P-|--P-|--P-|
+Repeat the one-beat mask on all four beats.
+Contacts: 4
+
+A4. a only
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|---P|---P|---P|---P|
+Repeat the one-beat mask on all four beats.
+Contacts: 4
+
+A5. 1 + e
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|PP--|PP--|PP--|PP--|
+Repeat the one-beat mask on all four beats.
+Contacts: 8
+
+A6. 1 + &
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-P-|P-P-|P-P-|P-P-|
+Repeat the one-beat mask on all four beats.
+Contacts: 8
+
+A7. 1 + a
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P--P|P--P|P--P|P--P|
+Repeat the one-beat mask on all four beats.
+Contacts: 8
+
+A8. e + &
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|-PP-|-PP-|-PP-|-PP-|
+Repeat the one-beat mask on all four beats.
+Contacts: 8
+
+A9. e + a
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|-P-P|-P-P|-P-P|-P-P|
+Repeat the one-beat mask on all four beats.
+Contacts: 8
+
+A10. & + a
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|--PP|--PP|--PP|--PP|
+Repeat the one-beat mask on all four beats.
+Contacts: 8
+
+A11. 1 e &
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|PPP-|PPP-|PPP-|PPP-|
+Repeat the one-beat mask on all four beats.
+Contacts: 12
+
+A12. 1 e a
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|PP-P|PP-P|PP-P|PP-P|
+Repeat the one-beat mask on all four beats.
+Contacts: 12
+
+A13. 1 & a
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-PP|P-PP|P-PP|P-PP|
+Repeat the one-beat mask on all four beats.
+Contacts: 12
+
+A14. e & a
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|-PPP|-PPP|-PPP|-PPP|
+Repeat the one-beat mask on all four beats.
+Contacts: 12
+
+A15. all four
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|PPPP|PPPP|PPPP|PPPP|
+Repeat the one-beat mask on all four beats.
+Contacts: 16
+
+
+========================================================================================================================
+MODULE B - DEAD-STROKE AND GHOST-CONTACT PATTERNS
+========================================================================================================================
+B1. Alternating chord / ghost
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-x-|
+P = pitched partial chord; x = left-hand-muted contact.
+Contacts: 8
+
+B2. Late double ghosts
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-xx|P-xx|P-xx|P-xx|
+P = pitched partial chord; x = left-hand-muted contact.
+Contacts: 12
+
+B3. Early double ghosts
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|Pxx-|Pxx-|Pxx-|Pxx-|
+P = pitched partial chord; x = left-hand-muted contact.
+Contacts: 12
+
+B4. Continuous contact
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|PxPx|PxPx|PxPx|PxPx|
+P = pitched partial chord; x = left-hand-muted contact.
+Contacts: 16
+
+B5. Quarter chord / dead response
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|x---|P---|x---|
+P = pitched partial chord; x = left-hand-muted contact.
+Contacts: 4
+
+B6. Crossing ghost pattern
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|-xP-|P-x-|-xP-|
+P = pitched partial chord; x = left-hand-muted contact.
+Contacts: 8
+
+B7. Late ghost / offbeat chord
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P--x|x-P-|P--x|x-P-|
+P = pitched partial chord; x = left-hand-muted contact.
+Contacts: 8
+
+B8. Chord plus three ghosts
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|Pxxx|Pxxx|Pxxx|Pxxx|
+P = pitched partial chord; x = left-hand-muted contact.
+Contacts: 16
+
+
+========================================================================================================================
+MODULE C - PRESSURE RELEASES AND TIES
+========================================================================================================================
+C1. Quarter-note stabs
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|P---|P---|P---|
+Lft|-R--|-R--|-R--|-R--|
+Contacts: 4
+
+C2. Offbeat stabs
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|--P-|--P-|--P-|--P-|
+Lft|---R|---R|---R|---R|
+Contacts: 4
+
+C3. Eighth-note clips
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-P-|P-P-|P-P-|P-P-|
+Lft|-R-R|-R-R|-R-R|-R-R|
+Contacts: 8
+
+C4. Tie through beat 3
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|--P~|~~~~|P---|
+Lft|----|----|----|----|
+Contacts: 3
+
+C5. Tie across barline
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|----|----|----|--P~||~~~~|P---|----|----|
+Lft|----|----|----|----||----|----|----|----|
+Contacts: 2
+
+C6. Anticipated chord tied over bar 1
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P---|P---|P---|--P~||~~~~|P---|P---|P---|
+Lft|----|----|----|----||----|----|----|----|
+Contacts: 7
+
+C7. Late sixteenth stabs
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|---P|--P-|---P|--P-|
+Lft|----|----|----|----|
+Contacts: 4
+
+C8. Chord / release / ghost
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|Px--|Px--|Px--|Px--|
+Lft|-R--|-R--|-R--|-R--|
+Contacts: 8
+
+
+========================================================================================================================
+MODULE D - SYNCOPATION AND DISPLACED ACCENTS
+========================================================================================================================
+D1. Charleston sixteenth
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P--P|--P-|P--P|--P-|
+First accent the first contact; next accent the final contact without moving any attack.
+Contacts: 6
+
+D2. Delayed answer
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|-P-P|--P-|P--P|
+First accent the first contact; next accent the final contact without moving any attack.
+Contacts: 6
+
+D3. Offbeat staircase
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|--P-|P--P|-P--|--P-|
+First accent the first contact; next accent the final contact without moving any attack.
+Contacts: 5
+
+D4. Split backbeat
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-P-|--P-|P--P|-P--|
+First accent the first contact; next accent the final contact without moving any attack.
+Contacts: 6
+
+D5. a-to-one anticipation
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|---P|P---|--P-|---P|
+First accent the first contact; next accent the final contact without moving any attack.
+Contacts: 4
+
+D6. Front / back contrast
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P--P|P---|-P-P|--P-|
+First accent the first contact; next accent the final contact without moving any attack.
+Contacts: 6
+
+D7. Syncopated pair map
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-P-|-P--|--P-|P-P-|
+First accent the first contact; next accent the final contact without moving any attack.
+Contacts: 6
+
+D8. Sparse displacement
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|--P-|-P--|---P|
+First accent the first contact; next accent the final contact without moving any attack.
+Contacts: 4
+
+
+========================================================================================================================
+MODULE E - ANTICIPATED CHORD CHANGES
+========================================================================================================================
+G -> D
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~||~~~~|P-x-|P-x-|P-x-|
+Chd|G                   ||D                   |
+Contacts: 14
+
+D -> Em
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~||~~~~|P-x-|P-x-|P-x-|
+Chd|D                   ||Em                  |
+Contacts: 14
+
+Em -> C
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~||~~~~|P-x-|P-x-|P-x-|
+Chd|Em                  ||C                   |
+Contacts: 14
+
+C -> G
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~||~~~~|P-x-|P-x-|P-x-|
+Chd|C                   ||G                   |
+Contacts: 14
+
+Am -> C
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~||~~~~|P-x-|P-x-|P-x-|
+Chd|Am                  ||C                   |
+Contacts: 14
+
+C -> D
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~||~~~~|P-x-|P-x-|P-x-|
+Chd|C                   ||D                   |
+Contacts: 14
+
+D -> G
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~||~~~~|P-x-|P-x-|P-x-|
+Chd|D                   ||G                   |
+Contacts: 14
+
+E7 -> Am
+Cnt|1e&a|2e&a|3e&a|4e&a||1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU||DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~||~~~~|P-x-|P-x-|P-x-|
+Chd|E7                  ||Am                  |
+Contacts: 14
+
+E9. New chord on 4 &
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-P~|
+Use the same progression and move only the chord-change location.
+Contacts: 8
+
+E10. New chord on 4 a
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P--P|
+Use the same progression and move only the chord-change location.
+Contacts: 8
+
+E11. Mid-bar change on 2 &
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-P~|~~~~|P-x-|
+Use the same progression and move only the chord-change location.
+Contacts: 6
+
+E12. Mid-bar change on 3 a
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P--P|P-x-|
+Use the same progression and move only the chord-change location.
+Contacts: 8
+
+
+========================================================================================================================
+MODULE F - FUNK-STYLE COMPING PATTERNS
+========================================================================================================================
+F1. Sixteenth chord/ghost engine
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|PxPx|PxPx|PxPx|PxPx|
+upper triad; light left-hand release
+Contacts: 16
+
+F2. Chord on downbeat and &
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-x-|
+short voicing; dead backfill
+Contacts: 8
+
+F3. Chord plus three ghosts
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|Pxxx|Pxxx|Pxxx|Pxxx|
+one pitched contact, three muted contacts
+Contacts: 16
+
+F4. Late chord after ghost
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|--Px|--Px|--Px|--Px|
+ghost prepares the final sixteenth
+Contacts: 8
+
+F5. Call / response chops
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P--x|x-P-|P--x|x-P-|
+alternate low and high voicings
+Contacts: 8
+
+F6. Bass pulse plus chord stab
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|Px-x|P-xP|Px-x|P-xP|
+low-string pulse; upper-chord answers
+Contacts: 12
+
+
+========================================================================================================================
+MODULE G - FOUR-BAR PROGRESSION COMPING
+========================================================================================================================
+G1. Open pop loop
+Progression: | G | D | Em | C |
+Voicing: open chords
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-x-|
+Workload: 4 bars x 8 = 32 contacts
+
+G2. Major I-IV-V-I
+Progression: | A | D | E | A |
+Voicing: open or movable chords
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P--x|--P-|P--x|--P-|
+Workload: 4 bars x 6 = 24 contacts
+
+G3. Minor i-iv-V7-i
+Progression: | Am | Dm | E7 | Am |
+Voicing: open minor cadence
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-P-|-xP-|P-P-|-xP-|
+Workload: 4 bars x 8 = 32 contacts
+
+G4. Major ii-V-I
+Progression: | Dm7 | G7 | Cmaj7 | Cmaj7 |
+Voicing: Level-57 shells
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|PxPx|P-x-|PxPx|P-x-|
+Workload: 4 bars x 12 = 48 contacts
+
+G5. Minor iiø-V-i
+Progression: | Bm7b5 | E7 | Am7 | Am7 |
+Voicing: full iiø, then shells
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|x-P-|P--x|--P-|
+Workload: 4 bars x 6 = 24 contacts
+
+G6. A-blues shells
+Progression: | A7 | D7 | E7 | A7 |
+Voicing: root-inclusive shells
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|--P-|P--x|x-P-|
+Workload: 4 bars x 7 = 28 contacts
+
+
+========================================================================================================================
+MODULE H - TEXTURE, REGISTER, AND DYNAMICS
+========================================================================================================================
+H1. Palm-muted verse -> open chorus
+Progression: | G | D | Em | C |
+bars 1-2 palm muted; bars 3-4 open
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-x-|
+32 contacts
+
+H2. Low chords -> upper triads
+Progression: | G | D | Em | C |
+bars 1-2 open chords; bars 3-4 G-B-e triads
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P--x|--P-|P--x|--P-|
+32 contacts
+
+H3. Dynamic staircase
+Progression: | Am | C | G | Em |
+p -> mp -> mf -> f without changing pick depth
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-P-|-xP-|P-P-|-xP-|
+32 contacts
+
+H4. Bass/chord separation
+Progression: | A | D | E | A |
+low root on beat; upper chord on offbeats
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|--P-|P--x|x-P-|
+32 contacts
+
+
+========================================================================================================================
+MODULE I - THIRTY-TWO-BAR FULL-SONG CAPSTONE
+========================================================================================================================
+INTRO - bars 1-4
+Progression: | G | D | Em | C |
+Texture: sustained open texture
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|--P-|P---|--P-|
+Contacts: 16
+
+VERSE A - bars 5-12
+Progression: | G | D | Em | C | G | D | C | D |
+Texture: palm-muted 16th groove
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-x-|P-x-|P-x-|P-x-|
+Contacts: 64
+
+PRE-CHORUS - bars 13-16
+Progression: | Am | C | D | D |
+Texture: increase register and dynamics
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P--x|--P-|P--x|--P-|
+Contacts: 24
+
+CHORUS - bars 17-24
+Progression: | G | C | Em | D | G | C | D | D |
+Texture: open, accented, full attack zone
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-P-|-xP-|P-P-|-xP-|
+Contacts: 64
+
+BRIDGE - bars 25-28
+Progression: | Em | C | G | D |
+Texture: half-time stop-time contrast
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P---|x---|P---|x---|
+Contacts: 16
+
+OUTRO - bars 29-31
+Progression: | G | D | C |
+Texture: return to full groove
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P-P-|P-P-|P-P-|P-P-|
+Contacts: 24
+
+FINAL G - bars 32-32
+Progression: | G |
+Texture: one final attack; sustain
+Cnt|1e&a|2e&a|3e&a|4e&a|
+Hnd|DUDU|DUDU|DUDU|DUDU|
+Snd|P~~~|~~~~|~~~~|~~~~|
+Contacts: 1
+
+PERFORMANCE PASSES
+1. Air-strum and speak every section and chord.
+2. Muted strings only.
+3. Chords with no dynamic changes.
+4. Full arrangement with muting, register, and dynamics.
+5. Record one uninterrupted take.
+
+
+========================================================================================================================
+PRACTICE PROGRESSION AND MASTERY
+========================================================================================================================
+1. Fifteen attack masks
+2. Eight dead-stroke patterns
+3. Release and tie cells
+4. Eight syncopation patterns
+5. Anticipated changes
+6. Six funk grooves
+7. Six progression studies
+8. Four texture studies
+9. Full-song section blocks
+10. One uninterrupted capstone
+
+MASTERY GATE
+- 1-e-&-a motion never stops
+- P / x / - / ~ are distinct
+- dead strokes contain no pitch
+- ties survive barlines
+- eight anticipations land early
+- six funk patterns stay relaxed
+- progressions keep attack zones
+- section textures remain distinct
+- 32-bar form is memorized
+- two clean recorded days
+
+SECTION VI COMPLETION
+Form and change open, barre, triad, CAGED, seventh-chord, and shell voicings; analyze and transpose major/minor harmony; comp functional progressions; execute the sixteenth-note rhythm vocabulary; and perform the full-song capstone on two separate days.
+
+NEXT SECTION
+Section VII begins triad and seventh-chord arpeggios, alternate/economy/sweep mechanics, arpeggio-to-scale connections, and chord-tone soloing.

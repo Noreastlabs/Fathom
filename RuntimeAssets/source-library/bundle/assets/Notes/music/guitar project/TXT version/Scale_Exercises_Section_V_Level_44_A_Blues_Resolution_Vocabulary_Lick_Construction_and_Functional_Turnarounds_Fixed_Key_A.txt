@@ -1,0 +1,660 @@
+SCALE EXERCISES - SECTION V, LEVEL 44
+A BLUES RESOLUTION VOCABULARY, LICK CONSTRUCTION, AND FUNCTIONAL TURNAROUNDS - FIXED KEY A
+
+PURPOSE
+Turn the Level 43 blue-note map into a compact, transformable blues vocabulary. Train three primary
+resolution gestures, apply them to one-bar rhythm families and two-bar conversations, translate the
+same ideas through all five positions, distinguish tonic endings from turnaround endings, and build
+functional bar-11/bar-12 lines that point toward E7 or close on A.
+
+CORE PITCH POOL
+A blues scale: A C D Eb E G
+Degrees:       1 b3 4 b5 5 b7
+
+MARKED SUPPORT NOTES
+C# = 3*       Major-third destination for the blue-third gesture over A or A7.
+F# = 6*       Chromatic or chord-aware passing note in selected turnarounds.
+F  = b6*      Lower chromatic approach to E in selected turnarounds.
+B  = 2*/E7-5 Fifth of E7 when a phrase points toward the V chord.
+G# = 7*/E7-3 Third of E7 in the written E7 arpeggio.
+An asterisk means the pitch is not being added to the six-note A-blues scale. It has a specific job.
+
+PRIMARY RESOLUTION VOCABULARY
+1. BLUE THIRD:     b3 -> 3* or b3 -> 3* -> b3
+2. FLAT FIVE:      4-b5-5 and 5-b5-4
+3. TONIC CADENCE:  b7 -> 1
+
+==============================================================================================================================
+MODULE A - BLUE-THIRD MOTION
+==============================================================================================================================
+For every site: play C# first, then match it with a C bend; add slide and hammer/pull versions.
+Low E: C fret 8 -> C# fret 9
+TGT E|--9~~~~--|
+BND E|--8b(9)r8--|
+SLD E|--8/9--|
+LEG E|--8h9p8--|
+Degrees: b3 -> 3* -> b3
+A: C fret 15 -> C# fret 16
+TGT A|--16~~~~--|
+BND A|--15b(16)r15--|
+SLD A|--15/16--|
+LEG A|--15h16p15--|
+Degrees: b3 -> 3* -> b3
+D: C fret 10 -> C# fret 11
+TGT D|--11~~~~--|
+BND D|--10b(11)r10--|
+SLD D|--10/11--|
+LEG D|--10h11p10--|
+Degrees: b3 -> 3* -> b3
+G: C fret 5 -> C# fret 6
+TGT G|--6~~~~--|
+BND G|--5b(6)r5--|
+SLD G|--5/6--|
+LEG G|--5h6p5--|
+Degrees: b3 -> 3* -> b3
+B: C fret 13 -> C# fret 14
+TGT B|--14~~~~--|
+BND B|--13b(14)r13--|
+SLD B|--13/14--|
+LEG B|--13h14p13--|
+Degrees: b3 -> 3* -> b3
+High e: C fret 8 -> C# fret 9
+TGT e|--9~~~~--|
+BND e|--8b(9)r8--|
+SLD e|--8/9--|
+LEG e|--8h9p8--|
+Degrees: b3 -> 3* -> b3
+
+==============================================================================================================================
+MODULE B - FLAT-FIVE RESOLUTION CELLS
+==============================================================================================================================
+Low E: E|10--11--12--|12--11--10--|
+Degrees: 4-b5-5 | 5-b5-4
+Passes: picked triplet; one-pick slide chain; accent b5; then equalize all notes.
+A: A|5--6--7--|7--6--5--|
+Degrees: 4-b5-5 | 5-b5-4
+Passes: picked triplet; one-pick slide chain; accent b5; then equalize all notes.
+D: D|12--13--14--|14--13--12--|
+Degrees: 4-b5-5 | 5-b5-4
+Passes: picked triplet; one-pick slide chain; accent b5; then equalize all notes.
+G: G|7--8--9--|9--8--7--|
+Degrees: 4-b5-5 | 5-b5-4
+Passes: picked triplet; one-pick slide chain; accent b5; then equalize all notes.
+B: B|15--16--17--|17--16--15--|
+Degrees: 4-b5-5 | 5-b5-4
+Passes: picked triplet; one-pick slide chain; accent b5; then equalize all notes.
+High e: e|10--11--12--|12--11--10--|
+Degrees: 4-b5-5 | 5-b5-4
+Passes: picked triplet; one-pick slide chain; accent b5; then equalize all notes.
+
+==============================================================================================================================
+MODULE C - FLAT-SEVENTH TO TONIC
+==============================================================================================================================
+Low E: G fret 15 -> A fret 17
+PCK E|--15--17--|
+SLD E|--15/17--|
+LEG E|--15h17--|
+SFT E|--15----17--|
+Degrees: b7 -> 1
+A: G fret 10 -> A fret 12
+PCK A|--10--12--|
+SLD A|--10/12--|
+LEG A|--10h12--|
+SFT A|--10----12--|
+Degrees: b7 -> 1
+D: G fret 5 -> A fret 7
+PCK D|--5--7--|
+SLD D|--5/7--|
+LEG D|--5h7--|
+SFT D|--5----7--|
+Degrees: b7 -> 1
+G: G fret 12 -> A fret 14
+PCK G|--12--14--|
+SLD G|--12/14--|
+LEG G|--12h14--|
+BND G|--12b(14)--|
+Degrees: b7 -> 1
+B: G fret 8 -> A fret 10
+PCK B|--8--10--|
+SLD B|--8/10--|
+LEG B|--8h10--|
+BND B|--8b(10)--|
+Degrees: b7 -> 1
+High e: G fret 15 -> A fret 17
+PCK e|--15--17--|
+SLD e|--15/17--|
+LEG e|--15h17--|
+BND e|--15b(17)--|
+Degrees: b7 -> 1
+
+==============================================================================================================================
+MODULE D - FIVE ONE-BAR LICK FAMILIES
+==============================================================================================================================
+Apply all four rhythm templates to every eight-tone family.
+A. STRAIGHT EIGHTHS: 1 & 2 & 3 & 4 &
+  X X X X X X X X
+  Eight equal attacks or sounding events.
+B. SHUFFLE PAIRS: 1-trip-let 2-trip-let 3-trip-let 4-trip-let
+  X - X | X - X | X - X | X - X
+  Place each pair on the outer triplet subdivisions.
+C. SYNCOPATED SIXTEENTHS: 1 e & a 2 e & a 3 e & a 4 e & a
+  - X - X | X - X - | - X - X | X - X -
+  Preserve the rests; do not fill the empty slots.
+D. BURST + SPACE: beat 1 | beat 2 | beat 3 | beat 4
+  3-note burst | rest | 3-note burst | 2 notes
+  Keep the final pair relaxed after the silent second beat.
+
+FAMILY 1 - BLUE-THIRD CLOSURE
+e|-----------------------------5~~~~--|
+B|--------------------5--8-------------|
+G|--5b(6)r5--7--5---------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+Notes:   C-C#-C-D-C-E-G-A
+Degrees: b3-3*-b3-4-b3-5-b7-1
+Focus:   Calibrate the C# target first. The final A must sound more settled than the bent C#.
+
+FAMILY 2 - FLAT-FIVE RESOLUTION
+e|--8--10--11--12--10--8-------------|
+B|-------------------------8--10~~~~--|
+G|------------------------------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+Notes:   C-D-Eb-E-D-C-G-A
+Degrees: b3-4-b5-5-4-b3-b7-1
+Focus:   Eb passes in both directions. Do not let the chromatic pair accelerate.
+
+FAMILY 3 - FLAT-SEVENTH TO TONIC
+e|-------------------------------------|
+B|-------------------------------------|
+G|--9--12--14--17--14--12--9--14~~~~--|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+Notes:   E-G-A-C-A-G-E-A
+Degrees: 5-b7-1-b3-1-b7-5-1
+Focus:   Use silent hand relocations between stations; the long string lane must not sound like an exercise.
+
+FAMILY 4 - DESCENDING BLUE-NOTE ANSWER
+e|--17--15--12--11--10--8-------------|
+B|-------------------------8--10~~~~--|
+G|------------------------------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+Notes:   A-G-E-Eb-D-C-G-A
+Degrees: 1-b7-5-b5-4-b3-b7-1
+Focus:   The answer begins closed on A, opens into tension, then returns to A through G.
+
+FAMILY 5 - TURNAROUND SEED
+e|----------------------15--14--13--12~~~~--|
+B|--10--13--14--17--------------------------|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+Notes:   A-C-C#-E-G-F#-F-E
+Degrees: 1-b3-3*-5-b7-6*-b6*-5
+Focus:   C#, F#, and F are marked support notes. The line points toward E rather than closing on A.
+
+==============================================================================================================================
+MODULE E - TWO-BAR CALL AND RESPONSE
+==============================================================================================================================
+P1 CALL - END ON 4
+e|--------------------------|
+B|-------------5--8---------|
+G|--5--7--8-----------7~~~~--|
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+Degrees: b3-4-b5-5-b7-4
+Focus: Leave the phrase suspended on D.
+P1 ANSWER - RESOLVE TO 1
+e|--8--5--------------------|
+B|--------8--5--------------|
+G|--------------7--5--------|
+D|--------------------7~~~~--|
+A|--------------------------|
+E|--------------------------|
+Degrees: b3-1-b7-5-4-b3-1
+Focus: Reuse the descending contour and finish on A.
+
+P2 CALL - CHROMATIC QUESTION
+e|--8--10--11--12--10~~~~--|
+B|-------------------------|
+G|-------------------------|
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|
+Degrees: b3-4-b5-5-4
+Focus: The final D asks for a lower answer.
+P2 ANSWER - ROOT THROUGH b7
+e|--------------------------|
+B|--10--8-------------------|
+G|---------9--7-------------|
+D|---------------10--7~~~~--|
+A|--------------------------|
+E|--------------------------|
+Degrees: 1-b7-5-4-b3-1
+Focus: The answer compresses the same note pool toward A.
+
+P3 CALL - END ON b7
+e|---------------------|
+B|--10--13-----------|
+G|---------12--9--12~~~~|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+Degrees: 1-b3-b7-5-b7
+Focus: The final G remains open.
+P3 ANSWER - FOUR-NOTE CLOSURE
+e|--12--10-------------|
+B|---------13--10~~~~--|
+G|--------------------|
+D|--------------------|
+A|--------------------|
+E|--------------------|
+Degrees: 5-4-b3-1
+Focus: Answer with less material than the call.
+
+P4 CALL - EXPOSE b5
+e|--12--15--12----------------|
+B|-------------13--15--16~~~~--|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+Degrees: 5-b7-5-b3-4-b5
+Focus: Sustain Eb deliberately.
+P4 ANSWER - RELEASE TO A
+e|--------------------------|
+B|--17--15--13-------------|
+G|------------14--12--14~~~~|
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+Degrees: 5-4-b3-1-b7-1
+Focus: The answer removes the chromatic tension.
+
+P5 CALL - HIGH b5 QUESTION
+e|--15--17--15----------------|
+B|-------------17--16--15~~~~--|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+Degrees: b7-1-b7-5-b5-4
+Focus: The call falls away from the tonic.
+P5 ANSWER - DESCEND TO A
+e|--17--15------------------|
+B|---------17--15-------------|
+G|---------------17--14~~~~--|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+Degrees: 1-b7-5-4-b3-1
+Focus: Keep the register high but close on A.
+
+==============================================================================================================================
+MODULE F - FIVE-POSITION VOCABULARY TRANSLATION
+==============================================================================================================================
+CORE LICK A: b3-4-b5-5-b7-1
+P1 - ROOT FRAME
+e|---------------------|
+B|--------------8--10~~|
+G|--5--7--8--9---------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+Notes: C-D-Eb-E-G-A
+
+P2 - FLAT-THIRD FRAME
+e|---------------------|
+B|---------------------|
+G|---------------------|
+D|---------------------|
+A|--------------10--12~~|
+E|--8--10--11--12------|
+Notes: C-D-Eb-E-G-A
+
+P3 - FOURTH-DEGREE FRAME
+e|------------------------------|
+B|------------------------------|
+G|---------------------12---14~~|
+D|-10---12---13---14------------|
+A|------------------------------|
+E|------------------------------|
+Notes: C-D-Eb-E-G-A
+
+P4 - FIFTH-DEGREE FRAME
+e|---------------------15---17~~|
+B|-13---15---16---17------------|
+G|------------------------------|
+D|------------------------------|
+A|------------------------------|
+E|------------------------------|
+Notes: C-D-Eb-E-G-A
+
+P5 - FLAT-SEVENTH FRAME
+e|------------------------------|
+B|------------------------------|
+G|------------------------------|
+D|---------------------17---19~~|
+A|-15---17---18---19------------|
+E|------------------------------|
+Notes: C-D-Eb-E-G-A
+
+CORE LICK B: 1-b7-5-b5-4-b3-1
+P1 - ROOT FRAME
+e|--5------------------|
+B|----8--5-------------|
+G|---------8--7--5-----|
+D|-----------------7~~~|
+A|---------------------|
+E|---------------------|
+Notes: A-G-E-Eb-D-C-A
+
+P2 - FLAT-THIRD FRAME
+e|---------------------|
+B|--10--8--------------|
+G|--------9--8--7------|
+D|----------------10--7~~~|
+A|---------------------|
+E|---------------------|
+Notes: A-G-E-Eb-D-C-A
+
+P3 - FOURTH-DEGREE FRAME
+e|---------------------|
+B|--10-----------------|
+G|-----12--9-----------|
+D|-----------13--12--10|
+A|--------------------12~~~|
+E|---------------------|
+Notes: A-G-E-Eb-D-C-A
+
+P4 - FIFTH-DEGREE FRAME
+e|-----------------------------------|
+B|--------------------------13-------|
+G|-14---12---------------------------|
+D|-----------14---13---12------------|
+A|-------------------------------12~~|
+E|-----------------------------------|
+Notes: A-G-E-Eb-D-C-A
+
+P5 - FLAT-SEVENTH FRAME
+e|--17--15-------------|
+B|--------17--16--15---|
+G|------------------17--14~~~|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+Notes: A-G-E-Eb-D-C-A
+
+==============================================================================================================================
+MODULE G - HIGH-REGISTER AND LOW-REGISTER ANSWERS
+==============================================================================================================================
+LOW CALL
+e|-------------------|
+B|-------------------|
+G|-------------------|
+D|-------------------|
+A|------5--6--7--10~~~|
+E|--5--8-------------|
+Degrees: 1-b3-4-b5-5-b7
+HIGH ANSWER
+e|--8--10--11--12------|
+B|----------------8--10~~~|
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-----------------------|
+Degrees: b3-4-b5-5-b7-1
+
+HIGH CALL
+e|--17--15--12--11--10--8~~~|
+B|--------------------------|
+G|--------------------------|
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+Degrees: 1-b7-5-b5-4-b3
+LOW ANSWER
+e|------------------------|
+B|------------------------|
+G|------------------------|
+D|------------------------|
+A|------------------------|
+E|--8--10--11--12--15--17~~~|
+Degrees: b3-4-b5-5-b7-1
+
+MID CALL - COMPLETE OCTAVE
+e|-----------------------------------|
+B|-----------------------------------|
+G|--------------------------12---14~~|
+D|--7---10---12---13---14------------|
+A|-----------------------------------|
+E|-----------------------------------|
+Degrees: 1-b3-4-b5-5-b7-1
+UPPER ANSWER - SAME DEGREES
+e|--------------------------15---17~~|
+B|-10---13---15---16---17------------|
+G|-----------------------------------|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+Degrees: 1-b3-4-b5-5-b7-1
+
+HIGH CALL - ASCENDING
+e|--8--10--11--12--15--17~~~~--|
+B|----------------------------|
+G|----------------------------|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+Degrees: b3-4-b5-5-b7-1
+LOW CONTRAST ANSWER
+e|---------------------------|
+B|---------------------------|
+G|---------------------------|
+D|--5--7---------------------|
+A|------7--6--5--------------|
+E|---------------8--5~~~~----|
+Degrees: b7-1-5-b5-4-b3-1
+
+==============================================================================================================================
+MODULE H - TONIC ENDINGS VERSUS TURNAROUND ENDINGS
+==============================================================================================================================
+The opening material is nearly identical. The final landing decides whether the chorus closes on A or
+continues toward E/E7.
+P1 TONIC ENDING
+e|-----------------------|
+B|-----------------------|
+G|--5--7--8--9--7--5-----|
+D|-------------------7~~~|
+A|-----------------------|
+E|-----------------------|
+Degrees: b3-4-b5-5-4-b3-1
+P1 TURNAROUND ENDING
+e|-----------------------|
+B|-----------------------|
+G|--5--7--8--9--7--5-----|
+D|-----------------------|
+A|-------------------7~~~|
+E|-----------------------|
+Degrees: b3-4-b5-5-4-b3-5
+
+P2 TONIC ENDING
+e|--8--10--11--12--10--8------|
+B|-----------------------10~~~|
+G|----------------------------|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+Degrees: b3-4-b5-5-4-b3-1
+P2 TURNAROUND ENDING
+e|--8--10--11--12--10--8------|
+B|----------------------------|
+G|------------------------9~~~|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+Degrees: b3-4-b5-5-4-b3-5
+
+P3 TONIC ENDING
+e|-----------------------------------|
+B|-------------------------------10~~|
+G|-----------------------------------|
+D|-10---12---13---14---12---10-------|
+A|-----------------------------------|
+E|-----------------------------------|
+Degrees: b3-4-b5-5-4-b3-1
+P3 TURNAROUND ENDING
+e|-----------------------------------|
+B|-----------------------------------|
+G|--------------------------------9~~|
+D|-10---12---13---14---12---10-------|
+A|-----------------------------------|
+E|-----------------------------------|
+Degrees: b3-4-b5-5-4-b3-5
+
+P4 TONIC ENDING
+e|----------------------------|
+B|--13--15--16--17--15--13----|
+G|----------------------------|
+D|----------------------------|
+A|------------------------12~~~|
+E|----------------------------|
+Degrees: b3-4-b5-5-4-b3-1
+P4 TURNAROUND ENDING
+e|----------------------------|
+B|--13--15--16--17--15--13----|
+G|----------------------------|
+D|------------------------14~~~|
+A|----------------------------|
+E|----------------------------|
+Degrees: b3-4-b5-5-4-b3-5
+
+P5 TONIC ENDING
+e|--15--17--15----------------|
+B|------------17--16--15------|
+G|-----------------------14~~~|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+Degrees: b7-1-b7-5-b5-4-1
+P5 TURNAROUND ENDING
+e|--15--17--15----------------|
+B|------------17--16--15--17~~~|
+G|----------------------------|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+Degrees: b7-1-b7-5-b5-4-5
+
+==============================================================================================================================
+MODULE I - FUNCTIONAL TURNAROUNDS
+==============================================================================================================================
+1. SINGLE-NOTE DESCENT INTO E7
+e|-----------------------------------------12~~|
+B|------------------------------------12-------|
+G|-14---12---11---10----9--------13------------|
+D|--------------------------12-----------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+Notes:   A-G-F#-F-E-D-G#-B-E
+Degrees: 1-b7-6*-b6*-5 | E7:b7-3-5-1
+Focus:   Bar 11 uses blues and chromatic support tones; bar 12 spells E7 upward.
+
+2. BLUE THIRD INTO CHROMATIC V APPROACH
+e|----------------------15--14--13--12~~~~--|
+B|--10--13--14--17--------------------------|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+Notes:   A-C-C#-E-G-F#-F-E
+Degrees: 1-b3-3*-5-b7-6*-b6*-5
+Focus:   Move from minor color to the A7 third, then descend to E.
+
+3. CLASSIC DESCENDING VOICE-LEADING SHAPES
+e|-------------------------------|
+B|--5----5----5----5----5--------|
+G|--6----5----4----3----7--------|
+D|--7----6----5----4----6--------|
+A|----------------------7--------|
+E|-------------------------------|
+Notes:   A/C#/E -> chromatic inner voices -> E7
+Degrees: BAR 11: four descending three-note shapes | BAR 12: E7
+Focus:   Let the upper E remain common while the inner voices fall.
+
+4. HIGH BEND, BLUE THIRD, AND B LANDING
+e|--15b(17)r15--12--------------------------|
+B|------------------15--13h14--12~~~~--------|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+Notes:   G-A-G-E-D-C-C#-B
+Degrees: b7-1-b7-5-4-b3-3*-2*/E7-5
+Focus:   The final B is not home in A; it points into E7.
+
+==============================================================================================================================
+MODULE J - LICK RECOMBINATION LAB
+==============================================================================================================================
+OPENINGS
+A: b3-4-b5-5 | C-D-Eb-E | G|--5--7--8--9--|
+B: 1-b3-4-b5 | A-C-D-Eb | e|--5--8--10--11--|
+C: 5-b7-1-b3 | E-G-A-C | B|--5--8--10--13--|
+D: b7-5-b5-4 | G-E-Eb-D | e|--15--12--11--10--|
+ENDINGS
+1: 5-4-b3-1 | E-D-C-A | B|--5----------------| G|----7--5----------| D|----------7~~~~--|
+2: 5-b7-1-1 | E-G-A-A | B|--5--8--10--10~~~~--|
+3: b3-3*-5-1 | C-C#-E-A | G|--5b(6)----9------| D|--------------7~~~~|
+4: b7-6*-b6*-5 | G-F#-F-E | e|--15--14--13--12~~~~--|
+Play all 16 opening-plus-ending combinations. Four model combinations:
+A + 1: b3-4-b5-5 | 5-4-b3-1 - Resolve the flat-five opening directly to A.
+B + 3: 1-b3-4-b5 | b3-3*-5-1 - Answer blue-note tension with a blue-third resolution.
+C + 2: 5-b7-1-b3 | 5-b7-1-1 - Repeat the root idea while changing the route.
+D + 4: b7-5-b5-4 | b7-6*-b6*-5 - Turn a descending blues opening into a V-directed ending.
+
+==============================================================================================================================
+PRACTICE PROGRESSION
+==============================================================================================================================
+1. Calibrate all six blue-third targets before bending.
+2. Complete the six flat-five resolution sites as picked triplets.
+3. Complete all six b7-to-1 sites using picked, slide, and legato versions.
+4. Learn one eight-tone family and apply all four rhythm templates.
+5. Add the remaining four families without increasing tempo.
+6. Practice each call alone, each answer alone, then link the two bars.
+7. Translate both core licks through all five positions.
+8. Complete the four register conversations and five ending pairs.
+9. Learn one turnaround at a time over bars 11-12 of a backing track.
+10. Play all 16 recombination choices; keep only the combinations that sound intentional.
+
+ERROR DIAGNOSIS
+BLUE THIRD SHARP OR FLAT: replay the fretted C# target and reduce the bend width.
+b5 SOUNDS RANDOM: decide whether it passes, sustains, or begins a chromatic slide before playing.
+ROOT ARRIVES LATE: isolate the final G-to-A motion and remove the preceding notes.
+RHYTHM VARIANTS SOUND IDENTICAL: exaggerate the rests and accents, then normalize dynamics.
+CALL AND ANSWER UNRELATED: preserve one rhythmic fragment or contour from the call.
+POSITION TRANSLATION CHANGES DEGREES: name the notes before copying the phrase.
+TURNAROUND CLOSES TOO EARLY: finish on E, B, G#, or a written E7 shape rather than A.
+CHROMATIC SOUP: mark every starred support note and state its job aloud.
+PAIN OR EXCESS TENSION: stop bends, reduce the range, and return to picked versions.
+
+ADVANCEMENT RULES
+Add 2 BPM only after three clean repetitions of the current phrase and rhythm. After two pitch or rhythm
+errors, reduce 4-6 BPM or remove one phrase half. Expand the vocabulary only after the listener can hear
+whether a phrase closes on A or points toward E7.
+
+MASTERY GATE BEFORE LEVEL 45
+Play all six blue-third sites in tune; complete the flat-five and b7-to-1 maps; perform five lick families
+in four rhythmic forms; link five call-and-response pairs; translate two core licks through five positions;
+execute four register conversations, ten ending choices, four functional turnarounds, and all 16 recombination
+choices; then demonstrate one tonic close and one bar-12 turnaround on two separate days.
+
+NEXT LEVEL
+Level 45 isolates shuffle feel, triplet placement, rests, pickups, stop-time phrasing, twelve-bar navigation,
+and turnaround timing so the vocabulary remains inside the form.

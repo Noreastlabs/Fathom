@@ -1,0 +1,123 @@
+{
+  "schema": "manager.level015-r06.private-native-review-manifest.1",
+  "status": "PRIVATE_NATIVE_ACCEPT",
+  "self_excluded": "Results/manager-resume-r01/level015-r06-native-review-r01/artifact-manifest.json",
+  "entry_count": 23,
+  "entries": [
+    {
+      "path": "Prompts/manager-resume-r01/level015-r06-native-review-r01/full-template-prompt.md",
+      "bytes": 7354,
+      "sha256": "d2357727b50f6fb032cad913f433147030dea0234e6bec2f9db4a37c67a9a5e0"
+    },
+    {
+      "path": "Build/manager-resume-r01/level015-r06-native-review-r01/check_source.py",
+      "bytes": 10168,
+      "sha256": "3ead121d6bf5ca9a5f9099db3755358f2c070b040fa3dd202f22561462180168"
+    },
+    {
+      "path": "Build/manager-resume-r01/level015-r06-native-review-r01/pdf-page5-independent.txt",
+      "bytes": 5228,
+      "sha256": "e6a3f52a5527a3f71ab7c2f3af874a24691db6e9d0d1923a799e894ece3ec3f3"
+    },
+    {
+      "path": "Build/manager-resume-r01/level015-r06-native-review-r01/replay.py",
+      "bytes": 4315,
+      "sha256": "bf242e3525942f48d8efd9446c3b9bcba4d9f6bd3406978472569efa15c16138"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/evidence-audit.json",
+      "bytes": 1399,
+      "sha256": "80f56b7edd13034457db2c579b151c835cd39381b08c83672109ecbf21c9edbd"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/fret-report.json",
+      "bytes": 147219,
+      "sha256": "001ea77aa62a1e7d8b00a5d5b79aa339de8db61cd662e43d559d6bf40fe949dc"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/fret.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/fret.stdout.txt",
+      "bytes": 153,
+      "sha256": "65758d2f2dae87a509a3649cc26d26b42b4fabede60dcbd23fffaa50369b3180"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/identity-report.json",
+      "bytes": 7258,
+      "sha256": "dc0c0c46e9542502e807c34cf162952218332ce6dcf254a220b116ef783396a2"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/identity.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/identity.stdout.txt",
+      "bytes": 157,
+      "sha256": "10f17783517846f218dd281a01d9b0f75fe2440594b1584d27ab04bde1ec7721"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/onset-report.json",
+      "bytes": 147063,
+      "sha256": "5f5dc5d6eb12f3d222dc9800633ffedc8aa7aaded59c502053394479eac6221e"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/onset.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/onset.stdout.txt",
+      "bytes": 154,
+      "sha256": "1019e11f340a8c3e0d7e5e06a9e135664cebfcf7accc47d0480d85f28fe34ef5"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/positive-report.json",
+      "bytes": 146848,
+      "sha256": "a7430b806ce217369fd8716212fc79b95197786e033c128e3696f3a5a19f0269"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/positive.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/positive.stdout.txt",
+      "bytes": 193,
+      "sha256": "a91cb2b3474b81cc9526ac13bff5e8d2ead9e91c5929d1735dd833d81b379c6b"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/replay-summary.json",
+      "bytes": 3775,
+      "sha256": "ecb17079c8cba924a7462b41482d5335629b679a55e6a7d730793b3a909a3bb9"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/review-report.md",
+      "bytes": 4229,
+      "sha256": "08692d82eb39b5becb4a3c96d5d882e299281829c0c0c862efbe1b87cf144f99"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/source-check.json",
+      "bytes": 1866,
+      "sha256": "85b63dc92970f4676a6d9a2c10dc98cb32cc801944b580f44e4f54e80ea9eff6"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/source_ref-report.json",
+      "bytes": 7176,
+      "sha256": "fbf92f02c536d0beb32a631bcc89efd2853a52a2d5a5575eb5370f5e2e31c96a"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/source_ref.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r06-native-review-r01/source_ref.stdout.txt",
+      "bytes": 159,
+      "sha256": "07aade5d2f1ef5e0e8ac3cc0705035acdefa1da68a45de90e6a7017810d5780f"
+    }
+  ]
+}

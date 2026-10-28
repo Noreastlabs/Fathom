@@ -1,0 +1,14 @@
+{
+  "acoustic_gate": null,
+  "automatic_credit": false,
+  "availability": "none_supplied",
+  "resources": [],
+  "selected_case": "fg:item:000240",
+  "selected_pass": "second_even_volume_straight_sixteenths",
+  "selected_variants": [
+    "fg:variant:000827",
+    "fg:variant:000829"
+  ],
+  "source_profile_resource_plan": null,
+  "version": "level003-modeb001-installed-empty-resource-plan.1"
+}

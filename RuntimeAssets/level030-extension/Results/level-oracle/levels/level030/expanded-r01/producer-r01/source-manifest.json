@@ -1,0 +1,39 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 16384,
+      "bytes": 13342,
+      "kind": "file",
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_30_Major_Pentatonic_One_Octave_One_Fret_Neck_Ladder.txt",
+      "role": "original_txt",
+      "sha256": "98e748f4dc9626eb2e4ad63888e503ae5599ea88c01494ebb231d4baa30fc9c9"
+    },
+    {
+      "allocated_bytes": 20480,
+      "bytes": 19192,
+      "kind": "file",
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_30_Major_Pentatonic_One_Octave_One_Fret_Neck_Ladder.pdf",
+      "role": "original_pdf",
+      "sha256": "40a0ccb47e7fd9ec4c3f47653a309e05921505fdacabbe7646f19a2b687c8c7b"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4785,
+      "kind": "file",
+      "path": "Results/parallel-09/admission/20260923T183009Z-2.3.1.1.1-level030-unallocated-schema1-r02-results.md",
+      "role": "historical_schema_correction",
+      "sha256": "29041769f8437774b2d374039ec82d9772caf464f9433ba50bff6aaed44317e5"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2638,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level030/expanded-r01/producer-r01/source-oracle.md",
+      "role": "producer_source_decision",
+      "sha256": "a087b71c27fe6445944bb7669c7736cac886d65616b7016df471d3e100b26e43"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

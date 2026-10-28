@@ -1,0 +1,604 @@
+SCALE EXERCISES - SECTION V, LEVEL 46
+A7-D7-E7 CHORD-TONE TARGETING AND GUIDE-TONE VOICE LEADING - FIXED KEY A
+
+PURPOSE
+Make the twelve-bar A blues harmony audible through intentional chord-tone landings. Keep the A-blues vocabulary
+available for motion, but treat the root, third, fifth, and flat seventh of the active dominant chord as structural
+targets. Track the third and flat seventh as guide tones through the A7-D7-E7 form.
+
+DOMINANT CHORD TONES
+A7 = A C# E G      roles R 3 5 b7
+D7 = D F# A C      roles R 3 5 b7
+E7 = E G# B D      roles R 3 5 b7
+
+GUIDE-TONE SHELLS
+A7: C# + G    D7: F# + C    E7: G# + D
+A7 -> D7: C#->C and G->F#.
+D7 -> A7: C->C# and F#->G.
+A7 -> E7: C#->D and G->G#.
+E7 -> A7: D->C# and G#->G.
+
+WRITTEN COUNTS
+Module A target cells: 294 tones.
+Module B guide-tone shells: 30 tones.
+Module C beat-one target choruses: 48 tones.
+Module D guide-tone lines: 120 tones.
+Module E five position phrases: 80 tones.
+Module F dominant-third arrivals: 60 tones.
+Module G written twelve-bar chorus: 48 tones.
+Module H recovery cards: 24 tones.
+Complete written workload: 704 sounding tones before repeats.
+
+========================================================================================================================
+CHORD-ROLE MATRIX
+========================================================================================================================
+Note | Over A7 | Over D7 | Over E7
+A    | R          | 5          | 11           | tonic over A7; common tone into D7
+C    | b3 / blue  | b7         | b13          | strong over D7; shade toward C# over A7
+D    | 11         | R          | b7           | root of D7; guide tone over E7
+Eb   | b5         | b9         | M7 chromatic | passing tension; do not land accidentally
+E    | 5          | 9          | R            | stable over A7 and E7
+G    | b7         | 11         | #9           | guide tone over A7; blues color over E7
+
+Completion tones:
+C# = 3 of A7; approach from C.
+F# = 3 of D7; approach from E.
+G# = 3 of E7; approach from G.
+B = 5 of E7.
+
+========================================================================================================================
+MODULE A - FIVE-POSITION DOMINANT CHORD-TONE CELLS
+========================================================================================================================
+
+P1 - ROOT FRAME - LOCAL WINDOW FRETS 4-8
+
+A7 - 18-NOTE TARGET CELL
+Locations: A(E5,R), C#(A4,3), E(A7,5), G(D5,b7), A(D7,R), C#(G6,3), E(B5,5), G(B8,b7), A(e5,R)
+Nte|A---C#--E---G---A---C#--E---G---A---A---G---E---C#--A---G---E---C#--A---|
+Rol|R---3---5---b7--R---3---5---b7--R---R---b7--5---3---R---b7--5---3---R---|
+ e|--------------------------------5---5-----------------------------------|
+ B|------------------------5---8-----------8---5---------------------------|
+ G|--------------------6---------------------------6-----------------------|
+ D|------------5---7-----------------------------------7---5---------------|
+ A|----4---7---------------------------------------------------7---4-------|
+ E|5-------------------------------------------------------------------5---|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+D7 - 20-NOTE TARGET CELL
+Locations: A(E5,5), C(E8,b7), D(A5,R), F#(D4,3), A(D7,5), C(G5,b7), D(G7,R), F#(B7,3), A(e5,5), C(e8,b7)
+Nte|A---C---D---F#--A---C---D---F#--A---C---C---A---F#--D---C---A---F#--D---C---A---|
+Rol|5---b7--R---3---5---b7--R---3---5---b7--b7--5---3---R---b7--5---3---R---b7--5---|
+ e|--------------------------------5---8---8---5-----------------------------------|
+ B|----------------------------7-------------------7-------------------------------|
+ G|--------------------5---7---------------------------7---5-----------------------|
+ D|------------4---7-------------------------------------------7---4---------------|
+ A|--------5-----------------------------------------------------------5-----------|
+ E|5---8-------------------------------------------------------------------8---5---|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+E7 - 20-NOTE TARGET CELL
+Locations: G#(E4,3), B(E7,5), D(A5,b7), E(A7,R), G#(D6,3), B(G4,5), D(G7,b7), E(B5,R), G#(e4,3), B(e7,5)
+Nte|G#--B---D---E---G#--B---D---E---G#--B---B---G#--E---D---B---G#--E---D---B---G#--|
+Rol|3---5---b7--R---3---5---b7--R---3---5---5---3---R---b7--5---3---R---b7--5---3---|
+ e|--------------------------------4---7---7---4-----------------------------------|
+ B|----------------------------5-------------------5-------------------------------|
+ G|--------------------4---7---------------------------7---4-----------------------|
+ D|----------------6-------------------------------------------6-------------------|
+ A|--------5---7---------------------------------------------------7---5-----------|
+ E|4---7-------------------------------------------------------------------7---4---|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+P2 - FLAT-THIRD FRAME - LOCAL WINDOW FRETS 7-10
+
+A7 - 16-NOTE TARGET CELL
+Locations: C#(E9,3), E(A7,5), G(A10,b7), A(D7,R), E(G9,5), G(B8,b7), A(B10,R), C#(e9,3)
+Nte|C#--E---G---A---E---G---A---C#--C#--A---G---E---A---G---E---C#--|
+Rol|3---5---b7--R---5---b7--R---3---3---R---b7--5---R---b7--5---3---|
+ e|----------------------------9---9-------------------------------|
+ B|--------------------8---10----------10--8-----------------------|
+ G|----------------9---------------------------9-------------------|
+ D|------------7-----------------------------------7---------------|
+ A|----7---10------------------------------------------10--7-------|
+ E|9-----------------------------------------------------------9---|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+D7 - 20-NOTE TARGET CELL
+Locations: C(E8,b7), D(E10,R), F#(A9,3), A(D7,5), C(D10,b7), D(G7,R), F#(B7,3), A(B10,5), C(e8,b7), D(e10,R)
+Nte|C---D---F#--A---C---D---F#--A---C---D---D---C---A---F#--D---C---A---F#--D---C---|
+Rol|b7--R---3---5---b7--R---3---5---b7--R---R---b7--5---3---R---b7--5---3---R---b7--|
+ e|--------------------------------8---10--10--8-----------------------------------|
+ B|------------------------7---10------------------10--7---------------------------|
+ G|--------------------7-----------------------------------7-----------------------|
+ D|------------7---10------------------------------------------10--7---------------|
+ A|--------9-----------------------------------------------------------9-----------|
+ E|8---10------------------------------------------------------------------10--8---|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+E7 - 18-NOTE TARGET CELL
+Locations: B(E7,5), D(E10,b7), E(A7,R), B(D9,5), D(G7,b7), E(G9,R), G#(B9,3), B(e7,5), D(e10,b7)
+Nte|B---D---E---B---D---E---G#--B---D---D---B---G#--E---D---B---E---D---B---|
+Rol|5---b7--R---5---b7--R---3---5---b7--b7--5---3---R---b7--5---R---b7--5---|
+ e|----------------------------7---10--10--7-------------------------------|
+ B|------------------------9-------------------9---------------------------|
+ G|----------------7---9---------------------------9---7-------------------|
+ D|------------9-------------------------------------------9---------------|
+ A|--------7---------------------------------------------------7-----------|
+ E|7---10----------------------------------------------------------10--7---|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+P3 - FOURTH-DEGREE FRAME - LOCAL WINDOW FRETS 9-13
+
+A7 - 20-NOTE TARGET CELL
+Locations: C#(E9,3), E(E12,5), G(A10,b7), A(A12,R), C#(D11,3), E(G9,5), G(G12,b7), A(B10,R), C#(e9,3), E(e12,5)
+Nte|C#--E---G---A---C#--E---G---A---C#--E---E---C#--A---G---E---C#--A---G---E---C#--|
+Rol|3---5---b7--R---3---5---b7--R---3---5---5---3---R---b7--5---3---R---b7--5---3---|
+ e|--------------------------------9---12--12--9-----------------------------------|
+ B|----------------------------10------------------10------------------------------|
+ G|--------------------9---12--------------------------12--9-----------------------|
+ D|----------------11------------------------------------------11------------------|
+ A|--------10--12--------------------------------------------------12--10----------|
+ E|9---12------------------------------------------------------------------12--9---|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+D7 - 18-NOTE TARGET CELL
+Locations: D(E10,R), F#(A9,3), A(A12,5), C(D10,b7), D(D12,R), F#(G11,3), A(B10,5), C(B13,b7), D(e10,R)
+Nte|D---F#--A---C---D---F#--A---C---D---D---C---A---F#--D---C---A---F#--D---|
+Rol|R---3---5---b7--R---3---5---b7--R---R---b7--5---3---R---b7--5---3---R---|
+ e|--------------------------------10--10----------------------------------|
+ B|------------------------10--13----------13--10--------------------------|
+ G|--------------------11--------------------------11----------------------|
+ D|------------10--12----------------------------------12--10--------------|
+ A|----9---12--------------------------------------------------12--9-------|
+ E|10------------------------------------------------------------------10--|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+E7 - 22-NOTE TARGET CELL
+Locations: D(E10,b7), E(E12,R), G#(A11,3), B(D9,5), D(D12,b7), E(G9,R), G#(G13,3), G#(B9,3), B(B12,5), D(e10,b7), E(e12,R)
+Nte|D---E---G#--B---D---E---G#--G#--B---D---E---E---D---B---G#--G#--E---D---B---G#--E---D---|
+Rol|b7--R---3---5---b7--R---3---3---5---b7--R---R---b7--5---3---3---R---b7--5---3---R---b7--|
+ e|------------------------------------10--12--12--10--------------------------------------|
+ B|----------------------------9---12------------------12--9-------------------------------|
+ G|--------------------9---13----------------------------------13--9-----------------------|
+ D|------------9---12--------------------------------------------------12--9---------------|
+ A|--------11------------------------------------------------------------------11----------|
+ E|10--12--------------------------------------------------------------------------12--10--|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+P4 - FIFTH-DEGREE FRAME - LOCAL WINDOW FRETS 11-16
+
+A7 - 22-NOTE TARGET CELL
+Locations: E(E12,5), G(E15,b7), A(A12,R), C#(A16,3), C#(D11,3), E(D14,5), G(G12,b7), A(G14,R), C#(B14,3), E(e12,5), G(e15,b7)
+Nte|E---G---A---C#--C#--E---G---A---C#--E---G---G---E---C#--A---G---E---C#--C#--A---G---E---|
+Rol|5---b7--R---3---3---5---b7--R---3---5---b7--b7--5---3---R---b7--5---3---3---R---b7--5---|
+ e|------------------------------------12--15--15--12--------------------------------------|
+ B|--------------------------------14------------------14----------------------------------|
+ G|------------------------12--14--------------------------14--12--------------------------|
+ D|----------------11--14------------------------------------------14--11------------------|
+ A|--------12--16----------------------------------------------------------16--12----------|
+ E|12--15--------------------------------------------------------------------------15--12--|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+D7 - 20-NOTE TARGET CELL
+Locations: F#(E14,3), A(A12,5), C(A15,b7), D(D12,R), F#(D16,3), F#(G11,3), A(G14,5), C(B13,b7), D(B15,R), F#(e14,3)
+Nte|F#--A---C---D---F#--F#--A---C---D---F#--F#--D---C---A---F#--F#--D---C---A---F#--|
+Rol|3---5---b7--R---3---3---5---b7--R---3---3---R---b7--5---3---3---R---b7--5---3---|
+ e|------------------------------------14--14--------------------------------------|
+ B|----------------------------13--15----------15--13------------------------------|
+ G|--------------------11--14--------------------------14--11----------------------|
+ D|------------12--16------------------------------------------16--12--------------|
+ A|----12--15----------------------------------------------------------15--12------|
+ E|14--------------------------------------------------------------------------14--|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+E7 - 24-NOTE TARGET CELL
+Locations: E(E12,R), G#(E16,3), G#(A11,3), B(A14,5), D(D12,b7), E(D14,R), G#(G13,3), B(G16,5), B(B12,5), D(B15,b7), E(e12,R), G#(e16,3)
+Nte|E---G#--G#--B---D---E---G#--B---B---D---E---G#--G#--E---D---B---B---G#--E---D---B---G#--G#--E---|
+Rol|R---3---3---5---b7--R---3---5---5---b7--R---3---3---R---b7--5---5---3---R---b7--5---3---3---R---|
+ e|----------------------------------------12--16--16--12------------------------------------------|
+ B|--------------------------------12--15------------------15--12----------------------------------|
+ G|------------------------13--16----------------------------------16--13--------------------------|
+ D|----------------12--14--------------------------------------------------14--12------------------|
+ A|--------11--14------------------------------------------------------------------14--11----------|
+ E|12--16----------------------------------------------------------------------------------16--12--|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+P5 - FLAT-SEVENTH FRAME - LOCAL WINDOW FRETS 14-17
+
+A7 - 20-NOTE TARGET CELL
+Locations: G(E15,b7), A(E17,R), C#(A16,3), E(D14,5), G(D17,b7), A(G14,R), C#(B14,3), E(B17,5), G(e15,b7), A(e17,R)
+Nte|G---A---C#--E---G---A---C#--E---G---A---A---G---E---C#--A---G---E---C#--A---G---|
+Rol|b7--R---3---5---b7--R---3---5---b7--R---R---b7--5---3---R---b7--5---3---R---b7--|
+ e|--------------------------------15--17--17--15----------------------------------|
+ B|------------------------14--17------------------17--14--------------------------|
+ G|--------------------14----------------------------------14----------------------|
+ D|------------14--17------------------------------------------17--14--------------|
+ A|--------16----------------------------------------------------------16----------|
+ E|15--17------------------------------------------------------------------17--15--|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+D7 - 20-NOTE TARGET CELL
+Locations: F#(E14,3), A(E17,5), C(A15,b7), D(A17,R), F#(D16,3), A(G14,5), C(G17,b7), D(B15,R), F#(e14,3), A(e17,5)
+Nte|F#--A---C---D---F#--A---C---D---F#--A---A---F#--D---C---A---F#--D---C---A---F#--|
+Rol|3---5---b7--R---3---5---b7--R---3---5---5---3---R---b7--5---3---R---b7--5---3---|
+ e|--------------------------------14--17--17--14----------------------------------|
+ B|----------------------------15------------------15------------------------------|
+ G|--------------------14--17--------------------------17--14----------------------|
+ D|----------------16------------------------------------------16------------------|
+ A|--------15--17--------------------------------------------------17--15----------|
+ E|14--17------------------------------------------------------------------17--14--|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+E7 - 16-NOTE TARGET CELL
+Locations: G#(E16,3), B(A14,5), D(A17,b7), E(D14,R), B(G16,5), D(B15,b7), E(B17,R), G#(e16,3)
+Nte|G#--B---D---E---B---D---E---G#--G#--E---D---B---E---D---B---G#--|
+Rol|3---5---b7--R---5---b7--R---3---3---R---b7--5---R---b7--5---3---|
+ e|----------------------------16--16------------------------------|
+ B|--------------------15--17----------17--15----------------------|
+ G|----------------16--------------------------16------------------|
+ D|------------14----------------------------------14--------------|
+ A|----14--17------------------------------------------17--14------|
+ E|16----------------------------------------------------------16--|
+Rule: play only the printed chord tones; say root, third, fifth, or flat seventh for every event.
+
+========================================================================================================================
+MODULE B - GUIDE-TONE SHELL ATLAS
+========================================================================================================================
+
+P1 GUIDE-TONE DYADS
+A7: C#(3) at G6 + G(b7) at B8
+B|----8---|
+G|6-------|
+D7: C(b7) at G5 + F#(3) at B7
+B|----7---|
+G|5-------|
+E7: D(b7) at G7 + G#(3) at B9
+B|----9---|
+G|7-------|
+Practice sequence: A7 -> D7 -> A7 -> E7 -> D7 -> A7 -> E7.
+
+P2 GUIDE-TONE DYADS
+A7: G(b7) at B8 + C#(3) at e9
+e|----9---|
+B|8-------|
+D7: F#(3) at B7 + C(b7) at e8
+e|----8---|
+B|7-------|
+E7: G#(3) at B9 + D(b7) at e10
+e|----10--|
+B|9-------|
+Practice sequence: A7 -> D7 -> A7 -> E7 -> D7 -> A7 -> E7.
+
+P3 GUIDE-TONE DYADS
+A7: C#(3) at D11 + G(b7) at G12
+G|----12--|
+D|11------|
+D7: C(b7) at D10 + F#(3) at G11
+G|----11--|
+D|10------|
+E7: D(b7) at D12 + G#(3) at G13
+G|----13--|
+D|12------|
+Practice sequence: A7 -> D7 -> A7 -> E7 -> D7 -> A7 -> E7.
+
+P4 GUIDE-TONE DYADS
+A7: C#(3) at B14 + G(b7) at e15
+e|----15--|
+B|14------|
+D7: C(b7) at B13 + F#(3) at e14
+e|----14--|
+B|13------|
+E7: D(b7) at B15 + G#(3) at e16
+e|----16--|
+B|15------|
+Practice sequence: A7 -> D7 -> A7 -> E7 -> D7 -> A7 -> E7.
+
+P5 GUIDE-TONE DYADS
+A7: G(b7) at E15 + C#(3) at A16
+A|----16--|
+E|15------|
+D7: F#(3) at E14 + C(b7) at A15
+A|----15--|
+E|14------|
+E7: G#(3) at E16 + D(b7) at A17
+A|----17--|
+E|16------|
+Practice sequence: A7 -> D7 -> A7 -> E7 -> D7 -> A7 -> E7.
+
+========================================================================================================================
+MODULE C - BEAT-ONE TARGET CHORUSES
+========================================================================================================================
+Bar | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Chord | A7 | A7 | A7 | A7 | D7 | D7 | A7 | A7 | E7 | D7 | A7 | E7
+Root pass | A(E5) | A(E5) | A(E5) | A(E5) | D(A5) | D(A5) | A(E5) | A(E5) | E(A7) | D(A5) | A(E5) | E(A7)
+Third pass | C#(G6) | C#(G6) | C#(G6) | C#(G6) | F#(B7) | F#(B7) | C#(G6) | C#(G6) | G#(B9) | F#(B7) | C#(G6) | G#(B9)
+b7 pass | G(B8) | G(B8) | G(B8) | G(B8) | C(G5) | C(G5) | G(B8) | G(B8) | D(G7) | C(G5) | G(B8) | D(G7)
+Mixed pass | A(E5) | C#(G6) | E(B5) | G(B8) | F#(B7) | C(G5) | C#(G6) | A(e5) | G#(B9) | C(G5) | G(B8) | D(G7)
+
+Pass 1: hold one whole-note target per bar.
+Pass 2: add two pickup notes on beat 4 before each chord change.
+Pass 3: play a short shuffle fill after the target and leave beat 4 open.
+
+========================================================================================================================
+MODULE D - SINGLE-LINE GUIDE-TONE VOICE LEADING
+========================================================================================================================
+
+P1 - TWO GUIDE-TONE VOICES
+Bar | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Chord | A7 | A7 | A7 | A7 | D7 | D7 | A7 | A7 | E7 | D7 | A7 | E7
+Voice 1 notes: C# | C# | C# | C# | C | C | C# | C# | D | C | C# | D
+Voice 1 roles: 3 | 3 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | b7
+G string frets: 6 | 6 | 6 | 6 | 5 | 5 | 6 | 6 | 7 | 5 | 6 | 7
+Voice 2 notes: G | G | G | G | F# | F# | G | G | G# | F# | G | G#
+Voice 2 roles: b7 | b7 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | 3
+B string frets: 8 | 8 | 8 | 8 | 7 | 7 | 8 | 8 | 9 | 7 | 8 | 9
+After both lines are secure, play them simultaneously as guide-tone shells.
+
+P2 - TWO GUIDE-TONE VOICES
+Bar | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Chord | A7 | A7 | A7 | A7 | D7 | D7 | A7 | A7 | E7 | D7 | A7 | E7
+Voice 1 notes: C# | C# | C# | C# | C | C | C# | C# | D | C | C# | D
+Voice 1 roles: 3 | 3 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | b7
+e string frets: 9 | 9 | 9 | 9 | 8 | 8 | 9 | 9 | 10 | 8 | 9 | 10
+Voice 2 notes: G | G | G | G | F# | F# | G | G | G# | F# | G | G#
+Voice 2 roles: b7 | b7 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | 3
+B string frets: 8 | 8 | 8 | 8 | 7 | 7 | 8 | 8 | 9 | 7 | 8 | 9
+After both lines are secure, play them simultaneously as guide-tone shells.
+
+P3 - TWO GUIDE-TONE VOICES
+Bar | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Chord | A7 | A7 | A7 | A7 | D7 | D7 | A7 | A7 | E7 | D7 | A7 | E7
+Voice 1 notes: C# | C# | C# | C# | C | C | C# | C# | D | C | C# | D
+Voice 1 roles: 3 | 3 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | b7
+D string frets: 11 | 11 | 11 | 11 | 10 | 10 | 11 | 11 | 12 | 10 | 11 | 12
+Voice 2 notes: G | G | G | G | F# | F# | G | G | G# | F# | G | G#
+Voice 2 roles: b7 | b7 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | 3
+G string frets: 12 | 12 | 12 | 12 | 11 | 11 | 12 | 12 | 13 | 11 | 12 | 13
+After both lines are secure, play them simultaneously as guide-tone shells.
+
+P4 - TWO GUIDE-TONE VOICES
+Bar | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Chord | A7 | A7 | A7 | A7 | D7 | D7 | A7 | A7 | E7 | D7 | A7 | E7
+Voice 1 notes: C# | C# | C# | C# | C | C | C# | C# | D | C | C# | D
+Voice 1 roles: 3 | 3 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | b7
+B string frets: 14 | 14 | 14 | 14 | 13 | 13 | 14 | 14 | 15 | 13 | 14 | 15
+Voice 2 notes: G | G | G | G | F# | F# | G | G | G# | F# | G | G#
+Voice 2 roles: b7 | b7 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | 3
+e string frets: 15 | 15 | 15 | 15 | 14 | 14 | 15 | 15 | 16 | 14 | 15 | 16
+After both lines are secure, play them simultaneously as guide-tone shells.
+
+P5 - TWO GUIDE-TONE VOICES
+Bar | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Chord | A7 | A7 | A7 | A7 | D7 | D7 | A7 | A7 | E7 | D7 | A7 | E7
+Voice 1 notes: C# | C# | C# | C# | C | C | C# | C# | D | C | C# | D
+Voice 1 roles: 3 | 3 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | b7
+A string frets: 16 | 16 | 16 | 16 | 15 | 15 | 16 | 16 | 17 | 15 | 16 | 17
+Voice 2 notes: G | G | G | G | F# | F# | G | G | G# | F# | G | G#
+Voice 2 roles: b7 | b7 | b7 | b7 | 3 | 3 | b7 | b7 | 3 | 3 | b7 | 3
+E string frets: 15 | 15 | 15 | 15 | 14 | 14 | 15 | 15 | 16 | 14 | 15 | 16
+After both lines are secure, play them simultaneously as guide-tone shells.
+
+========================================================================================================================
+MODULE E - FIVE FOUR-BAR TARGET PHRASES
+========================================================================================================================
+Progression: | A7 | D7 | E7 | A7 |. Four quarter notes per bar. > marks beat 1.
+
+P1 - 16-NOTE TARGET PHRASE
+Nte|C#--C---A---E---|C---D---F#--A---|G#--G---E---D---|A---G---E---C#--|
+Rol|>3--b3--R---5---|>b7-R---3---5---|>3--#9--R---b7--|>R--b7--5---3---|
+ e|----------------|------------5---|----------------|5---------------|
+ B|------------5---|--------7-------|9---8---5-------|----8---5-------|
+ G|6---5-----------|5---7-----------|------------7---|------------6---|
+ D|--------7-------|----------------|----------------|----------------|
+ A|----------------|----------------|----------------|----------------|
+ E|----------------|----------------|----------------|----------------|
+Transformations: keep beat-one targets; change later notes, rhythm, register, or articulation.
+
+P2 - 16-NOTE TARGET PHRASE
+Nte|G---C#--E---A---|F#--A---C---D---|D---B---G#--E---|C#--A---G---E---|
+Rol|>b7-3---5---R---|>3--5---b7--R---|>b7-5---3---R---|>3--R---b7--5---|
+ e|----9-----------|--------8---10--|10--7-----------|9---------------|
+ B|8-----------10--|7---10----------|--------9-------|----10--8-------|
+ G|--------9-------|----------------|------------9---|------------9---|
+ D|----------------|----------------|----------------|----------------|
+ A|----------------|----------------|----------------|----------------|
+ E|----------------|----------------|----------------|----------------|
+Transformations: keep beat-one targets; change later notes, rhythm, register, or articulation.
+
+P3 - 16-NOTE TARGET PHRASE
+Nte|E---G---A---C#--|F#--A---C---D---|G#--B---D---E---|A---G---E---C#--|
+Rol|>5--b7--R---3---|>3--5---b7--R---|>3--5---b7--R---|>R--b7--5---3---|
+ e|----------------|----------------|--------10--12--|----------------|
+ B|--------10------|----10--13------|----12----------|10--------------|
+ G|9---12----------|11--------------|13--------------|----12--9-------|
+ D|------------11--|------------12--|----------------|------------11--|
+ A|----------------|----------------|----------------|----------------|
+ E|----------------|----------------|----------------|----------------|
+Transformations: keep beat-one targets; change later notes, rhythm, register, or articulation.
+
+P4 - 16-NOTE TARGET PHRASE
+Nte|G---A---C#--E---|F#--A---C---D---|G#--B---D---E---|C#--E---G---A---|
+Rol|>b7-R---3---5---|>3--5---b7--R---|>3--5---b7--R---|>3--5---b7--R---|
+ e|------------12--|----------------|------------12--|----12--15------|
+ B|--------14------|--------13--15--|----12--15------|14--------------|
+ G|12--14----------|11--14----------|13--------------|------------14--|
+ D|----------------|----------------|----------------|----------------|
+ A|----------------|----------------|----------------|----------------|
+ E|----------------|----------------|----------------|----------------|
+Transformations: keep beat-one targets; change later notes, rhythm, register, or articulation.
+
+P5 - 16-NOTE TARGET PHRASE
+Nte|A---C#--E---G---|F#--A---C---D---|G#--B---D---E---|A---G---E---C#--|
+Rol|>R--3---5---b7--|>3--5---b7--R---|>3--5---b7--R---|>R--b7--5---3---|
+ e|------------15--|14--17----------|16--------------|17--15----------|
+ B|----14--17------|------------15--|--------15--17--|--------17--14--|
+ G|14--------------|--------17------|----16----------|----------------|
+ D|----------------|----------------|----------------|----------------|
+ A|----------------|----------------|----------------|----------------|
+ E|----------------|----------------|----------------|----------------|
+Transformations: keep beat-one targets; change later notes, rhythm, register, or articulation.
+
+========================================================================================================================
+MODULE F - DOMINANT-THIRD ARRIVALS
+========================================================================================================================
+
+A7 THIRD-ARRIVAL SITES
+E string: target C# fret 9; slide 8/9; bend 8b(9); release 8b(9)r8; b3 -> 3.
+D string: target C# fret 11; slide 10/11; bend 10b(11); release 10b(11)r10; b3 -> 3.
+G string: target C# fret 6; slide 5/6; bend 5b(6); release 5b(6)r5; b3 -> 3.
+B string: target C# fret 14; slide 13/14; bend 13b(14); release 13b(14)r13; b3 -> 3.
+e string: target C# fret 9; slide 8/9; bend 8b(9); release 8b(9)r8; b3 -> 3.
+
+D7 THIRD-ARRIVAL SITES
+A string: target F# fret 9; slide 7/9; bend 7b(9); release 7b(9)r7; 9 -> 3.
+D string: target F# fret 16; slide 14/16; bend 14b(16); release 14b(16)r14; 9 -> 3.
+G string: target F# fret 11; slide 9/11; bend 9b(11); release 9b(11)r9; 9 -> 3.
+B string: target F# fret 7; slide 5/7; bend 5b(7); release 5b(7)r5; 9 -> 3.
+e string: target F# fret 14; slide 12/14; bend 12b(14); release 12b(14)r12; 9 -> 3.
+
+E7 THIRD-ARRIVAL SITES
+E string: target G# fret 16; slide 15/16; bend 15b(16); release 15b(16)r15; #9 -> 3.
+D string: target G# fret 6; slide 5/6; bend 5b(6); release 5b(6)r5; #9 -> 3.
+G string: target G# fret 13; slide 12/13; bend 12b(13); release 12b(13)r12; #9 -> 3.
+B string: target G# fret 9; slide 8/9; bend 8b(9); release 8b(9)r8; #9 -> 3.
+e string: target G# fret 16; slide 15/16; bend 15b(16); release 15b(16)r15; #9 -> 3.
+
+Always play the fretted target first. The bend is correct only when it matches the target pitch.
+
+========================================================================================================================
+MODULE G - WRITTEN TWELVE-BAR CHORD-TARGET CHORUS
+========================================================================================================================
+
+BAR 1 - A7
+Notes: A C C# E
+Roles: >R b3 3 5
+B|------------5---|
+G|----5---6-------|
+E|5---------------|
+
+BAR 2 - A7
+Notes: G E C# A
+Roles: >b7 5 3 R
+B|8---5-----------|
+G|--------6-------|
+D|------------7---|
+
+BAR 3 - A7
+Notes: C# E G A
+Roles: >3 5 b7 R
+e|9---------------|
+B|--------8---10--|
+G|----9-----------|
+
+BAR 4 - A7
+Notes: E G C C#
+Roles: >5 b7 b3 3
+B|----8-----------|
+G|9-------5---6---|
+
+BAR 5 - D7
+Notes: C D F# A
+Roles: >b7 R 3 5
+B|--------7---10--|
+G|5---7-----------|
+
+BAR 6 - D7
+Notes: F# A C D
+Roles: >3 5 b7 R
+B|----10--13------|
+G|11--------------|
+D|------------12--|
+
+BAR 7 - A7
+Notes: C# E G A
+Roles: >3 5 b7 R
+B|------------10--|
+G|----9---12------|
+D|11--------------|
+
+BAR 8 - A7
+Notes: G E C# A
+Roles: >b7 5 3 R
+G|12--9-----------|
+D|--------11------|
+A|------------12--|
+
+BAR 9 - E7
+Notes: G# B D E
+Roles: >3 5 b7 R
+e|------------12--|
+B|----12--15------|
+G|13--------------|
+
+BAR 10 - D7
+Notes: D F# A C
+Roles: >R 3 5 b7
+e|----14--17------|
+B|15--------------|
+G|------------17--|
+
+BAR 11 - A7
+Notes: A C C# E
+Roles: >R b3 3 5
+B|--------14--17--|
+G|14--17----------|
+
+BAR 12 - E7
+Notes: E D B G#
+Roles: >R b7 5 3
+e|------------16--|
+B|17--15----------|
+G|--------16------|
+
+Bar 12 ends on G#, the third of E7. Resolve upward to A when another chorus begins.
+
+========================================================================================================================
+MODULE H - RECOVERY CARDS AND CONTROLLED IMPROVISATION
+========================================================================================================================
+A7: C -> C#   b3 -> 3
+A7: Eb -> E   b5 -> 5
+A7: D -> C#   11 -> 3
+A7: B -> C#   9 -> 3
+D7: E -> F#   9 -> 3
+D7: G -> F#   11 -> 3
+D7: Eb -> D   b9 -> R
+D7: B -> C   13 -> b7
+E7: G -> G#   #9 -> 3
+E7: A -> G#   11 -> 3
+E7: C -> B   b13 -> 5
+E7: Eb -> E   M7 -> R
+
+Three-pass improvisation ladder:
+1. One whole-note target per bar.
+2. Target plus two pickup notes before each change.
+3. Free shuffle phrases with the same target schedule and at least one full-beat rest per four bars.
+
+Target substitution: replay the model chorus while changing only beat 1 - roots first, then thirds, then flat sevenths.
+
+========================================================================================================================
+PRACTICE PROGRESSION
+========================================================================================================================
+1. Speak all A7, D7, and E7 chord tones.
+2. Play one P1 target cell for each chord.
+3. Complete all fifteen target cells with both pick starts.
+4. Hold every guide-tone shell for four beats.
+5. Play root, third, b7, and mixed target choruses.
+6. Complete both guide-tone voices in all five registers.
+7. Play all five four-bar position phrases.
+8. Match all fifteen completion-tone bends and slides.
+9. Perform the written twelve-bar chorus twice.
+10. Improvise one new chorus with the same target schedule.
+
+ERROR DIAGNOSIS
+SCALE-RUN AUTOPILOT: remove the fill; sustain one target per bar.
+WRONG THIRD: play the fretted target before any bend or slide.
+FORM LOSS: return to roots and speak bars 5, 9, 10, 11, and 12.
+GUIDE-TONE JUMP: choose the nearer octave; move by half step where possible.
+OVERFILLED BAR: leave beat 4 empty and let the target ring.
+BEND DRIFT: compare to the fretted target and reduce the bend width.
+FRET SEARCH: name string and fret before leaving the current target.
+
+MASTERY GATE BEFORE LEVEL 47
+Name and locate every A7, D7, and E7 chord tone; complete all target cells, guide-tone shells, target choruses, guide lines, five position phrases, third-arrival cells, and the written twelve-bar chorus; then improvise one chorus whose changes remain audible without accompaniment.
+
+NEXT LEVEL
+Level 47 combines A major and A minor pentatonic colors over the same A7-D7-E7 form.

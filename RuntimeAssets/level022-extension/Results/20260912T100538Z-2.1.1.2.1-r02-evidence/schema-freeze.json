@@ -1,0 +1,45 @@
+{
+  "decision": "Technical schema1 FROZEN",
+  "issuer": "/root executing Technical integration owner",
+  "authority": "Actual GOAL8 bounded schema/representation delegation under A01/A02; accepted canonical and M1 inputs",
+  "recorded_at_utc": "2026-09-12T10:40:18.487986+00:00",
+  "work_package": "2.1.1.2.1 remains ACCEPTED; no new parent acceptance",
+  "lane": "M2-2.1.1.2.1-r02",
+  "schema_version": "1.0.0-curriculum-candidate",
+  "accepted_scope": "strict source representation, immutable identity/revision lineage and validation specification;14unadmitted examples",
+  "not_accepted": "New Curriculum/sourceperformance/runtimeadmission/wholeworkbook/MVP/release",
+  "criteria": {
+    "AC1": "PASS",
+    "AC2": "PASS",
+    "AC3": "PASS",
+    "AC4": "PASS"
+  },
+  "technical_review": {
+    "path": "Results/20260912T100538Z-2.1.1.2.1-r02-evidence/reviewer/canonical_contract_review/final01/review.json",
+    "sha256": "dc5501d26d13f7cb7941a5a37a4b03dfa80aeb49a4838fc3c2714e809496e994"
+  },
+  "source_review": {
+    "path": "Results/20260912T100538Z-2.1.1.2.1-r02-evidence/reviewer/m1_source_review/final01/review.json",
+    "sha256": "87b5f3f07e240c35b1fc7143e10fdcdee11e769f864d7fb2c2e1fdbebe2cd45a"
+  },
+  "artifacts": {
+    "contract.md": "3f6e3d91ff46d8dce46d3b5e4a00e36d41b1bbc6767bbc7f1be2e914f4eadb94",
+    "freeze01/manifest.json": "c59725e0eb65d04504ee9a70041769286c1e9f3a71994926a37fd79bdcd08c32",
+    "fixture01/package.json": "53eb51272818727a5d2d3b672a31562e9cd0a88fe1a49085eb01aef5ea11677b",
+    "fixture01/identity-registry.json": "9a46d866d3764af666ac11a120542ecab7b651dd10ce3f4f697e004c2264df32",
+    "fixture01/expected-profile.json": "72324979672b7bd0e208171a6fe5af1d43475bc74c9ea041d74148222e6d5797",
+    "handoff01/identity-head.json": "f68abbd071f19b00f238e7786b3a79d5ae345a4ad97f01701bf1b9fff632db08",
+    "lineage01/summary.json": "e54b8f52a7b430144414bb2c416a6858dc30b5e75bc41a3cb9aff5b45d827827",
+    "cli01/summary.json": "c91c4f2b2de0abd70c4d2f33a3d0f1d16a09cc7f568c837e136e87fe9d489498",
+    "cli02/summary.json": "09c29f71718753e91c6fdca82838f0690ad6f83a676a724f2ca534cb11a9bde9",
+    "handoff01/summary.json": "402c8a510f5a33f600986a46b2d133a9d2987063fa6fb7f27059a516839d41a7",
+    "pre-final-validation.json": "aaf3b71b85391ad7cf4254c4d3186746fc2270edc4e86f7c46a3e5bef7f0f52a"
+  },
+  "next_authoring_head_sha256": "f68abbd071f19b00f238e7786b3a79d5ae345a4ad97f01701bf1b9fff632db08",
+  "remaining_conditions": [
+    "New source candidates retain required Curriculum review before release admission.",
+    "Current app remains bound to accepted representative controls.",
+    "Historical schema/source/native/failure evidence remains immutable.",
+    "Final coordination checks precede laneDone."
+  ]
+}

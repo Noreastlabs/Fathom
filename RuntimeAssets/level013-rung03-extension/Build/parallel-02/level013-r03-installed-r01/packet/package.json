@@ -1,0 +1,1053 @@
+{
+  "content_version": "curriculum-v1-level013-rung03-neighboring-cell-build-only.1",
+  "records": [
+    {
+      "ambiguities": [
+        "Absolute BPM and performed sustain are unprovided.",
+        "Inter-cell one-beat pause is outside this isolated cell and has no runtime operation here."
+      ],
+      "authored_text_refs": [
+        "L13-TXT1-80-91",
+        "L13-PDF1-p3",
+        "L13-TXT1-30-49",
+        "L13-PDF1-p2",
+        "L13-TXT1-234-239"
+      ],
+      "content_revision": 1,
+      "context": {
+        "capo": 0,
+        "local_code": "L13-rung03",
+        "pick_continues_at_turn": true,
+        "pick_start": "D or U selected by learner; strict alternate picking continues across cells",
+        "pick_start_variants": [
+          "D",
+          "U"
+        ],
+        "position": "low-E root fret 7; frame 6-9",
+        "route": "UP rungs01-13; DOWN rungs13-01; continuous round trip rungs01-13 then12-01",
+        "tuning_open_midi": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ]
+      },
+      "control_scope": {
+        "basis_refs": [
+          "L13-TXT1-80-91",
+          "L13-PDF1-p3",
+          "L13-TXT1-30-49",
+          "L13-PDF1-p2",
+          "L13-TXT1-234-239"
+        ],
+        "extent": "complete_selected_case",
+        "local_case": "Level13 rung03 B major full 30-contact cell",
+        "source_event_count": 30,
+        "unresolved": [
+          "Identity, lineage and route-level admission pending."
+        ],
+        "whole_workbook_complete": false
+      },
+      "events": [
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 1,
+              "source_label": "1"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0001",
+          "finger": 2,
+          "fret": 7,
+          "kind": "note",
+          "midi": 47,
+          "onset_q": [
+            0,
+            1
+          ],
+          "spelling": "B",
+          "string": 1,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 2,
+              "source_label": "2"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0002",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 49,
+          "onset_q": [
+            1,
+            2
+          ],
+          "spelling": "C#",
+          "string": 1,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 3,
+              "source_label": "3"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0003",
+          "finger": 1,
+          "fret": 6,
+          "kind": "note",
+          "midi": 51,
+          "onset_q": [
+            1,
+            1
+          ],
+          "spelling": "D#",
+          "string": 2,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 4,
+              "source_label": "4"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0004",
+          "finger": 2,
+          "fret": 7,
+          "kind": "note",
+          "midi": 52,
+          "onset_q": [
+            3,
+            2
+          ],
+          "spelling": "E",
+          "string": 2,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 5,
+              "source_label": "5"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0005",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 54,
+          "onset_q": [
+            2,
+            1
+          ],
+          "spelling": "F#",
+          "string": 2,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 6,
+              "source_label": "6"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0006",
+          "finger": 1,
+          "fret": 6,
+          "kind": "note",
+          "midi": 56,
+          "onset_q": [
+            5,
+            2
+          ],
+          "spelling": "G#",
+          "string": 3,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 7,
+              "source_label": "7"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0007",
+          "finger": 3,
+          "fret": 8,
+          "kind": "note",
+          "midi": 58,
+          "onset_q": [
+            3,
+            1
+          ],
+          "spelling": "A#",
+          "string": 3,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 1,
+              "source_label": "1"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0008",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 59,
+          "onset_q": [
+            7,
+            2
+          ],
+          "spelling": "B",
+          "string": 3,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 2,
+              "source_label": "2"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0009",
+          "finger": 1,
+          "fret": 6,
+          "kind": "note",
+          "midi": 61,
+          "onset_q": [
+            4,
+            1
+          ],
+          "spelling": "C#",
+          "string": 4,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 3,
+              "source_label": "3"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0010",
+          "finger": 3,
+          "fret": 8,
+          "kind": "note",
+          "midi": 63,
+          "onset_q": [
+            9,
+            2
+          ],
+          "spelling": "D#",
+          "string": 4,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 4,
+              "source_label": "4"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0011",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 64,
+          "onset_q": [
+            5,
+            1
+          ],
+          "spelling": "E",
+          "string": 4,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 5,
+              "source_label": "5"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0012",
+          "finger": 2,
+          "fret": 7,
+          "kind": "note",
+          "midi": 66,
+          "onset_q": [
+            11,
+            2
+          ],
+          "spelling": "F#",
+          "string": 5,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 6,
+              "source_label": "6"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0013",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 68,
+          "onset_q": [
+            6,
+            1
+          ],
+          "spelling": "G#",
+          "string": 5,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 7,
+              "source_label": "7"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0014",
+          "finger": 1,
+          "fret": 6,
+          "kind": "note",
+          "midi": 70,
+          "onset_q": [
+            13,
+            2
+          ],
+          "spelling": "A#",
+          "string": 6,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 1,
+              "source_label": "1"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0015",
+          "finger": 2,
+          "fret": 7,
+          "kind": "note",
+          "midi": 71,
+          "onset_q": [
+            7,
+            1
+          ],
+          "spelling": "B",
+          "string": 6,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 1,
+              "source_label": "1"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0016",
+          "finger": 2,
+          "fret": 7,
+          "kind": "note",
+          "midi": 71,
+          "onset_q": [
+            15,
+            2
+          ],
+          "spelling": "B",
+          "string": 6,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 7,
+              "source_label": "7"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0017",
+          "finger": 1,
+          "fret": 6,
+          "kind": "note",
+          "midi": 70,
+          "onset_q": [
+            8,
+            1
+          ],
+          "spelling": "A#",
+          "string": 6,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 6,
+              "source_label": "6"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0018",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 68,
+          "onset_q": [
+            17,
+            2
+          ],
+          "spelling": "G#",
+          "string": 5,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 5,
+              "source_label": "5"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0019",
+          "finger": 2,
+          "fret": 7,
+          "kind": "note",
+          "midi": 66,
+          "onset_q": [
+            9,
+            1
+          ],
+          "spelling": "F#",
+          "string": 5,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 4,
+              "source_label": "4"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0020",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 64,
+          "onset_q": [
+            19,
+            2
+          ],
+          "spelling": "E",
+          "string": 4,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 3,
+              "source_label": "3"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0021",
+          "finger": 3,
+          "fret": 8,
+          "kind": "note",
+          "midi": 63,
+          "onset_q": [
+            10,
+            1
+          ],
+          "spelling": "D#",
+          "string": 4,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 2,
+              "source_label": "2"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0022",
+          "finger": 1,
+          "fret": 6,
+          "kind": "note",
+          "midi": 61,
+          "onset_q": [
+            21,
+            2
+          ],
+          "spelling": "C#",
+          "string": 4,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 1,
+              "source_label": "1"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0023",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 59,
+          "onset_q": [
+            11,
+            1
+          ],
+          "spelling": "B",
+          "string": 3,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 7,
+              "source_label": "7"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0024",
+          "finger": 3,
+          "fret": 8,
+          "kind": "note",
+          "midi": 58,
+          "onset_q": [
+            23,
+            2
+          ],
+          "spelling": "A#",
+          "string": 3,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 6,
+              "source_label": "6"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0025",
+          "finger": 1,
+          "fret": 6,
+          "kind": "note",
+          "midi": 56,
+          "onset_q": [
+            12,
+            1
+          ],
+          "spelling": "G#",
+          "string": 3,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 5,
+              "source_label": "5"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0026",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 54,
+          "onset_q": [
+            25,
+            2
+          ],
+          "spelling": "F#",
+          "string": 2,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 4,
+              "source_label": "4"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0027",
+          "finger": 2,
+          "fret": 7,
+          "kind": "note",
+          "midi": 52,
+          "onset_q": [
+            13,
+            1
+          ],
+          "spelling": "E",
+          "string": 2,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 3,
+              "source_label": "3"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0028",
+          "finger": 1,
+          "fret": 6,
+          "kind": "note",
+          "midi": 51,
+          "onset_q": [
+            27,
+            2
+          ],
+          "spelling": "D#",
+          "string": 2,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 2,
+              "source_label": "2"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0029",
+          "finger": 4,
+          "fret": 9,
+          "kind": "note",
+          "midi": 49,
+          "onset_q": [
+            14,
+            1
+          ],
+          "spelling": "C#",
+          "string": 1,
+          "tie_from": null
+        },
+        {
+          "attack": "picked",
+          "degree_contexts": {
+            "B-major": {
+              "alteration": 0,
+              "ordinal": 1,
+              "source_label": "1"
+            }
+          },
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:001130:event:0030",
+          "finger": 2,
+          "fret": 7,
+          "kind": "note",
+          "midi": 47,
+          "onset_q": [
+            29,
+            2
+          ],
+          "spelling": "B",
+          "string": 1,
+          "tie_from": null
+        }
+      ],
+      "id": "fg:item:001130",
+      "kind": "notation",
+      "legacy_level": 13,
+      "lineage": {
+        "kind": "new"
+      },
+      "module_id": "fg:module:001130",
+      "normalization": [
+        {
+          "basis": "Original Level13 Rung03 TXT/PDF and reviewed source packet",
+          "kind": "representation_metadata",
+          "text": "One 30-contact B-major cell repeats the high B root at the turn."
+        }
+      ],
+      "resource_requirements": [],
+      "rubric": null,
+      "runtime_eligible": false,
+      "source_refs": [
+        "L13-TXT1-80-91",
+        "L13-PDF1-p3",
+        "L13-TXT1-30-49",
+        "L13-PDF1-p2",
+        "L13-TXT1-234-239"
+      ],
+      "status": "converted_candidate",
+      "timing": {
+        "basis": "TXT practice guidance says even eighths for neighboring cells. This private isolated-cell reference authors a nominal quarter-grid: two evenly spaced attacks per quarter, without an absolute BPM or measured sustain.",
+        "other_source_requirements": [
+          "PRACTICE RULE",
+          "Begin 10-15 BPM below your clean Level 12 tempo. First master the A-major cell alone. Then use 2-3 neighboring",
+          "rungs, play even eighth notes, and pause one beat after each 30-note cell while moving the complete frame one fret.",
+          "Repeat with both pick starts. Remove the pause, connect the ladder, reverse at fret 17, and return to fret 5.",
+          "Add 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, string-crossing noise, dragged shifts,",
+          "or rising tension. Advance after the full route is clean with both pick starts on two separate days."
+        ],
+        "status": "source_defined",
+        "unit": "quarter"
+      },
+      "title": "Rung 03: B major two-octave six-string ladder cell",
+      "variants": [
+        {
+          "accent_policy": "source_unspecified",
+          "event_ids": [
+            "fg:item:001130:event:0001",
+            "fg:item:001130:event:0002",
+            "fg:item:001130:event:0003",
+            "fg:item:001130:event:0004",
+            "fg:item:001130:event:0005",
+            "fg:item:001130:event:0006",
+            "fg:item:001130:event:0007",
+            "fg:item:001130:event:0008",
+            "fg:item:001130:event:0009",
+            "fg:item:001130:event:0010",
+            "fg:item:001130:event:0011",
+            "fg:item:001130:event:0012",
+            "fg:item:001130:event:0013",
+            "fg:item:001130:event:0014",
+            "fg:item:001130:event:0015",
+            "fg:item:001130:event:0016",
+            "fg:item:001130:event:0017",
+            "fg:item:001130:event:0018",
+            "fg:item:001130:event:0019",
+            "fg:item:001130:event:0020",
+            "fg:item:001130:event:0021",
+            "fg:item:001130:event:0022",
+            "fg:item:001130:event:0023",
+            "fg:item:001130:event:0024",
+            "fg:item:001130:event:0025",
+            "fg:item:001130:event:0026",
+            "fg:item:001130:event:0027",
+            "fg:item:001130:event:0028",
+            "fg:item:001130:event:0029",
+            "fg:item:001130:event:0030"
+          ],
+          "grouping": {
+            "beat_unit_q": [
+              1,
+              1
+            ],
+            "kind": "even_subdivision",
+            "marking_factor": [
+              1,
+              1
+            ],
+            "notes_per_beat": 2,
+            "source_label": "TXT lines 44-49 even eighths; quarter-grid binding is authored nominal practice timing"
+          },
+          "id": "fg:variant:007382",
+          "label": "cell-D-start",
+          "pick_start": "D",
+          "pick_start_origin": "learner_configuration",
+          "role": "notation_practice",
+          "route": "two_octave_up_down_repeated_high_root",
+          "source_refs": [
+            "L13-TXT1-80-91",
+            "L13-PDF1-p3",
+            "L13-TXT1-30-49",
+            "L13-PDF1-p2",
+            "L13-TXT1-234-239"
+          ],
+          "tail_pause": null,
+          "unresolved": []
+        },
+        {
+          "accent_policy": "source_unspecified",
+          "event_ids": [
+            "fg:item:001130:event:0001",
+            "fg:item:001130:event:0002",
+            "fg:item:001130:event:0003",
+            "fg:item:001130:event:0004",
+            "fg:item:001130:event:0005",
+            "fg:item:001130:event:0006",
+            "fg:item:001130:event:0007",
+            "fg:item:001130:event:0008",
+            "fg:item:001130:event:0009",
+            "fg:item:001130:event:0010",
+            "fg:item:001130:event:0011",
+            "fg:item:001130:event:0012",
+            "fg:item:001130:event:0013",
+            "fg:item:001130:event:0014",
+            "fg:item:001130:event:0015",
+            "fg:item:001130:event:0016",
+            "fg:item:001130:event:0017",
+            "fg:item:001130:event:0018",
+            "fg:item:001130:event:0019",
+            "fg:item:001130:event:0020",
+            "fg:item:001130:event:0021",
+            "fg:item:001130:event:0022",
+            "fg:item:001130:event:0023",
+            "fg:item:001130:event:0024",
+            "fg:item:001130:event:0025",
+            "fg:item:001130:event:0026",
+            "fg:item:001130:event:0027",
+            "fg:item:001130:event:0028",
+            "fg:item:001130:event:0029",
+            "fg:item:001130:event:0030"
+          ],
+          "grouping": {
+            "beat_unit_q": [
+              1,
+              1
+            ],
+            "kind": "even_subdivision",
+            "marking_factor": [
+              1,
+              1
+            ],
+            "notes_per_beat": 2,
+            "source_label": "TXT lines 44-49 even eighths; quarter-grid binding is authored nominal practice timing"
+          },
+          "id": "fg:variant:007383",
+          "label": "cell-U-start",
+          "pick_start": "U",
+          "pick_start_origin": "learner_configuration",
+          "role": "notation_practice",
+          "route": "two_octave_up_down_repeated_high_root",
+          "source_refs": [
+            "L13-TXT1-80-91",
+            "L13-PDF1-p3",
+            "L13-TXT1-30-49",
+            "L13-PDF1-p2",
+            "L13-TXT1-234-239"
+          ],
+          "tail_pause": null,
+          "unresolved": []
+        }
+      ],
+      "workbook_id": "fg:workbook:000013"
+    }
+  ],
+  "schema_version": "1.0.0-curriculum-candidate",
+  "source_acceptance": "Results/primary/20260906T182131Z-2.1.1.1.1-r02-results.md",
+  "source_manifest_sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe",
+  "sources": {
+    "L13-PDF1-p2": {
+      "format": "pdf",
+      "page": 2,
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "sha256": "0730f903d6d7a992b1f366f0e4977c05ba59d6467666fde5a7ea15ff20ca040c",
+      "text": "Level 13 - Chromatic Major-Key Route\nAscending route: complete each 30-note scale cell, then move the frame +1 fret\nDescending route: use the same cards in reverse order and move -1 fret\nRung\nKey\nLow-E root\nFrame\nScale tones (degrees 1-7)\n01\nA major\nfret 5\n4-7\nA  B  C#  D  E  F#  G#\n02\nBb major\nfret 6\n5-8\nBb  C  D  Eb  F  G  A\n03\nB major\nfret 7\n6-9\nB  C#  D#  E  F#  G#  A#\n04\nC major\nfret 8\n7-10\nC  D  E  F  G  A  B\n05\nDb major\nfret 9\n8-11\nDb  Eb  F  Gb  Ab  Bb  C\n06\nD major\nfret 10\n9-12\nD  E  F#  G  A  B  C#\n07\nEb major\nfret 11\n10-13\nEb  F  G  Ab  Bb  C  D\n08\nE major\nfret 12\n11-14\nE  F#  G#  A  B  C#  D#\n09\nF major\nfret 13\n12-15\nF  G  A  Bb  C  D  E\n10\nGb major\nfret 14\n13-16\nGb  Ab  Bb  Cb  Db  Eb  F\n11\nG major\nfret 15\n14-17\nG  A  B  C  D  E  F#\n12\nAb major\nfret 16\n15-18\nAb  Bb  C  Db  Eb  F  G\n13\nA major (octave)\nfret 17\n16-19\nA  B  C#  D  E  F#  G#\nHow to use the map\nUp pass: rungs 01-13.\nTurn: complete the high-A cell at\nfret 17, then reverse direction.\nDown pass: rungs 12-01. Do not\nrepeat the high-A card unless you\nare beginning a new round trip.\nKey names: say the printed key\nbefore playing its low root.\nGoal: preserve one major-scale\ninterval formula while both octaves\nrise and fall chromatically.\nMastery gate before the next scale level\nName every key before playing it; keep the four-fret frame compact; maintain strict alternate picking across all six strings; make the middle-octave and high-octave roots sound\nintentional; land every one-fret relocation without sliding; and complete the full fret-5 to fret-17 to fret-5 route with both pick starts on two separate days.\nStandard tuning. Compact two-octave 6th-string-root major scale. One completed cell = 30 notes.\nPage 2 of 7\n",
+      "text_sha256": "6a3f1596f6569a091d3ac74b9a8d52738c75b13c755a5f42b58b30164d561415"
+    },
+    "L13-PDF1-p3": {
+      "format": "pdf",
+      "page": 3,
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "sha256": "0730f903d6d7a992b1f366f0e4977c05ba59d6467666fde5a7ea15ff20ca040c",
+      "text": "Level 13 - Major Scale Two-Octave Six-String Neck Ladder\nRungs 01-03: play each card as one cell, then move +1 fret\nFor the descending pass, read the cards in reverse order and move -1 fret\n01  A MAJOR\nROOT E5  |  FRAME 4-7\nNotes: A B C# D E F# G# | A B C# D E F# G# A\n30-NOTE TWO-OCTAVE CELL\nDeg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|\nFng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|\ne  |---------------------------------------4--5--5--4-----------------------------------------|\nB  |---------------------------------5--7--------------7--5-----------------------------------|\nG  |------------------------4--6--7--------------------------7--6--4--------------------------|\nD  |---------------4--6--7--------------------------------------------7--6--4-----------------|\nA  |------4--5--7--------------------------------------------------------------7--5--4--------|\nE  |5--7--------------------------------------------------------------------------------7--5--|\nReturn to the low root; release pressure; move the entire frame one fret.\nD-start and U-start\n02  BB MAJOR\nROOT E6  |  FRAME 5-8\nNotes: Bb C D Eb F G A | Bb C D Eb F G A Bb\n30-NOTE TWO-OCTAVE CELL\nDeg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|\nFng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|\ne  |---------------------------------------5--6--6--5-----------------------------------------|\nB  |---------------------------------6--8--------------8--6-----------------------------------|\nG  |------------------------5--7--8--------------------------8--7--5--------------------------|\nD  |---------------5--7--8--------------------------------------------8--7--5-----------------|\nA  |------5--6--8--------------------------------------------------------------8--6--5--------|\nE  |6--8--------------------------------------------------------------------------------8--6--|\nReturn to the low root; release pressure; move the entire frame one fret.\nD-start and U-start\n03  B MAJOR\nROOT E7  |  FRAME 6-9\nNotes: B C# D# E F# G# A# | B C# D# E F# G# A# B\n30-NOTE TWO-OCTAVE CELL\nDeg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|\nFng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|\ne  |---------------------------------------6--7--7--6-----------------------------------------|\nB  |---------------------------------7--9--------------9--7-----------------------------------|\nG  |------------------------6--8--9--------------------------9--8--6--------------------------|\nD  |---------------6--8--9--------------------------------------------9--8--6-----------------|\nA  |------6--7--9--------------------------------------------------------------9--7--6--------|\nE  |7--9--------------------------------------------------------------------------------9--7--|\nReturn to the low root; release pressure; move the entire frame one fret.\nD-start and U-start\nStandard tuning. Compact two-octave 6th-string-root major scale. One completed cell = 30 notes.\nPage 3 of 7\n",
+      "text_sha256": "e0e134174d1a908d4f9646c7cebc21b01c3a08021bfe33a04989ed65982e1b14"
+    },
+    "L13-TXT1-234-239": {
+      "first_line": 234,
+      "format": "txt",
+      "last_line": 239,
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "973b9c614546e432282dcc0ba415a21c0bc28858e61e7910ef2d0559329a0956",
+      "text": "FULL ROUND-TRIP CHALLENGE\nStart at A major, low-E fret 5. Play rungs 01-13 without restarting the pick cycle. Reverse after the\nfret-17 A-major cell and return through rungs 12-01. Say each key name aloud before its low root.\nRepeat the complete route with the opposite starting stroke.\n\nCLEAN-ROUND STANDARD",
+      "text_sha256": "51eeb618f3d127258309a4514388a6cf824f32d7a4b37cd33da76f9b6ea216ff"
+    },
+    "L13-TXT1-30-49": {
+      "first_line": 30,
+      "format": "txt",
+      "last_line": 49,
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "973b9c614546e432282dcc0ba415a21c0bc28858e61e7910ef2d0559329a0956",
+      "text": "The B-string tuning offset changes the visible pattern. Rebuild the assigned fingering instead of copying\nthe G-string geometry onto the B and high-e strings.\n\nCELL AND PICKING RULE\nAscend from the low root through the middle octave to the high root, repeat the high root at the turn,\nthen descend to the low root. The result is 30 notes, so the next key begins with the same pick orientation.\nD-start: strict D-U alternate picking through every string crossing, the turn, and the one-fret relocation.\nU-start: strict U-D alternate picking through every string crossing, the turn, and the one-fret relocation.\nDo not restart the pick cycle on a new string, at either octave, at the scale turn, or after shifting one fret.\n\nNECK ROUTE\nUP:   A(5) > Bb(6) > B(7) > C(8) > Db(9) > D(10) > Eb(11) > E(12) > F(13) > Gb(14) > G(15) > Ab(16) > A(17)\nDOWN: A(17) > Ab(16) > G(15) > Gb(14) > F(13) > E(12) > Eb(11) > D(10) > Db(9) > C(8) > B(7) > Bb(6) > A(5)\n\nPRACTICE RULE\nBegin 10-15 BPM below your clean Level 12 tempo. First master the A-major cell alone. Then use 2-3 neighboring\nrungs, play even eighth notes, and pause one beat after each 30-note cell while moving the complete frame one fret.\nRepeat with both pick starts. Remove the pause, connect the ladder, reverse at fret 17, and return to fret 5.\nAdd 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, string-crossing noise, dragged shifts,\nor rising tension. Advance after the full route is clean with both pick starts on two separate days.",
+      "text_sha256": "0fb8d28e8be624394899805d0cd50cff86626c43087ce5657bba99d9891e49d0"
+    },
+    "L13-TXT1-80-91": {
+      "first_line": 80,
+      "format": "txt",
+      "last_line": 91,
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "973b9c614546e432282dcc0ba415a21c0bc28858e61e7910ef2d0559329a0956",
+      "text": "RUNG 03 OF 13 - B MAJOR - ROOT ON LOW E FRET 7 - FRAME 6-9\nScale tones across two octaves: B C# D# E F# G# A# B C# D# E F# G# A# B\n30-note cell: low root to high root, repeat the high root, then return to the low root.\nDeg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|\nFng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|\ne  |---------------------------------------6--7--7--6-----------------------------------------|\nB  |---------------------------------7--9--------------9--7-----------------------------------|\nG  |------------------------6--8--9--------------------------9--8--6--------------------------|\nD  |---------------6--8--9--------------------------------------------9--8--6-----------------|\nA  |------6--7--9--------------------------------------------------------------9--7--6--------|\nE  |7--9--------------------------------------------------------------------------------9--7--|\nFinish on the low root, release pressure, and move the entire frame one fret in the route direction.",
+      "text_sha256": "ec2d12b1d2f6491dc8e0ec65c4e270b4db962c8190e8e73fa406739ec4dcb405"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "authority": "Root-released exact Rung08 canonical IDs; one-case installed candidate",
+  "records": {
+    "fg:item:001178": {
+      "legacy_level": 12,
+      "occurrences": {
+        "L12-rung08:note:001": "fg:item:001178:event:0001",
+        "L12-rung08:note:002": "fg:item:001178:event:0002",
+        "L12-rung08:note:003": "fg:item:001178:event:0003",
+        "L12-rung08:note:004": "fg:item:001178:event:0004",
+        "L12-rung08:note:005": "fg:item:001178:event:0005",
+        "L12-rung08:note:006": "fg:item:001178:event:0006",
+        "L12-rung08:note:007": "fg:item:001178:event:0007",
+        "L12-rung08:note:008": "fg:item:001178:event:0008",
+        "L12-rung08:note:009": "fg:item:001178:event:0009",
+        "L12-rung08:note:010": "fg:item:001178:event:0010",
+        "L12-rung08:note:011": "fg:item:001178:event:0011",
+        "L12-rung08:note:012": "fg:item:001178:event:0012",
+        "L12-rung08:note:013": "fg:item:001178:event:0013",
+        "L12-rung08:note:014": "fg:item:001178:event:0014",
+        "L12-rung08:note:015": "fg:item:001178:event:0015",
+        "L12-rung08:note:016": "fg:item:001178:event:0016"
+      },
+      "variants": {
+        "cell-D-start": "fg:variant:007694",
+        "cell-U-start": "fg:variant:007695"
+      }
+    }
+  },
+  "version": "control-allocation.1"
+}

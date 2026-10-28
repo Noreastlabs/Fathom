@@ -1,0 +1,95 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6686,
+      "kind": "file",
+      "path": "Prompts/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/full-template-prompt.md",
+      "role": "execution prompt",
+      "sha256": "20d22b729c00a8cc96d6564f87f179cd42f9186ee701a08d9f63b2b28dcfc197"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4184,
+      "kind": "file",
+      "path": "Results/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/producer-report.md",
+      "role": "producer decision report",
+      "sha256": "1b242e591c2327502e44420d197f9d8972712717f13178b6ed2c58c0956190b5"
+    },
+    {
+      "allocated_bytes": 20480,
+      "bytes": 19169,
+      "kind": "file",
+      "path": "Results/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/timing-overlay.json",
+      "role": "timing-only overlay",
+      "sha256": "c93424f76049a2790e79b5abbec0fb98aef06ff9b60696c3e1ad8f840805753c"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 9175,
+      "kind": "file",
+      "path": "Results/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/machine-checks.json",
+      "role": "source and mutation checks",
+      "sha256": "b5f93cfd7fcac06300b02276346ee84075696a747c867ea404dc7d54dab04444"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 825,
+      "kind": "file",
+      "path": "Results/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/git-state.json",
+      "role": "scoped git snapshot",
+      "sha256": "4e6dddb45707f890c2631bb80da2c68eed6c1c24a85fa0180f822f3a03b6795b"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1227,
+      "kind": "file",
+      "path": "Results/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/evidence-audit.json",
+      "role": "pre-manifest evidence audit",
+      "sha256": "9a5dee42dabde6caf28eb083f72cb2845ab398f2d9190ae35d6854df638d53b0"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 11203,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/derive.py",
+      "role": "rebuildable derivation",
+      "sha256": "869f51ec53d590ba9bdca87dcee6013fd8f3f325885609e6d2f1252ec6808f01"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7089,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/pdf-page1.txt",
+      "role": "original PDF page 1 text proof",
+      "sha256": "397b199c084f88cb322015a0a360b77a2a86ca8f78ee365f4782388f2f87bf14"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7264,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/pdf-page5.txt",
+      "role": "original PDF page 5 text proof",
+      "sha256": "9c8709ffb80f4fc0e692c5f10caaab52d2ed6aaada0e5c08ff269d983420e845"
+    },
+    {
+      "allocated_bytes": 262144,
+      "bytes": 259178,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/pdf-page1.png",
+      "role": "original PDF page 1 visual proof",
+      "sha256": "932a85b5aa043b34b2d237b876d875e8d4c809186140a260ea5d48a813ab294e"
+    },
+    {
+      "allocated_bytes": 200704,
+      "bytes": 197272,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r02/level015-rung06-relative-timing/producer-r01/pdf-page5.png",
+      "role": "original PDF page 5 visual proof",
+      "sha256": "da4eeeb615cabef5c635eb68cde8cc8d4162114efb432177b0da936d666cc590"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

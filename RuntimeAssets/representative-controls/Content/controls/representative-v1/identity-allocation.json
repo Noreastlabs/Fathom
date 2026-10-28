@@ -1,0 +1,290 @@
+{
+  "version": "control-allocation.1",
+  "authority": "Executing Technical integration owner /root; GOAL8; allocation is independent of future output ordering and labels",
+  "records": {
+    "fg:item:000001": {
+      "legacy_level": 1,
+      "occurrences": {
+        "ascending:1": "fg:item:000001:event:0001",
+        "ascending:2": "fg:item:000001:event:0002",
+        "ascending:3": "fg:item:000001:event:0003",
+        "ascending:4": "fg:item:000001:event:0004",
+        "ascending:5": "fg:item:000001:event:0005",
+        "ascending:6": "fg:item:000001:event:0006",
+        "ascending:7": "fg:item:000001:event:0007",
+        "ascending:8": "fg:item:000001:event:0008",
+        "ascending:9": "fg:item:000001:event:0009",
+        "ascending:10": "fg:item:000001:event:0010",
+        "ascending:11": "fg:item:000001:event:0011",
+        "ascending:12": "fg:item:000001:event:0012",
+        "ascending:13": "fg:item:000001:event:0013",
+        "ascending:14": "fg:item:000001:event:0014",
+        "ascending:15": "fg:item:000001:event:0015",
+        "ascending:16": "fg:item:000001:event:0016",
+        "ascending:17": "fg:item:000001:event:0017",
+        "ascending:18": "fg:item:000001:event:0018",
+        "ascending:19": "fg:item:000001:event:0019",
+        "ascending:20": "fg:item:000001:event:0020",
+        "ascending:21": "fg:item:000001:event:0021",
+        "ascending:22": "fg:item:000001:event:0022",
+        "ascending:23": "fg:item:000001:event:0023",
+        "ascending:24": "fg:item:000001:event:0024",
+        "descending:1": "fg:item:000001:event:0025",
+        "descending:2": "fg:item:000001:event:0026",
+        "descending:3": "fg:item:000001:event:0027",
+        "descending:4": "fg:item:000001:event:0028",
+        "descending:5": "fg:item:000001:event:0029",
+        "descending:6": "fg:item:000001:event:0030",
+        "descending:7": "fg:item:000001:event:0031",
+        "descending:8": "fg:item:000001:event:0032",
+        "descending:9": "fg:item:000001:event:0033",
+        "descending:10": "fg:item:000001:event:0034",
+        "descending:11": "fg:item:000001:event:0035",
+        "descending:12": "fg:item:000001:event:0036",
+        "descending:13": "fg:item:000001:event:0037",
+        "descending:14": "fg:item:000001:event:0038",
+        "descending:15": "fg:item:000001:event:0039",
+        "descending:16": "fg:item:000001:event:0040",
+        "descending:17": "fg:item:000001:event:0041",
+        "descending:18": "fg:item:000001:event:0042",
+        "descending:19": "fg:item:000001:event:0043",
+        "descending:20": "fg:item:000001:event:0044",
+        "descending:21": "fg:item:000001:event:0045",
+        "descending:22": "fg:item:000001:event:0046",
+        "descending:23": "fg:item:000001:event:0047",
+        "descending:24": "fg:item:000001:event:0048"
+      },
+      "variants": {
+        "ascending-D": "fg:variant:000001",
+        "ascending-U": "fg:variant:000002",
+        "descending-D": "fg:variant:000003",
+        "descending-U": "fg:variant:000004"
+      }
+    },
+    "fg:item:000002": {
+      "legacy_level": 3,
+      "occurrences": {
+        "ascending:1": "fg:item:000002:event:0001",
+        "ascending:2": "fg:item:000002:event:0002",
+        "ascending:3": "fg:item:000002:event:0003",
+        "ascending:4": "fg:item:000002:event:0004",
+        "ascending:5": "fg:item:000002:event:0005",
+        "ascending:6": "fg:item:000002:event:0006",
+        "ascending:7": "fg:item:000002:event:0007",
+        "ascending:8": "fg:item:000002:event:0008",
+        "ascending:9": "fg:item:000002:event:0009",
+        "ascending:10": "fg:item:000002:event:0010",
+        "ascending:11": "fg:item:000002:event:0011",
+        "ascending:12": "fg:item:000002:event:0012",
+        "ascending:13": "fg:item:000002:event:0013",
+        "ascending:14": "fg:item:000002:event:0014",
+        "ascending:15": "fg:item:000002:event:0015",
+        "ascending:16": "fg:item:000002:event:0016",
+        "ascending:17": "fg:item:000002:event:0017",
+        "ascending:18": "fg:item:000002:event:0018",
+        "ascending:19": "fg:item:000002:event:0019",
+        "ascending:20": "fg:item:000002:event:0020",
+        "descending:1": "fg:item:000002:event:0021",
+        "descending:2": "fg:item:000002:event:0022",
+        "descending:3": "fg:item:000002:event:0023",
+        "descending:4": "fg:item:000002:event:0024",
+        "descending:5": "fg:item:000002:event:0025",
+        "descending:6": "fg:item:000002:event:0026",
+        "descending:7": "fg:item:000002:event:0027",
+        "descending:8": "fg:item:000002:event:0028",
+        "descending:9": "fg:item:000002:event:0029",
+        "descending:10": "fg:item:000002:event:0030",
+        "descending:11": "fg:item:000002:event:0031",
+        "descending:12": "fg:item:000002:event:0032",
+        "descending:13": "fg:item:000002:event:0033",
+        "descending:14": "fg:item:000002:event:0034",
+        "descending:15": "fg:item:000002:event:0035",
+        "descending:16": "fg:item:000002:event:0036",
+        "descending:17": "fg:item:000002:event:0037",
+        "descending:18": "fg:item:000002:event:0038",
+        "descending:19": "fg:item:000002:event:0039",
+        "descending:20": "fg:item:000002:event:0040"
+      },
+      "variants": {
+        "sixteenths-ascending-D-after_crossing": "fg:variant:000005",
+        "sixteenths-ascending-D-even": "fg:variant:000006",
+        "sixteenths-ascending-U-after_crossing": "fg:variant:000007",
+        "sixteenths-ascending-U-even": "fg:variant:000008",
+        "sixteenths-descending-D-after_crossing": "fg:variant:000009",
+        "sixteenths-descending-D-even": "fg:variant:000010",
+        "sixteenths-descending-U-after_crossing": "fg:variant:000011",
+        "sixteenths-descending-U-even": "fg:variant:000012",
+        "triplets-ascending-D-after_crossing": "fg:variant:000013",
+        "triplets-ascending-D-even": "fg:variant:000014",
+        "triplets-ascending-U-after_crossing": "fg:variant:000015",
+        "triplets-ascending-U-even": "fg:variant:000016",
+        "triplets-descending-D-after_crossing": "fg:variant:000017",
+        "triplets-descending-D-even": "fg:variant:000018",
+        "triplets-descending-U-after_crossing": "fg:variant:000019",
+        "triplets-descending-U-even": "fg:variant:000020",
+        "quintuplets-ascending-D-after_crossing": "fg:variant:000021",
+        "quintuplets-ascending-D-even": "fg:variant:000022",
+        "quintuplets-ascending-U-after_crossing": "fg:variant:000023",
+        "quintuplets-ascending-U-even": "fg:variant:000024",
+        "quintuplets-descending-D-after_crossing": "fg:variant:000025",
+        "quintuplets-descending-D-even": "fg:variant:000026",
+        "quintuplets-descending-U-after_crossing": "fg:variant:000027",
+        "quintuplets-descending-U-even": "fg:variant:000028"
+      }
+    },
+    "fg:item:000003": {
+      "legacy_level": 12,
+      "occurrences": {
+        "selected:1": "fg:item:000003:event:0001",
+        "selected:2": "fg:item:000003:event:0002",
+        "selected:3": "fg:item:000003:event:0003",
+        "selected:4": "fg:item:000003:event:0004",
+        "selected:5": "fg:item:000003:event:0005",
+        "selected:6": "fg:item:000003:event:0006",
+        "selected:7": "fg:item:000003:event:0007",
+        "selected:8": "fg:item:000003:event:0008",
+        "selected:9": "fg:item:000003:event:0009",
+        "selected:10": "fg:item:000003:event:0010",
+        "selected:11": "fg:item:000003:event:0011",
+        "selected:12": "fg:item:000003:event:0012",
+        "selected:13": "fg:item:000003:event:0013",
+        "selected:14": "fg:item:000003:event:0014",
+        "selected:15": "fg:item:000003:event:0015",
+        "selected:16": "fg:item:000003:event:0016"
+      },
+      "variants": {
+        "connected-D": "fg:variant:000029",
+        "connected-U": "fg:variant:000030",
+        "pause-D": "fg:variant:000031",
+        "pause-U": "fg:variant:000032"
+      }
+    },
+    "fg:item:000004": {
+      "legacy_level": 15,
+      "occurrences": {
+        "selected:1": "fg:item:000004:event:0001",
+        "selected:2": "fg:item:000004:event:0002",
+        "selected:3": "fg:item:000004:event:0003"
+      },
+      "variants": {
+        "triplets-D": "fg:variant:000033",
+        "triplets-U": "fg:variant:000034",
+        "sextuplets-half-marking-D": "fg:variant:000035",
+        "sextuplets-half-marking-U": "fg:variant:000036"
+      }
+    },
+    "fg:item:000005": {
+      "legacy_level": 29,
+      "occurrences": {},
+      "variants": {
+        "navigation": "fg:variant:000037"
+      }
+    },
+    "fg:item:000006": {
+      "legacy_level": 39,
+      "occurrences": {
+        "selected:1": "fg:item:000006:event:0001",
+        "selected:2": "fg:item:000006:event:0002",
+        "selected:3": "fg:item:000006:event:0003",
+        "selected:4": "fg:item:000006:event:0004",
+        "selected:5": "fg:item:000006:event:0005",
+        "selected:6": "fg:item:000006:event:0006",
+        "selected:7": "fg:item:000006:event:0007",
+        "selected:8": "fg:item:000006:event:0008"
+      },
+      "variants": {
+        "A-major": "fg:variant:000038",
+        "F#-minor": "fg:variant:000039"
+      }
+    },
+    "fg:item:000007": {
+      "legacy_level": 48,
+      "occurrences": {
+        "selected:1": "fg:item:000007:event:0001",
+        "selected:2": "fg:item:000007:event:0002",
+        "selected:3": "fg:item:000007:event:0003",
+        "selected:4": "fg:item:000007:event:0004",
+        "selected:5": "fg:item:000007:event:0005",
+        "selected:6": "fg:item:000007:event:0006",
+        "selected:7": "fg:item:000007:event:0007",
+        "selected:8": "fg:item:000007:event:0008",
+        "selected:9": "fg:item:000007:event:0009",
+        "selected:10": "fg:item:000007:event:0010",
+        "selected:11": "fg:item:000007:event:0011",
+        "selected:12": "fg:item:000007:event:0012",
+        "selected:13": "fg:item:000007:event:0013",
+        "selected:14": "fg:item:000007:event:0014",
+        "selected:15": "fg:item:000007:event:0015",
+        "selected:16": "fg:item:000007:event:0016"
+      },
+      "variants": {
+        "P1-legend-review": "fg:variant:000040"
+      }
+    },
+    "fg:item:000008": {
+      "legacy_level": 49,
+      "occurrences": {
+        "selected:1": "fg:item:000008:event:0001",
+        "selected:2": "fg:item:000008:event:0002"
+      },
+      "variants": {
+        "E": "fg:variant:000041",
+        "Em": "fg:variant:000042"
+      }
+    },
+    "fg:item:000009": {
+      "legacy_level": 58,
+      "occurrences": {
+        "selected:1": "fg:item:000009:event:0001",
+        "selected:2": "fg:item:000009:event:0002",
+        "selected:3": "fg:item:000009:event:0003",
+        "selected:4": "fg:item:000009:event:0004",
+        "selected:5": "fg:item:000009:event:0005",
+        "selected:6": "fg:item:000009:event:0006",
+        "selected:7": "fg:item:000009:event:0007",
+        "selected:8": "fg:item:000009:event:0008",
+        "selected:9": "fg:item:000009:event:0009",
+        "selected:10": "fg:item:000009:event:0010",
+        "selected:11": "fg:item:000009:event:0011",
+        "selected:12": "fg:item:000009:event:0012",
+        "selected:13": "fg:item:000009:event:0013",
+        "selected:14": "fg:item:000009:event:0014",
+        "selected:15": "fg:item:000009:event:0015",
+        "selected:16": "fg:item:000009:event:0016"
+      },
+      "variants": {
+        "A1-mask": "fg:variant:000043"
+      }
+    },
+    "fg:item:000010": {
+      "legacy_level": 74,
+      "occurrences": {},
+      "variants": {
+        "overview": "fg:variant:000044",
+        "three-against-two": "fg:variant:000045",
+        "four-against-three": "fg:variant:000046"
+      }
+    },
+    "fg:item:000011": {
+      "legacy_level": 83,
+      "occurrences": {},
+      "variants": {
+        "fixed-melody-task": "fg:variant:000047"
+      }
+    },
+    "fg:item:000012": {
+      "legacy_level": 97,
+      "occurrences": {},
+      "variants": {
+        "48-bar-capstone": "fg:variant:000048"
+      }
+    },
+    "fg:item:000013": {
+      "legacy_level": 105,
+      "occurrences": {},
+      "variants": {
+        "final-exam": "fg:variant:000049"
+      }
+    }
+  }
+}

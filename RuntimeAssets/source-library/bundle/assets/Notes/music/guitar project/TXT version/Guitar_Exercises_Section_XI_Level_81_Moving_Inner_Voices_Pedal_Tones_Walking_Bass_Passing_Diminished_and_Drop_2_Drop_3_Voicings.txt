@@ -1,0 +1,158 @@
+Guitar Exercises - Section XI, Level 81
+MOVING INNER VOICES, PEDAL TONES, WALKING BASS, PASSING DIMINISHED CHORDS, DROP-2 / DROP-3 VOICINGS
+
+PURPOSE
+Extend chord melody from static outer-voice control into moving internal architecture while preserving melody, bass, pulse, and harmonic function.
+
+ROADMAP LOCK
+This is Level 81 of the fixed 105-level universal curriculum. Level 105 is the hard stop.
+
+VOICE PRIORITY
+1. melody
+2. bass
+3. guide tones / pedals
+4. extensions and optional color
+
+WRITTEN WORKLOAD
+A. Moving inner-voice lines: 96 events
+B. Pedal-tone independence: 96 events
+C. Walking-bass construction: 128 events
+D. Passing diminished chords: 96 events
+E. Drop-2 voicing control: 128 events
+F. Drop-3 spread voicings: 96 events
+G. Independent-voice integration patterns: 128 events
+H. Four eight-bar arrangements: 160 events
+I. Twenty-four-bar capstone: 192 events
+J. Recovery and reduction audit: 64 events
+TOTAL: 1184 events
+
+MODULE A - MOVING INNER VOICES
+Cmaj7: line B-C-B-A; degrees 7-R-7-6; C bass; hold E or G as lower inner voice.
+Am7: line G-G#-A-G; degrees b7-7-R-b7; A bass; G# is a chromatic passing voice; do not rename Am.
+Dm7: line C-C#-D-C; degrees b7-7-R-b7; D bass; chromatic upper neighbor resolves into D.
+G7: line F-F#-G-F; degrees b7-7-R-b7; G bass; F# is a passing tone, not a new chord quality.
+Cmaj7 -> A7: line B-Bb-A-G#; degrees 7-b7-6-#5; C -> A bass; hear the inner descent while melody E stays fixed.
+Dm7 -> G7: line C-B-Bb-B; degrees b7-3-b3-3; D -> G bass; target B as the G7 third.
+
+MODULE B - PEDAL TONES
+High E pedal: harmony Cmaj7 | Am7 | Fmaj7 | E7; pedal E-E-E-E; functions E = 3,5,7,root.
+High G pedal: harmony Cmaj7 | Em7 | Am7 | G7; pedal G-G-G-G; functions G = 5,b3,b7,root.
+High C pedal: harmony Am7 | Fmaj7 | Dm7 | G7; pedal C-C-C-C; functions C = b3,5,b7,11.
+Bass C pedal: harmony Cmaj7 | Dm7/C | G7/C | Cmaj7; pedal C-C-C-C; functions upper harmony changes above fixed tonic.
+Bass A pedal: harmony Am7 | D/A | F/A | E7/A; pedal A-A-A-A; functions hear 1,5,3,11 over changing upper structure.
+Inner E pedal: harmony Cmaj7 | Am7 | Fmaj7 | E7; pedal E-E-E-E; functions retain one middle voice while outer voices move.
+
+MODULE C - WALKING BASS
+C major descending: bass C-B-A-G; harmony Cmaj7 -> Cmaj7/B -> Am7 -> G7.
+A minor descending: bass A-G-F-E; harmony Am7 -> G7 -> Fmaj7 -> E7.
+C major ascending: bass C-D-E-F; harmony Cmaj7 -> Dm7 -> Em7 -> Fmaj7.
+A minor ascending: bass A-B-C-D; harmony Am7 -> Bm7b5 -> Cmaj7 -> Dm7.
+Approach G7: bass D-E-F-F# -> G; harmony Dm7 over D-E-F-F#, then G7.
+Approach Cmaj7: bass G-F-E-D-Db -> C; harmony G7 descent with chromatic Db approach.
+Approach Am7: bass E-F-F#-G-G# -> A; harmony E7 / passing diminished color into Am.
+Turnaround walk: bass C-B-Bb-A-Ab-G; harmony Cmaj7 -> C7/Bb -> A7 -> Ab7 -> G7 color route.
+
+MODULE D - PASSING DIMINISHED
+Cmaj7 -> C#dim7 -> Dm7 | source x 3 5 4 5 x | diminished x 4 5 3 5 x | destination x 5 7 5 6 x | top idea G
+Dm7 -> D#dim7 -> Em7 | source x 5 7 5 6 x | diminished x 6 7 5 7 x | destination x 7 9 7 8 x | top idea A
+Fmaj7 -> F#dim7 -> G7 | source x 8 10 9 10 x | diminished x 9 10 8 10 x | destination x 10 12 10 12 x | top idea C
+G7 -> G#dim7 -> Am7 | source x 10 12 10 12 x | diminished x 11 12 10 12 x | destination x 12 14 12 13 x | top idea D/E
+Am7 -> A#dim7 -> Bm7b5 | source x 12 14 12 13 x | diminished x 13 14 12 14 x | destination x 14 15 14 15 x | top idea E/F
+Cmaj7 -> Edim7 -> Dm7/F | source x 3 5 4 5 x | diminished x x 2 3 2 3 | destination x x 3 2 3 1 | top idea G/F
+E7 -> G#dim7 -> Am | source 0 2 0 1 0 0 | diminished 4 x 3 4 3 x | destination 5 7 7 5 5 5 | top idea B
+A7 -> C#dim7 -> Dm | source 5 7 5 6 5 5 | diminished 9 x 8 9 8 x | destination x 5 7 7 6 5 | top idea E/F
+
+MODULE E - DROP-2 VOICINGS
+Cmaj7: x 3 5 4 5 x | C-G-B-E | R-5-7-3
+Cm7: x 3 5 3 4 x | C-G-Bb-Eb | R-5-b7-b3
+C7: x 3 5 3 5 x | C-G-Bb-E | R-5-b7-3
+Cm7b5: x 3 4 3 4 x | C-Gb-Bb-Eb | R-b5-b7-b3
+Dm7: x 5 7 5 6 x | D-A-C-F | R-5-b7-b3
+G7: x 10 12 10 12 x | G-D-F-B | R-5-b7-3
+Am7: x 12 14 12 13 x | A-E-G-C | R-5-b7-b3
+Fmaj7: x 8 10 9 10 x | F-C-E-A | R-5-7-3
+
+MODULE F - DROP-3 / SPREAD VOICINGS
+Cmaj7: 8 x 9 9 8 x | C-E-B-G | R-3-7-5
+Cm7: 8 x 8 8 8 x | C-Eb-Bb-G | R-b3-b7-5
+C7: 8 x 8 9 8 x | C-Bb-E-G | R-b7-3-5
+Dm7: 10 x 10 10 10 x | D-F-C-A | R-b3-b7-5
+G7: 3 x 3 4 3 x | G-F-B-D | R-b7-3-5
+Am7: 5 x 5 5 5 x | A-G-C-E | R-b7-b3-5
+
+MODULE G - INDEPENDENT-VOICE INTEGRATION
+Pedal melody + walking bass: Melody G held; bass C-B-A-G; Cmaj7 -> Cmaj7/B -> Am7 -> G7.
+Pedal bass + moving top: C bass; melody E-F-G-E; Cmaj7 -> Dm7/C -> G7/C -> Cmaj7.
+Walking bass + guide dyad: Bass D-E-F-F# -> G; guide voices C->B and F->F over Dm7->G7.
+Passing diminished + melody: Cmaj7 -> C#dim7 -> Dm7; hold G on top, then resolve to F or A.
+Drop-2 comp + melody answer: Cmaj7 / Am7 / Dm7 / G7; one blocked voicing, then two-note top-line answer.
+Spread voicing + bass fill: Cmaj7 -> Am7; hold upper three notes; bass walks C-B-A.
+Contrary outer voices: Bass C-D-E-F; melody G-F-E-D; inner thirds/sevenths only on beats 1 and 3.
+Reduction ladder: full voicing -> drop inner -> bass+melody -> melody; restore voices in reverse order.
+
+MODULE H - FOUR EIGHT-BAR ARRANGEMENTS
+Arrangement 1 - C major walking ballad
+| Cmaj7 | Cmaj7/B | Am7 | G7 |
+| Fmaj7 | F#dim7 | G7 | Cmaj7 |
+Melody: E G | G E | C E | B D | A C | C A | B D | E C
+Bass:   C B | A G | F F# | G C
+Arrangement 2 - A minor pedal and cadence
+| Am7 | G7 | Fmaj7 | E7 |
+| Am7 | Dm7 | E7 | AmMaj7 |
+Melody: E E | E D | E C | B G# | C E | F A | G# B | G# A
+Bass:   A G | F E | A D | E A
+Arrangement 3 - ii-V-I with passing diminished
+| Dm7 | D#dim7 | Em7 | A7 |
+| Dm7 | G7 | Cmaj7 | C#dim7 |
+Melody: F A | F# A | G B | C# E | F A | B D | E G | G E
+Bass:   D D# | E A | D G | C C#
+Arrangement 4 - register-spread study
+| Cmaj7 | Am7 | Dm7 | G7 |
+| Em7 | A7 | Dm7 | G7 |
+Texture: drop-2 -> spread -> drop-2 -> spread, then reverse
+Melody targets: E | C | F | B | G | C# | A | F
+
+MODULE I - TWENTY-FOUR-BAR CAPSTONE
+Bar 1: Cmaj7; bass C; melody E; statement.
+Bar 2: Cmaj7/B; bass B; melody G; walking descent.
+Bar 3: Am7; bass A; melody C; answer.
+Bar 4: G7; bass G; melody B; cadence.
+Bar 5: Fmaj7; bass F; melody A; expansion.
+Bar 6: F#dim7; bass F#; melody A; passing diminished.
+Bar 7: G7; bass G; melody B; dominant.
+Bar 8: Cmaj7; bass C; melody E; tonic.
+Bar 9: Am7; bass A; melody E; pedal melody begins.
+Bar 10: G7; bass G; melody E; E remains top color.
+Bar 11: Fmaj7; bass F; melody E; major seventh top.
+Bar 12: E7; bass E; melody G#; dominant target.
+Bar 13: Am7; bass A; melody C; minor tonic.
+Bar 14: Dm7; bass D; melody F; predominant.
+Bar 15: E7; bass E; melody G#; leading tone.
+Bar 16: AmMaj7; bass A; melody G#; minor-major tonic.
+Bar 17: Dm7; bass D; melody F; ii in C.
+Bar 18: D#dim7; bass D#; melody F#; passing diminished.
+Bar 19: Em7; bass E; melody G; arrival.
+Bar 20: A7; bass A; melody C#; secondary dominant.
+Bar 21: Dm7; bass D; melody A; release.
+Bar 22: G7; bass G; melody B; final dominant.
+Bar 23: Cmaj7; bass C; melody G; broad tonic.
+Bar 24: Cmaj7; bass C; melody E; final melody close.
+
+MODULE J - RECOVERY
+Melody disappears: remove one inner voice; restore bass + melody first.
+Pedal tone breaks: freeze upper/lower voices; rebuild harmony around the pedal.
+Walking bass arrives late: reduce chord to shell; make bass land on beat 1.
+Passing diminished sounds random: play source and destination only; reinsert diminished as one-beat connector.
+Drop-2 grip is noisy: arpeggiate four voices; restore blocked attack after clean scan.
+Spread voicing causes stretch: omit fifth or extension; preserve melody, bass, and guide tone.
+Voice crossing confuses melody: move inner voice down an octave; keep top line highest.
+Form lost: roots + melody targets only; re-enter full texture at cadence.
+
+MASTERY
+Pass the 24-bar capstone at 14/16 or better on two separate days, with no zero in melody clarity, bass timing, pulse/form, or recovery.
+
+NEXT
+Level 82: walking-bass chord melody, chromatic approach bass lines, bass substitutions, stronger bass-to-chord independence, and longer solo-guitar arrangements.
+
+HARD STOP
+The universal curriculum ends at Level 105. There is no Level 106 in the core sequence.

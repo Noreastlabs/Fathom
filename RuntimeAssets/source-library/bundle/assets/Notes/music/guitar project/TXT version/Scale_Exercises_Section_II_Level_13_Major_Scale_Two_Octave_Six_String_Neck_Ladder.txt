@@ -1,0 +1,256 @@
+SCALE EXERCISES - SECTION II, LEVEL 13
+MAJOR SCALE TWO-OCTAVE SIX-STRING NECK LADDER: A TO A
+
+PURPOSE
+Extend the compact Level 12 major-scale frame across all six strings and two full octaves. Play the
+complete 30-note up/down cell, release pressure, move the entire hand-and-thumb frame exactly one fret,
+and repeat through every major key. Begin with A major at low-E fret 5, climb to A major at fret 17,
+then reverse and return one fret at a time.
+
+IMPORTANT INTERPRETATION
+Moving one fixed scale shape by one fret transposes it. A major is the starting rung, not the key of every rung.
+A fixed-key A-major exercise in every neck position requires changing the note layout and remains a separate branch.
+
+MAJOR-SCALE FORMULA
+Degrees: 1 2 3 4 5 6 7, repeated in the second octave
+Intervals: whole - whole - half - whole - whole - whole - half
+
+COMPACT TWO-OCTAVE SHAPE - ROOT FRET R ON LOW E
+Low E string: R, R+2               Fingers 2,4
+A string:     R-1, R, R+2          Fingers 1,2,4
+D string:     R-1, R+1, R+2        Fingers 1,3,4
+G string:     R-1, R+1, R+2        Fingers 1,3,4
+B string:     R, R+2               Fingers 2,4
+High e string:R-1, R               Fingers 1,2
+The four-fret hand frame still runs from R-1 through R+2.
+
+STRING-DISTRIBUTION RULE
+Ascending note counts by string: 2 - 3 - 3 - 3 - 2 - 2.
+Descending note counts by string: 2 - 2 - 3 - 3 - 3 - 2.
+The B-string tuning offset changes the visible pattern. Rebuild the assigned fingering instead of copying
+the G-string geometry onto the B and high-e strings.
+
+CELL AND PICKING RULE
+Ascend from the low root through the middle octave to the high root, repeat the high root at the turn,
+then descend to the low root. The result is 30 notes, so the next key begins with the same pick orientation.
+D-start: strict D-U alternate picking through every string crossing, the turn, and the one-fret relocation.
+U-start: strict U-D alternate picking through every string crossing, the turn, and the one-fret relocation.
+Do not restart the pick cycle on a new string, at either octave, at the scale turn, or after shifting one fret.
+
+NECK ROUTE
+UP:   A(5) > Bb(6) > B(7) > C(8) > Db(9) > D(10) > Eb(11) > E(12) > F(13) > Gb(14) > G(15) > Ab(16) > A(17)
+DOWN: A(17) > Ab(16) > G(15) > Gb(14) > F(13) > E(12) > Eb(11) > D(10) > Db(9) > C(8) > B(7) > Bb(6) > A(5)
+
+PRACTICE RULE
+Begin 10-15 BPM below your clean Level 12 tempo. First master the A-major cell alone. Then use 2-3 neighboring
+rungs, play even eighth notes, and pause one beat after each 30-note cell while moving the complete frame one fret.
+Repeat with both pick starts. Remove the pause, connect the ladder, reverse at fret 17, and return to fret 5.
+Add 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, string-crossing noise, dragged shifts,
+or rising tension. Advance after the full route is clean with both pick starts on two separate days.
+
+======================================================================================================================
+RUNG 01 OF 13 - A MAJOR - ROOT ON LOW E FRET 5 - FRAME 4-7
+Scale tones across two octaves: A B C# D E F# G# A B C# D E F# G# A
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------4--5--5--4-----------------------------------------|
+B  |---------------------------------5--7--------------7--5-----------------------------------|
+G  |------------------------4--6--7--------------------------7--6--4--------------------------|
+D  |---------------4--6--7--------------------------------------------7--6--4-----------------|
+A  |------4--5--7--------------------------------------------------------------7--5--4--------|
+E  |5--7--------------------------------------------------------------------------------7--5--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 02 OF 13 - BB MAJOR - ROOT ON LOW E FRET 6 - FRAME 5-8
+Scale tones across two octaves: Bb C D Eb F G A Bb C D Eb F G A Bb
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------5--6--6--5-----------------------------------------|
+B  |---------------------------------6--8--------------8--6-----------------------------------|
+G  |------------------------5--7--8--------------------------8--7--5--------------------------|
+D  |---------------5--7--8--------------------------------------------8--7--5-----------------|
+A  |------5--6--8--------------------------------------------------------------8--6--5--------|
+E  |6--8--------------------------------------------------------------------------------8--6--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 03 OF 13 - B MAJOR - ROOT ON LOW E FRET 7 - FRAME 6-9
+Scale tones across two octaves: B C# D# E F# G# A# B C# D# E F# G# A# B
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------6--7--7--6-----------------------------------------|
+B  |---------------------------------7--9--------------9--7-----------------------------------|
+G  |------------------------6--8--9--------------------------9--8--6--------------------------|
+D  |---------------6--8--9--------------------------------------------9--8--6-----------------|
+A  |------6--7--9--------------------------------------------------------------9--7--6--------|
+E  |7--9--------------------------------------------------------------------------------9--7--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 04 OF 13 - C MAJOR - ROOT ON LOW E FRET 8 - FRAME 7-10
+Scale tones across two octaves: C D E F G A B C D E F G A B C
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------7--8--8--7-----------------------------------------|
+B  |---------------------------------8--10-------------10-8-----------------------------------|
+G  |------------------------7--9--10-------------------------10-9--7--------------------------|
+D  |---------------7--9--10-------------------------------------------10-9--7-----------------|
+A  |------7--8--10-------------------------------------------------------------10-8--7--------|
+E  |8--10-------------------------------------------------------------------------------10-8--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 05 OF 13 - DB MAJOR - ROOT ON LOW E FRET 9 - FRAME 8-11
+Scale tones across two octaves: Db Eb F Gb Ab Bb C Db Eb F Gb Ab Bb C Db
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------8--9--9--8-----------------------------------------|
+B  |---------------------------------9--11-------------11-9-----------------------------------|
+G  |------------------------8--10-11-------------------------11-10-8--------------------------|
+D  |---------------8--10-11-------------------------------------------11-10-8-----------------|
+A  |------8--9--11-------------------------------------------------------------11-9--8--------|
+E  |9--11-------------------------------------------------------------------------------11-9--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 06 OF 13 - D MAJOR - ROOT ON LOW E FRET 10 - FRAME 9-12
+Scale tones across two octaves: D E F# G A B C# D E F# G A B C# D
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------9--10-10-9-----------------------------------------|
+B  |---------------------------------10-12-------------12-10----------------------------------|
+G  |------------------------9--11-12-------------------------12-11-9--------------------------|
+D  |---------------9--11-12-------------------------------------------12-11-9-----------------|
+A  |------9--10-12-------------------------------------------------------------12-10-9--------|
+E  |10-12-------------------------------------------------------------------------------12-10-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 07 OF 13 - EB MAJOR - ROOT ON LOW E FRET 11 - FRAME 10-13
+Scale tones across two octaves: Eb F G Ab Bb C D Eb F G Ab Bb C D Eb
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------10-11-11-10----------------------------------------|
+B  |---------------------------------11-13-------------13-11----------------------------------|
+G  |------------------------10-12-13-------------------------13-12-10-------------------------|
+D  |---------------10-12-13-------------------------------------------13-12-10----------------|
+A  |------10-11-13-------------------------------------------------------------13-11-10-------|
+E  |11-13-------------------------------------------------------------------------------13-11-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 08 OF 13 - E MAJOR - ROOT ON LOW E FRET 12 - FRAME 11-14
+Scale tones across two octaves: E F# G# A B C# D# E F# G# A B C# D# E
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------11-12-12-11----------------------------------------|
+B  |---------------------------------12-14-------------14-12----------------------------------|
+G  |------------------------11-13-14-------------------------14-13-11-------------------------|
+D  |---------------11-13-14-------------------------------------------14-13-11----------------|
+A  |------11-12-14-------------------------------------------------------------14-12-11-------|
+E  |12-14-------------------------------------------------------------------------------14-12-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 09 OF 13 - F MAJOR - ROOT ON LOW E FRET 13 - FRAME 12-15
+Scale tones across two octaves: F G A Bb C D E F G A Bb C D E F
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------12-13-13-12----------------------------------------|
+B  |---------------------------------13-15-------------15-13----------------------------------|
+G  |------------------------12-14-15-------------------------15-14-12-------------------------|
+D  |---------------12-14-15-------------------------------------------15-14-12----------------|
+A  |------12-13-15-------------------------------------------------------------15-13-12-------|
+E  |13-15-------------------------------------------------------------------------------15-13-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 10 OF 13 - GB MAJOR - ROOT ON LOW E FRET 14 - FRAME 13-16
+Scale tones across two octaves: Gb Ab Bb Cb Db Eb F Gb Ab Bb Cb Db Eb F Gb
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------13-14-14-13----------------------------------------|
+B  |---------------------------------14-16-------------16-14----------------------------------|
+G  |------------------------13-15-16-------------------------16-15-13-------------------------|
+D  |---------------13-15-16-------------------------------------------16-15-13----------------|
+A  |------13-14-16-------------------------------------------------------------16-14-13-------|
+E  |14-16-------------------------------------------------------------------------------16-14-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 11 OF 13 - G MAJOR - ROOT ON LOW E FRET 15 - FRAME 14-17
+Scale tones across two octaves: G A B C D E F# G A B C D E F# G
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------14-15-15-14----------------------------------------|
+B  |---------------------------------15-17-------------17-15----------------------------------|
+G  |------------------------14-16-17-------------------------17-16-14-------------------------|
+D  |---------------14-16-17-------------------------------------------17-16-14----------------|
+A  |------14-15-17-------------------------------------------------------------17-15-14-------|
+E  |15-17-------------------------------------------------------------------------------17-15-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 12 OF 13 - AB MAJOR - ROOT ON LOW E FRET 16 - FRAME 15-18
+Scale tones across two octaves: Ab Bb C Db Eb F G Ab Bb C Db Eb F G Ab
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------15-16-16-15----------------------------------------|
+B  |---------------------------------16-18-------------18-16----------------------------------|
+G  |------------------------15-17-18-------------------------18-17-15-------------------------|
+D  |---------------15-17-18-------------------------------------------18-17-15----------------|
+A  |------15-16-18-------------------------------------------------------------18-16-15-------|
+E  |16-18-------------------------------------------------------------------------------18-16-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+RUNG 13 OF 13 - A MAJOR (OCTAVE) - ROOT ON LOW E FRET 17 - FRAME 16-19
+Scale tones across two octaves: A B C# D E F# G# A B C# D E F# G# A
+30-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--4--5--6--7--1--2--3--4--5--6--7--1--1--7--6--5--4--3--2--1--7--6--5--4--3--2--1--|
+Fng|2--4--1--2--4--1--3--4--1--3--4--2--4--1--2--2--1--4--2--4--3--1--4--3--1--4--2--1--4--2--|
+e  |---------------------------------------16-17-17-16----------------------------------------|
+B  |---------------------------------17-19-------------19-17----------------------------------|
+G  |------------------------16-18-19-------------------------19-18-16-------------------------|
+D  |---------------16-18-19-------------------------------------------19-18-16----------------|
+A  |------16-17-19-------------------------------------------------------------19-17-16-------|
+E  |17-19-------------------------------------------------------------------------------19-17-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+======================================================================================================================
+FULL ROUND-TRIP CHALLENGE
+Start at A major, low-E fret 5. Play rungs 01-13 without restarting the pick cycle. Reverse after the
+fret-17 A-major cell and return through rungs 12-01. Say each key name aloud before its low root.
+Repeat the complete route with the opposite starting stroke.
+
+CLEAN-ROUND STANDARD
+No open strings; no wrong accidental; no missing or doubled note except the intentional repeated high root;
+no scrape or tempo change at the one-fret relocations; no hesitation at the D-to-G, G-to-B, or B-to-e crossings;
+and equal volume between the lower and upper octaves.
+
+AFTER THE BASIC LADDER IS CLEAN
+1. Octave accents: accent only the low, middle, and high roots while keeping every other note even.
+2. String-entry accents: accent the first note on each new string, then remove those accents.
+3. Direction: begin selected sessions at fret 17 and descend first.
+4. Random entry: choose any root fret from 5-17, name the key, play its cell, and continue in either direction.
+5. Rhythm: eighth notes, straight sixteenths, then 6-note bursts separated by one beat of rest.
+These are Level 13 variations, not separate full levels.
+
+PRACTICE LOG
+Date: __________  BPM: ______  Start stroke: D / U  Clean route: yes / no  Notes: __________________________
+Date: __________  BPM: ______  Start stroke: D / U  Clean route: yes / no  Notes: __________________________
+Date: __________  BPM: ______  Start stroke: D / U  Clean route: yes / no  Notes: __________________________
+Date: __________  BPM: ______  Start stroke: D / U  Clean route: yes / no  Notes: __________________________

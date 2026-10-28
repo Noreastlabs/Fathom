@@ -1,0 +1,2335 @@
+{
+  "schema_version": "fathom-learn-accepted-overlay.1",
+  "base_exercises_sha256": "6af165b3585044f97f040d218501d4acd143830400c3a53d5b8e8490f604b084",
+  "accepted_cutoff": "accepted184 cases/970 retained variants/429 retained source entries/174 Practice-playable; represented35/105; externally whole1/105; technical parents40/58; manager-adopted official children121/7271. Level4 Exercise005, Exercise006, Exercise007, Exercise008 and Exercise009 second-pass D/U are manager-adopted installed accepted. Level4 Exercise010 second-pass D/U is manager-adopted installed accepted. Level4 Exercise011 second-pass D/U is manager-adopted installed accepted. Level4 Exercise012 second-pass D/U is manager-adopted installed accepted. Level4 Exercise013 second-pass D/U is manager-adopted installed accepted. Level4 Exercise014 second-pass D/U is manager-adopted installed accepted. Level4 Exercise015 second-pass D/U is manager-adopted installed accepted; no source attestation or learner-credit claim.",
+  "entries": [
+    {
+      "source_identity": "printed:l025:complete-tablature:rung-01-of-13-a-natural-minor-root-on-low-e-fret-5-frame-5-8",
+      "mapping_decision_sha256": "902d98713a8ecaf2582fe78bfc3ac77bb6d0845e05322594921dad2071448c84",
+      "acceptance_sha256": "cdcf5d69237e235fba44451d0db51ee261747253b3ee09a387b4677b5769e84e",
+      "binding": {
+        "item_id": "fg:item:001176",
+        "variant_ids": [
+          "fg:variant:007474",
+          "fg:variant:007475"
+        ],
+        "package_sha256": "9a9eff3df43f2ccf725a0dd9ab93b11323e42f66dfb53f484b314f0bc58e5948",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l025:complete-tablature:rung-01-of-13-a-natural-minor-root-on-low-e-fret-5-frame-5-8"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l026:complete-tablature:rung-01-of-13-a-natural-minor-root-on-low-e-fret-5-frame-4-8",
+      "mapping_decision_sha256": "291d50e764c763223e55398cd4089e1ac6f10f0dbf98d9de07716f34e1a7f744",
+      "acceptance_sha256": "bcc7429d33688f7815c691791d8c96be6e434d85613015782a920bb9d6bb536f",
+      "binding": {
+        "item_id": "fg:item:001177",
+        "variant_ids": [
+          "fg:variant:007476",
+          "fg:variant:007477"
+        ],
+        "package_sha256": "ab71d0310b5db248b83ae8f4b8bab15cc64ace9547d3eaca849145e4543d91bf",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l026:complete-tablature:rung-01-of-13-a-natural-minor-root-on-low-e-fret-5-frame-4-8"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l012:complete-tablature:rung-08-of-13-e-major-root-on-low-e-fret-12-frame-11-14",
+      "mapping_decision_sha256": "ee01abdf516ec717ffa9b4c4726fbf7bdd5d5f94be8fe5f53dc9602261323b9d",
+      "acceptance_sha256": "5ee18730afaa8b8a0a8dc503c30296720e16bd4aea204e99ecc40395b8109b79",
+      "binding": {
+        "item_id": "fg:item:001178",
+        "variant_ids": [
+          "fg:variant:007694",
+          "fg:variant:007695"
+        ],
+        "package_sha256": "ccc58d75f0eb0c7c5e2e556cdb6e13a9ddc835f10fc606ae740f56970ae9f8b2",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l012:complete-tablature:rung-08-of-13-e-major-root-on-low-e-fret-12-frame-11-14"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l013:complete-tablature:rung-03-of-13-b-major-root-on-low-e-fret-7-frame-6-9",
+      "mapping_decision_sha256": "b08b60296162accdbbe5df7d326aa7ed6e909cfaebf1a23b5853f492f7bf5311",
+      "acceptance_sha256": "1500cee3d5467f1f2bc27b3667543922100ac836d2a4915a7ec7518f3eea029f",
+      "binding": {
+        "item_id": "fg:item:001130",
+        "variant_ids": [
+          "fg:variant:007382",
+          "fg:variant:007383"
+        ],
+        "package_sha256": "dc4b229ea2c90bdfd0a09421c43d9b2a847bceb892afdb9d55a84e1271dc2231",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l013:complete-tablature:rung-03-of-13-b-major-root-on-low-e-fret-7-frame-6-9"
+        ]
+      }
+    },
+    {
+      "source_identity": "level080/modulea/p003-card01/cmaj7melodyefge",
+      "mapping_decision_sha256": "8cde969673e4586ecd0dcc09a3c5f3c6c6ab99e763368b04b6d669f0768664d6",
+      "acceptance_sha256": "2dfaa0b58b044c2a6546ce0ea43d5ae8b229054a3254af3bae18c7123bc578ed",
+      "binding": {
+        "item_id": "fg:item:001179",
+        "variant_ids": [
+          "fg:variant:007696"
+        ],
+        "package_sha256": "cf7b66d9bf1382cc18de099bdd4e404e2065ba0a4690e01f864b4efbfefd3106",
+        "source_extent_kind": "supplemental_worked_example",
+        "covered_source_identities": [
+          "level080/modulea/p003-card01/cmaj7melodyefge"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l014:complete-tablature:rung-03-of-13-b-major-root-on-low-e-fret-7-frame-6-9",
+      "mapping_decision_sha256": "2a061ef0d583b6a6ffa77b5de631e3613e75845038719aa3241465e387b1cd6a",
+      "acceptance_sha256": "b511bd0b41d3bb7db8e48bc14a6a6d1c62e9a3f95ada5cc17483a115ace32bf2",
+      "binding": {
+        "item_id": "fg:item:001180",
+        "variant_ids": [
+          "fg:variant:007698",
+          "fg:variant:007699"
+        ],
+        "package_sha256": "d498dac23f30d0e5a5502bd44017b2af9bd21012890983c2ebc54375362c0841",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l014:complete-tablature:rung-03-of-13-b-major-root-on-low-e-fret-7-frame-6-9"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l015:complete-tablature:rung-02-of-13-bb-major-root-on-low-e-fret-6-frame-5-8",
+      "mapping_decision_sha256": "41859b28c4d2fde1f72b40552aa85ea078c7d7a737a56ae21e0c7ec32fe06586",
+      "acceptance_sha256": "621f0915913c8685c396c300998bbffe838cdf64d275e7d817c7d7d2b1bc7937",
+      "binding": {
+        "item_id": "fg:item:001181",
+        "variant_ids": [
+          "fg:variant:007702",
+          "fg:variant:007703"
+        ],
+        "package_sha256": "06664715e244183a3b8d76eff4c16705f9f9256815abe1ddc4a5d1304d15a9fd",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l015:complete-tablature:rung-02-of-13-bb-major-root-on-low-e-fret-6-frame-5-8"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l015:complete-tablature:rung-03-of-13-b-major-root-on-low-e-fret-7-frame-6-9",
+      "mapping_decision_sha256": "24c4b1a19f03c0feae8704c0867be36b05bd12cec34b58d7a822c6c5ce91e79c",
+      "acceptance_sha256": "621f0915913c8685c396c300998bbffe838cdf64d275e7d817c7d7d2b1bc7937",
+      "binding": {
+        "item_id": "fg:item:001182",
+        "variant_ids": [
+          "fg:variant:007704",
+          "fg:variant:007705"
+        ],
+        "package_sha256": "06664715e244183a3b8d76eff4c16705f9f9256815abe1ddc4a5d1304d15a9fd",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l015:complete-tablature:rung-03-of-13-b-major-root-on-low-e-fret-7-frame-6-9"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-001-1212",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000001",
+        "variant_ids": [
+          "fg:variant:007478",
+          "fg:variant:007479"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-001-1212"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-002-1213",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000014",
+        "variant_ids": [
+          "fg:variant:007480",
+          "fg:variant:007481"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-002-1213"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-003-1214",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000015",
+        "variant_ids": [
+          "fg:variant:007482",
+          "fg:variant:007483"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-003-1214"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-004-1231",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000016",
+        "variant_ids": [
+          "fg:variant:007484",
+          "fg:variant:007485"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-004-1231"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-005-1232",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000017",
+        "variant_ids": [
+          "fg:variant:007486",
+          "fg:variant:007487"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-005-1232"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-006-1234",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000018",
+        "variant_ids": [
+          "fg:variant:007488",
+          "fg:variant:007489"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-006-1234"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-007-1241",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000019",
+        "variant_ids": [
+          "fg:variant:007490",
+          "fg:variant:007491"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-007-1241"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-008-1242",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000020",
+        "variant_ids": [
+          "fg:variant:007492",
+          "fg:variant:007493"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-008-1242"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-009-1243",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000021",
+        "variant_ids": [
+          "fg:variant:007494",
+          "fg:variant:007495"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-009-1243"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-010-1312",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000022",
+        "variant_ids": [
+          "fg:variant:007496",
+          "fg:variant:007497"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-010-1312"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-011-1313",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000023",
+        "variant_ids": [
+          "fg:variant:007498",
+          "fg:variant:007499"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-011-1313"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-012-1314",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000024",
+        "variant_ids": [
+          "fg:variant:007500",
+          "fg:variant:007501"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-012-1314"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-013-1321",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000025",
+        "variant_ids": [
+          "fg:variant:007502",
+          "fg:variant:007503"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-013-1321"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-014-1323",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000026",
+        "variant_ids": [
+          "fg:variant:007504",
+          "fg:variant:007505"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-014-1323"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-015-1324",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000027",
+        "variant_ids": [
+          "fg:variant:007506",
+          "fg:variant:007507"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-015-1324"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-016-1341",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000028",
+        "variant_ids": [
+          "fg:variant:007508",
+          "fg:variant:007509"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-016-1341"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-017-1342",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000029",
+        "variant_ids": [
+          "fg:variant:007510",
+          "fg:variant:007511"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-017-1342"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-018-1343",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000030",
+        "variant_ids": [
+          "fg:variant:007512",
+          "fg:variant:007513"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-018-1343"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-019-1412",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000031",
+        "variant_ids": [
+          "fg:variant:007514",
+          "fg:variant:007515"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-019-1412"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-020-1413",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000032",
+        "variant_ids": [
+          "fg:variant:007516",
+          "fg:variant:007517"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-020-1413"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-021-1414",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000033",
+        "variant_ids": [
+          "fg:variant:007518",
+          "fg:variant:007519"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-021-1414"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-022-1421",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000034",
+        "variant_ids": [
+          "fg:variant:007520",
+          "fg:variant:007521"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-022-1421"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-023-1423",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000035",
+        "variant_ids": [
+          "fg:variant:007522",
+          "fg:variant:007523"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-023-1423"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-024-1424",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000036",
+        "variant_ids": [
+          "fg:variant:007524",
+          "fg:variant:007525"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-024-1424"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-025-1431",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000037",
+        "variant_ids": [
+          "fg:variant:007526",
+          "fg:variant:007527"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-025-1431"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-026-1432",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000038",
+        "variant_ids": [
+          "fg:variant:007528",
+          "fg:variant:007529"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-026-1432"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-1-index:exercise-027-1434",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000039",
+        "variant_ids": [
+          "fg:variant:007530",
+          "fg:variant:007531"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-1-index:exercise-027-1434"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-028-2121",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000040",
+        "variant_ids": [
+          "fg:variant:007532",
+          "fg:variant:007533"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-028-2121"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-029-2123",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000041",
+        "variant_ids": [
+          "fg:variant:007534",
+          "fg:variant:007535"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-029-2123"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-030-2124",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000042",
+        "variant_ids": [
+          "fg:variant:007536",
+          "fg:variant:007537"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-030-2124"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-031-2131",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000043",
+        "variant_ids": [
+          "fg:variant:007538",
+          "fg:variant:007539"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-031-2131"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-032-2132",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000044",
+        "variant_ids": [
+          "fg:variant:007540",
+          "fg:variant:007541"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-032-2132"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-033-2134",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000045",
+        "variant_ids": [
+          "fg:variant:007542",
+          "fg:variant:007543"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-033-2134"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-034-2141",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000046",
+        "variant_ids": [
+          "fg:variant:007544",
+          "fg:variant:007545"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-034-2141"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-035-2142",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000047",
+        "variant_ids": [
+          "fg:variant:007546",
+          "fg:variant:007547"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-035-2142"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-036-2143",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000048",
+        "variant_ids": [
+          "fg:variant:007548",
+          "fg:variant:007549"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-036-2143"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-037-2312",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000049",
+        "variant_ids": [
+          "fg:variant:007550",
+          "fg:variant:007551"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-037-2312"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-038-2313",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000050",
+        "variant_ids": [
+          "fg:variant:007552",
+          "fg:variant:007553"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-038-2313"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-039-2314",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000051",
+        "variant_ids": [
+          "fg:variant:007554",
+          "fg:variant:007555"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-039-2314"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-040-2321",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000052",
+        "variant_ids": [
+          "fg:variant:007556",
+          "fg:variant:007557"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-040-2321"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-041-2323",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000053",
+        "variant_ids": [
+          "fg:variant:007558",
+          "fg:variant:007559"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-041-2323"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-042-2324",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000054",
+        "variant_ids": [
+          "fg:variant:007560",
+          "fg:variant:007561"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-042-2324"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-043-2341",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000055",
+        "variant_ids": [
+          "fg:variant:007562",
+          "fg:variant:007563"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-043-2341"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-044-2342",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000056",
+        "variant_ids": [
+          "fg:variant:007564",
+          "fg:variant:007565"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-044-2342"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-045-2343",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000057",
+        "variant_ids": [
+          "fg:variant:007566",
+          "fg:variant:007567"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-045-2343"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-046-2412",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000058",
+        "variant_ids": [
+          "fg:variant:007568",
+          "fg:variant:007569"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-046-2412"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-047-2413",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000059",
+        "variant_ids": [
+          "fg:variant:007570",
+          "fg:variant:007571"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-047-2413"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-048-2414",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000060",
+        "variant_ids": [
+          "fg:variant:007572",
+          "fg:variant:007573"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-048-2414"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-049-2421",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000061",
+        "variant_ids": [
+          "fg:variant:007574",
+          "fg:variant:007575"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-049-2421"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-050-2423",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000062",
+        "variant_ids": [
+          "fg:variant:007576",
+          "fg:variant:007577"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-050-2423"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-051-2424",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000063",
+        "variant_ids": [
+          "fg:variant:007578",
+          "fg:variant:007579"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-051-2424"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-052-2431",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000064",
+        "variant_ids": [
+          "fg:variant:007580",
+          "fg:variant:007581"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-052-2431"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-053-2432",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000065",
+        "variant_ids": [
+          "fg:variant:007582",
+          "fg:variant:007583"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-053-2432"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-2-middle:exercise-054-2434",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000066",
+        "variant_ids": [
+          "fg:variant:007584",
+          "fg:variant:007585"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-2-middle:exercise-054-2434"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-055-3121",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000067",
+        "variant_ids": [
+          "fg:variant:007586",
+          "fg:variant:007587"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-055-3121"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-056-3123",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000068",
+        "variant_ids": [
+          "fg:variant:007588",
+          "fg:variant:007589"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-056-3123"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-057-3124",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000069",
+        "variant_ids": [
+          "fg:variant:007590",
+          "fg:variant:007591"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-057-3124"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-058-3131",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000070",
+        "variant_ids": [
+          "fg:variant:007592",
+          "fg:variant:007593"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-058-3131"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-059-3132",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000071",
+        "variant_ids": [
+          "fg:variant:007594",
+          "fg:variant:007595"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-059-3132"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-060-3134",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000072",
+        "variant_ids": [
+          "fg:variant:007596",
+          "fg:variant:007597"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-060-3134"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-061-3141",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000073",
+        "variant_ids": [
+          "fg:variant:007598",
+          "fg:variant:007599"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-061-3141"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-062-3142",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000074",
+        "variant_ids": [
+          "fg:variant:007600",
+          "fg:variant:007601"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-062-3142"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-063-3143",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000075",
+        "variant_ids": [
+          "fg:variant:007602",
+          "fg:variant:007603"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-063-3143"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-064-3212",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000076",
+        "variant_ids": [
+          "fg:variant:007604",
+          "fg:variant:007605"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-064-3212"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-065-3213",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000077",
+        "variant_ids": [
+          "fg:variant:007606",
+          "fg:variant:007607"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-065-3213"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-066-3214",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000078",
+        "variant_ids": [
+          "fg:variant:007608",
+          "fg:variant:007609"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-066-3214"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-067-3231",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000079",
+        "variant_ids": [
+          "fg:variant:007610",
+          "fg:variant:007611"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-067-3231"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-068-3232",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000080",
+        "variant_ids": [
+          "fg:variant:007612",
+          "fg:variant:007613"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-068-3232"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-069-3234",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000081",
+        "variant_ids": [
+          "fg:variant:007614",
+          "fg:variant:007615"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-069-3234"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-070-3241",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000082",
+        "variant_ids": [
+          "fg:variant:007616",
+          "fg:variant:007617"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-070-3241"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-071-3242",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000083",
+        "variant_ids": [
+          "fg:variant:007618",
+          "fg:variant:007619"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-071-3242"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-072-3243",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000084",
+        "variant_ids": [
+          "fg:variant:007620",
+          "fg:variant:007621"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-072-3243"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-073-3412",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000085",
+        "variant_ids": [
+          "fg:variant:007622",
+          "fg:variant:007623"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-073-3412"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-074-3413",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000086",
+        "variant_ids": [
+          "fg:variant:007624",
+          "fg:variant:007625"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-074-3413"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-075-3414",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000087",
+        "variant_ids": [
+          "fg:variant:007626",
+          "fg:variant:007627"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-075-3414"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-076-3421",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000088",
+        "variant_ids": [
+          "fg:variant:007628",
+          "fg:variant:007629"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-076-3421"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-077-3423",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000089",
+        "variant_ids": [
+          "fg:variant:007630",
+          "fg:variant:007631"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-077-3423"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-078-3424",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000090",
+        "variant_ids": [
+          "fg:variant:007632",
+          "fg:variant:007633"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-078-3424"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-079-3431",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000091",
+        "variant_ids": [
+          "fg:variant:007634",
+          "fg:variant:007635"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-079-3431"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-080-3432",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000092",
+        "variant_ids": [
+          "fg:variant:007636",
+          "fg:variant:007637"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-080-3432"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-3-ring:exercise-081-3434",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000093",
+        "variant_ids": [
+          "fg:variant:007638",
+          "fg:variant:007639"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-3-ring:exercise-081-3434"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-082-4121",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000094",
+        "variant_ids": [
+          "fg:variant:007640",
+          "fg:variant:007641"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-082-4121"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-083-4123",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000095",
+        "variant_ids": [
+          "fg:variant:007642",
+          "fg:variant:007643"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-083-4123"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-084-4124",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000096",
+        "variant_ids": [
+          "fg:variant:007644",
+          "fg:variant:007645"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-084-4124"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-085-4131",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000097",
+        "variant_ids": [
+          "fg:variant:007646",
+          "fg:variant:007647"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-085-4131"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-086-4132",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000098",
+        "variant_ids": [
+          "fg:variant:007648",
+          "fg:variant:007649"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-086-4132"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-087-4134",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000099",
+        "variant_ids": [
+          "fg:variant:007650",
+          "fg:variant:007651"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-087-4134"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-088-4141",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000100",
+        "variant_ids": [
+          "fg:variant:007652",
+          "fg:variant:007653"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-088-4141"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-089-4142",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000101",
+        "variant_ids": [
+          "fg:variant:007654",
+          "fg:variant:007655"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-089-4142"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-090-4143",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000102",
+        "variant_ids": [
+          "fg:variant:007656",
+          "fg:variant:007657"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-090-4143"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-091-4212",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000103",
+        "variant_ids": [
+          "fg:variant:007658",
+          "fg:variant:007659"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-091-4212"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-092-4213",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000104",
+        "variant_ids": [
+          "fg:variant:007660",
+          "fg:variant:007661"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-092-4213"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-093-4214",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000105",
+        "variant_ids": [
+          "fg:variant:007662",
+          "fg:variant:007663"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-093-4214"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-094-4231",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000106",
+        "variant_ids": [
+          "fg:variant:007664",
+          "fg:variant:007665"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-094-4231"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-095-4232",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000107",
+        "variant_ids": [
+          "fg:variant:007666",
+          "fg:variant:007667"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-095-4232"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-096-4234",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000108",
+        "variant_ids": [
+          "fg:variant:007668",
+          "fg:variant:007669"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-096-4234"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-097-4241",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000109",
+        "variant_ids": [
+          "fg:variant:007670",
+          "fg:variant:007671"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-097-4241"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-098-4242",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000110",
+        "variant_ids": [
+          "fg:variant:007672",
+          "fg:variant:007673"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-098-4242"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-099-4243",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000111",
+        "variant_ids": [
+          "fg:variant:007674",
+          "fg:variant:007675"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-099-4243"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-100-4312",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000112",
+        "variant_ids": [
+          "fg:variant:007676",
+          "fg:variant:007677"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-100-4312"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-101-4313",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000113",
+        "variant_ids": [
+          "fg:variant:007678",
+          "fg:variant:007679"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-101-4313"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-102-4314",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000114",
+        "variant_ids": [
+          "fg:variant:007680",
+          "fg:variant:007681"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-102-4314"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-103-4321",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000115",
+        "variant_ids": [
+          "fg:variant:007682",
+          "fg:variant:007683"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-103-4321"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-104-4323",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000116",
+        "variant_ids": [
+          "fg:variant:007684",
+          "fg:variant:007685"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-104-4323"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-105-4324",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000117",
+        "variant_ids": [
+          "fg:variant:007686",
+          "fg:variant:007687"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-105-4324"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-106-4341",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000118",
+        "variant_ids": [
+          "fg:variant:007688",
+          "fg:variant:007689"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-106-4341"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-107-4342",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000119",
+        "variant_ids": [
+          "fg:variant:007690",
+          "fg:variant:007691"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-107-4342"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l001:starting-finger-4-pinky:exercise-108-4343",
+      "mapping_decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+      "acceptance_sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f",
+      "binding": {
+        "item_id": "fg:item:000120",
+        "variant_ids": [
+          "fg:variant:007692",
+          "fg:variant:007693"
+        ],
+        "package_sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l001:starting-finger-4-pinky:exercise-108-4343"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l013:complete-tablature:rung-04-of-13-c-major-root-on-low-e-fret-8-frame-7-10",
+      "mapping_decision_sha256": "3dda248f679205fbe0ac895e4eeeda86d957963a4d5ceba364618ee0b1b03afb",
+      "acceptance_sha256": "d14bb9c8148e3793b3349a0222d02ae07893eebfc8019e411d62b7089140392e",
+      "binding": {
+        "item_id": "fg:item:001183",
+        "variant_ids": [
+          "fg:variant:007706",
+          "fg:variant:007707"
+        ],
+        "package_sha256": "3cbffacd7e1b29e1497a95606945cb94135494b6d3977640c843c59d04fab81e",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l013:complete-tablature:rung-04-of-13-c-major-root-on-low-e-fret-8-frame-7-10"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l013:complete-tablature:rung-05-of-13-db-major-root-on-low-e-fret-9-frame-8-11",
+      "mapping_decision_sha256": "cdf0b5a00baaa3f9f8f14785a38291b22d42210d9ef550b4865dbb97214e186e",
+      "acceptance_sha256": "d14bb9c8148e3793b3349a0222d02ae07893eebfc8019e411d62b7089140392e",
+      "binding": {
+        "item_id": "fg:item:001184",
+        "variant_ids": [
+          "fg:variant:007708",
+          "fg:variant:007709"
+        ],
+        "package_sha256": "86373c0eff8d8e81d7b6c140906625ff9dea49c1d3640895defd537e23537c6f",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l013:complete-tablature:rung-05-of-13-db-major-root-on-low-e-fret-9-frame-8-11"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l015:complete-tablature:rung-05-of-13-db-major-root-on-low-e-fret-9-frame-8-11",
+      "mapping_decision_sha256": "d39300b0b0effeaf2437a9e2641a858b2d2b54c880bc9c7cd15369bd8dad02b9",
+      "acceptance_sha256": "da925506600b0257a157eba5cc92d46b9cca5f40e40c12c21c9443eecdf01c07",
+      "binding": {
+        "item_id": "fg:item:001185",
+        "variant_ids": [
+          "fg:variant:007710",
+          "fg:variant:007711"
+        ],
+        "package_sha256": "854e0d26a7c110e776d06cab0a7b2a6b418c3860c8769e002ee0a6b113919b24",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l015:complete-tablature:rung-05-of-13-db-major-root-on-low-e-fret-9-frame-8-11"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l015:complete-tablature:rung-04-of-13-c-major-root-on-low-e-fret-8-frame-7-10",
+      "mapping_decision_sha256": "09c4ab91fa98b90f07b330e6712d55497c4ca83495d89de9668e0f2930fc8246",
+      "acceptance_sha256": "cbb2ec952199356c49f3e7fbc3aa15472f167f3e8783ec6032e207ca364c5619",
+      "binding": {
+        "item_id": "fg:item:001186",
+        "variant_ids": [
+          "fg:variant:007712",
+          "fg:variant:007713"
+        ],
+        "package_sha256": "29677c3eba7a1667474bae5ee51d0d8ee9af80f429b62d05ae4468046e7c364c",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l015:complete-tablature:rung-04-of-13-c-major-root-on-low-e-fret-8-frame-7-10"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l015:complete-tablature:rung-06-of-13-d-major-root-on-low-e-fret-10-frame-9-12",
+      "mapping_decision_sha256": "945a0dbff35b57934be609a74b61d950569190d1667d939fe895154d708667f7",
+      "acceptance_sha256": "7535aae004e0e34cfc5dc83a21829564bcb2f010c2a6f7b696bdf02317c6fc86",
+      "binding": {
+        "item_id": "fg:item:001187",
+        "variant_ids": [
+          "fg:variant:007714",
+          "fg:variant:007715"
+        ],
+        "package_sha256": "52de80e7680a3bda6845cc5739785cbee22f4d3b6b6dd07b7a7d01e784508cfa",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l015:complete-tablature:rung-06-of-13-d-major-root-on-low-e-fret-10-frame-9-12"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l002:set-1-of-9-exercises-001-012:exercise-002-1213",
+      "mapping_decision_sha256": "e840455c908cb099fbba9ed6cf67912346a7ea23a275dfdf3f4dff8b16ddbf70",
+      "acceptance_sha256": "bc46d1c9fa5f381629b7fdcaf098bb200fd20a2896b0a8f9860d80fe80156261",
+      "binding": {
+        "item_id": "fg:item:001188",
+        "variant_ids": [
+          "fg:variant:007716",
+          "fg:variant:007717"
+        ],
+        "package_sha256": "41cf4ebfd29792872813dbcdc1342e40d6e0a020b1eeebd80942cff8622facd0",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l002:set-1-of-9-exercises-001-012:exercise-002-1213"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l003:set-1-of-9-exercises-001-012:mode-b-1-3-early-transfer:exercise-001-1212",
+      "mapping_decision_sha256": "0adbc8ee7d80935f27abb74c7c52d45008b8e82e2f411e1ac852ecc499b78da9",
+      "acceptance_sha256": "22ecf912d4ec00430ff4204c134566b6b6d5f1248abdddd7cf0dea5cd36c9f9f",
+      "binding": {
+        "item_id": "fg:item:000240",
+        "variant_ids": [
+          "fg:variant:000827",
+          "fg:variant:000829"
+        ],
+        "package_sha256": "5d2ae1af6277907bf3644841ad18cf9c33bffc59190d66f554d9cd1baa08d5f1",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l003:set-1-of-9-exercises-001-012:mode-b-1-3-early-transfer:exercise-001-1212"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-002-1213",
+      "mapping_decision_sha256": "7646cf00a2e7f7f83f9003cba3d99366a4cae42678ed1809c276a41616e63ab6",
+      "acceptance_sha256": "21733b32a58e0e9cc262ea1e2f900b955dda277e1397bf721289292a190bd238",
+      "binding": {
+        "item_id": "fg:item:000445",
+        "variant_ids": [
+          "fg:variant:003287",
+          "fg:variant:003289"
+        ],
+        "package_sha256": "235ec4b3cbfd850578f6c64c7a8256248a6b998c19531f63d2b2bb88385768a2",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-002-1213"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-003-1214",
+      "mapping_decision_sha256": "866258f93844446ff098f4a866910af71dc65e41f628fc271f7d431ccea873c9",
+      "acceptance_sha256": "2f09a61eb49720976159cb7d2ba4f13031e18c4ac65a9482743f9bbd1cd42913",
+      "binding": {
+        "item_id": "fg:item:000446",
+        "variant_ids": [
+          "fg:variant:003299",
+          "fg:variant:003301"
+        ],
+        "package_sha256": "348feabd2449efe11ba84d682c6acf829ffa7c61b115a745821e59374a011e26",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-003-1214"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-004-1231",
+      "mapping_decision_sha256": "4db77e7ac4bcf8856b736ef2be0dd5efed669fa8f8f799859a88a6af0b9883ec",
+      "acceptance_sha256": "c2941152ab8b463a2de2aa740856d42ef96e1c5455339c5812267963eba62e5d",
+      "binding": {
+        "item_id": "fg:item:000447",
+        "variant_ids": [
+          "fg:variant:003311",
+          "fg:variant:003313"
+        ],
+        "package_sha256": "88a4d6670aa39eb7ccd1e6eae4a5605e969686e217e646baf1f305c2975e9b71",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-004-1231"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-005-1232",
+      "mapping_decision_sha256": "dc745f6116e7ce713603d5ca16eeb19147e0c39055d6da9f780c3fc207341881",
+      "acceptance_sha256": "c5e17b41dcf22d0c5fa9ec00ea7725b39fcbab907865fbb7a66cd1facaab0d1e",
+      "binding": {
+        "item_id": "fg:item:000448",
+        "variant_ids": [
+          "fg:variant:003323",
+          "fg:variant:003325"
+        ],
+        "package_sha256": "b7a18e588d2d22f02aab0e6a73098063f8c925fe898105652ddcf29cf5a6c796",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-005-1232"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-006-1234",
+      "mapping_decision_sha256": "221cc6b966884e6de6ed9ce1760c2ad42a89c8562083c03c6369f21783b24f00",
+      "acceptance_sha256": "5055c270dd1ac69905ea0ada49094686e059da05ec88f3767abf423481bdffbb",
+      "binding": {
+        "item_id": "fg:item:000449",
+        "variant_ids": [
+          "fg:variant:003335",
+          "fg:variant:003337"
+        ],
+        "package_sha256": "523ba1bb1ad9a01d8c80f90a3eac2a59f12075e7723f6bfc5d50ba7259ed50c9",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-006-1234"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-007-1241",
+      "mapping_decision_sha256": "c0d5a8172b4273d7e116eedac09f96d0e3d29c373baf498a4308ec0a07b1abcc",
+      "acceptance_sha256": "b28e391b158d3a61d8fdf16632127303be861f745bde030ccc87841ed5e84b04",
+      "binding": {
+        "item_id": "fg:item:000450",
+        "variant_ids": [
+          "fg:variant:003347",
+          "fg:variant:003349"
+        ],
+        "package_sha256": "a5f03dca721278b098e2d63bf10f39bf23ff7d8d8f5928fbbd43f02c5643a808",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-007-1241"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-008-1242",
+      "mapping_decision_sha256": "6185e218fd28f4da6da13fa92761f4a2dc2a1aab39f7dcc92b914e0ff4907742",
+      "acceptance_sha256": "5228ed10597a83f6adbaec24b5273e06d3335f0ddf06cb1a1a601aa109c420d1",
+      "binding": {
+        "item_id": "fg:item:000451",
+        "variant_ids": [
+          "fg:variant:003359",
+          "fg:variant:003361"
+        ],
+        "package_sha256": "d4a5b4f4a0ea4023161ea4ce103f9334dabd1b1b7e28d1e841b70ab8724910fe",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-008-1242"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-009-1243",
+      "mapping_decision_sha256": "0191861f0eda57acd53bd539fc357bee87964373713df172a939b1c602eba464",
+      "acceptance_sha256": "8399c9efac45fb9f2c23ec8271d6d042175e39ee0f4a2ac9cf49f48df68730d0",
+      "binding": {
+        "item_id": "fg:item:000452",
+        "variant_ids": [
+          "fg:variant:003371",
+          "fg:variant:003373"
+        ],
+        "package_sha256": "8c8a7f36627ba50ec0f0814479f8c8f82219a9a034e9265d600cd8ceebb8c281",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-009-1243"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-010-1312",
+      "mapping_decision_sha256": "c6c4537f32fbe680371ea14116f4b130dc3cbd2f09c6f20138e968f7abf17ec7",
+      "acceptance_sha256": "8e936297dc029601162e3456ae3c8f5ca409e7bd7053642233c34fe541391c46",
+      "binding": {
+        "item_id": "fg:item:000453",
+        "variant_ids": [
+          "fg:variant:003383",
+          "fg:variant:003385"
+        ],
+        "package_sha256": "401be6bb6924693e28645b05a1d662f9be9224931872d9fbbc9186221e90f279",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-010-1312"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-011-1313",
+      "mapping_decision_sha256": "df732d63bf542248f51f9a13042d3f177ecc99f02dad18fdbb6971ac228bf289",
+      "acceptance_sha256": "46463cba9728f80223302f543ddbbd08a502a8c6833a803d58b933eba7c21d52",
+      "binding": {
+        "item_id": "fg:item:000454",
+        "variant_ids": [
+          "fg:variant:003395",
+          "fg:variant:003397"
+        ],
+        "package_sha256": "e171f69f6b860979dab27fc784a397dca1a418b11e85957bf550e387cffd7dc8",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-011-1313"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-012-1314",
+      "mapping_decision_sha256": "7d569c994c787d7302bb4a2abdeef39a1a74617a813e94e3f53e6d925caa4e52",
+      "acceptance_sha256": "b19abbb74dcfc35fb92c79ac7e2ea5e07e0605ebe8d837b17006448b30823f05",
+      "binding": {
+        "item_id": "fg:item:000455",
+        "variant_ids": [
+          "fg:variant:003407",
+          "fg:variant:003409"
+        ],
+        "package_sha256": "636aad73d4d37154530ec6f4fd9b1756176b15d5312fd079c307ae26c117b8cd",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-1-of-9-exercises-001-012:exercise-012-1314"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-2-of-9-exercises-013-024:exercise-013-1321",
+      "mapping_decision_sha256": "7138656d48b6dc8abed8de1ef9d187589eec91832523592c0f4eebd6dbf7d1e8",
+      "acceptance_sha256": "2012f8e76bf9015111cd9bf0f2e4761bf194f827f8ccef458785bd8ad41b59c9",
+      "binding": {
+        "item_id": "fg:item:000456",
+        "variant_ids": [
+          "fg:variant:003419",
+          "fg:variant:003421"
+        ],
+        "package_sha256": "deb469df02c9bace2a222979a250709ee797905a6825f6ab12a8c82a17619be7",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-2-of-9-exercises-013-024:exercise-013-1321"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-2-of-9-exercises-013-024:exercise-014-1323",
+      "mapping_decision_sha256": "f9863c10724239062e2f378cf4bd8f205e80f4c7801ab3a1c2490e434551c044",
+      "acceptance_sha256": "47b430e7b617c109431eff8f91598d45bbc283b3a5b784f6815c48d23dc84236",
+      "binding": {
+        "item_id": "fg:item:000457",
+        "variant_ids": [
+          "fg:variant:003431",
+          "fg:variant:003433"
+        ],
+        "package_sha256": "26e4998b8f611c5804848830e0145a96655fe688ebde2e5acf3b0eff81fec360",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-2-of-9-exercises-013-024:exercise-014-1323"
+        ]
+      }
+    },
+    {
+      "source_identity": "printed:l004:set-2-of-9-exercises-013-024:exercise-015-1324",
+      "mapping_decision_sha256": "de9242a6c2c90747cc4f74a21fc7e264acb2cec79cd9b282a18eadacb60f795f",
+      "acceptance_sha256": "5996b3de564fafdd381bbd4e766d482fe65059525e6e952b2927d8c01930e687",
+      "binding": {
+        "item_id": "fg:item:000458",
+        "variant_ids": [
+          "fg:variant:003443",
+          "fg:variant:003445"
+        ],
+        "package_sha256": "46e756d0703931dc8f26cee5ed4cea2acc83d5098d24e33685770ce9df235ded",
+        "source_extent_kind": "exact_single_printed_unit_candidate",
+        "covered_source_identities": [
+          "printed:l004:set-2-of-9-exercises-013-024:exercise-015-1324"
+        ]
+      }
+    }
+  ]
+}

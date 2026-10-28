@@ -1,0 +1,1590 @@
+{
+  "schema": "fathom-private-relative-timing-overlay.1",
+  "status": "PRIVATE_PROPOSAL_SEALED; DISTINCT_REVIEW_PENDING",
+  "source_identity": "printed:l015:complete-tablature:rung-04-of-13-c-major-root-on-low-e-fret-8-frame-7-10",
+  "source_packet": "Build/parallel-08/2.3.1.1.1-level015-whole-r01/candidate-01.json",
+  "source_packet_sha256": "bff1da256722d18dff4c564032a74947fa56cbd3af460b3733537380dc9d804b",
+  "source_record_canonical_bytes": 21703,
+  "source_record_canonical_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+  "timing_interpretation": "26 consecutive eighth-note triplet groups; one three-note group per quarter-note beat; nominal equal thirds",
+  "unit": "quarter note",
+  "fixed_bpm": null,
+  "meter": null,
+  "isolated_terminal_rest_q": null,
+  "neighboring_rung_stage_pause": "optional one beat after a cell only in the printed 2-3-rung drill; removed in connected route",
+  "pick_cycles": {
+    "D_start": "DUDUDU...",
+    "U_start": "UDUDUD...",
+    "reset_within_cell": false
+  },
+  "record_level_onset_q": null,
+  "record_level_duration_q": null,
+  "contact_count": 78,
+  "group_count": 26,
+  "terminal_q": [
+    26,
+    1
+  ],
+  "contacts": [
+    {
+      "ordinal": 1,
+      "group": 1,
+      "half": "up",
+      "slot": 1,
+      "degree": 1,
+      "finger_digit": "2",
+      "string": "E",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        0,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 2,
+      "group": 1,
+      "half": "up",
+      "slot": 2,
+      "degree": 2,
+      "finger_digit": "4",
+      "string": "E",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        1,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 3,
+      "group": 1,
+      "half": "up",
+      "slot": 3,
+      "degree": 3,
+      "finger_digit": "1",
+      "string": "A",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        2,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 4,
+      "group": 2,
+      "half": "up",
+      "slot": 1,
+      "degree": 2,
+      "finger_digit": "4",
+      "string": "E",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        1,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 5,
+      "group": 2,
+      "half": "up",
+      "slot": 2,
+      "degree": 3,
+      "finger_digit": "1",
+      "string": "A",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        4,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 6,
+      "group": 2,
+      "half": "up",
+      "slot": 3,
+      "degree": 4,
+      "finger_digit": "2",
+      "string": "A",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        5,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 7,
+      "group": 3,
+      "half": "up",
+      "slot": 1,
+      "degree": 3,
+      "finger_digit": "1",
+      "string": "A",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        2,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 8,
+      "group": 3,
+      "half": "up",
+      "slot": 2,
+      "degree": 4,
+      "finger_digit": "2",
+      "string": "A",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        7,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 9,
+      "group": 3,
+      "half": "up",
+      "slot": 3,
+      "degree": 5,
+      "finger_digit": "4",
+      "string": "A",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        8,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 10,
+      "group": 4,
+      "half": "up",
+      "slot": 1,
+      "degree": 4,
+      "finger_digit": "2",
+      "string": "A",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        3,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 11,
+      "group": 4,
+      "half": "up",
+      "slot": 2,
+      "degree": 5,
+      "finger_digit": "4",
+      "string": "A",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        10,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 12,
+      "group": 4,
+      "half": "up",
+      "slot": 3,
+      "degree": 6,
+      "finger_digit": "1",
+      "string": "D",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        11,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 13,
+      "group": 5,
+      "half": "up",
+      "slot": 1,
+      "degree": 5,
+      "finger_digit": "4",
+      "string": "A",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        4,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 14,
+      "group": 5,
+      "half": "up",
+      "slot": 2,
+      "degree": 6,
+      "finger_digit": "1",
+      "string": "D",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        13,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 15,
+      "group": 5,
+      "half": "up",
+      "slot": 3,
+      "degree": 7,
+      "finger_digit": "3",
+      "string": "D",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        14,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 16,
+      "group": 6,
+      "half": "up",
+      "slot": 1,
+      "degree": 6,
+      "finger_digit": "1",
+      "string": "D",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        5,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 17,
+      "group": 6,
+      "half": "up",
+      "slot": 2,
+      "degree": 7,
+      "finger_digit": "3",
+      "string": "D",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        16,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 18,
+      "group": 6,
+      "half": "up",
+      "slot": 3,
+      "degree": 8,
+      "finger_digit": "4",
+      "string": "D",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": true,
+      "onset_q": [
+        17,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 19,
+      "group": 7,
+      "half": "up",
+      "slot": 1,
+      "degree": 7,
+      "finger_digit": "3",
+      "string": "D",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        6,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 20,
+      "group": 7,
+      "half": "up",
+      "slot": 2,
+      "degree": 8,
+      "finger_digit": "4",
+      "string": "D",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": true,
+      "onset_q": [
+        19,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 21,
+      "group": 7,
+      "half": "up",
+      "slot": 3,
+      "degree": 9,
+      "finger_digit": "1",
+      "string": "G",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        20,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 22,
+      "group": 8,
+      "half": "up",
+      "slot": 1,
+      "degree": 8,
+      "finger_digit": "4",
+      "string": "D",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": true,
+      "onset_q": [
+        7,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 23,
+      "group": 8,
+      "half": "up",
+      "slot": 2,
+      "degree": 9,
+      "finger_digit": "1",
+      "string": "G",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        22,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 24,
+      "group": 8,
+      "half": "up",
+      "slot": 3,
+      "degree": 10,
+      "finger_digit": "3",
+      "string": "G",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        23,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 25,
+      "group": 9,
+      "half": "up",
+      "slot": 1,
+      "degree": 9,
+      "finger_digit": "1",
+      "string": "G",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        8,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 26,
+      "group": 9,
+      "half": "up",
+      "slot": 2,
+      "degree": 10,
+      "finger_digit": "3",
+      "string": "G",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        25,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 27,
+      "group": 9,
+      "half": "up",
+      "slot": 3,
+      "degree": 11,
+      "finger_digit": "4",
+      "string": "G",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        26,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 28,
+      "group": 10,
+      "half": "up",
+      "slot": 1,
+      "degree": 10,
+      "finger_digit": "3",
+      "string": "G",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        9,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 29,
+      "group": 10,
+      "half": "up",
+      "slot": 2,
+      "degree": 11,
+      "finger_digit": "4",
+      "string": "G",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        28,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 30,
+      "group": 10,
+      "half": "up",
+      "slot": 3,
+      "degree": 12,
+      "finger_digit": "2",
+      "string": "B",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        29,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 31,
+      "group": 11,
+      "half": "up",
+      "slot": 1,
+      "degree": 11,
+      "finger_digit": "4",
+      "string": "G",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        10,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 32,
+      "group": 11,
+      "half": "up",
+      "slot": 2,
+      "degree": 12,
+      "finger_digit": "2",
+      "string": "B",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        31,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 33,
+      "group": 11,
+      "half": "up",
+      "slot": 3,
+      "degree": 13,
+      "finger_digit": "4",
+      "string": "B",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        32,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 34,
+      "group": 12,
+      "half": "up",
+      "slot": 1,
+      "degree": 12,
+      "finger_digit": "2",
+      "string": "B",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        11,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 35,
+      "group": 12,
+      "half": "up",
+      "slot": 2,
+      "degree": 13,
+      "finger_digit": "4",
+      "string": "B",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        34,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 36,
+      "group": 12,
+      "half": "up",
+      "slot": 3,
+      "degree": 14,
+      "finger_digit": "1",
+      "string": "e",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        35,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 37,
+      "group": 13,
+      "half": "up",
+      "slot": 1,
+      "degree": 13,
+      "finger_digit": "4",
+      "string": "B",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        12,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 38,
+      "group": 13,
+      "half": "up",
+      "slot": 2,
+      "degree": 14,
+      "finger_digit": "1",
+      "string": "e",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        37,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 39,
+      "group": 13,
+      "half": "up",
+      "slot": 3,
+      "degree": 15,
+      "finger_digit": "2",
+      "string": "e",
+      "fret": 8,
+      "is_high_root_turn": true,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        38,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 40,
+      "group": 14,
+      "half": "down",
+      "slot": 1,
+      "degree": 15,
+      "finger_digit": "2",
+      "string": "e",
+      "fret": 8,
+      "is_high_root_turn": true,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        13,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 41,
+      "group": 14,
+      "half": "down",
+      "slot": 2,
+      "degree": 14,
+      "finger_digit": "1",
+      "string": "e",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        40,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 42,
+      "group": 14,
+      "half": "down",
+      "slot": 3,
+      "degree": 13,
+      "finger_digit": "4",
+      "string": "B",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        41,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 43,
+      "group": 15,
+      "half": "down",
+      "slot": 1,
+      "degree": 14,
+      "finger_digit": "1",
+      "string": "e",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        14,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 44,
+      "group": 15,
+      "half": "down",
+      "slot": 2,
+      "degree": 13,
+      "finger_digit": "4",
+      "string": "B",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        43,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 45,
+      "group": 15,
+      "half": "down",
+      "slot": 3,
+      "degree": 12,
+      "finger_digit": "2",
+      "string": "B",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        44,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 46,
+      "group": 16,
+      "half": "down",
+      "slot": 1,
+      "degree": 13,
+      "finger_digit": "4",
+      "string": "B",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        15,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 47,
+      "group": 16,
+      "half": "down",
+      "slot": 2,
+      "degree": 12,
+      "finger_digit": "2",
+      "string": "B",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        46,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 48,
+      "group": 16,
+      "half": "down",
+      "slot": 3,
+      "degree": 11,
+      "finger_digit": "4",
+      "string": "G",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        47,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 49,
+      "group": 17,
+      "half": "down",
+      "slot": 1,
+      "degree": 12,
+      "finger_digit": "2",
+      "string": "B",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        16,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 50,
+      "group": 17,
+      "half": "down",
+      "slot": 2,
+      "degree": 11,
+      "finger_digit": "4",
+      "string": "G",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        49,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 51,
+      "group": 17,
+      "half": "down",
+      "slot": 3,
+      "degree": 10,
+      "finger_digit": "3",
+      "string": "G",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        50,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 52,
+      "group": 18,
+      "half": "down",
+      "slot": 1,
+      "degree": 11,
+      "finger_digit": "4",
+      "string": "G",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        17,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 53,
+      "group": 18,
+      "half": "down",
+      "slot": 2,
+      "degree": 10,
+      "finger_digit": "3",
+      "string": "G",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        52,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 54,
+      "group": 18,
+      "half": "down",
+      "slot": 3,
+      "degree": 9,
+      "finger_digit": "1",
+      "string": "G",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        53,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 55,
+      "group": 19,
+      "half": "down",
+      "slot": 1,
+      "degree": 10,
+      "finger_digit": "3",
+      "string": "G",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        18,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 56,
+      "group": 19,
+      "half": "down",
+      "slot": 2,
+      "degree": 9,
+      "finger_digit": "1",
+      "string": "G",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        55,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 57,
+      "group": 19,
+      "half": "down",
+      "slot": 3,
+      "degree": 8,
+      "finger_digit": "4",
+      "string": "D",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": true,
+      "onset_q": [
+        56,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 58,
+      "group": 20,
+      "half": "down",
+      "slot": 1,
+      "degree": 9,
+      "finger_digit": "1",
+      "string": "G",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        19,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 59,
+      "group": 20,
+      "half": "down",
+      "slot": 2,
+      "degree": 8,
+      "finger_digit": "4",
+      "string": "D",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": true,
+      "onset_q": [
+        58,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 60,
+      "group": 20,
+      "half": "down",
+      "slot": 3,
+      "degree": 7,
+      "finger_digit": "3",
+      "string": "D",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        59,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 61,
+      "group": 21,
+      "half": "down",
+      "slot": 1,
+      "degree": 8,
+      "finger_digit": "4",
+      "string": "D",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": true,
+      "onset_q": [
+        20,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 62,
+      "group": 21,
+      "half": "down",
+      "slot": 2,
+      "degree": 7,
+      "finger_digit": "3",
+      "string": "D",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        61,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 63,
+      "group": 21,
+      "half": "down",
+      "slot": 3,
+      "degree": 6,
+      "finger_digit": "1",
+      "string": "D",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        62,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 64,
+      "group": 22,
+      "half": "down",
+      "slot": 1,
+      "degree": 7,
+      "finger_digit": "3",
+      "string": "D",
+      "fret": 9,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        21,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 65,
+      "group": 22,
+      "half": "down",
+      "slot": 2,
+      "degree": 6,
+      "finger_digit": "1",
+      "string": "D",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        64,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 66,
+      "group": 22,
+      "half": "down",
+      "slot": 3,
+      "degree": 5,
+      "finger_digit": "4",
+      "string": "A",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        65,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 67,
+      "group": 23,
+      "half": "down",
+      "slot": 1,
+      "degree": 6,
+      "finger_digit": "1",
+      "string": "D",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        22,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 68,
+      "group": 23,
+      "half": "down",
+      "slot": 2,
+      "degree": 5,
+      "finger_digit": "4",
+      "string": "A",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        67,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 69,
+      "group": 23,
+      "half": "down",
+      "slot": 3,
+      "degree": 4,
+      "finger_digit": "2",
+      "string": "A",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        68,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 70,
+      "group": 24,
+      "half": "down",
+      "slot": 1,
+      "degree": 5,
+      "finger_digit": "4",
+      "string": "A",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        23,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 71,
+      "group": 24,
+      "half": "down",
+      "slot": 2,
+      "degree": 4,
+      "finger_digit": "2",
+      "string": "A",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        70,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 72,
+      "group": 24,
+      "half": "down",
+      "slot": 3,
+      "degree": 3,
+      "finger_digit": "1",
+      "string": "A",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        71,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 73,
+      "group": 25,
+      "half": "down",
+      "slot": 1,
+      "degree": 4,
+      "finger_digit": "2",
+      "string": "A",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        24,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 74,
+      "group": 25,
+      "half": "down",
+      "slot": 2,
+      "degree": 3,
+      "finger_digit": "1",
+      "string": "A",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        73,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 75,
+      "group": 25,
+      "half": "down",
+      "slot": 3,
+      "degree": 2,
+      "finger_digit": "4",
+      "string": "E",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        74,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 76,
+      "group": 26,
+      "half": "down",
+      "slot": 1,
+      "degree": 3,
+      "finger_digit": "1",
+      "string": "A",
+      "fret": 7,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        25,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 77,
+      "group": 26,
+      "half": "down",
+      "slot": 2,
+      "degree": 2,
+      "finger_digit": "4",
+      "string": "E",
+      "fret": 10,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        76,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    },
+    {
+      "ordinal": 78,
+      "group": 26,
+      "half": "down",
+      "slot": 3,
+      "degree": 1,
+      "finger_digit": "2",
+      "string": "E",
+      "fret": 8,
+      "is_high_root_turn": false,
+      "is_middle_octave_root": false,
+      "onset_q": [
+        77,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ]
+    }
+  ]
+}

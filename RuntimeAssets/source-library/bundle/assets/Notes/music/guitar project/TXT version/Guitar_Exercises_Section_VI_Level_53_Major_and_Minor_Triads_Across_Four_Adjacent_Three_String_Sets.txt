@@ -1,0 +1,489 @@
+GUITAR EXERCISES - SECTION VI, LEVEL 53
+MAJOR AND MINOR TRIADS ACROSS FOUR ADJACENT THREE-STRING SETS
+
+PURPOSE
+Transfer the major and minor triad spelling and inversion logic from G-B-e to D-G-B, A-D-G, and E-A-D. Name the bass degree, mute unused strings, connect nearest inversions, use triad fragments melodically, and select register deliberately.
+
+STRING SETS
+Strings 1-2-3: G-B-e
+Strings 2-3-4: D-G-B
+Strings 3-4-5: A-D-G
+Strings 4-5-6: E-A-D
+
+TRIAD ORDERS
+Major root 1-3-5; first inversion 3-5-1; second inversion 5-1-3.
+Minor root 1-b3-5; first inversion b3-5-1; second inversion 5-1-b3.
+
+COMPLETE SOUNDED WORKOUT: 1248 attacks plus 168 silent formations.
+
+========================================================================================================================
+MODULE A - RELATIVE-FRET FORMULAS AND SILENT FORMATION
+========================================================================================================================
+
+STRINGS 1-2-3 - G-B-e
+MAJOR RP  frets r r r-2      degrees 1-3-5    fingers 2-3-1
+MAJOR 1st frets r r-1 r-1    degrees 3-5-1    fingers 2-1-1
+MAJOR 2nd frets r r+1 r      degrees 5-1-3    fingers 1-2-1
+MINOR RP  frets r r-1 r-2    degrees 1-b3-5   fingers 3-2-1
+MINOR 1st frets r r r        degrees b3-5-1   fingers 1-1-1
+MINOR 2nd frets r r+1 r-1    degrees 5-1-b3   fingers 2-3-1
+
+STRINGS 2-3-4 - D-G-B
+MAJOR RP  frets r r-1 r-2    degrees 1-3-5    fingers 3-2-1
+MAJOR 1st frets r r-2 r-1    degrees 3-5-1    fingers 3-1-2
+MAJOR 2nd frets r r r        degrees 5-1-3    fingers 1-1-1
+MINOR RP  frets r r-2 r-2    degrees 1-b3-5   fingers 3-1-1
+MINOR 1st frets r r-1 r      degrees b3-5-1   fingers 2-1-3
+MINOR 2nd frets r r r-1      degrees 5-1-b3   fingers 2-3-1
+
+STRINGS 3-4-5 - A-D-G
+MAJOR RP  frets r r-1 r-3    degrees 1-3-5    fingers 4-3-1
+MAJOR 1st frets r r-2 r-2    degrees 3-5-1    fingers 3-1-1
+MAJOR 2nd frets r r r-1      degrees 5-1-3    fingers 2-3-1
+MINOR RP  frets r r-2 r-3    degrees 1-b3-5   fingers 4-2-1
+MINOR 1st frets r r-1 r-1    degrees b3-5-1   fingers 2-1-1
+MINOR 2nd frets r r r-2      degrees 5-1-b3   fingers 2-3-1
+
+STRINGS 4-5-6 - E-A-D
+MAJOR RP  frets r r-1 r-3    degrees 1-3-5    fingers 4-3-1
+MAJOR 1st frets r r-2 r-2    degrees 3-5-1    fingers 3-1-1
+MAJOR 2nd frets r r r-1      degrees 5-1-3    fingers 2-3-1
+MINOR RP  frets r r-2 r-3    degrees 1-b3-5   fingers 4-2-1
+MINOR 1st frets r r-1 r-1    degrees b3-5-1   fingers 2-1-1
+MINOR 2nd frets r r r-2      degrees 5-1-b3   fingers 2-3-1
+
+Silent audit: 4 sets x 7 roots x 2 qualities x 3 inversions = 168 formations.
+
+========================================================================================================================
+MODULE B - NATURAL-ROOT FAMILY MAPS
+========================================================================================================================
+
+STRINGS 1-2-3 - G-B-e
+Root | Major / minor spelling | Maj RP | Maj 1st | Maj 2nd | Min RP | Min 1st | Min 2nd
+C    | C-E-G       / C-Eb-G      | 5-5-3 | 9-8-8 | 0-1-0 | 5-4-3 | 8-8-8 | 12-13-11
+D    | D-F#-A      / D-F-A       | 7-7-5 | 11-10-10 | 2-3-2 | 7-6-5 | 10-10-10 | 2-3-1
+E    | E-G#-B      / E-G-B       | 9-9-7 | 1-0-0 | 4-5-4 | 9-8-7 | 0-0-0 | 4-5-3
+F    | F-A-C       / F-Ab-C      | 10-10-8 | 2-1-1 | 5-6-5 | 10-9-8 | 1-1-1 | 5-6-4
+G    | G-B-D       / G-Bb-D      | 12-12-10 | 4-3-3 | 7-8-7 | 12-11-10 | 3-3-3 | 7-8-6
+A    | A-C#-E      / A-C-E       | 2-2-0 | 6-5-5 | 9-10-9 | 2-1-0 | 5-5-5 | 9-10-8
+B    | B-D#-F#     / B-D-F#      | 4-4-2 | 8-7-7 | 11-12-11 | 4-3-2 | 7-7-7 | 11-12-10
+Workout for every shape: one blocked attack plus a low-middle-high arpeggio = 4 attacks.
+
+STRINGS 2-3-4 - D-G-B
+Root | Major / minor spelling | Maj RP | Maj 1st | Maj 2nd | Min RP | Min 1st | Min 2nd
+C    | C-E-G       / C-Eb-G      | 10-9-8 | 2-0-1 | 5-5-5 | 10-8-8 | 1-0-1 | 5-5-4
+D    | D-F#-A      / D-F-A       | 12-11-10 | 4-2-3 | 7-7-7 | 12-10-10 | 3-2-3 | 7-7-6
+E    | E-G#-B      / E-G-B       | 2-1-0 | 6-4-5 | 9-9-9 | 2-0-0 | 5-4-5 | 9-9-8
+F    | F-A-C       / F-Ab-C      | 3-2-1 | 7-5-6 | 10-10-10 | 3-1-1 | 6-5-6 | 10-10-9
+G    | G-B-D       / G-Bb-D      | 5-4-3 | 9-7-8 | 0-0-0 | 5-3-3 | 8-7-8 | 12-12-11
+A    | A-C#-E      / A-C-E       | 7-6-5 | 11-9-10 | 2-2-2 | 7-5-5 | 10-9-10 | 2-2-1
+B    | B-D#-F#     / B-D-F#      | 9-8-7 | 13-11-12 | 4-4-4 | 9-7-7 | 12-11-12 | 4-4-3
+Workout for every shape: one blocked attack plus a low-middle-high arpeggio = 4 attacks.
+
+STRINGS 3-4-5 - A-D-G
+Root | Major / minor spelling | Maj RP | Maj 1st | Maj 2nd | Min RP | Min 1st | Min 2nd
+C    | C-E-G       / C-Eb-G      | 3-2-0 | 7-5-5 | 10-10-9 | 3-1-0 | 6-5-5 | 10-10-8
+D    | D-F#-A      / D-F-A       | 5-4-2 | 9-7-7 | 12-12-11 | 5-3-2 | 8-7-7 | 12-12-10
+E    | E-G#-B      / E-G-B       | 7-6-4 | 11-9-9 | 2-2-1 | 7-5-4 | 10-9-9 | 2-2-0
+F    | F-A-C       / F-Ab-C      | 8-7-5 | 12-10-10 | 3-3-2 | 8-6-5 | 11-10-10 | 3-3-1
+G    | G-B-D       / G-Bb-D      | 10-9-7 | 2-0-0 | 5-5-4 | 10-8-7 | 1-0-0 | 5-5-3
+A    | A-C#-E      / A-C-E       | 12-11-9 | 4-2-2 | 7-7-6 | 12-10-9 | 3-2-2 | 7-7-5
+B    | B-D#-F#     / B-D-F#      | 14-13-11 | 6-4-4 | 9-9-8 | 14-12-11 | 5-4-4 | 9-9-7
+Workout for every shape: one blocked attack plus a low-middle-high arpeggio = 4 attacks.
+
+STRINGS 4-5-6 - E-A-D
+Root | Major / minor spelling | Maj RP | Maj 1st | Maj 2nd | Min RP | Min 1st | Min 2nd
+C    | C-E-G       / C-Eb-G      | 8-7-5 | 12-10-10 | 3-3-2 | 8-6-5 | 11-10-10 | 3-3-1
+D    | D-F#-A      / D-F-A       | 10-9-7 | 2-0-0 | 5-5-4 | 10-8-7 | 1-0-0 | 5-5-3
+E    | E-G#-B      / E-G-B       | 12-11-9 | 4-2-2 | 7-7-6 | 12-10-9 | 3-2-2 | 7-7-5
+F    | F-A-C       / F-Ab-C      | 13-12-10 | 5-3-3 | 8-8-7 | 13-11-10 | 4-3-3 | 8-8-6
+G    | G-B-D       / G-Bb-D      | 3-2-0 | 7-5-5 | 10-10-9 | 3-1-0 | 6-5-5 | 10-10-8
+A    | A-C#-E      / A-C-E       | 5-4-2 | 9-7-7 | 12-12-11 | 5-3-2 | 8-7-7 | 12-12-10
+B    | B-D#-F#     / B-D-F#      | 7-6-4 | 11-9-9 | 2-2-1 | 7-5-4 | 10-9-9 | 2-2-0
+Workout for every shape: one blocked attack plus a low-middle-high arpeggio = 4 attacks.
+
+========================================================================================================================
+MODULE C - SAME INVERSION ACROSS ALL FOUR STRING SETS
+========================================================================================================================
+
+C MAJOR
+Root position
+Set |123|234|345|456|456|345|234|123|
+Fret|5-5-3|10-9-8|3-2-0|8-7-5|8-7-5|3-2-0|10-9-8|5-5-3|
+Deg |1-3-5|1-3-5|1-3-5|1-3-5|1-3-5|1-3-5|1-3-5|1-3-5|
+
+First inversion
+Set |123|234|345|456|456|345|234|123|
+Fret|9-8-8|2-0-1|7-5-5|12-10-10|12-10-10|7-5-5|2-0-1|9-8-8|
+Deg |3-5-1|3-5-1|3-5-1|3-5-1|3-5-1|3-5-1|3-5-1|3-5-1|
+
+Second inversion
+Set |123|234|345|456|456|345|234|123|
+Fret|0-1-0|5-5-5|10-10-9|3-3-2|3-3-2|10-10-9|5-5-5|0-1-0|
+Deg |5-1-3|5-1-3|5-1-3|5-1-3|5-1-3|5-1-3|5-1-3|5-1-3|
+
+
+C MINOR
+Root position
+Set |123|234|345|456|456|345|234|123|
+Fret|5-4-3|10-8-8|3-1-0|8-6-5|8-6-5|3-1-0|10-8-8|5-4-3|
+Deg |1-b3-5|1-b3-5|1-b3-5|1-b3-5|1-b3-5|1-b3-5|1-b3-5|1-b3-5|
+
+First inversion
+Set |123|234|345|456|456|345|234|123|
+Fret|8-8-8|1-0-1|6-5-5|11-10-10|11-10-10|6-5-5|1-0-1|8-8-8|
+Deg |b3-5-1|b3-5-1|b3-5-1|b3-5-1|b3-5-1|b3-5-1|b3-5-1|b3-5-1|
+
+Second inversion
+Set |123|234|345|456|456|345|234|123|
+Fret|12-13-11|5-5-4|10-10-8|3-3-1|3-3-1|10-10-8|5-5-4|12-13-11|
+Deg |5-1-b3|5-1-b3|5-1-b3|5-1-b3|5-1-b3|5-1-b3|5-1-b3|5-1-b3|
+
+
+G MAJOR
+Root position
+Set |123|234|345|456|456|345|234|123|
+Fret|12-12-10|5-4-3|10-9-7|3-2-0|3-2-0|10-9-7|5-4-3|12-12-10|
+Deg |1-3-5|1-3-5|1-3-5|1-3-5|1-3-5|1-3-5|1-3-5|1-3-5|
+
+First inversion
+Set |123|234|345|456|456|345|234|123|
+Fret|4-3-3|9-7-8|2-0-0|7-5-5|7-5-5|2-0-0|9-7-8|4-3-3|
+Deg |3-5-1|3-5-1|3-5-1|3-5-1|3-5-1|3-5-1|3-5-1|3-5-1|
+
+Second inversion
+Set |123|234|345|456|456|345|234|123|
+Fret|7-8-7|0-0-0|5-5-4|10-10-9|10-10-9|5-5-4|0-0-0|7-8-7|
+Deg |5-1-3|5-1-3|5-1-3|5-1-3|5-1-3|5-1-3|5-1-3|5-1-3|
+
+
+G MINOR
+Root position
+Set |123|234|345|456|456|345|234|123|
+Fret|12-11-10|5-3-3|10-8-7|3-1-0|3-1-0|10-8-7|5-3-3|12-11-10|
+Deg |1-b3-5|1-b3-5|1-b3-5|1-b3-5|1-b3-5|1-b3-5|1-b3-5|1-b3-5|
+
+First inversion
+Set |123|234|345|456|456|345|234|123|
+Fret|3-3-3|8-7-8|1-0-0|6-5-5|6-5-5|1-0-0|8-7-8|3-3-3|
+Deg |b3-5-1|b3-5-1|b3-5-1|b3-5-1|b3-5-1|b3-5-1|b3-5-1|b3-5-1|
+
+Second inversion
+Set |123|234|345|456|456|345|234|123|
+Fret|7-8-6|12-12-11|5-5-3|10-10-8|10-10-8|5-5-3|12-12-11|7-8-6|
+Deg |5-1-b3|5-1-b3|5-1-b3|5-1-b3|5-1-b3|5-1-b3|5-1-b3|5-1-b3|
+
+
+========================================================================================================================
+MODULE D - SAME-INVERSION C / Cm QUALITY SWITCHES
+========================================================================================================================
+
+STRINGS 1-2-3 - G-B-e
+Root position
+MAJ |5-5-3|  1-3-5
+MIN |5-4-3|  1-b3-5
+MOVE|B string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+First inversion
+MAJ |9-8-8|  3-5-1
+MIN |8-8-8|  b3-5-1
+MOVE|G string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+Second inversion
+MAJ |12-13-12|  5-1-3
+MIN |12-13-11|  5-1-b3
+MOVE|e string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+
+STRINGS 2-3-4 - D-G-B
+Root position
+MAJ |10-9-8|  1-3-5
+MIN |10-8-8|  1-b3-5
+MOVE|G string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+First inversion
+MAJ |2-0-1|  3-5-1
+MIN |1-0-1|  b3-5-1
+MOVE|D string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+Second inversion
+MAJ |5-5-5|  5-1-3
+MIN |5-5-4|  5-1-b3
+MOVE|B string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+
+STRINGS 3-4-5 - A-D-G
+Root position
+MAJ |3-2-0|  1-3-5
+MIN |3-1-0|  1-b3-5
+MOVE|D string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+First inversion
+MAJ |7-5-5|  3-5-1
+MIN |6-5-5|  b3-5-1
+MOVE|A string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+Second inversion
+MAJ |10-10-9|  5-1-3
+MIN |10-10-8|  5-1-b3
+MOVE|G string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+
+STRINGS 4-5-6 - E-A-D
+Root position
+MAJ |8-7-5|  1-3-5
+MIN |8-6-5|  1-b3-5
+MOVE|A string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+First inversion
+MAJ |12-10-10|  3-5-1
+MIN |11-10-10|  b3-5-1
+MOVE|E string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+Second inversion
+MAJ |3-3-2|  5-1-3
+MIN |3-3-1|  5-1-b3
+MOVE|D string; one fret; all other voices fixed
+Cnt |M--m--M--m--|M--m--M--m--|
+
+
+========================================================================================================================
+MODULE E - NEAREST-INVERSION PROGRESSIONS
+========================================================================================================================
+MAJOR PROGRESSIONS
+
+G-B-e: C-F-G-C
+Chd |   C    |   F    |   G    |   C    |
+Inv |   RP   |  2nd   |  1st   |   RP   |
+Fret| 5-5-3  | 5-6-5  | 4-3-3  | 5-5-3  |
+Deg | 1-3-5  | 5-1-3  | 3-5-1  | 1-3-5  |
+Cnt |1--2--3--4--| repeated four times
+
+
+D-G-B: G-C-D-G
+Chd |   G    |   C    |   D    |   G    |
+Inv |   RP   |  2nd   |  1st   |   RP   |
+Fret| 5-4-3  | 5-5-5  | 4-2-3  | 5-4-3  |
+Deg | 1-3-5  | 5-1-3  | 3-5-1  | 1-3-5  |
+Cnt |1--2--3--4--| repeated four times
+
+
+A-D-G: D-G-A-D
+Chd |   D    |   G    |   A    |   D    |
+Inv |   RP   |  2nd   |  1st   |   RP   |
+Fret| 5-4-2  | 5-5-4  | 4-2-2  | 5-4-2  |
+Deg | 1-3-5  | 5-1-3  | 3-5-1  | 1-3-5  |
+Cnt |1--2--3--4--| repeated four times
+
+
+E-A-D: A-D-E-A
+Chd |   A    |   D    |   E    |   A    |
+Inv |   RP   |  2nd   |  1st   |   RP   |
+Fret| 5-4-2  | 5-5-4  | 4-2-2  | 5-4-2  |
+Deg | 1-3-5  | 5-1-3  | 3-5-1  | 1-3-5  |
+Cnt |1--2--3--4--| repeated four times
+
+MINOR PROGRESSIONS
+
+G-B-e: Am-Dm-E-Am
+Chd |   Am   |   Dm   |   E    |   Am   |
+Inv |   RP   |  2nd   |  1st   |   RP   |
+Fret| 2-1-0  | 2-3-1  | 1-0-0  | 2-1-0  |
+Deg | 1-b3-5 | 5-1-b3 | 3-5-1  | 1-b3-5 |
+Cnt |1--2--3--4--| repeated four times
+
+
+D-G-B: Em-Am-B-Em
+Chd |   Em   |   Am   |   B    |   Em   |
+Inv |  1st   |   RP   |  2nd   |  1st   |
+Fret| 5-4-5  | 7-5-5  | 4-4-4  | 5-4-5  |
+Deg | b3-5-1 | 1-b3-5 | 5-1-3  | b3-5-1 |
+Cnt |1--2--3--4--| repeated four times
+
+
+A-D-G: Dm-Gm-A-Dm
+Chd |   Dm   |   Gm   |   A    |   Dm   |
+Inv |   RP   |  2nd   |  1st   |   RP   |
+Fret| 5-3-2  | 5-5-3  | 4-2-2  | 5-3-2  |
+Deg | 1-b3-5 | 5-1-b3 | 3-5-1  | 1-b3-5 |
+Cnt |1--2--3--4--| repeated four times
+
+
+E-A-D: Gm-Cm-D-Gm
+Chd |   Gm   |   Cm   |   D    |   Gm   |
+Inv |   RP   |  2nd   |  1st   |   RP   |
+Fret| 3-1-0  | 3-3-1  | 2-0-0  | 3-1-0  |
+Deg | 1-b3-5 | 5-1-b3 | 3-5-1  | 1-b3-5 |
+Cnt |1--2--3--4--| repeated four times
+
+
+========================================================================================================================
+MODULE F - BLOCKED, ARPEGGIATED, RELEASE, AND VOICE-EMPHASIS PATTERNS
+========================================================================================================================
+
+F1. Blocked quarter notes
+Chord C RP on G-B-e
+Frets 5-5-3; degrees 1-3-5
+BLOCK x8
+8 attacks.
+
+F2. Low-high arpeggio
+Chord Am 1st on D-G-B
+Frets 10-9-10; degrees b3-5-1
+D-G-B-B-G-D | D-G
+8 attacks.
+
+F3. High-low arpeggio
+Chord E 2nd on A-D-G
+Frets 2-2-1; degrees 5-1-3
+G-D-A-A-D-G | G-D
+8 attacks.
+
+F4. Outer-inner pattern
+Chord G 1st on E-A-D
+Frets 7-5-5; degrees 3-5-1
+E-D-A-D | E-D-A-D
+8 attacks.
+
+F5. Chord + arpeggio
+Chord Dm RP on G-B-e
+Frets 7-6-5; degrees 1-b3-5
+BLOCK | G-B-e | BLOCK | e-B-G
+8 attacks.
+
+F6. Release backbeats
+Chord F 2nd on D-G-B
+Frets 10-10-10; degrees 5-1-3
+CHORD mute CHORD mute | CHORD mute CHORD mute
+8 attacks.
+
+F7. Top-voice melody: D-G-A-D on A-D-G. One block plus high-string repeat per chord.
+F8. Bass-voice melody: Gm-Cm-D-Gm on E-A-D. Low string plus block per chord.
+
+========================================================================================================================
+MODULE G - TRIAD FRAGMENTS AS MELODIC CELLS
+========================================================================================================================
+
+C RP on G-B-e
+Frets 5-5-3; degrees 1-3-5
+Pattern G-B-e-B | G-e-B-G
+8 attacks.
+
+Am 1st on G-B-e
+Frets 5-5-5; degrees b3-5-1
+Pattern G-e-B-G | e-B-G-e
+8 attacks.
+
+G RP on D-G-B
+Frets 5-4-3; degrees 1-3-5
+Pattern D-G-B-G | D-B-G-D
+8 attacks.
+
+Em 1st on D-G-B
+Frets 5-4-5; degrees b3-5-1
+Pattern D-B-G-D | B-G-D-B
+8 attacks.
+
+D RP on A-D-G
+Frets 5-4-2; degrees 1-3-5
+Pattern A-D-G-D | A-G-D-A
+8 attacks.
+
+Dm 2nd on A-D-G
+Frets 12-12-10; degrees 5-1-b3
+Pattern G-D-A-D | G-A-D-G
+8 attacks.
+
+A RP on E-A-D
+Frets 5-4-2; degrees 1-3-5
+Pattern E-A-D-A | E-D-A-E
+8 attacks.
+
+Gm RP on E-A-D
+Frets 3-1-0; degrees 1-b3-5
+Pattern E-A-D-A | E-D-A-E
+8 attacks.
+
+========================================================================================================================
+MODULE H - MAJOR REGISTER-ORCHESTRATION CAPSTONE
+========================================================================================================================
+Bar  1: C   set G-B-e RP  frets 5-5-3    degrees 1-3-5 | BLOCK + low-middle-high
+Bar  2: F   set G-B-e 2nd frets 5-6-5    degrees 5-1-3 | BLOCK + low-middle-high
+Bar  3: G   set G-B-e 1st frets 4-3-3    degrees 3-5-1 | BLOCK + low-middle-high
+Bar  4: C   set G-B-e RP  frets 5-5-3    degrees 1-3-5 | BLOCK + low-middle-high
+Bar  5: G   set D-G-B RP  frets 5-4-3    degrees 1-3-5 | BLOCK + low-middle-high
+Bar  6: C   set D-G-B 2nd frets 5-5-5    degrees 5-1-3 | BLOCK + low-middle-high
+Bar  7: D   set D-G-B 1st frets 4-2-3    degrees 3-5-1 | BLOCK + low-middle-high
+Bar  8: G   set D-G-B RP  frets 5-4-3    degrees 1-3-5 | BLOCK + low-middle-high
+Bar  9: D   set A-D-G RP  frets 5-4-2    degrees 1-3-5 | BLOCK + low-middle-high
+Bar 10: G   set A-D-G 2nd frets 5-5-4    degrees 5-1-3 | BLOCK + low-middle-high
+Bar 11: A   set A-D-G 1st frets 4-2-2    degrees 3-5-1 | BLOCK + low-middle-high
+Bar 12: D   set A-D-G RP  frets 5-4-2    degrees 1-3-5 | BLOCK + low-middle-high
+Bar 13: A   set E-A-D RP  frets 5-4-2    degrees 1-3-5 | BLOCK + low-middle-high
+Bar 14: D   set E-A-D 2nd frets 5-5-4    degrees 5-1-3 | BLOCK + low-middle-high
+Bar 15: E   set E-A-D 1st frets 4-2-2    degrees 3-5-1 | BLOCK + low-middle-high
+Bar 16: A   set E-A-D RP  frets 5-4-2    degrees 1-3-5 | BLOCK + low-middle-high
+64 attacks total.
+
+========================================================================================================================
+MODULE H - MINOR REGISTER-ORCHESTRATION CAPSTONE
+========================================================================================================================
+Bar  1: Am  set G-B-e RP  frets 2-1-0    degrees 1-b3-5 | BLOCK + low-middle-high
+Bar  2: Dm  set G-B-e 2nd frets 2-3-1    degrees 5-1-b3 | BLOCK + low-middle-high
+Bar  3: E   set G-B-e 1st frets 1-0-0    degrees 3-5-1 | BLOCK + low-middle-high
+Bar  4: Am  set G-B-e RP  frets 2-1-0    degrees 1-b3-5 | BLOCK + low-middle-high
+Bar  5: Em  set D-G-B 1st frets 5-4-5    degrees b3-5-1 | BLOCK + low-middle-high
+Bar  6: Am  set D-G-B RP  frets 7-5-5    degrees 1-b3-5 | BLOCK + low-middle-high
+Bar  7: B   set D-G-B 2nd frets 4-4-4    degrees 5-1-3 | BLOCK + low-middle-high
+Bar  8: Em  set D-G-B 1st frets 5-4-5    degrees b3-5-1 | BLOCK + low-middle-high
+Bar  9: Dm  set A-D-G RP  frets 5-3-2    degrees 1-b3-5 | BLOCK + low-middle-high
+Bar 10: Gm  set A-D-G 2nd frets 5-5-3    degrees 5-1-b3 | BLOCK + low-middle-high
+Bar 11: A   set A-D-G 1st frets 4-2-2    degrees 3-5-1 | BLOCK + low-middle-high
+Bar 12: Dm  set A-D-G RP  frets 5-3-2    degrees 1-b3-5 | BLOCK + low-middle-high
+Bar 13: Gm  set E-A-D RP  frets 3-1-0    degrees 1-b3-5 | BLOCK + low-middle-high
+Bar 14: Cm  set E-A-D 2nd frets 3-3-1    degrees 5-1-b3 | BLOCK + low-middle-high
+Bar 15: D   set E-A-D 1st frets 2-0-0    degrees 3-5-1 | BLOCK + low-middle-high
+Bar 16: Gm  set E-A-D RP  frets 3-1-0    degrees 1-b3-5 | BLOCK + low-middle-high
+64 attacks total.
+
+========================================================================================================================
+EAR TRAINING, RANDOM FORMATION, AND MASTERY
+========================================================================================================================
+Random commands:
+1. Draw root, quality, inversion, and string set.
+2. Spell the chord and degree order.
+3. Name the lowest and highest string.
+4. Form silently and release.
+5. Verify with one blocked attack.
+6. Transfer the same inversion to the next string set.
+
+Ear passes:
+A. Name inversion from the bass voice.
+B. Name string set from the register.
+C. Hear major/minor while inversion stays fixed.
+D. Sing low-middle-high degrees before arpeggiating.
+E. Identify the top-voice melody in a progression.
+F. Record a set transfer and name every register change.
+
+MASTERY GATE BEFORE LEVEL 54
+- Map all seven natural roots as major and minor triads on all four adjacent string sets.
+- Identify all three inversions from the lowest sounding voice.
+- Complete C/Cm and G/Gm set transfers without leakage.
+- Switch quality in all twelve set/inversion combinations by moving one voice.
+- Perform all eight progressions and both sixteen-bar capstones.
+- Use blocked, arpeggiated, release, top-voice, bass-voice, and melodic-fragment patterns.
+- Pass at least 30 of 42 random prompts per string-set family on the first attempt.
+
+NEXT
+Level 54 uses CAGED as a practical chord, triad, root, arpeggio, and nearby-scale indexing system.

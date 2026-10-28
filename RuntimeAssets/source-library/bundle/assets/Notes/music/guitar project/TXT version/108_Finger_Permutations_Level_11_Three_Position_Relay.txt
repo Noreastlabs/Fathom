@@ -1,0 +1,945 @@
+108 FINGER PERMUTATIONS - LEVEL 11: THREE-POSITION RELAY
+Our lesson plans go to 11.
+1+2+1 double-shift control on one string at a time in standard tuning.
+P5 mapping: 1=index/fret 5, 2=middle/fret 6, 3=ring/fret 7, 4=pinky/fret 8.
+P7 mapping: 1=index/fret 7, 2=middle/fret 8, 3=ring/fret 9, 4=pinky/fret 10.
+P9 mapping: 1=index/fret 9, 2=middle/fret 10, 3=ring/fret 11, 4=pinky/fret 12.
+
+MOVEMENT RULE
+Divide every four-digit code 1+2+1 across three position frames.
+SHIFT UP: play note 1 in P5, release pressure and move the entire hand and thumb to P7, play notes 2-3,
+then release and move to P9 for note 4. Repeat one string at a time in this order: E>A>D>G>B>e.
+SHIFT DOWN: play note 1 in P9, move the whole frame to P7 for notes 2-3, then move to P5 for note 4.
+Repeat one string at a time in this order: e>B>G>D>A>E.
+The first landing note is note 2. The second landing note is note 4.
+The four-digit finger code never changes, and both frame relocations are mandatory.
+
+WHY THIS IS LEVEL 11
+Levels 8-10 exhausted the useful single-shift boundaries: after a complete code, after note 2, after note 3,
+and after note 1. Level 11 is the horizontal equivalent of the earlier three-part relay levels. It places two
+whole-frame relocations inside one four-note cell while keeping the pick on a single string. This closes the
+isolated position-shifting section before string changes and position changes are combined.
+
+OVERLAPPING-FRET RULE
+The direction labels describe the hand frame, not necessarily the melodic contour. A landing pitch may rise,
+repeat, or fall. Overlapping fret numbers do not cancel a move. Release, relocate, and use the finger assigned
+by the printed position frame rather than stretching or substituting a different fingering.
+
+PICKING RULE
+Downstroke start: D | U-D | U.
+Upstroke start:   U | D-U | D.
+Both barlines mark fretting-hand shifts only. Do not restart, reverse, or exaggerate the alternate-picking cycle.
+
+PRACTICE RULE
+Use one 12-exercise set per session. Begin 10-15 BPM below the slower of your two clean Level 10 modes.
+Pass 1: use even eighth notes, pause one subdivision at both shift barlines, and lightly accent notes 2 and 4.
+Pass 2: remove both pauses while keeping the accents, then remove the accents and equalize all four notes.
+Convert the connected cell to straight sixteenth notes. Play SHIFT UP and SHIFT DOWN with a downstroke start,
+then repeat both routes with an upstroke start.
+After three clean loops, add 2 BPM next session. After two late landings, slides, squeaks, errors, or rising tension,
+reduce 4-6 BPM. Advance after the full set is clean in both directions and both pick starts on two separate days.
+Then restore the existing triplet and quintuplet pulses without moving either code-bound shift point to match the beat.
+
+AFTER MASTERY
+Keep the 1+2+1 grouping and vary only the position distance. Examples: P5>P8>P11 or P5>P7>P10, plus their
+descending equivalents. These are distance variants of Level 11, not another full 108-exercise level.
+
+================================================================================================================
+SET 1 OF 9 - EXERCISES 001-012
+================================================================================================================
+
+Exercise 001: 1212
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-1----|2------|
+S|5------|8-7----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-1----|2------|
+S|9------|8-7----|6------|
+
+Exercise 002: 1213
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-1----|3------|
+S|5------|8-7----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-1----|3------|
+S|9------|8-7----|7------|
+
+Exercise 003: 1214
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-1----|4------|
+S|5------|8-7----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-1----|4------|
+S|9------|8-7----|8------|
+
+Exercise 004: 1231
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-3----|1------|
+S|5------|8-9----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-3----|1------|
+S|9------|8-9----|5------|
+
+Exercise 005: 1232
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-3----|2------|
+S|5------|8-9----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-3----|2------|
+S|9------|8-9----|6------|
+
+Exercise 006: 1234
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-3----|4------|
+S|5------|8-9----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-3----|4------|
+S|9------|8-9----|8------|
+
+Exercise 007: 1241
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-4----|1------|
+S|5------|8-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-4----|1------|
+S|9------|8-10---|5------|
+
+Exercise 008: 1242
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-4----|2------|
+S|5------|8-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-4----|2------|
+S|9------|8-10---|6------|
+
+Exercise 009: 1243
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|2-4----|3------|
+S|5------|8-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|2-4----|3------|
+S|9------|8-10---|7------|
+
+Exercise 010: 1312
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-1----|2------|
+S|5------|9-7----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-1----|2------|
+S|9------|9-7----|6------|
+
+Exercise 011: 1313
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-1----|3------|
+S|5------|9-7----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-1----|3------|
+S|9------|9-7----|7------|
+
+Exercise 012: 1314
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-1----|4------|
+S|5------|9-7----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-1----|4------|
+S|9------|9-7----|8------|
+
+================================================================================================================
+SET 2 OF 9 - EXERCISES 013-024
+================================================================================================================
+
+Exercise 013: 1321
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-2----|1------|
+S|5------|9-8----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-2----|1------|
+S|9------|9-8----|5------|
+
+Exercise 014: 1323
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-2----|3------|
+S|5------|9-8----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-2----|3------|
+S|9------|9-8----|7------|
+
+Exercise 015: 1324
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-2----|4------|
+S|5------|9-8----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-2----|4------|
+S|9------|9-8----|8------|
+
+Exercise 016: 1341
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-4----|1------|
+S|5------|9-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-4----|1------|
+S|9------|9-10---|5------|
+
+Exercise 017: 1342
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-4----|2------|
+S|5------|9-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-4----|2------|
+S|9------|9-10---|6------|
+
+Exercise 018: 1343
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|3-4----|3------|
+S|5------|9-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|3-4----|3------|
+S|9------|9-10---|7------|
+
+Exercise 019: 1412
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-1----|2------|
+S|5------|10-7---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-1----|2------|
+S|9------|10-7---|6------|
+
+Exercise 020: 1413
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-1----|3------|
+S|5------|10-7---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-1----|3------|
+S|9------|10-7---|7------|
+
+Exercise 021: 1414
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-1----|4------|
+S|5------|10-7---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-1----|4------|
+S|9------|10-7---|8------|
+
+Exercise 022: 1421
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-2----|1------|
+S|5------|10-8---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-2----|1------|
+S|9------|10-8---|5------|
+
+Exercise 023: 1423
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-2----|3------|
+S|5------|10-8---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-2----|3------|
+S|9------|10-8---|7------|
+
+Exercise 024: 1424
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-2----|4------|
+S|5------|10-8---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-2----|4------|
+S|9------|10-8---|8------|
+
+================================================================================================================
+SET 3 OF 9 - EXERCISES 025-036
+================================================================================================================
+
+Exercise 025: 1431
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-3----|1------|
+S|5------|10-9---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-3----|1------|
+S|9------|10-9---|5------|
+
+Exercise 026: 1432
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-3----|2------|
+S|5------|10-9---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-3----|2------|
+S|9------|10-9---|6------|
+
+Exercise 027: 1434
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|1------|4-3----|4------|
+S|5------|10-9---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|1------|4-3----|4------|
+S|9------|10-9---|8------|
+
+Exercise 028: 2121
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-2----|1------|
+S|6------|7-8----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-2----|1------|
+S|10-----|7-8----|5------|
+
+Exercise 029: 2123
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-2----|3------|
+S|6------|7-8----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-2----|3------|
+S|10-----|7-8----|7------|
+
+Exercise 030: 2124
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-2----|4------|
+S|6------|7-8----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-2----|4------|
+S|10-----|7-8----|8------|
+
+Exercise 031: 2131
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-3----|1------|
+S|6------|7-9----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-3----|1------|
+S|10-----|7-9----|5------|
+
+Exercise 032: 2132
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-3----|2------|
+S|6------|7-9----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-3----|2------|
+S|10-----|7-9----|6------|
+
+Exercise 033: 2134
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-3----|4------|
+S|6------|7-9----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-3----|4------|
+S|10-----|7-9----|8------|
+
+Exercise 034: 2141
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-4----|1------|
+S|6------|7-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-4----|1------|
+S|10-----|7-10---|5------|
+
+Exercise 035: 2142
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-4----|2------|
+S|6------|7-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-4----|2------|
+S|10-----|7-10---|6------|
+
+Exercise 036: 2143
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|1-4----|3------|
+S|6------|7-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|1-4----|3------|
+S|10-----|7-10---|7------|
+
+================================================================================================================
+SET 4 OF 9 - EXERCISES 037-048
+================================================================================================================
+
+Exercise 037: 2312
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-1----|2------|
+S|6------|9-7----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-1----|2------|
+S|10-----|9-7----|6------|
+
+Exercise 038: 2313
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-1----|3------|
+S|6------|9-7----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-1----|3------|
+S|10-----|9-7----|7------|
+
+Exercise 039: 2314
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-1----|4------|
+S|6------|9-7----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-1----|4------|
+S|10-----|9-7----|8------|
+
+Exercise 040: 2321
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-2----|1------|
+S|6------|9-8----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-2----|1------|
+S|10-----|9-8----|5------|
+
+Exercise 041: 2323
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-2----|3------|
+S|6------|9-8----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-2----|3------|
+S|10-----|9-8----|7------|
+
+Exercise 042: 2324
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-2----|4------|
+S|6------|9-8----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-2----|4------|
+S|10-----|9-8----|8------|
+
+Exercise 043: 2341
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-4----|1------|
+S|6------|9-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-4----|1------|
+S|10-----|9-10---|5------|
+
+Exercise 044: 2342
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-4----|2------|
+S|6------|9-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-4----|2------|
+S|10-----|9-10---|6------|
+
+Exercise 045: 2343
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|3-4----|3------|
+S|6------|9-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|3-4----|3------|
+S|10-----|9-10---|7------|
+
+Exercise 046: 2412
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-1----|2------|
+S|6------|10-7---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-1----|2------|
+S|10-----|10-7---|6------|
+
+Exercise 047: 2413
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-1----|3------|
+S|6------|10-7---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-1----|3------|
+S|10-----|10-7---|7------|
+
+Exercise 048: 2414
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-1----|4------|
+S|6------|10-7---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-1----|4------|
+S|10-----|10-7---|8------|
+
+================================================================================================================
+SET 5 OF 9 - EXERCISES 049-060
+================================================================================================================
+
+Exercise 049: 2421
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-2----|1------|
+S|6------|10-8---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-2----|1------|
+S|10-----|10-8---|5------|
+
+Exercise 050: 2423
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-2----|3------|
+S|6------|10-8---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-2----|3------|
+S|10-----|10-8---|7------|
+
+Exercise 051: 2424
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-2----|4------|
+S|6------|10-8---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-2----|4------|
+S|10-----|10-8---|8------|
+
+Exercise 052: 2431
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-3----|1------|
+S|6------|10-9---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-3----|1------|
+S|10-----|10-9---|5------|
+
+Exercise 053: 2432
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-3----|2------|
+S|6------|10-9---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-3----|2------|
+S|10-----|10-9---|6------|
+
+Exercise 054: 2434
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|2------|4-3----|4------|
+S|6------|10-9---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|2------|4-3----|4------|
+S|10-----|10-9---|8------|
+
+Exercise 055: 3121
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-2----|1------|
+S|7------|7-8----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-2----|1------|
+S|11-----|7-8----|5------|
+
+Exercise 056: 3123
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-2----|3------|
+S|7------|7-8----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-2----|3------|
+S|11-----|7-8----|7------|
+
+Exercise 057: 3124
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-2----|4------|
+S|7------|7-8----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-2----|4------|
+S|11-----|7-8----|8------|
+
+Exercise 058: 3131
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-3----|1------|
+S|7------|7-9----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-3----|1------|
+S|11-----|7-9----|5------|
+
+Exercise 059: 3132
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-3----|2------|
+S|7------|7-9----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-3----|2------|
+S|11-----|7-9----|6------|
+
+Exercise 060: 3134
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-3----|4------|
+S|7------|7-9----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-3----|4------|
+S|11-----|7-9----|8------|
+
+================================================================================================================
+SET 6 OF 9 - EXERCISES 061-072
+================================================================================================================
+
+Exercise 061: 3141
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-4----|1------|
+S|7------|7-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-4----|1------|
+S|11-----|7-10---|5------|
+
+Exercise 062: 3142
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-4----|2------|
+S|7------|7-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-4----|2------|
+S|11-----|7-10---|6------|
+
+Exercise 063: 3143
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|1-4----|3------|
+S|7------|7-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|1-4----|3------|
+S|11-----|7-10---|7------|
+
+Exercise 064: 3212
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-1----|2------|
+S|7------|8-7----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-1----|2------|
+S|11-----|8-7----|6------|
+
+Exercise 065: 3213
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-1----|3------|
+S|7------|8-7----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-1----|3------|
+S|11-----|8-7----|7------|
+
+Exercise 066: 3214
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-1----|4------|
+S|7------|8-7----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-1----|4------|
+S|11-----|8-7----|8------|
+
+Exercise 067: 3231
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-3----|1------|
+S|7------|8-9----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-3----|1------|
+S|11-----|8-9----|5------|
+
+Exercise 068: 3232
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-3----|2------|
+S|7------|8-9----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-3----|2------|
+S|11-----|8-9----|6------|
+
+Exercise 069: 3234
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-3----|4------|
+S|7------|8-9----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-3----|4------|
+S|11-----|8-9----|8------|
+
+Exercise 070: 3241
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-4----|1------|
+S|7------|8-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-4----|1------|
+S|11-----|8-10---|5------|
+
+Exercise 071: 3242
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-4----|2------|
+S|7------|8-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-4----|2------|
+S|11-----|8-10---|6------|
+
+Exercise 072: 3243
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|2-4----|3------|
+S|7------|8-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|2-4----|3------|
+S|11-----|8-10---|7------|
+
+================================================================================================================
+SET 7 OF 9 - EXERCISES 073-084
+================================================================================================================
+
+Exercise 073: 3412
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-1----|2------|
+S|7------|10-7---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-1----|2------|
+S|11-----|10-7---|6------|
+
+Exercise 074: 3413
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-1----|3------|
+S|7------|10-7---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-1----|3------|
+S|11-----|10-7---|7------|
+
+Exercise 075: 3414
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-1----|4------|
+S|7------|10-7---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-1----|4------|
+S|11-----|10-7---|8------|
+
+Exercise 076: 3421
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-2----|1------|
+S|7------|10-8---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-2----|1------|
+S|11-----|10-8---|5------|
+
+Exercise 077: 3423
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-2----|3------|
+S|7------|10-8---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-2----|3------|
+S|11-----|10-8---|7------|
+
+Exercise 078: 3424
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-2----|4------|
+S|7------|10-8---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-2----|4------|
+S|11-----|10-8---|8------|
+
+Exercise 079: 3431
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-3----|1------|
+S|7------|10-9---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-3----|1------|
+S|11-----|10-9---|5------|
+
+Exercise 080: 3432
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-3----|2------|
+S|7------|10-9---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-3----|2------|
+S|11-----|10-9---|6------|
+
+Exercise 081: 3434
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|3------|4-3----|4------|
+S|7------|10-9---|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|3------|4-3----|4------|
+S|11-----|10-9---|8------|
+
+Exercise 082: 4121
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-2----|1------|
+S|8------|7-8----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-2----|1------|
+S|12-----|7-8----|5------|
+
+Exercise 083: 4123
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-2----|3------|
+S|8------|7-8----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-2----|3------|
+S|12-----|7-8----|7------|
+
+Exercise 084: 4124
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-2----|4------|
+S|8------|7-8----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-2----|4------|
+S|12-----|7-8----|8------|
+
+================================================================================================================
+SET 8 OF 9 - EXERCISES 085-096
+================================================================================================================
+
+Exercise 085: 4131
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-3----|1------|
+S|8------|7-9----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-3----|1------|
+S|12-----|7-9----|5------|
+
+Exercise 086: 4132
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-3----|2------|
+S|8------|7-9----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-3----|2------|
+S|12-----|7-9----|6------|
+
+Exercise 087: 4134
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-3----|4------|
+S|8------|7-9----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-3----|4------|
+S|12-----|7-9----|8------|
+
+Exercise 088: 4141
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-4----|1------|
+S|8------|7-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-4----|1------|
+S|12-----|7-10---|5------|
+
+Exercise 089: 4142
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-4----|2------|
+S|8------|7-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-4----|2------|
+S|12-----|7-10---|6------|
+
+Exercise 090: 4143
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|1-4----|3------|
+S|8------|7-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|1-4----|3------|
+S|12-----|7-10---|7------|
+
+Exercise 091: 4212
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-1----|2------|
+S|8------|8-7----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-1----|2------|
+S|12-----|8-7----|6------|
+
+Exercise 092: 4213
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-1----|3------|
+S|8------|8-7----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-1----|3------|
+S|12-----|8-7----|7------|
+
+Exercise 093: 4214
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-1----|4------|
+S|8------|8-7----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-1----|4------|
+S|12-----|8-7----|8------|
+
+Exercise 094: 4231
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-3----|1------|
+S|8------|8-9----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-3----|1------|
+S|12-----|8-9----|5------|
+
+Exercise 095: 4232
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-3----|2------|
+S|8------|8-9----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-3----|2------|
+S|12-----|8-9----|6------|
+
+Exercise 096: 4234
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-3----|4------|
+S|8------|8-9----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-3----|4------|
+S|12-----|8-9----|8------|
+
+================================================================================================================
+SET 9 OF 9 - EXERCISES 097-108
+================================================================================================================
+
+Exercise 097: 4241
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-4----|1------|
+S|8------|8-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-4----|1------|
+S|12-----|8-10---|5------|
+
+Exercise 098: 4242
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-4----|2------|
+S|8------|8-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-4----|2------|
+S|12-----|8-10---|6------|
+
+Exercise 099: 4243
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|2-4----|3------|
+S|8------|8-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|2-4----|3------|
+S|12-----|8-10---|7------|
+
+Exercise 100: 4312
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-1----|2------|
+S|8------|9-7----|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-1----|2------|
+S|12-----|9-7----|6------|
+
+Exercise 101: 4313
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-1----|3------|
+S|8------|9-7----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-1----|3------|
+S|12-----|9-7----|7------|
+
+Exercise 102: 4314
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-1----|4------|
+S|8------|9-7----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-1----|4------|
+S|12-----|9-7----|8------|
+
+Exercise 103: 4321
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-2----|1------|
+S|8------|9-8----|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-2----|1------|
+S|12-----|9-8----|5------|
+
+Exercise 104: 4323
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-2----|3------|
+S|8------|9-8----|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-2----|3------|
+S|12-----|9-8----|7------|
+
+Exercise 105: 4324
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-2----|4------|
+S|8------|9-8----|12-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-2----|4------|
+S|12-----|9-8----|8------|
+
+Exercise 106: 4341
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-4----|1------|
+S|8------|9-10---|9------|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-4----|1------|
+S|12-----|9-10---|5------|
+
+Exercise 107: 4342
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-4----|2------|
+S|8------|9-10---|10-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-4----|2------|
+S|12-----|9-10---|6------|
+
+Exercise 108: 4343
+SHIFT UP - P5 to P7 to P9; repeat on E>A>D>G>B>e
+F|4------|3-4----|3------|
+S|8------|9-10---|11-----|
+SHIFT DOWN - P9 to P7 to P5; repeat on e>B>G>D>A>E
+F|4------|3-4----|3------|
+S|12-----|9-10---|7------|

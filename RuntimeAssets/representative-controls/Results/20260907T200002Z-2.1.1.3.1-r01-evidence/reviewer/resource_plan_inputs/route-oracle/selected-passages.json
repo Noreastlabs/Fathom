@@ -1,0 +1,98 @@
+[
+  {
+    "level": 1,
+    "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Guitar_Tablature.txt",
+    "sha256": "0f5719945456692fc4c40ce3b06e0cd742b61b7f8615ad465b9f26832cd08842",
+    "format": "txt",
+    "first_line": 2,
+    "last_line": 15,
+    "text": "Fifth position: 1=index/fret 5, 2=middle/fret 6, 3=ring/fret 7, 4=pinky/fret 8.\nPlay each pattern from low E to high e. Repeat from high e to low E to descend.\nUse strict alternate picking unless practicing another picking system intentionally.\n\n========================================================================\nSTARTING FINGER 1 (INDEX)\n========================================================================\nExercise 001: 1212\ne|----------------------------------------5-6-5-6-\nB|--------------------------------5-6-5-6---------\nG|------------------------5-6-5-6-----------------\nD|----------------5-6-5-6-------------------------\nA|--------5-6-5-6---------------------------------\nE|5-6-5-6-----------------------------------------",
+    "text_sha256": "b15e277903ef5c8d7c6bc34d722a47ed43582c6e9a839f035012eed2633c2fe7",
+    "classification": "required_selected_case",
+    "selected_case_relation": "Complete Exercise001 route rule and all six ascending string rows; descending repeats unchanged code across reversed string route."
+  },
+  {
+    "level": 3,
+    "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.txt",
+    "sha256": "1bb8d5225f2db8df2b3ce518f10f28e11158592e0b5cbbb4c28af2742c861b4f",
+    "format": "txt",
+    "first_line": 5,
+    "last_line": 21,
+    "text": "MOVEMENT RULE\nMode A - 3+1 late transfer: play digits 1-3 on the first string and digit 4 on the adjacent string.\nMode B - 1+3 early transfer: play digit 1 on the first string and digits 2-4 on the adjacent string.\nAscend through E/A, A/D, D/G, G/B, B/e. Descend through e/B, B/G, G/D, D/A, A/E.\nThe four-digit code order never changes.\n\nWHY THIS IS LEVEL 3\nLevel 2 crossed after note 2. These modes cross after note 3 or note 1, so strict alternate picking produces different\ninside- and outside-string transitions depending on whether the exercise begins with a downstroke or an upstroke.\n\nPRACTICE RULE\nBegin 8-12 BPM below your clean Level 2 tempo. Use one 12-code set and one mode per session.\nPlay each exercise ascending and descending, once beginning with a downstroke and once beginning with an upstroke.\nFirst pass: lightly accent the first note after the crossing. Second pass: make all four notes equal in volume.\nRotate the existing straight-16th, triplet, and quintuplet groupings across sessions.\nAfter three clean loops, add 2 BPM next time. After two errors or rising tension, reduce 4-6 BPM.\nAdvance when both modes for the set are clean on two separate days.",
+    "text_sha256": "3078d30270f709dd5a29b1ee56b94745d0a488279624f5553a320f20fab0bfb8",
+    "classification": "required_selected_case_with_adjacent_context",
+    "selected_case_relation": "ModeA movement and practice instructions apply to selected001; ModeB/whole-set mastery retained as source context, not converted ModeB or twelve-code set."
+  },
+  {
+    "level": 3,
+    "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.txt",
+    "sha256": "1bb8d5225f2db8df2b3ce518f10f28e11158592e0b5cbbb4c28af2742c861b4f",
+    "format": "txt",
+    "first_line": 28,
+    "last_line": 46,
+    "text": "MODE A - 3+1 LATE TRANSFER\nDigits 1-3 stay on the first string; digit 4 lands on the adjacent string.\n------------------------------------------------------------------------------------------------\n\nExercise 001: 1212\nASCEND\ne|--------|--------|--------|--------|------6-|\nB|--------|--------|--------|------6-|5-6-5---|\nG|--------|--------|------6-|5-6-5---|--------|\nD|--------|------6-|5-6-5---|--------|--------|\nA|------6-|5-6-5---|--------|--------|--------|\nE|5-6-5---|--------|--------|--------|--------|\nDESCEND\ne|5-6-5---|--------|--------|--------|--------|\nB|------6-|5-6-5---|--------|--------|--------|\nG|--------|------6-|5-6-5---|--------|--------|\nD|--------|--------|------6-|5-6-5---|--------|\nA|--------|--------|--------|------6-|5-6-5---|\nE|--------|--------|--------|--------|------6-|",
+    "text_sha256": "8e95d054783597bac85b3f932b6e6aa4feab6f8370d878d784e0425351c77c07",
+    "classification": "required_selected_case",
+    "selected_case_relation": "Full ModeA001 five-pair ascending and descending notation."
+  },
+  {
+    "level": 12,
+    "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_12_Major_Scale_One_Fret_Neck_Ladder.txt",
+    "sha256": "64e65f5293012f9af3c84a885cbdd54c82275f6c6e282c8f8a28cca579631be9",
+    "format": "txt",
+    "first_line": 14,
+    "last_line": 28,
+    "text": "Degrees: 1 2 3 4 5 6 7 8\nIntervals: whole - whole - half - whole - whole - whole - half\n\nCOMPACT ONE-OCTAVE SHAPE - ROOT FRET R ON LOW E\nLow E string: R, R+2               Fingers 2,4\nA string:     R-1, R, R+2          Fingers 1,2,4\nD string:     R-1, R+1, R+2        Fingers 1,3,4\nThe four-fret hand frame runs from R-1 through R+2.\n\nCELL AND PICKING RULE\nPlay degrees 1-2-3-4-5-6-7-8, then 8-7-6-5-4-3-2-1. The octave root is repeated at the turn.\nThis creates 16 notes, so the next key begins with the same alternate-picking orientation.\nD-start: D U D U D U D U | D U D U D U D U\nU-start: U D U D U D U D | U D U D U D U D\nDo not restart the pick cycle at the scale turn or at the one-fret shift.",
+    "text_sha256": "0ace164f4c5f909233d35fe042bbf694a90a07be234c8e29bd4afa66e8202a55",
+    "classification": "required_selected_case",
+    "selected_case_relation": "One-octave geometry, repeated root and continuous pick cycle."
+  },
+  {
+    "level": 12,
+    "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_12_Major_Scale_One_Fret_Neck_Ladder.txt",
+    "sha256": "64e65f5293012f9af3c84a885cbdd54c82275f6c6e282c8f8a28cca579631be9",
+    "format": "txt",
+    "first_line": 34,
+    "last_line": 53,
+    "text": "PRACTICE RULE\nUse 3-4 neighboring rungs at first. Play even eighth notes and pause one beat after every 16-note cell.\nDuring the pause, release pressure and move the complete frame one fret. Repeat with both pick starts.\nThen remove the pause, connect the ladder, reverse at fret 17, and return to fret 5.\nAdd 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, dragged shift noise, or rising tension.\nAdvance after the complete route is clean with both pick starts on two separate days.\n\n========================================================================================================\nRUNG 01 OF 13 - A MAJOR - ROOT ON LOW E FRET 5 - FRAME 4-7\nScale tones: A B C# D E F# G# A\n16-note cell: ascend 1-8, repeat the octave root, descend 8-1.\nDeg|1--2--3--4--5--6--7--8--8--7--6--5--4--3--2--1--|\nFng|2--4--1--2--4--1--3--4--4--3--1--4--2--1--4--2--|\ne  |------------------------------------------------|\nB  |------------------------------------------------|\nG  |------------------------------------------------|\nD  |---------------4--6--7--7--6--4-----------------|\nA  |------4--5--7--------------------7--5--4--------|\nE  |5--7--------------------------------------7--5--|\nFinish on the low root, release pressure, and move the entire frame one fret in the route direction.",
+    "text_sha256": "8c91a3cb7a322a15660049443ed6f57891fb112d43b7c14516eab60dc952791d",
+    "classification": "required_selected_case_with_adjacent_context",
+    "selected_case_relation": "Selected Rung01 complete sixteen-note cell and finishing pressure-release sentence; route progression remains displayed context, not other twelve converted rungs."
+  },
+  {
+    "level": 15,
+    "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+    "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514",
+    "format": "txt",
+    "first_line": 21,
+    "last_line": 47,
+    "text": "Scale positions: 1 through 15, covering two octaves.\nIntervals per octave: whole - whole - half - whole - whole - whole - half\nPositions 8 and 15 are octave roots; positions 9-14 repeat degrees 2-7 in the upper octave.\n\nTWO-OCTAVE SIX-STRING SHAPE - ROOT FRET R ON LOW E\nLow E string: R, R+2               Fingers 2,4\nA string:     R-1, R, R+2          Fingers 1,2,4\nD string:     R-1, R+1, R+2        Fingers 1,3,4\nG string:     R-1, R+1, R+2        Fingers 1,3,4\nB string:     R, R+2               Fingers 2,4\nHigh e string: R-1, R              Fingers 1,2\nThe four-fret hand frame runs from R-1 through R+2.\n\nROLLING THREE-NOTE SEQUENCE\nUP:   1-2-3 | 2-3-4 | 3-4-5 | 4-5-6 | 5-6-7 | 6-7-8 | 7-8-9 | 8-9-10 | 9-10-11 | 10-11-12 | 11-12-13 | 12-13-14 | 13-14-15\nDOWN: 15-14-13 | 14-13-12 | 13-12-11 | 12-11-10 | 11-10-9 | 10-9-8 | 9-8-7 | 8-7-6 | 7-6-5 | 6-5-4 | 5-4-3 | 4-3-2 | 3-2-1\nEach new triplet starts one scale position farther along. The line moves forward three notes, then rolls\nback one position to begin the next group. Do not pause or reset at a triplet boundary, string crossing,\nthe middle-octave root, the high-root turn, or the one-fret relocation.\n\nCELL AND PICKING RULE\nThe complete cell contains 26 triplets and 78 notes: 13 ascending groups and 13 descending groups.\nThe last note of 13-14-15 is followed immediately by the first note of 15-14-13, so the high root is\nplayed twice at the turn. Because 78 is even, the next key begins with the same pick orientation.\nD-start groups: D-U-D | U-D-U | D-U-D | U-D-U ... through all 26 groups.\nU-start groups: U-D-U | D-U-D | U-D-U | D-U-D ... through all 26 groups.\nNever restart the pick cycle at a new group, string crossing, octave, scale turn, or one-fret shift.",
+    "text_sha256": "09805f291edb65171387d7ece9ca4c85b472f3b6ee9ab7f0ccbcb6c0c45cc600",
+    "classification": "required_selected_case_with_adjacent_context",
+    "selected_case_relation": "Compound degree/finger context and rolling/picking rule needed to explain the selected first group; full thirteen-group sequence is context, not conversion."
+  },
+  {
+    "level": 15,
+    "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+    "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514",
+    "format": "txt",
+    "first_line": 59,
+    "last_line": 81,
+    "text": "PRACTICE RULE\nUse eighth-note triplets: one three-note group per beat. Begin 15-20 BPM below your clean Level 14 tempo.\nFirst master the 13 ascending triplets in A major, then the 13 descending triplets. Link them without\nrestarting the pick cycle and make the two high-root notes equal in length and volume. Next use 2-3\nneighboring rungs and pause one beat after each 78-note cell while moving the complete frame one fret.\nRepeat with both pick starts. Remove the pause, connect the ladder, reverse after the fret-17 cell, and\nreturn to fret 5. Add 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, a broken triplet\npulse, a missed B-string offset, dragged shift noise, or rising tension. Advance after the complete route\nis clean with both pick starts on two separate days.\n\n======================================================================================================================================================\nRUNG 01 OF 13 - A MAJOR - ROOT ON LOW E FRET 5 - FRAME 4-7\nScale tones across two octaves: A B C# D E F# G# A B C# D E F# G# A\n78-note cell: 13 ascending rolling triplets, repeat the high root at the turn, then 13 descending triplets.\nASCENDING - 13 TRIPLETS / 39 NOTES\nDeg|1--2--3--|2--3--4--|3--4--5--|4--5--6--|5--6--7--|6--7--8--|7--8--9--|8--9--10-|9--10-11-|10-11-12-|11-12-13-|12-13-14-|13-14-15-|\nFng|2--4--1--|4--1--2--|1--2--4--|2--4--1--|4--1--3--|1--3--4--|3--4--1--|4--1--3--|1--3--4--|3--4--2--|4--2--4--|2--4--1--|4--1--2--|\ne  |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|------4--|---4--5--|\nB  |---------|---------|---------|---------|---------|---------|---------|---------|---------|------5--|---5--7--|5--7-----|7--------|\nG  |---------|---------|---------|---------|---------|---------|------4--|---4--6--|4--6--7--|6--7-----|7--------|---------|---------|\nD  |---------|---------|---------|------4--|---4--6--|4--6--7--|6--7-----|7--------|---------|---------|---------|---------|---------|\nA  |------4--|---4--5--|4--5--7--|5--7-----|7--------|---------|---------|---------|---------|---------|---------|---------|---------|\nE  |5--7-----|7--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|",
+    "text_sha256": "073c2546552f949170666676b88e70b4984392ec1e581f477d4bdbe547c16f65",
+    "classification": "required_selected_case_with_adjacent_context",
+    "selected_case_relation": "First rolling group notes/fingers, source eighth-triplet unit and both pick starts; whole78/route practice remains context."
+  },
+  {
+    "level": 15,
+    "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+    "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514",
+    "format": "txt",
+    "first_line": 386,
+    "last_line": 399,
+    "text": "\nCLEAN-ROUND STANDARD\nNo missing, added, or reordered triplet; no pause at a group boundary; no accidental straight-eighth feel;\nno wrong scale tone or open string; no copied G-string geometry at the B-string offset; no scrape or tempo\nchange at the one-fret relocation; no accent caused by a string crossing; and equal volume on both high roots.\n\nAFTER THE BASIC LADDER IS CLEAN\n1. Group accents: accent the first note of each triplet, then remove every group accent.\n2. Off-center accents: accent the second note of each triplet without changing the pulse.\n3. Root accents: accent only positions 1, 8, and 15 wherever they occur inside the rolling line.\n4. Sextuplets: play two triplet groups per beat at half the metronome marking.\n5. Direction: begin selected sessions at fret 17 and descend first.\n6. Random entry: choose any root fret from 5-17, name the key, play its cell, and continue either way.\nThese are Level 15 variations, not separate full levels.",
+    "text_sha256": "544c774a2391eeb8061def59d6d3deae2be22f63096f8e8d4f44127617c00450",
+    "classification": "required_selected_case_with_adjacent_context",
+    "selected_case_relation": "Clean-round and authored alternative marking instructions; other accents/direction/random-entry are displayed context, not false selected-event variants."
+  }
+]

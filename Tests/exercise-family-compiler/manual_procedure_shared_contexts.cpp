@@ -1,0 +1,9 @@
+#include "tasks/ManualProcedureSharedContexts.hpp"
+#include "GeneratedManualProcedureReference79.hpp"
+#include <iostream>
+#include <set>
+using namespace fathom;using namespace tasks::manual_procedure_graph_support;namespace G=tasks::manual_procedure_reference79_generated;
+int main(){try{std::size_t assertions=0;auto check=[&](bool b){++assertions;if(!b)throw std::runtime_error("ASSERT");};std::vector<std::pair<std::string,std::string>> inputs;for(const auto& c:G::contexts)inputs.emplace_back(c.path,c.value);std::vector<std::shared_ptr<const json::Value>> retained;std::set<const json::Value*> unique;{const SharedSourceContexts catalog(inputs);check(catalog.parsedCount()==3);for(const auto& row:G::rows){const auto value=json::parse(row.value);const auto* p=value.find("context_ref");check(p&&p->isString());auto shared=catalog.retain(p->string());retained.push_back(shared);unique.insert(shared.get());}check(unique.size()==3&&retained.size()==79);bool refused=false;try{(void)catalog.retain("foreign");}catch(const std::runtime_error&){refused=true;}check(refused);}
+ for(const auto& v:retained)check(v&&v->isObject());auto original=retained.front();const auto bytes=json::stringify(*original);{const SharedSourceContexts other({{"replacement","{\"trusted\":\"other\"}"}});check(original&&json::stringify(*original)==bytes&&other.retain("replacement")->find("trusted"));}check(json::stringify(*original)==bytes);
+ bool duplicate=false;try{SharedSourceContexts bad({inputs.front(),inputs.front()});}catch(const std::runtime_error&){duplicate=true;}check(duplicate);
+ std::cout<<"{\"outcome\":\"PASS\",\"rows\":79,\"context_objects\":3,\"retained_owners\":79,\"per_key_context_copies\":0,\"lifetime_preserved_after_catalog_destruction\":true,\"assertions\":"<<assertions<<",\"current224_mutated\":false}\n";return 0;}catch(const std::exception& e){std::cerr<<e.what()<<"\n";return 1;}}

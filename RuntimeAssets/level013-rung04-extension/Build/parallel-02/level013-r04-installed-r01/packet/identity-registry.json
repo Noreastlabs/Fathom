@@ -1,0 +1,42 @@
+{
+  "identity_version": 1,
+  "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber.",
+  "entities": [
+    {
+      "id": "fg:course:000001",
+      "kind": "course",
+      "label": "Fathom Guitar105",
+      "parent": null
+    },
+    {
+      "id": "fg:workbook:000013",
+      "kind": "workbook",
+      "label": "Legacy Level13 two-octave six-string neck ladder",
+      "parent": "fg:course:000001"
+    },
+    {
+      "id": "fg:module:001183",
+      "kind": "module",
+      "label": "Level13 rung 04 C",
+      "parent": "fg:workbook:000013"
+    },
+    {
+      "id": "fg:item:001183",
+      "kind": "item",
+      "label": "Rung 04: C major two-octave six-string ladder cell",
+      "parent": "fg:module:001183"
+    },
+    {
+      "id": "fg:variant:007706",
+      "kind": "variant",
+      "label": "cell-D-start",
+      "parent": "fg:item:001183"
+    },
+    {
+      "id": "fg:variant:007707",
+      "kind": "variant",
+      "label": "cell-U-start",
+      "parent": "fg:item:001183"
+    }
+  ]
+}

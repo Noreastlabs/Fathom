@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "bytes": 7400,
+      "path": "Build/manager-resume-r01/level004-ex006-decisions-r01/check_decision_inputs.py",
+      "sha256": "0bc6f69dd24ad6ba39f709d970a8ebd9ce27ae261e6af1ee9c0c291c23076459"
+    },
+    {
+      "bytes": 1379,
+      "path": "Build/manager-resume-r01/level004-ex006-decisions-r01/evidence-audit-final.json",
+      "sha256": "be352952d021cf7b793575fa875ef62cfa665b94d38961d9cdf0d724b892d620"
+    },
+    {
+      "bytes": 1224,
+      "path": "Build/manager-resume-r01/level004-ex006-decisions-r01/evidence-audit.json",
+      "sha256": "3a1ebbd4cf39c6260002a93b296353f6b34ab6e2dbb29ab962c122b0b0380bf1"
+    },
+    {
+      "bytes": 2986,
+      "path": "Build/manager-resume-r01/level004-ex006-decisions-r01/machine-checks.json",
+      "sha256": "773bf39391ead9c5fde038c6eb49e974e0d8e4f05ae0a236e95230931afc062a"
+    },
+    {
+      "bytes": 7141,
+      "path": "Prompts/manager-resume-r01/level004-ex006-decisions-r01/full-template-prompt.md",
+      "sha256": "8bbc813ddecb3a45c49e3fc7a0b1d3fa8b3f9c262e5a3ace770c26e51eb932b7"
+    },
+    {
+      "bytes": 4752,
+      "path": "Results/manager-resume-r01/level004-ex006-decisions-r01/curriculum-decision.md",
+      "sha256": "f89792092dba94e56cda171285e79d49d2a9db0ada35970692f098c29204fbb9"
+    },
+    {
+      "bytes": 5130,
+      "path": "Results/manager-resume-r01/level004-ex006-decisions-r01/decision-report.md",
+      "sha256": "b338de2da43427326246c044f830468a1c6c2aa00abef76514a42c66e38ce030"
+    },
+    {
+      "bytes": 1126,
+      "path": "Results/manager-resume-r01/level004-ex006-decisions-r01/git-state-final.json",
+      "sha256": "8cf09963d4c9d3fee8695103e497df7918a97b7a7db8479fe2841cd2f86bec1d"
+    },
+    {
+      "bytes": 966,
+      "path": "Results/manager-resume-r01/level004-ex006-decisions-r01/git-state.json",
+      "sha256": "85b146bb47874646627a4887d31e971e41764cbcd6abe8a82329489a94c595b6"
+    },
+    {
+      "bytes": 3918,
+      "path": "Results/manager-resume-r01/level004-ex006-decisions-r01/prospective-runtime-decision.json",
+      "sha256": "d789024dcecb855849abae93201be7ea8043d06bc1b97208f26b5fc06a2417ae"
+    },
+    {
+      "bytes": 3114,
+      "path": "Results/manager-resume-r01/level004-ex006-decisions-r01/runtime-decision.md",
+      "sha256": "cd738907ad19a36d3f2bbfeb17f4a398edbe85591b1fec43501d475dc5aad7d0"
+    }
+  ],
+  "self_excluding": true,
+  "status": "SEALED",
+  "version": 1
+}

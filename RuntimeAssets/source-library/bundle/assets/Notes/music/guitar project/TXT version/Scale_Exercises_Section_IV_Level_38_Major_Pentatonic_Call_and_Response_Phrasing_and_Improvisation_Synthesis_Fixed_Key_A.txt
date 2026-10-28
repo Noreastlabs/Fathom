@@ -1,0 +1,850 @@
+SCALE EXERCISES - SECTION IV, LEVEL 38
+A MAJOR PENTATONIC CALL-AND-RESPONSE PHRASING AND IMPROVISATION SYNTHESIS
+FIXED KEY A - FIVE POSITIONS - HARMONY A, D, AND E MAJOR
+
+PURPOSE
+Combine the five fixed-key positions, horizontal movement, expressive articulation, and I-IV-V chord targets
+into phrases that sound intentional rather than like scale recitation. Build a short call, leave measured space,
+answer the active harmony, develop one recognizable motif, and preserve the chord change while moving across the neck.
+
+A MAJOR PENTATONIC
+Notes: A B C# E F#
+Degrees: 1 2 3 5 6
+I-IV-V chords: A major = A C# E; D major = D F# A; E major = E G# B.
+Strong pentatonic targets: A/C#/E over A; F#/A over D; E/B over E.
+Completion tones: D* may appear only over D major; G#* may appear only over E major.
+
+PHRASE GRAMMAR
+A call states a rhythm and contour, then leaves room. It often ends on degree 2 or 6 rather than a final tonic.
+A response may echo the rhythm, reverse the contour, move to a neighboring position, or change the chord target.
+Silence is counted. A rest is not lost time; it is part of the phrase. A response should arrive because the harmony
+changed, not because the player ran out of scale notes.
+
+TAB LEGEND
+P = picked attack; h = hammer-on destination; p = pull-off destination; s = slide destination;
+b = bend destination; r = rest; = = held tone. Continue alternate picking only through actual picked attacks.
+The count row shows eighth-note slots: 1 & 2 & 3 & 4 &.
+
+CORE WRITTEN COUNTS
+Module A local question/answer pairs: 55 sounding tones / 37 pick attacks.
+Module B four seam phrases: 97 sounding tones / 62 pick attacks.
+Module C motif transformation lab: 30 sounding tones / 23 pick attacks.
+Module D space and density ladder: 60 sounding tones / 60 pick attacks.
+Module E model 12-bar chorus: 70 sounding tones / 55 pick attacks.
+Complete written workout: 312 sounding tones / 237 pick attacks, before the controlled free choruses.
+
+========================================================================================================================
+MODULE A - FIVE LOCAL QUESTION-AND-ANSWER PAIRS
+========================================================================================================================
+Each call and response uses one position and two bars of eighth-note slots. The call leaves an open color;
+the response preserves enough of the rhythm to sound related and ends on an A-major chord tone. Practice the call,
+count one full bar of silence, play the response, then remove the extra bar while keeping the phrase boundary audible.
+
+P1 - ROOT FRAME - FRETS 4-7
+Call ends F# (degree 6); answer ends A (root).
+CALL
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    C#   E    F#   r    r    |
+Deg |1    2    r    3    5    6    r    r    |
+Atk |P    h    r    P    h    P    r    r    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |                         4              |
+A   |               4    h7                  |
+E   |5    h7                                 |
+
+RESPONSE
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    r    F#   E    C#   A    =    |
+Deg |3    5    r    6    5    3    1    =    |
+Atk |P    h    r    P    P    p    P    =    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |               4                        |
+A   |4    h7             7    p4             |
+E   |                              5~        |
+
+P2 - SECOND-DEGREE FRAME - FRETS 6-10
+Call ends B (degree 2); answer ends A (root).
+CALL
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    r    F#   A    B    r    r    |
+Deg |3    5    r    6    1    2    r    r    |
+Atk |P    P    r    P    P    h    r    r    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |                    7    h9             |
+A   |     7         9                        |
+E   |9                                       |
+
+RESPONSE
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    F#   r    A    C#   E    A    =    |
+Deg |5    6    r    1    3    5    1    =    |
+Atk |P    h    r    P    P    h    P    =    |
+e   |                                        |
+B   |                              10~       |
+G   |                    6    h9             |
+D   |               7                        |
+A   |7    h9                                 |
+E   |                                        |
+
+P3 - THIRD-DEGREE FRAME - FRETS 9-12
+Call ends F# (degree 6); answer ends A (root).
+CALL
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    F#   r    A    B    F#   r    r    |
+Deg |5    6    r    1    2    6    r    r    |
+Atk |P    h    r    P    h    P    r    r    |
+e   |                                        |
+B   |               10   h12                 |
+G   |9    h11                 11             |
+D   |                                        |
+A   |                                        |
+E   |                                        |
+
+RESPONSE
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    r    F#   E    C#   A    =    |
+Deg |3    5    r    6    5    3    1    =    |
+Atk |P    P    r    P    p    P    P    =    |
+e   |                                        |
+B   |                                        |
+G   |     9         11   p9                  |
+D   |11                       11             |
+A   |                              12~       |
+E   |                                        |
+
+P4 - FIFTH-DEGREE FRAME - FRETS 11-14
+Call ends F# (degree 6); answer ends A (root).
+CALL
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    C#   E    F#   r    r    |
+Deg |1    2    r    3    5    6    r    r    |
+Atk |P    h    r    P    h    P    r    r    |
+e   |                                        |
+B   |                                        |
+G   |                         11             |
+D   |               11   h14                 |
+A   |12   h14                                |
+E   |                                        |
+
+RESPONSE
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    F#   r    A    C#   B    A    =    |
+Deg |5    6    r    1    3    2    1    =    |
+Atk |P    h    r    P    P    P    p    =    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |                    11                  |
+A   |               12        14   p12       |
+E   |12   h14                                |
+
+P5 - SIXTH-DEGREE FRAME - FRETS 14-17
+Call ends F# (degree 6); answer ends A (root).
+CALL
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    C#   E    F#   r    r    |
+Deg |1    2    r    3    5    6    r    r    |
+Atk |P    h    r    P    h    P    r    r    |
+e   |                         14             |
+B   |               14   h17                 |
+G   |14   h16                                |
+D   |                                        |
+A   |                                        |
+E   |                                        |
+
+RESPONSE
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    C#   r    B    A    F#   A    =    |
+Deg |5    3    r    2    1    6    1    =    |
+Atk |P    p    r    P    p    P    P    =    |
+e   |                              17~       |
+B   |17   p14                                |
+G   |               16   p14                 |
+D   |                         16             |
+A   |                                        |
+E   |                                        |
+
+========================================================================================================================
+MODULE B - FOUR I-IV-V SEAM PHRASES
+========================================================================================================================
+Progression for every phrase: | A | D | E | A |. Bars 1 and 3 ask; bars 2 and 4 answer.
+The lower and upper positions must sound like one melodic idea. Preserve the beat-1 chord target even when a slide,
+bend, hammer, or pull changes the number of pick attacks.
+
+SEAM 1 - P1 TO P2
+Targets: A root | F# over D | E over E | C# over A
+Hear the lower frame ask the question. Let the D response establish P2, then return to A without hiding the seam.
+
+A call - P1
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    C#   E    r    C#   B    r    |
+Deg |1    2    3    5    r    3    2    r    |
+Atk |P    h    P    h    r    P    p    r    |
+e   |                                        |
+B   |                                        |
+G   |                         6    p4        |
+D   |                                        |
+A   |          4    h7                       |
+E   |5    h7                                 |
+
+D response - P2
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   A    B    A    r    F#   A    =    |
+Deg |6    1    2    1    r    6    1    =    |
+Atk |P    P    h    p    r    P    s    =    |
+e   |                                        |
+B   |                         7    /10       |
+G   |                                        |
+D   |     7    h9   p7                       |
+A   |9                                       |
+E   |                                        |
+
+E call - P2
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    F#   A    B    r    C#   B    r    |
+Deg |5    6    1    2    r    3    2    r    |
+Atk |P    P    P    h    r    P    P    r    |
+e   |                                        |
+B   |                                        |
+G   |9                        6              |
+D   |          7    h9                       |
+A   |     9                                  |
+E   |                              7         |
+
+A answer - P1
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    F#   E    C#   B    A    =    |
+Deg |3    5    6    5    3    2    1    =    |
+Atk |P    P    h    p    P    p    P    =    |
+e   |                                        |
+B   |     5    h7   p5                       |
+G   |6                   6    p4             |
+D   |                              7~        |
+A   |                                        |
+E   |                                        |
+
+SEAM 2 - P2 TO P3
+Targets: C# over A | A over D | E over E | C# over A
+Use the shared fret-9 area as a landmark, not as a reason to stop the pulse. The response must sound like a new sentence.
+
+A call - P2
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   B    A    B    r    C#   E    r    |
+Deg |3    2    1    2    r    3    5    r    |
+Atk |P    p    P    h    r    P    h    r    |
+e   |                                        |
+B   |                                        |
+G   |                         6    h9        |
+D   |          7    h9                       |
+A   |                                        |
+E   |9    p7                                 |
+
+D response - P3
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    F#   B    C#   r    F#   A    =    |
+Deg |1    6    2    3    r    6    1    =    |
+Atk |P    p    P    h    r    P    P    =    |
+e   |                                        |
+B   |                              10~       |
+G   |                         11             |
+D   |          9    h11                      |
+A   |12   p9                                 |
+E   |                                        |
+
+E call - P3
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    B    C#   B    r    A    B    r    |
+Deg |5    2    3    2    r    1    2    r    |
+Atk |P    P    h    p    r    P    h    r    |
+e   |                                        |
+B   |                         10   h12       |
+G   |9                                       |
+D   |     9    h11  p9                       |
+A   |                                        |
+E   |                                        |
+
+A answer - P2
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    F#   A    r    E    A    =    |
+Deg |3    5    6    1    r    5    1    =    |
+Atk |P    s    P    h    r    P    P    =    |
+e   |                                        |
+B   |          7    h10                      |
+G   |6    /9                                 |
+D   |                              7~        |
+A   |                         7              |
+E   |                                        |
+
+SEAM 3 - P3 TO P4
+Targets: E over A | F# over D | E over E | C# over A
+The middle-register response should preserve the call rhythm while changing contour and chord target.
+
+A call - P3
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    C#   A    B    r    C#   E    r    |
+Deg |5    3    1    2    r    3    5    r    |
+Atk |P    p    P    P    r    P    P    r    |
+e   |                                        |
+B   |               12                       |
+G   |                              9         |
+D   |                         11             |
+A   |          12                            |
+E   |12   p9                                 |
+
+D response - P4
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   A    B    A    r    F#   A    =    |
+Deg |6    1    2    1    r    6    1    =    |
+Atk |P    s    P    P    r    P    P    =    |
+e   |                                        |
+B   |          12                            |
+G   |11   /14                      14~       |
+D   |                                        |
+A   |               12                       |
+E   |                         14             |
+
+E call - P4
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    B    C#   B    r    F#   E    r    |
+Deg |5    2    3    2    r    6    5    r    |
+Atk |P    P    P    P    r    P    P    r    |
+e   |                                        |
+B   |               12                       |
+G   |                         11             |
+D   |14        11                            |
+A   |     14                                 |
+E   |                              12        |
+
+A answer - P3
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    F#   E    r    B    A    =    |
+Deg |3    5    6    5    r    2    1    =    |
+Atk |P    h    P    p    r    P    p    =    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |11   h14                                |
+A   |                         14   p12       |
+E   |          14   p12                      |
+
+SEAM 4 - P4 TO P5
+Targets: A over A | F# over D | E/G# over E | C# over A
+G#* appears only inside the E-major bar. Use it as the V third, then return to the five-note pool for the A answer.
+
+A call - P4/P5
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    C#   E    r    F#   E    r    |
+Deg |1    2    3    5    r    6    5    r    |
+Atk |P    h    P    h    r    P    p    r    |
+e   |                         14   p12       |
+B   |          14   h17                      |
+G   |14   h16                                |
+D   |                                        |
+A   |                                        |
+E   |                                        |
+
+D response - P5
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   A    B    A    r    F#   A    =    |
+Deg |6    1    2    1    r    6    1    =    |
+Atk |P    P    h    p    r    P    s    =    |
+e   |                         14   /17       |
+B   |                                        |
+G   |     14   h16  p14                      |
+D   |16                                      |
+A   |                                        |
+E   |                                        |
+
+E call - P5
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    B    C#   B    r    A    G#*  r    |
+Deg |5    2    3    2    r    1    *3   r    |
+Atk |P    P    P    p    r    P    p    r    |
+e   |                                        |
+B   |17                                      |
+G   |     16                  14   p13       |
+D   |                                        |
+A   |          16   p14                      |
+E   |                                        |
+
+A answer - P5
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    F#   E    r    B    A    =    |
+Deg |3    5    6    5    r    2    1    =    |
+Atk |P    P    h    p    r    P    P    =    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |     14   h16  p14                      |
+A   |16                       14             |
+E   |                              17~       |
+
+========================================================================================================================
+MODULE C - ONE MOTIF, SIX RESPONSE OPTIONS
+========================================================================================================================
+The seed is defined by its rhythm and contour, not by one immutable fret pattern. Play the seed, then choose one
+response type without changing every musical parameter at once. After the printed versions are clean, roll a die or
+choose randomly: 1 echo, 2 harmonic answer, 3 contour contrast, 4 position sequence, 5 displacement, 6 expansion.
+
+Seed question - P2 over A
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    C#   B    r    r    r    |
+Deg |1    2    r    3    2    r    r    r    |
+Atk |P    h    r    P    P    r    r    r    |
+e   |                                        |
+B   |                                        |
+G   |               6                        |
+D   |7    h9             9                   |
+A   |                                        |
+E   |                                        |
+
+1. Exact echo
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    C#   B    r    r    r    |
+Deg |1    2    r    3    2    r    r    r    |
+Atk |P    h    r    P    P    r    r    r    |
+e   |                                        |
+B   |                                        |
+G   |               6                        |
+D   |7    h9             9                   |
+A   |                                        |
+E   |                                        |
+
+2. Harmonic answer over D
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   A    r    B    A    r    r    r    |
+Deg |6    1    r    2    1    r    r    r    |
+Atk |P    P    r    P    P    r    r    r    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |     7         9    7~                  |
+A   |9                                       |
+E   |                                        |
+
+3. Contour contrast over E
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    B    r    A    B    r    r    r    |
+Deg |5    2    r    1    2    r    r    r    |
+Atk |P    P    r    P    P    r    r    r    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |     9         7    9~                  |
+A   |7                                       |
+E   |                                        |
+
+4. Position sequence - P3
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    C#   B    r    r    r    |
+Deg |1    2    r    3    2    r    r    r    |
+Atk |P    h    r    P    P    r    r    r    |
+e   |                                        |
+B   |10   h12            12                  |
+G   |                                        |
+D   |               11                       |
+A   |                                        |
+E   |                                        |
+
+5. Rhythmic displacement
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |r    A    B    r    C#   B    r    r    |
+Deg |r    1    2    r    3    2    r    r    |
+Atk |r    P    h    r    P    P    r    r    |
+e   |                                        |
+B   |                                        |
+G   |                    6                   |
+D   |     7    h9             9              |
+A   |                                        |
+E   |                                        |
+
+6. Expansion and closure
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    C#   E    C#   A    =    |
+Deg |1    2    r    3    5    3    1    =    |
+Atk |P    h    r    P    s    p    P    =    |
+e   |                                        |
+B   |                                        |
+G   |               6    /9   p6             |
+D   |7    h9                       7~        |
+A   |                                        |
+E   |                                        |
+
+========================================================================================================================
+MODULE D - SPACE AND DENSITY LADDER
+========================================================================================================================
+Progression: | A | D | E | A |. The beat-1 targets and final A remain fixed while the number of tones changes.
+Sparse contains 3 tones per bar, medium contains 5, and dense contains 7. Do not interpret density as difficulty:
+the sparse version is passed only when every rest is deliberate and the harmony remains audible.
+
+SPARSE - 3 TONES PER BAR
+A BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   r    r    E    r    r    A    r    |
+Deg |3    r    r    5    r    r    1    r    |
+Atk |P    r    r    P    r    r    P    r    |
+e   |                                        |
+B   |                              10~       |
+G   |               9                        |
+D   |11                                      |
+A   |                                        |
+E   |                                        |
+
+D BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   r    r    A    r    r    F#   r    |
+Deg |6    r    r    1    r    r    6    r    |
+Atk |P    r    r    P    r    r    P    r    |
+e   |                                        |
+B   |                                        |
+G   |11             14                       |
+D   |                                        |
+A   |                                        |
+E   |                              14~       |
+
+E BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    r    r    B    r    r    E    r    |
+Deg |5    r    r    2    r    r    5    r    |
+Atk |P    r    r    P    r    r    P    r    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |14                                      |
+A   |               14                       |
+E   |                              12~       |
+
+A BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    r    r    C#   r    r    A    r    |
+Deg |1    r    r    3    r    r    1    r    |
+Atk |P    r    r    P    r    r    P    r    |
+e   |                                        |
+B   |                                        |
+G   |                              14~       |
+D   |               11                       |
+A   |12                                      |
+E   |                                        |
+
+MEDIUM - 5 TONES PER BAR
+A BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    r    F#   r    E    A    r    |
+Deg |3    5    r    6    r    5    1    r    |
+Atk |P    P    r    P    r    P    P    r    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |11   14                                 |
+A   |                              12~       |
+E   |               14        12             |
+
+D BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   A    r    B    r    A    F#   r    |
+Deg |6    1    r    2    r    1    6    r    |
+Atk |P    P    r    P    r    P    P    r    |
+e   |                                        |
+B   |               12                       |
+G   |11   14                                 |
+D   |                                        |
+A   |                         12             |
+E   |                              14~       |
+
+E BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    B    r    C#   r    B    E    r    |
+Deg |5    2    r    3    r    2    5    r    |
+Atk |P    P    r    P    r    P    P    r    |
+e   |                                        |
+B   |                         12             |
+G   |                                        |
+D   |14             11                       |
+A   |     14                                 |
+E   |                              12~       |
+
+A BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    C#   r    E    A    r    |
+Deg |1    2    r    3    r    5    1    r    |
+Atk |P    P    r    P    r    P    P    r    |
+e   |                                        |
+B   |                                        |
+G   |                              14~       |
+D   |               11        14             |
+A   |12   14                                 |
+E   |                                        |
+
+DENSE - 7 TONES PER BAR
+A BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    F#   E    C#   B    A    r    |
+Deg |3    5    6    5    3    2    1    r    |
+Atk |P    P    P    P    P    P    P    r    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |11   14             11                  |
+A   |                         14   12~       |
+E   |          14   12                       |
+
+D BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   A    B    C#   A    F#   A    r    |
+Deg |6    1    2    3    1    6    1    r    |
+Atk |P    P    P    P    P    P    P    r    |
+e   |                                        |
+B   |          12   14                       |
+G   |11   14                       14~       |
+D   |                                        |
+A   |                    12                  |
+E   |                         14             |
+
+E BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    B    C#   B    A    F#   E    r    |
+Deg |5    2    3    2    1    6    5    r    |
+Atk |P    P    P    P    P    P    P    r    |
+e   |                                        |
+B   |               12                       |
+G   |                         11             |
+D   |14        11                            |
+A   |     14             12                  |
+E   |                              12~       |
+
+A BAR
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    C#   E    F#   E    A    r    |
+Deg |1    2    3    5    6    5    1    r    |
+Atk |P    P    P    P    P    P    P    r    |
+e   |                                        |
+B   |                                        |
+G   |                              14~       |
+D   |          11   14                       |
+A   |12   14                                 |
+E   |                    14   12             |
+
+========================================================================================================================
+MODULE E - MODEL 12-BAR CALL-AND-RESPONSE CHORUS
+========================================================================================================================
+Progression: | A | A | A | A | D | D | A | A | E | D | A | E |.
+Position route: P1 -> P2 -> P2 -> P3 -> P3 -> P4 -> P4 -> P5 -> P5 -> P4 -> P3 -> P1.
+Play the written chorus first. Then keep the first sounding target and phrase rhythm of each bar while replacing
+the remaining pitches. D* and G#* may be replaced by F#/A and E/B for a strict pentatonic-only pass.
+
+Question ends on degree 6.
+1. A CALL - P1
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    r    B    C#   F#   r    r    |
+Deg |1    2    r    2    3    6    r    r    |
+Atk |P    h    r    P    b    P    r    r    |
+e   |                                        |
+B   |                                        |
+G   |               4    b6                  |
+D   |                         4              |
+A   |                                        |
+E   |5    h7                                 |
+
+Answer resolves to A.
+2. A RESPONSE - P2
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   B    r    A    C#   E    A    =    |
+Deg |3    2    r    1    3    5    1    =    |
+Atk |P    p    r    P    P    s    P    =    |
+e   |                                        |
+B   |                              10~       |
+G   |                    6    /9             |
+D   |               7                        |
+A   |                                        |
+E   |9    p7                                 |
+
+Second call reuses the rhythm.
+3. A CALL - P2
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    F#   r    A    B    F#   r    r    |
+Deg |5    6    r    1    2    6    r    r    |
+Atk |P    h    r    P    h    P    r    r    |
+e   |                                        |
+B   |                         7              |
+G   |                                        |
+D   |               7    h9                  |
+A   |7    h9                                 |
+E   |                                        |
+
+Response reaches the middle register.
+4. A RESPONSE - P3
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    r    F#   A    B    A    =    |
+Deg |3    5    r    6    1    2    1    =    |
+Atk |P    P    r    P    P    h    P    =    |
+e   |                                        |
+B   |                    10   h12            |
+G   |     9         11                       |
+D   |11                                      |
+A   |                              12~       |
+E   |                                        |
+
+D* completes the IV chord.
+5. D CALL - P3
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |D*   F#   A    B    r    C#   A    r    |
+Deg |*R   6    1    2    r    3    1    r    |
+Atk |P    P    P    P    r    P    P    r    |
+e   |10                                      |
+B   |          10   12                       |
+G   |     11                                 |
+D   |                         11             |
+A   |                              12        |
+E   |                                        |
+
+D response settles on A.
+6. D RESPONSE - P4
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   A    B    A    r    F#   A    =    |
+Deg |6    1    2    1    r    6    1    =    |
+Atk |P    P    s    p    r    P    P    =    |
+e   |                                        |
+B   |                                        |
+G   |                         11   14~       |
+D   |                                        |
+A   |     12   /14  p12                      |
+E   |14                                      |
+
+A call climbs toward Position 5.
+7. A CALL - P4
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    C#   E    r    F#   B    r    |
+Deg |1    2    3    5    r    6    2    r    |
+Atk |P    P    P    P    r    h    P    r    |
+e   |               12        h14            |
+B   |          14                  12        |
+G   |14                                      |
+D   |                                        |
+A   |     14                                 |
+E   |                                        |
+
+Answer returns to the tonic.
+8. A RESPONSE - P5
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |C#   E    F#   E    r    B    A    =    |
+Deg |3    5    6    5    r    2    1    =    |
+Atk |P    P    h    p    r    P    P    =    |
+e   |                                        |
+B   |                                        |
+G   |                                        |
+D   |     14   h16  p14                      |
+A   |16                       14             |
+E   |                              17~       |
+
+G#* states the V third.
+9. E CALL - P5
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |G#*  B    E    F#   r    A    B    r    |
+Deg |*3   2    5    6    r    1    2    r    |
+Atk |P    P    P    P    r    P    h    r    |
+e   |16             14                       |
+B   |          17                            |
+G   |     16                  14   h16       |
+D   |                                        |
+A   |                                        |
+E   |                                        |
+
+D response resolves C# tension.
+10. D RESPONSE - P4
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |F#   A    B    C#   r    A    F#   =    |
+Deg |6    1    2    3    r    1    6    =    |
+Atk |P    s    P    h    r    P    P    =    |
+e   |                                        |
+B   |          12   h14                      |
+G   |11   /14                                |
+D   |                                        |
+A   |                         12             |
+E   |                              14~       |
+
+Final A answer leaves space.
+11. A ANSWER - P3
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |A    B    C#   E    r    C#   A    =    |
+Deg |1    2    3    5    r    3    1    =    |
+Atk |P    P    P    P    r    P    P    =    |
+e   |                         9              |
+B   |     12                       10~       |
+G   |               9                        |
+D   |          11                            |
+A   |12                                      |
+E   |                                        |
+
+E turnaround ends on B and invites the next chorus.
+12. E TURNAROUND - P1
+Cnt |1    &    2    &    3    &    4    &    |
+Nte |E    F#   A    B    r    G#*  B    r    |
+Deg |5    6    1    2    r    *3   2    r    |
+Atk |P    P    P    P    r    P    P    r    |
+e   |                                        |
+B   |                                        |
+G   |               4                        |
+D   |     4    7                             |
+A   |7                                       |
+E   |                         4    7         |
+
+========================================================================================================================
+MODULE F - THREE-CHORUS CONTROLLED IMPROVISATION SYNTHESIS
+========================================================================================================================
+CHORUS 1 - SKELETON AND SPACE
+Use P1 and P2 only. Maximum 3 sounding tones per bar. Land one strong target on every chord change and leave at
+least one complete beat of silence in every two-bar pair. No D* or G#*.
+
+CHORUS 2 - MOTIF DEVELOPMENT AND POSITION MOVEMENT
+Choose one seed motif from Module C. Use one response transformation per two-bar pair. Move through at least four
+positions, cross at least two seams, and use no more than one articulation in each two-bar phrase.
+
+CHORUS 3 - FREE SYNTHESIS
+Use all five positions and horizontal lanes. Preserve strong beat-1 targets, include at least two bars of deliberate
+space, use D* and G#* only on their supporting chords, and finish on an A root without a last-second fret search.
+
+RESPONSE CARDS
+1 Echo the call rhythm with a new target. 2 Reverse the contour. 3 Move the answer to the next position.
+4 Delay the answer by an eighth note. 5 Shorten the answer and leave beat 4 empty. 6 Expand the answer with one
+legato, slide, bend, or vibrato event while preserving the target time.
+
+PRACTICE PROGRESSION
+1. Clap and speak the call/response rhythm before touching the guitar.
+2. Complete all five local pairs; exaggerate the silence between sentences.
+3. Play the four seam phrases and verify every beat-1 target.
+4. Perform the seed plus all six transformation options without changing tempo.
+5. Play sparse, medium, and dense versions at one unchanged BPM.
+6. Learn the 12-bar model chorus in four-bar blocks, then link the full route.
+7. Replace only response bars while preserving the written calls.
+8. Record the three-chorus capstone and score it before increasing tempo.
+
+ERROR DIAGNOSIS
+CALL AND RESPONSE SOUND IDENTICAL: change one element only - target, contour, position, density, or articulation.
+RESPONSE ARRIVES LATE: sing the target before the barline and shorten the call by one note.
+NO SPACE: remove beat 4 from every call and one additional beat from every response.
+MOTIF DISAPPEARS: keep the rhythm fixed and change only the ending target.
+POSITION SHIFT SOUNDS LIKE A BREAK: isolate the final call note, seam movement, and first response target.
+BEND OR SLIDE HIDES THE PULSE: remove the articulation; restore subdivision; add it back after timing is clean.
+D* OR G#* LEAKS INTO THE WRONG CHORD: return to the five-note pool and rehearse the 12-bar target schedule aloud.
+TENSION OR PANIC: stop the free chorus, return to one four-bar phrase, and reduce 4-6 BPM.
+
+ADVANCEMENT RULES
+Harmony, phrase identity, timing, and pitch control outrank speed. Add 2 BPM after three clean choruses at the
+current constraint. After two missed targets or lost phrase boundaries, shorten to four bars or reduce 4-6 BPM.
+Use clean tone until the rests, landings, slides, bends, and muting are reliable.
+
+MASTERY GATE - SECTION IV COMPLETE
+Play all five local pairs and all four seam phrases; transform one motif in six ways; perform sparse, medium, and
+dense versions without moving the targets; play the 12-bar model chorus from memory; record the three-chorus
+capstone on two separate days; make every chord change audible without accompaniment; use at least one full beat
+of deliberate silence in every two-bar pair; use D* and G#* only on IV and V; and end on an A root by choice.
+
+NEXT SECTION
+Section V re-centers the same fretboard logic around minor pentatonic and blues vocabulary, beginning with the
+relative-minor relationship before adding the blues note, minor-key bends, dominant-blues phrasing, and applications.

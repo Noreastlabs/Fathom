@@ -1,0 +1,355 @@
+GUITAR EXERCISES - SECTION XI, LEVEL 82
+WALKING-BASS CHORD MELODY, CHROMATIC APPROACH BASS LINES, BASS SUBSTITUTIONS, AND SOLO-GUITAR ARRANGEMENTS
+
+LEVEL 82 OF 105 - HARD STOP AT LEVEL 105
+
+PURPOSE
+Create a bass line that functions as an independent melodic voice while preserving melody, chord identity, pulse, and form. Build diatonic and chromatic approaches, slash-chord inversions, bass/chord rhythmic independence, major and minor cadence routes, and longer solo-guitar arrangements.
+
+COMPLETE WRITTEN WORKLOAD: 1392 events.
+
+MODULE A - DIATONIC WALKING-BASS CHORD MELODY
+Cmaj7 -> Am7
+C-B-A-G
+Cmaj7 | Cmaj7/B | Am7 | G7
+E-G-E-D
+
+Dm7 -> G7
+D-E-F-F#-G
+Dm7 | Dm7/E | Dm7/F | D7/F# | G7
+F-A-C-B-G
+
+Fmaj7 -> G7
+F-E-Eb-D-Db-C-B
+Fmaj7 | C/E | Cm/Eb | G7/D | Db7 | Cmaj7 | G7/B
+A-G-G-F-F-E-D
+
+Cmaj7 turnaround
+C-E-F-F#-G-Ab-A-Bb-B-C
+Cmaj7 | C/E | F | F#dim7 | G7 | Ab7 | A7 | Bb7 | Bdim7 | Cmaj7
+E-E-F-F#-G-Ab-A-Bb-B-C
+
+Am7 -> Dm7
+A-B-C-C#-D
+Am7 | Am7/B | Cmaj7 | A7/C# | Dm7
+C-E-E-E-F
+
+Dm7 -> E7
+D-C-B-Bb-A-G#-E
+Dm7 | Cmaj7 | Bm7b5 | Bb7 | Am7 | E7/G# | E7
+F-E-D-Db-C-B-G#
+
+Am descending
+A-G-F-E
+Am7 | G7 | Fmaj7 | E7
+C-B-A-G#
+
+Minor turnaround
+A-C-D-D#-E-F-F#-G-G#-A
+Am | C | Dm | D#dim7 | E7 | Fmaj7 | F#dim7 | G7 | G#dim7 | Am
+C-E-F-F#-G#-A-C-B-B-A
+
+MODULE B - CHROMATIC APPROACH BASS LINES
+Approach C
+G-Gb-F-E-Eb-D-Db-C
+Target Cmaj7
+land on C at beat 1
+
+Approach D
+A-Ab-G-Gb-F-E-Eb-D
+Target Dm7
+land on D at beat 1
+
+Approach E
+B-Bb-A-Ab-G-Gb-F-E
+Target Em7 / E7
+choose G or G# in upper voice
+
+Approach F
+C-B-Bb-A-Ab-G-Gb-F
+Target Fmaj7
+melody may hold A or E
+
+Approach G
+D-Db-C-B-Bb-A-Ab-G
+Target G7
+target B in upper voice
+
+Approach A
+E-Eb-D-Db-C-B-Bb-A
+Target Am7
+target C or E in melody
+
+Enclose G
+F-F#-Ab-G
+Target G7
+chromatic lower/upper enclosure
+
+Enclose A
+G-G#-Bb-A
+Target Am7
+G# works as leading approach, not chord quality
+
+MODULE C - BASS SUBSTITUTIONS AND INVERSIONS
+Root -> 3rd bass
+Cmaj7 -> Cmaj7/E
+C -> E
+same harmony, brighter bass lift
+
+Root -> 5th bass
+Cmaj7 -> Cmaj7/G
+C -> G
+pedal/expansion color
+
+Root -> 7th bass
+Cmaj7 -> Cmaj7/B
+C -> B
+descending step toward Am
+
+Minor 3rd bass
+Am7 -> Am7/C
+A -> C
+places b3 in bass
+
+Minor 5th bass
+Am7 -> Am7/E
+A -> E
+opens space under melody
+
+Dominant 3rd bass
+G7 -> G7/B
+G -> B
+strong pull toward C
+
+Dominant b7 bass
+G7 -> G7/F
+G -> F
+sets up E in Cmaj7
+
+Predominant inversion
+Dm7 -> Dm7/F
+D -> F
+smooth bass toward G or E
+
+Pedal slash
+Dm7/C -> G7/C
+C -> C
+bass pedal, upper harmony changes
+
+Chromatic substitute bass
+Cmaj7/B -> Bb7 -> Am7
+B -> Bb -> A
+descending chromatic bass
+
+MODULE D - BASS-TO-CHORD INDEPENDENCE
+Quarter bass / offbeat chord
+B on 1, chord on & of 2 and & of 4
+P--- --C- P--- --C-
+
+Walking quarters / held melody
+bass on 1 2 3 4; melody sustains whole bar
+B-B-B-B | M~~~
+
+Bass eighths / chord quarters
+bass 1-&-2-&; chord on 3 and 4
+BBBB C--- C---
+
+Syncopated melody / steady bass
+bass quarters; melody on & of 1, a of 2, & of 4
+keep bass mechanically even
+
+Bass anticipation
+approach destination on & of 4
+old chord remains until approach note
+
+Chord anticipation
+new upper chord on & of 4; bass lands beat 1
+separate harmonic and bass arrival
+
+Two-beat bass fill
+beats 3-4 bass walk; melody rests
+re-form chord before next beat 1
+
+Pedal bass + changing chord rhythm
+bass on 1 and 3; upper chord syncopates
+pedal must not follow chord accents
+
+MODULE E - MAJOR ii-V-I WALKING BASS
+C major
+Dm7 | G7 | Cmaj7 | Cmaj7
+D-E-F-F# | G-Ab-A-B | C-B-A-G | C---
+F-F-E-E
+
+G major
+Am7 | D7 | Gmaj7 | Gmaj7
+A-B-C-C# | D-E-F-F# | G-F#-E-D | G---
+C-C-B-B
+
+D major
+Em7 | A7 | Dmaj7 | Dmaj7
+E-F#-G-G# | A-B-C-C# | D-C#-B-A | D---
+G-G-F#-F#
+
+A major
+Bm7 | E7 | Amaj7 | Amaj7
+B-C#-D-D# | E-F#-G-G# | A-G#-F#-E | A---
+D-D-C#-C#
+
+F major
+Gm7 | C7 | Fmaj7 | Fmaj7
+G-A-Bb-B | C-D-Eb-E | F-E-D-C | F---
+Bb-Bb-A-A
+
+E major
+F#m7 | B7 | Emaj7 | Emaj7
+F#-G#-A-A# | B-C#-D-D# | E-D#-C#-B | E---
+A-A-G#-G#
+
+MODULE F - MINOR iiø-V-i WALKING BASS
+A minor
+Bm7b5 | E7 | Am7 | Am7
+B-C-D-D# | E-F-G-G# | A-G-F-E | A---
+D-D-C-C
+
+E minor
+F#m7b5 | B7 | Em7 | Em7
+F#-G-A-A# | B-C-D-D# | E-D-C-B | E---
+A-A-G-G
+
+B minor
+C#m7b5 | F#7 | Bm7 | Bm7
+C#-D-E-E# | F#-G-A-A# | B-A-G-F# | B---
+E-E-D-D
+
+D minor
+Em7b5 | A7 | Dm7 | Dm7
+E-F-G-G# | A-Bb-B-C# | D-C-Bb-A | D---
+G-G-F-F
+
+F# minor
+G#m7b5 | C#7 | F#m7 | F#m7
+G#-A-B-B# | C#-D-E-E# | F#-E-D-C# | F#---
+B-B-A-A
+
+C# minor
+D#m7b5 | G#7 | C#m7 | C#m7
+D#-E-F#-F## | G#-A-B-B# | C#-B-A-G# | C#---
+F#-F#-E-E
+
+MODULE G - MELODY OVER WALKING BASS - KEY TRANSFERS
+C major
+E-G-A-G-F-E-D-C
+bass: C-B-A-G-F-E-D-G-C
+Cmaj7-Am7-Dm7-G7-C
+
+G major
+B-D-E-D-C-B-A-G
+bass: G-F#-E-D-C-B-A-D-G
+Gmaj7-Em7-Am7-D7-G
+
+D major
+F#-A-B-A-G-F#-E-D
+bass: D-C#-B-A-G-F#-E-A-D
+Dmaj7-Bm7-Em7-A7-D
+
+A minor
+C-E-F-E-D-C-B-A
+bass: A-G-F-E-D-C-B-E-A
+Am7-Fmaj7-Dm7-E7-Am
+
+E minor
+G-B-C-B-A-G-F#-E
+bass: E-D-C-B-A-G-F#-B-E
+Em7-Cmaj7-Am7-B7-Em
+
+D minor
+F-A-Bb-A-G-F-E-D
+bass: D-C-Bb-A-G-F-E-A-D
+Dm7-Bbmaj7-Gm7-A7-Dm
+
+MODULE H - TWO SIXTEEN-BAR ARRANGEMENTS
+Arrangement 1:
+1 | Cmaj7 | C | E | tonic
+2 | Cmaj7/B | B | G | walking bass
+3 | Am7 | A | C | relative minor
+4 | G7 | G | B | dominant
+5 | Fmaj7 | F | A | predominant
+6 | F#dim7 | F# | A | passing diminished
+7 | G7 | G | B | dominant
+8 | Cmaj7 | C | E | cadence
+9 | Am7 | A | E | minor area
+10 | Am7/G | G | E | descending bass
+11 | Fmaj7 | F | E | major seventh top
+12 | E7 | E | G# | secondary dominant
+13 | Am7 | A | C | arrival
+14 | Dm7 | D | F | predominant
+15 | G7 | G | B | dominant
+16 | Cmaj7 | C | E | close
+
+Arrangement 2:
+1 | Am7 | A | C | tonic
+2 | Am7/G | G | E | descending bass
+3 | Fmaj7 | F | A | VI
+4 | E7 | E | G# | V7
+5 | Am7 | A | C | return
+6 | Cmaj7/G | G | E | relative-major color
+7 | Dm7/F | F | A | predominant inversion
+8 | E7 | E | G# | dominant
+9 | Bm7b5 | B | D | iiø
+10 | E7/B | B | G# | dominant inversion
+11 | Am7/C | C | E | tonic inversion
+12 | Dm7 | D | F | predominant
+13 | E7 | E | G# | dominant
+14 | G#dim7 | G# | B | leading diminished
+15 | AmMaj7 | A | G# | minor-major tonic
+16 | Am6 | A | F# | tonic color
+
+MODULE I - THIRTY-TWO-BAR CAPSTONE
+01: Cmaj7 | C | E | tonic
+02: Cmaj7/B | B | G | walking bass
+03: Am7 | A | C | relative minor
+04: G7 | G | B | dominant
+05: Fmaj7 | F | A | predominant
+06: F#dim7 | F# | A | passing diminished
+07: G7 | G | B | dominant
+08: Cmaj7 | C | E | cadence
+09: Am7 | A | E | minor area
+10: Am7/G | G | E | descending bass
+11: Fmaj7 | F | E | major seventh top
+12: E7 | E | G# | secondary dominant
+13: Am7 | A | C | arrival
+14: Dm7 | D | F | predominant
+15: G7 | G | B | dominant
+16: Cmaj7 | C | E | close
+17: Am7 | A | C | tonic
+18: Am7/G | G | E | descending bass
+19: Fmaj7 | F | A | VI
+20: E7 | E | G# | V7
+21: Am7 | A | C | return
+22: Cmaj7/G | G | E | relative-major color
+23: Dm7/F | F | A | predominant inversion
+24: E7 | E | G# | dominant
+25: Bm7b5 | B | D | iiø
+26: E7/B | B | G# | dominant inversion
+27: Am7/C | C | E | tonic inversion
+28: Dm7 | D | F | predominant
+29: E7 | E | G# | dominant
+30: G#dim7 | G# | B | leading diminished
+31: AmMaj7 | A | G# | minor-major tonic
+32: Am6 | A | F# | tonic color
+
+MODULE J - RECOVERY
+Bass misses beat 1 | play root only next bar | restore walk one beat later
+Melody disappears | remove one inner voice | keep bass + melody only
+Chromatic approach sounds random | state destination root first | use only one approach note
+Slash chord loses identity | play upper chord separately | re-add substituted bass
+Bass and chord attack collide | separate them by one eighth note | recombine at slow tempo
+Walking line outruns harmony | reduce to quarter-note roots | restore approach on beat 4
+Hand cannot re-form chord | end walk one beat early | land destination shape cleanly
+Form lost | bass roots only | re-enter melody at next cadence
+
+MASTERY
+Score 14/16 or better on two separate days with no zero in bass timing, melody clarity, form/pulse, or recovery.
+
+NEXT
+Level 83: melody harmonization, chord substitutions, reharmonization choices, and preserving a fixed top line across changing harmony.

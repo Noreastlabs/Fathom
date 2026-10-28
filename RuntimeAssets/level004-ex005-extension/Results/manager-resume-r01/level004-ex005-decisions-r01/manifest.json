@@ -1,0 +1,63 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4177,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/level004-ex005-decisions-r01/full-template-prompt.md",
+      "role": "saved-prompt",
+      "sha256": "bfdf8fee7a1f41029d86ce0b294ad80390fc294523e51e0021eb0fc2ac6c7de1"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2728,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex005-decisions-r01/machine-checks.json",
+      "role": "independent-checks",
+      "sha256": "d7bc03eecdcd0530da59269a12a5a6ff9bc1f4ff1b6c9fa60a435f57ca3456ec"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1071,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex005-decisions-r01/evidence-audit.json",
+      "role": "scoped-audit",
+      "sha256": "555ef751eae4af71b9f668db6f5cf74102f06991b3b9b7a6edb579f8425cb392"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 755,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex005-decisions-r01/git-state.json",
+      "role": "scoped-git-summary",
+      "sha256": "1d141152e55ce3184385335d281bad48e8fc546917a7f90bb3e938a6929b6684"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4343,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex005-decisions-r01/curriculum-decision.md",
+      "role": "curriculum-decision",
+      "sha256": "16066135f3af8b718f03d75cf184fd29f77e78f14f278d1944674acb83ae5b25"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3715,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex005-decisions-r01/prospective-runtime-decision.json",
+      "role": "typed-prospective-runtime-decision",
+      "sha256": "52d555c8c0e82ac31707fa67f4780c272fb1686e9936534ed1f305561a9b3f50"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3158,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex005-decisions-r01/runtime-decision.md",
+      "role": "runtime-decision",
+      "sha256": "146f647fc6e1baee896e110fd34a9087c48e7fab89b6a2a46c2db3e24342cc0e"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

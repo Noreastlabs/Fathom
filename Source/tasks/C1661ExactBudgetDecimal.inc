@@ -1,0 +1,15 @@
+struct BudgetExactDecimal {std::string digits;std::int64_t magnitude{};};
+BudgetExactDecimal budgetExactDecimal(const V& value){
+ need(value.isNumber(),"REPORTED_FINITE_NUMBER_TYPE");const auto& token=std::get<json::Number>(value.data).token;need(!token.empty()&&token.size()<=128&&json::parse(token).isNumber(),"DECIMAL_TOKEN");
+ char* end=nullptr;const auto approximate=std::strtod(token.c_str(),&end);need(end==token.c_str()+token.size()&&std::isfinite(approximate)&&approximate>=0,"REPORTED_FINITE_NONNEGATIVE_NUMBER");
+ std::size_t i=token[0]=='-'?1:0;std::string digits;std::size_t fractional{};bool dot=false;
+ while(i<token.size()&&token[i]!='e'&&token[i]!='E'){const auto c=token[i++];if(c=='.'){dot=true;continue;}need(c>='0'&&c<='9',"DECIMAL_TOKEN");digits+=c;if(dot)++fractional;}
+ std::int64_t exponent{};if(i<token.size()){++i;bool negative=false;if(token[i]=='+'||token[i]=='-'){negative=token[i]=='-';++i;}for(;i<token.size();++i){need(token[i]>='0'&&token[i]<='9'&&exponent<=10000,"DECIMAL_EXPONENT");exponent=exponent*10+token[i]-'0';}if(negative)exponent=-exponent;}
+ const auto first=digits.find_first_not_of('0');if(first==std::string::npos)return {"",0};need(token[0]!='-',"REPORTED_NONNEGATIVE_NUMBER");digits.erase(0,first);
+ const auto magnitude=exponent-static_cast<std::int64_t>(fractional)+static_cast<std::int64_t>(digits.size());while(digits.size()>1&&digits.back()=='0')digits.pop_back();return {digits,magnitude};
+}
+bool budgetExactAtLeast(const BudgetExactDecimal& a,const BudgetExactDecimal& b){if(b.digits.empty())return true;if(a.digits.empty())return false;if(a.magnitude!=b.magnitude)return a.magnitude>b.magnitude;auto x=a.digits,y=b.digits;const auto width=std::max(x.size(),y.size());x.append(width-x.size(),'0');y.append(width-y.size(),'0');return x>=y;}
+// Exact nonnegative decimal coefficients aligned to their printed JSON scales.
+// No epsilon, binary float sum, source clock or precision rounding is applied.
+std::string budgetExactAdd(const std::string& a,const std::string& b){std::string result;std::size_t x=a.size(),y=b.size();int carry=0;while(x||y||carry){const int digit=(x?a[--x]-'0':0)+(y?b[--y]-'0':0)+carry;result.push_back(static_cast<char>('0'+digit%10));carry=digit/10;}std::reverse(result.begin(),result.end());const auto first=result.find_first_not_of('0');return first==std::string::npos?"0":result.substr(first);}
+bool budgetExactSumThirty(const std::vector<BudgetExactDecimal>& values){const BudgetExactDecimal target{"3",2};std::int64_t scale=1;for(const auto& value:values)if(!value.digits.empty())scale=std::min(scale,value.magnitude-static_cast<std::int64_t>(value.digits.size()));std::string total="0";for(const auto& value:values)if(!value.digits.empty()){auto coefficient=value.digits;coefficient.append(static_cast<std::size_t>(value.magnitude-static_cast<std::int64_t>(value.digits.size())-scale),'0');total=budgetExactAdd(total,coefficient);}auto expected=target.digits;expected.append(static_cast<std::size_t>(1-scale),'0');return total==expected;}

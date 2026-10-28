@@ -1,0 +1,62 @@
+{
+  "version": "level015-rungs02-03-triplet-curriculum-decision.1",
+  "status": "ACCEPTED_FOR_INSTALLED_PRODUCER_CANDIDATE",
+  "authority_name": "P02 interim agent Curriculum/Product runtime decision owner",
+  "source_review_sha256": "621f0915913c8685c396c300998bbffe838cdf64d275e7d817c7d7d2b1bc7937",
+  "native_review_sha256": "4b58ef6f3716790f1aa44d090476ea784aef2bcb5f07cd7b7b892eeb47e747ba",
+  "root_adoption_sha256": "4e2cc0c22b70fdf3f9e50701fee0706f58c1af5cc37eaf842edebb68fa537ef6",
+  "manager_release_sha256": "8014979875d114a744120e419440bdaf9d46eaaeda48e748ecec1c7a593775ad",
+  "locator_review_sha256": "945f75e0b3d7c52b9da370c43491bb02f173bd0b48d0e0ad9d2e34011c3f8961",
+  "package_sha256": "06664715e244183a3b8d76eff4c16705f9f9256815abe1ddc4a5d1304d15a9fd",
+  "profile_sha256": "da69d066f491b542aab085a594a20208f6e3db8bd10e3bef4c30fa451485b8a4",
+  "registry_sha256": "3bea886d3bd11160f16eeea45f780f0c63d7249b84cbc523e2be7ca1990f9f92",
+  "resource_adapter_sha256": "eed6d3007f436de50a330eb35495ff50b457952140601f9a84dec850e4aa9af4",
+  "allocation_sha256": "ee00c92cf7f5b488ce78396fcd96b0cdf27201609e792c3beb3d370b855601fd",
+  "source_timing": "source_defined_eighth_triplets_one_group_per_beat",
+  "resource_availability": "required_unsupplied",
+  "resource_entries": 16,
+  "supplied_resources": 0,
+  "runtime_eligible_in_native_packet": false,
+  "cases": [
+    {
+      "case": "rung02",
+      "decision_path": "rung02-agent-curriculum-decision.md",
+      "decision_sha256": "41859b28c4d2fde1f72b40552aa85ea078c7d7a737a56ae21e0c7ec32fe06586",
+      "item_id": "fg:item:001181",
+      "module_id": "fg:module:001181",
+      "variant_ids": [
+        "fg:variant:007702",
+        "fg:variant:007703"
+      ],
+      "event_count": 78,
+      "source_row": "printed:l015:complete-tablature:rung-02-of-13-bb-major-root-on-low-e-fret-6-frame-5-8",
+      "pdf_physical_page_index": 2,
+      "txt_ref": "L15-TXT1-94-115",
+      "recorded_domain": "Technique/fretboard",
+      "explicit_save_only": true,
+      "automatic_credit": false,
+      "fixed_bpm": false,
+      "whole_workbook": false
+    },
+    {
+      "case": "rung03",
+      "decision_path": "rung03-agent-curriculum-decision.md",
+      "decision_sha256": "24c4b1a19f03c0feae8704c0867be36b05bd12cec34b58d7a822c6c5ce91e79c",
+      "item_id": "fg:item:001182",
+      "module_id": "fg:module:001182",
+      "variant_ids": [
+        "fg:variant:007704",
+        "fg:variant:007705"
+      ],
+      "event_count": 78,
+      "source_row": "printed:l015:complete-tablature:rung-03-of-13-b-major-root-on-low-e-fret-7-frame-6-9",
+      "pdf_physical_page_index": 3,
+      "txt_ref": "L15-TXT1-118-139",
+      "recorded_domain": "Technique/fretboard",
+      "explicit_save_only": true,
+      "automatic_credit": false,
+      "fixed_bpm": false,
+      "whole_workbook": false
+    }
+  ]
+}

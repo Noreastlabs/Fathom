@@ -1,0 +1,9 @@
+{
+  "version": "level002-ex002-installed-empty-resource-plan.1",
+  "availability": "none_supplied",
+  "resources": [],
+  "source_profile_resource_plan": null,
+  "selected_case": "fg:item:001188",
+  "selected_grouping": "straight_sixteenths",
+  "automatic_credit": false
+}

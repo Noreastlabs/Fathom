@@ -1,0 +1,545 @@
+GUITAR EXERCISES - SECTION VI, LEVEL 55
+DIATONIC MAJOR-KEY HARMONY, ROMAN-NUMERAL PROGRESSIONS, AND TRANSPOSITION
+
+PURPOSE
+Harmonize the major scale, assign the correct triad quality to every degree, group the chords by function, analyze common progression families with Roman numerals, and transpose the same functions through C, G, D, A, E, and F major.
+
+MAJOR-SCALE FORMULA
+W-W-H-W-W-W-H
+
+HARMONIZED QUALITY SEQUENCE
+I major | ii minor | iii minor | IV major | V major | vi minor | vii° diminished
+
+FUNCTION FAMILIES
+Tonic: I, iii, vi
+Predominant: ii, IV
+Dominant: V, vii°
+
+WRITTEN WORKLOAD
+Module A: 42 silent spelling and formation prompts.
+Module B: 168 sounded attacks across six harmonized triad ladders.
+Modules C-H: 576 attacks across six progression families in six keys.
+Module I: 96 nearest-inversion voice-leading attacks.
+Module J: 24 written analysis and transposition prompts.
+Module K: 96 attacks in the 24-bar circle-of-fifths capstone.
+COMPLETE SOUNDED WORKOUT: 936 attacks.
+
+
+========================================================================================================================
+MODULE A - SCALE SPELLING, ROMAN NUMERALS, AND CIRCLE ROUTE
+========================================================================================================================
+Practice keys in circle order: F -> C -> G -> D -> A -> E.
+Order of sharps: F C G D A E B. Order of flats: B E A D G C F.
+Silent command: name all seven scale notes, chord names, Roman numerals, qualities, and functions in every key.
+
+========================================================================================================================
+MODULE B - SIX HARMONIZED MAJOR-KEY TRIAD FAMILIES
+========================================================================================================================
+C MAJOR - no sharps or flats - relative minor A minor
+Degree | Note | Roman | Chord | Quality | Spelling | Function
+1      | C    | I     | C      | major      | C-E-G     | tonic
+2      | D    | ii    | Dm     | minor      | D-F-A     | predominant
+3      | E    | iii   | Em     | minor      | E-G-B     | tonic color
+4      | F    | IV    | F      | major      | F-A-C     | predominant
+5      | G    | V     | G      | major      | G-B-D     | dominant
+6      | A    | vi    | Am     | minor      | A-C-E     | tonic / relative minor
+7      | B    | vii°  | Bdim   | diminished | B-D-F     | dominant / leading tone
+Triad set: D-G-B
+Roman: I | ii | iii | IV | V | vi | vii°
+Chord: C | Dm | Em | F | G | Am | Bdim
+Inv:   1st | 1st | root | root | 2nd | 2nd | 2nd
+Fret:  2-0-1 | 3-2-3 | 2-0-0 | 3-2-1 | 0-0-0 | 2-2-1 | 3-4-3
+Rhythm voicings: open C | open Dm | open Em | F barre / triad | open G | open Am | triad fragment
+Exercise: one blocked triad plus low-middle-high arpeggio for every degree = 28 attacks.
+
+G MAJOR - 1 sharp: F# - relative minor E minor
+Degree | Note | Roman | Chord | Quality | Spelling | Function
+1      | G    | I     | G      | major      | G-B-D     | tonic
+2      | A    | ii    | Am     | minor      | A-C-E     | predominant
+3      | B    | iii   | Bm     | minor      | B-D-F#    | tonic color
+4      | C    | IV    | C      | major      | C-E-G     | predominant
+5      | D    | V     | D      | major      | D-F#-A    | dominant
+6      | E    | vi    | Em     | minor      | E-G-B     | tonic / relative minor
+7      | F#   | vii°  | F#dim  | diminished | F#-A-C    | dominant / leading tone
+Triad set: E-A-D
+Roman: I | ii | iii | IV | V | vi | vii°
+Chord: G | Am | Bm | C | D | Em | F#dim
+Inv:   root | root | 2nd | 2nd | 1st | 1st | 1st
+Fret:  3-2-0 | 5-3-2 | 2-2-0 | 3-3-2 | 2-0-0 | 3-2-2 | 5-3-4
+Rhythm voicings: open G | open Am | Bm barre | open C | open D | open Em | triad fragment
+Exercise: one blocked triad plus low-middle-high arpeggio for every degree = 28 attacks.
+
+D MAJOR - 2 sharps: F#, C# - relative minor B minor
+Degree | Note | Roman | Chord | Quality | Spelling | Function
+1      | D    | I     | D      | major      | D-F#-A    | tonic
+2      | E    | ii    | Em     | minor      | E-G-B     | predominant
+3      | F#   | iii   | F#m    | minor      | F#-A-C#   | tonic color
+4      | G    | IV    | G      | major      | G-B-D     | predominant
+5      | A    | V     | A      | major      | A-C#-E    | dominant
+6      | B    | vi    | Bm     | minor      | B-D-F#    | tonic / relative minor
+7      | C#   | vii°  | C#dim  | diminished | C#-E-G    | dominant / leading tone
+Triad set: G-B-e
+Roman: I | ii | iii | IV | V | vi | vii°
+Chord: D | Em | F#m | G | A | Bm | C#dim
+Inv:   2nd | 2nd | 1st | 1st | root | root | root
+Fret:  2-3-2 | 4-5-3 | 2-2-2 | 4-3-3 | 2-2-0 | 4-3-2 | 6-5-3
+Rhythm voicings: open D | open Em | F#m barre | open G | open A | Bm barre | triad fragment
+Exercise: one blocked triad plus low-middle-high arpeggio for every degree = 28 attacks.
+
+A MAJOR - 3 sharps: F#, C#, G# - relative minor F# minor
+Degree | Note | Roman | Chord | Quality | Spelling | Function
+1      | A    | I     | A      | major      | A-C#-E    | tonic
+2      | B    | ii    | Bm     | minor      | B-D-F#    | predominant
+3      | C#   | iii   | C#m    | minor      | C#-E-G#   | tonic color
+4      | D    | IV    | D      | major      | D-F#-A    | predominant
+5      | E    | V     | E      | major      | E-G#-B    | dominant
+6      | F#   | vi    | F#m    | minor      | F#-A-C#   | tonic / relative minor
+7      | G#   | vii°  | G#dim  | diminished | G#-B-D    | dominant / leading tone
+Triad set: G-B-e
+Roman: I | ii | iii | IV | V | vi | vii°
+Chord: A | Bm | C#m | D | E | F#m | G#dim
+Inv:   root | root | 2nd | 2nd | 1st | 1st | 1st
+Fret:  2-2-0 | 4-3-2 | 1-2-0 | 2-3-2 | 1-0-0 | 2-2-2 | 4-3-4
+Rhythm voicings: open A | Bm barre | C#m barre | open D | open E | F#m barre | triad fragment
+Exercise: one blocked triad plus low-middle-high arpeggio for every degree = 28 attacks.
+
+E MAJOR - 4 sharps: F#, C#, G#, D# - relative minor C# minor
+Degree | Note | Roman | Chord | Quality | Spelling | Function
+1      | E    | I     | E      | major      | E-G#-B    | tonic
+2      | F#   | ii    | F#m    | minor      | F#-A-C#   | predominant
+3      | G#   | iii   | G#m    | minor      | G#-B-D#   | tonic color
+4      | A    | IV    | A      | major      | A-C#-E    | predominant
+5      | B    | V     | B      | major      | B-D#-F#   | dominant
+6      | C#   | vi    | C#m    | minor      | C#-E-G#   | tonic / relative minor
+7      | D#   | vii°  | D#dim  | diminished | D#-F#-A   | dominant / leading tone
+Triad set: D-G-B
+Roman: I | ii | iii | IV | V | vi | vii°
+Chord: E | F#m | G#m | A | B | C#m | D#dim
+Inv:   root | root | 2nd | 2nd | 2nd | 2nd | 2nd
+Fret:  2-1-0 | 4-2-2 | 1-1-0 | 2-2-2 | 4-4-4 | 6-6-5 | 7-8-7
+Rhythm voicings: open E | F#m barre | G#m barre | open A | B barre | C#m barre | triad fragment
+Exercise: one blocked triad plus low-middle-high arpeggio for every degree = 28 attacks.
+
+F MAJOR - 1 flat: Bb - relative minor D minor
+Degree | Note | Roman | Chord | Quality | Spelling | Function
+1      | F    | I     | F      | major      | F-A-C     | tonic
+2      | G    | ii    | Gm     | minor      | G-Bb-D    | predominant
+3      | A    | iii   | Am     | minor      | A-C-E     | tonic color
+4      | Bb   | IV    | Bb     | major      | Bb-D-F    | predominant
+5      | C    | V     | C      | major      | C-E-G     | dominant
+6      | D    | vi    | Dm     | minor      | D-F-A     | tonic / relative minor
+7      | E    | vii°  | Edim   | diminished | E-G-Bb    | dominant / leading tone
+Triad set: G-B-e
+Roman: I | ii | iii | IV | V | vi | vii°
+Chord: F | Gm | Am | Bb | C | Dm | Edim
+Inv:   1st | 1st | root | root | 2nd | 2nd | 2nd
+Fret:  2-1-1 | 3-3-3 | 2-1-0 | 3-3-1 | 0-1-0 | 2-3-1 | 3-5-3
+Rhythm voicings: F barre | Gm barre | open Am | Bb barre | open C | open Dm | triad fragment
+Exercise: one blocked triad plus low-middle-high arpeggio for every degree = 28 attacks.
+
+
+========================================================================================================================
+MODULE C - I-IV-V-I IN SIX KEYS
+========================================================================================================================
+PRIMARY CADENCE
+F major: F - Bb - C - F
+Roman: I - IV - V - I
+Function: T - P - D - T
+Voicings: F barre | Bb barre | open C | F barre
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+C major: C - F - G - C
+Roman: I - IV - V - I
+Function: T - P - D - T
+Voicings: open C | F barre / triad | open G | open C
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+G major: G - C - D - G
+Roman: I - IV - V - I
+Function: T - P - D - T
+Voicings: open G | open C | open D | open G
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+D major: D - G - A - D
+Roman: I - IV - V - I
+Function: T - P - D - T
+Voicings: open D | open G | open A | open D
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+A major: A - D - E - A
+Roman: I - IV - V - I
+Function: T - P - D - T
+Voicings: open A | open D | open E | open A
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+E major: E - A - B - E
+Roman: I - IV - V - I
+Function: T - P - D - T
+Voicings: open E | open A | B barre | open E
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+
+========================================================================================================================
+MODULE D - I-V-vi-IV IN SIX KEYS
+========================================================================================================================
+FOUR-CHORD POP LOOP
+F major: F - C - Dm - Bb
+Roman: I - V - vi - IV
+Function: T - D - T - P
+Voicings: F barre | open C | open Dm | Bb barre
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+C major: C - G - Am - F
+Roman: I - V - vi - IV
+Function: T - D - T - P
+Voicings: open C | open G | open Am | F barre / triad
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+G major: G - D - Em - C
+Roman: I - V - vi - IV
+Function: T - D - T - P
+Voicings: open G | open D | open Em | open C
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+D major: D - A - Bm - G
+Roman: I - V - vi - IV
+Function: T - D - T - P
+Voicings: open D | open A | Bm barre | open G
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+A major: A - E - F#m - D
+Roman: I - V - vi - IV
+Function: T - D - T - P
+Voicings: open A | open E | F#m barre | open D
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+E major: E - B - C#m - A
+Roman: I - V - vi - IV
+Function: T - D - T - P
+Voicings: open E | B barre | C#m barre | open A
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+
+========================================================================================================================
+MODULE E - I-vi-IV-V IN SIX KEYS
+========================================================================================================================
+FIFTIES / TURNAROUND FAMILY
+F major: F - Dm - Bb - C
+Roman: I - vi - IV - V
+Function: T - T - P - D
+Voicings: F barre | open Dm | Bb barre | open C
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+C major: C - Am - F - G
+Roman: I - vi - IV - V
+Function: T - T - P - D
+Voicings: open C | open Am | F barre / triad | open G
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+G major: G - Em - C - D
+Roman: I - vi - IV - V
+Function: T - T - P - D
+Voicings: open G | open Em | open C | open D
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+D major: D - Bm - G - A
+Roman: I - vi - IV - V
+Function: T - T - P - D
+Voicings: open D | Bm barre | open G | open A
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+A major: A - F#m - D - E
+Roman: I - vi - IV - V
+Function: T - T - P - D
+Voicings: open A | F#m barre | open D | open E
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+E major: E - C#m - A - B
+Roman: I - vi - IV - V
+Function: T - T - P - D
+Voicings: open E | C#m barre | open A | B barre
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+
+========================================================================================================================
+MODULE F - ii-V-I-I IN SIX KEYS
+========================================================================================================================
+PREDOMINANT-DOMINANT-TONIC
+F major: Gm - C - F - F
+Roman: ii - V - I - I
+Function: P - D - T - T
+Voicings: Gm barre | open C | F barre | F barre
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+C major: Dm - G - C - C
+Roman: ii - V - I - I
+Function: P - D - T - T
+Voicings: open Dm | open G | open C | open C
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+G major: Am - D - G - G
+Roman: ii - V - I - I
+Function: P - D - T - T
+Voicings: open Am | open D | open G | open G
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+D major: Em - A - D - D
+Roman: ii - V - I - I
+Function: P - D - T - T
+Voicings: open Em | open A | open D | open D
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+A major: Bm - E - A - A
+Roman: ii - V - I - I
+Function: P - D - T - T
+Voicings: Bm barre | open E | open A | open A
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+E major: F#m - B - E - E
+Roman: ii - V - I - I
+Function: P - D - T - T
+Voicings: F#m barre | B barre | open E | open E
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+
+========================================================================================================================
+MODULE G - vi-IV-I-V IN SIX KEYS
+========================================================================================================================
+RELATIVE-MINOR OPENING
+F major: Dm - Bb - F - C
+Roman: vi - IV - I - V
+Function: T - P - T - D
+Voicings: open Dm | Bb barre | F barre | open C
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+C major: Am - F - C - G
+Roman: vi - IV - I - V
+Function: T - P - T - D
+Voicings: open Am | F barre / triad | open C | open G
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+G major: Em - C - G - D
+Roman: vi - IV - I - V
+Function: T - P - T - D
+Voicings: open Em | open C | open G | open D
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+D major: Bm - G - D - A
+Roman: vi - IV - I - V
+Function: T - P - T - D
+Voicings: Bm barre | open G | open D | open A
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+A major: F#m - D - A - E
+Roman: vi - IV - I - V
+Function: T - P - T - D
+Voicings: F#m barre | open D | open A | open E
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+E major: C#m - A - E - B
+Roman: vi - IV - I - V
+Function: T - P - T - D
+Voicings: C#m barre | open A | open E | B barre
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+
+========================================================================================================================
+MODULE H - I-ii-IV-V IN SIX KEYS
+========================================================================================================================
+EXPANDING PREDOMINANT MOTION
+F major: F - Gm - Bb - C
+Roman: I - ii - IV - V
+Function: T - P - P - D
+Voicings: F barre | Gm barre | Bb barre | open C
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+C major: C - Dm - F - G
+Roman: I - ii - IV - V
+Function: T - P - P - D
+Voicings: open C | open Dm | F barre / triad | open G
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+G major: G - Am - C - D
+Roman: I - ii - IV - V
+Function: T - P - P - D
+Voicings: open G | open Am | open C | open D
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+D major: D - Em - G - A
+Roman: I - ii - IV - V
+Function: T - P - P - D
+Voicings: open D | open Em | open G | open A
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+A major: A - Bm - D - E
+Roman: I - ii - IV - V
+Function: T - P - P - D
+Voicings: open A | Bm barre | open D | open E
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+E major: E - F#m - A - B
+Roman: I - ii - IV - V
+Function: T - P - P - D
+Voicings: open E | F#m barre | open A | B barre
+Exercise: one bar per chord, four quarter-note attacks per bar = 16 attacks.
+
+
+========================================================================================================================
+MODULE I - NEAREST-INVERSION I-IV-V-I VOICE LEADING
+========================================================================================================================
+C major on D-G-B
+Chord: C | F | G | C
+Inv:   1st | root | 2nd | 1st
+Fret:  2-0-1 | 3-2-1 | 0-0-0 | 2-0-1
+Low voice: 2-3-0-2
+Mid voice: 0-2-0-0
+Top voice: 1-1-0-1
+Exercise: one blocked attack plus low-middle-high arpeggio per chord = 16 attacks.
+
+G major on E-A-D
+Chord: G | C | D | G
+Inv:   root | 2nd | 1st | root
+Fret:  3-2-0 | 3-3-2 | 2-0-0 | 3-2-0
+Low voice: 3-3-2-3
+Mid voice: 2-3-0-2
+Top voice: 0-2-0-0
+Exercise: one blocked attack plus low-middle-high arpeggio per chord = 16 attacks.
+
+D major on G-B-e
+Chord: D | G | A | D
+Inv:   2nd | 1st | root | 2nd
+Fret:  2-3-2 | 4-3-3 | 2-2-0 | 2-3-2
+Low voice: 2-4-2-2
+Mid voice: 3-3-2-3
+Top voice: 2-3-0-2
+Exercise: one blocked attack plus low-middle-high arpeggio per chord = 16 attacks.
+
+A major on G-B-e
+Chord: A | D | E | A
+Inv:   root | 2nd | 1st | root
+Fret:  2-2-0 | 2-3-2 | 1-0-0 | 2-2-0
+Low voice: 2-2-1-2
+Mid voice: 2-3-0-2
+Top voice: 0-2-0-0
+Exercise: one blocked attack plus low-middle-high arpeggio per chord = 16 attacks.
+
+E major on D-G-B
+Chord: E | A | B | E
+Inv:   root | 2nd | 2nd | root
+Fret:  2-1-0 | 2-2-2 | 4-4-4 | 2-1-0
+Low voice: 2-2-4-2
+Mid voice: 1-2-4-1
+Top voice: 0-2-4-0
+Exercise: one blocked attack plus low-middle-high arpeggio per chord = 16 attacks.
+
+F major on G-B-e
+Chord: F | Bb | C | F
+Inv:   1st | root | 2nd | 1st
+Fret:  2-1-1 | 3-3-1 | 0-1-0 | 2-1-1
+Low voice: 2-3-0-2
+Mid voice: 1-3-1-1
+Top voice: 1-1-0-1
+Exercise: one blocked attack plus low-middle-high arpeggio per chord = 16 attacks.
+
+
+========================================================================================================================
+MODULE J - ROMAN-NUMERAL ANALYSIS AND TRANSPOSITION
+========================================================================================================================
+ANALYZE
+1. C-Am-F-G | answer: key C; I-vi-IV-V; T-T-P-D
+2. G-D-Em-C | answer: key G; I-V-vi-IV; T-D-T-P
+3. Em-A-D-D | answer: key D; ii-V-I-I; P-D-T-T
+4. Bm-E-A-A | answer: key A; ii-V-I-I; P-D-T-T
+5. F#m-B-E-E | answer: key E; ii-V-I-I; P-D-T-T
+6. Gm-C-F-F | answer: key F; ii-V-I-I; P-D-T-T
+7. Am-F-C-G | answer: key C; vi-IV-I-V; T-P-T-D
+8. Em-C-G-D | answer: key G; vi-IV-I-V; T-P-T-D
+9. D-Em-G-A | answer: key D; I-ii-IV-V; T-P-P-D
+10. A-Bm-D-E | answer: key A; I-ii-IV-V; T-P-P-D
+11. E-C#m-A-B | answer: key E; I-vi-IV-V; T-T-P-D
+12. F-C-Dm-Bb | answer: key F; I-V-vi-IV; T-D-T-P
+TRANSPOSE
+1. Move I-V-vi-IV from G to D | answer: D-A-Bm-G
+2. Move I-vi-IV-V from C to A | answer: A-F#m-D-E
+3. Move ii-V-I-I from F to C | answer: Dm-G-C-C
+4. Move vi-IV-I-V from A to E | answer: C#m-A-E-B
+5. Move I-ii-IV-V from D to G | answer: G-Am-C-D
+6. Move I-IV-V-I from E to F | answer: F-Bb-C-F
+7. Move I-V-vi-IV from F to C | answer: C-G-Am-F
+8. Move I-vi-IV-V from G to D | answer: D-Bm-G-A
+9. Move ii-V-I-I from D to A | answer: Bm-E-A-A
+10. Move vi-IV-I-V from C to G | answer: Em-C-G-D
+11. Move I-ii-IV-V from A to E | answer: E-F#m-A-B
+12. Move I-IV-V-I from F to E | answer: E-A-B-E
+
+========================================================================================================================
+MODULE K - 24-BAR CIRCLE-OF-FIFTHS CAPSTONE
+========================================================================================================================
+Bars 1-4: F major
+Chord: F | Bb | C | F
+Roman: I | IV | V | I
+Function: T | P | D | T
+Voicings: F barre | Bb barre | open C | F barre
+Bars 5-8: C major
+Chord: C | F | G | C
+Roman: I | IV | V | I
+Function: T | P | D | T
+Voicings: open C | F barre / triad | open G | open C
+Bars 9-12: G major
+Chord: G | C | D | G
+Roman: I | IV | V | I
+Function: T | P | D | T
+Voicings: open G | open C | open D | open G
+Bars 13-16: D major
+Chord: D | G | A | D
+Roman: I | IV | V | I
+Function: T | P | D | T
+Voicings: open D | open G | open A | open D
+Bars 17-20: A major
+Chord: A | D | E | A
+Roman: I | IV | V | I
+Function: T | P | D | T
+Voicings: open A | open D | open E | open A
+Bars 21-24: E major
+Chord: E | A | B | E
+Roman: I | IV | V | I
+Function: T | P | D | T
+Voicings: open E | open A | B barre | open E
+Pass 1: four quarter-note rhythm attacks per bar = 96 attacks.
+Pass 2: one blocked triad plus low-middle-high arpeggio per bar.
+Pass 3: anticipate IV and V on the & of 4 without moving the key boundary.
+
+========================================================================================================================
+PRACTICE PROGRESSION, ERROR REPAIR, AND MASTERY
+========================================================================================================================
+1. Recite the major-scale step formula.
+2. Recite the quality and function sequence.
+3. Spell all triads in C and G.
+4. Add D, A, E, and F.
+5. Play all six triad ladders.
+6. Learn I-IV-V-I in every key.
+7. Add the five remaining progression families.
+8. Play the nearest-inversion cells.
+9. Complete the analysis and transposition prompts.
+10. Perform the 24-bar capstone.
+
+ERROR DIAGNOSIS
+WRONG QUALITY: recite major-minor-minor-major-major-minor-diminished.
+WRONG KEY NOTE: say the key signature before spelling the chord.
+ROMAN CASE ERROR: uppercase major, lowercase minor, degree symbol diminished.
+FUNCTION BLUR: reduce to tonic-predominant-dominant-tonic.
+TRANSPOSE ERROR: keep numerals fixed and rebuild chord names from degree 1.
+TRIAD FRET SEARCH: name the string set and inversion before forming.
+CAPSTONE STOP: loop the final I bar and the next key's I bar.
+
+MASTERY GATE
+Spell all six major scales and all 42 diatonic triads.
+Recite the Roman-numeral qualities and function families.
+Play all six harmonized ladders and all 36 progression cells.
+Complete all six nearest-inversion voice-leading cells.
+Finish the 24 written analysis/transposition prompts.
+Perform the 24-bar circle capstone without stopping.
+Meet the standard on two separate days: one triad pass and one full/partial-chord pass.
+
+NEXT LEVEL
+Level 56 harmonizes natural minor and introduces i-ii°-III-iv-v-VI-VII before the raised seventh creates a major V chord.

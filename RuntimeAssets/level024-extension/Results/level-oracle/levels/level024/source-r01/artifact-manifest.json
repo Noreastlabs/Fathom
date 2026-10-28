@@ -1,0 +1,319 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 20480,
+      "bytes": 20153,
+      "kind": "file",
+      "path": "Prompts/level-oracle/levels/level024/20260924T183748Z-level024-source-timing-oracle-r01.md",
+      "role": "Pinned original/assignment/frozen structural reference; retained in place; source provenance in assignment and oracle",
+      "sha256": "6b344f3fe52a5437791a8c1b3bf8acfeca1355d2e0e442fefb2a10558ab400ff"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6525,
+      "kind": "file",
+      "path": "Prompts/level-oracle/20260924T1832Z-level-oracle-manager-assignment.md",
+      "role": "Pinned original/assignment/frozen structural reference; retained in place; source provenance in assignment and oracle",
+      "sha256": "e616f38c8f72bfeb7a4ad7abb970aa981cb67c27b6916fa73b4a5f6c526e5c95"
+    },
+    {
+      "allocated_bytes": 45056,
+      "bytes": 42406,
+      "kind": "file",
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_24_Natural_Minor_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "role": "Pinned original/assignment/frozen structural reference; retained in place; source provenance in assignment and oracle",
+      "sha256": "2a91403130355b916d2d935a2df197cbe54a03d1d17cb32575ad6df73bee9988"
+    },
+    {
+      "allocated_bytes": 32768,
+      "bytes": 31268,
+      "kind": "file",
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_24_Natural_Minor_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "role": "Pinned original/assignment/frozen structural reference; retained in place; source provenance in assignment and oracle",
+      "sha256": "6f447ad03a5a0b21cee9ea20ab2cb561e9fb25f5cd7c6a5e8a5121b7657697ad"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4286,
+      "kind": "file",
+      "path": "Results/parallel-09/exercises/conversion/20260923T151102Z-2.3.1.1.1-level024-whole-r01-results.md",
+      "role": "Pinned original/assignment/frozen structural reference; retained in place; source provenance in assignment and oracle",
+      "sha256": "bb5c880d27330da5cbf111e545f1c8a8f21cc300eb8615694fe831e2d7daa358"
+    },
+    {
+      "allocated_bytes": 565248,
+      "bytes": 561287,
+      "kind": "file",
+      "path": "Build/parallel-09/2.3.1.1.1-level024-whole-r01/candidate-01.json",
+      "role": "Pinned original/assignment/frozen structural reference; retained in place; source provenance in assignment and oracle",
+      "sha256": "16159d81cb657d3d05744121225f22fd3e9f542ee93df60c1d107ad94e1cc804"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3272,
+      "kind": "file",
+      "path": "Results/parallel-06/exercises/conversion/20260923T230000Z-2.3.1.1.1-level024-schema1-unallocated-r01-results.md",
+      "role": "Pinned original/assignment/frozen structural reference; retained in place; source provenance in assignment and oracle",
+      "sha256": "600a6d7aa8ffff4d422f8008ea7590b530982fb2f2a9e6bd89216e094600c931"
+    },
+    {
+      "allocated_bytes": 995328,
+      "bytes": 995180,
+      "kind": "file",
+      "path": "Build/parallel-06/level024-schema1-unallocated-r01/field-proposal.json",
+      "role": "Pinned original/assignment/frozen structural reference; retained in place; source provenance in assignment and oracle",
+      "sha256": "a9f5b821519a02e37c3391f31f701e64e869569f116c1602e52c1c868cdbdadf"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5509,
+      "kind": "file",
+      "path": "Fathom-Evidence-and-Repository-Policy-v1.0.md",
+      "role": "Governing read-only reference or evidence helper used by this lane",
+      "sha256": "aa90331b25c561b27b4d25686529a901b1bed2fae72b410ce8fc786f58632b2c"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 4093,
+      "kind": "file",
+      "path": "Fathom-Agent-Decision-Authority-2026-09-23.md",
+      "role": "Governing read-only reference or evidence helper used by this lane",
+      "sha256": "d894cf85f0f6f215878c1f45db19013ce87d0c692f8c31aafa9a6867f6b7270c"
+    },
+    {
+      "allocated_bytes": 40960,
+      "bytes": 38186,
+      "kind": "file",
+      "path": "Fathom-Codex-Goal.md",
+      "role": "Governing read-only reference or evidence helper used by this lane",
+      "sha256": "6bf06738842b09cc20868f6c276b1a62db620e08f729fe720f20f683b1dba9c5"
+    },
+    {
+      "allocated_bytes": 16384,
+      "bytes": 13568,
+      "kind": "file",
+      "path": "Fathom-Codex-Prompt-Template.md",
+      "role": "Governing read-only reference or evidence helper used by this lane",
+      "sha256": "3460d7180bd04c46b4e3eb8d11f62a9873f3f1873e66306de10623ec7b8a3d1c"
+    },
+    {
+      "allocated_bytes": 53248,
+      "bytes": 52977,
+      "kind": "file",
+      "path": "Notes/Fathom Project Charter v1.0.docx",
+      "role": "Governing read-only reference or evidence helper used by this lane",
+      "sha256": "27cde5c0fdb341e47d301c6e3308380a0d47d8958f70bf788b2ee6e015aec60d"
+    },
+    {
+      "allocated_bytes": 20480,
+      "bytes": 19280,
+      "kind": "file",
+      "path": "Tools/fathom_evidence.py",
+      "role": "Governing read-only reference or evidence helper used by this lane",
+      "sha256": "9c25192006f8f1e2d6952fa6c456f6001376420ec7ee0746aecf61147fdf8419"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5056,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level024/source-r01/closeout-checks.json",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "fc033d85643bc8ca26e3207ae4f3bf58074a6ed14d812827f64afdf6be72df61"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5308,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level024/source-r01/commands-and-limitations.md",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "1ea6bf31c1c96123c52bb1ca5c7f883a75f6d6df2dbb32f4a9110aca065bcfb7"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7187,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level024/source-r01/final-results.md",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "2178705404b3838642c5b4a844cd27dcf72daab8702891115a94d91ae3b58366"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5180,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level024/source-r01/first78-contacts.tsv",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "3da61bc1773067a0944e728646257e29a4f6286e151873fc608f89ba761fe8aa"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 587,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level024/source-r01/git-state-before.json",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "a43d5f9d16dea55f04bd63bcf979a242444de4da997d77160995ec1ecb3798f9"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 977,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level024/source-r01/git-state.json",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "6f5011f6a424168d6d4a697d21013d6294ee2c61ce6117d733d547c78886fc04"
+    },
+    {
+      "allocated_bytes": 16384,
+      "bytes": 13747,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level024/source-r01/source-timing-oracle.md",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "75ac28d8ad8cd09c3b402bc325aca73100b738e2f66c0e24ddd071b645c13943"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6768,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level024/source-r01/verification.json",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "f1736f27e3495cf201497399d3d2d6c667af834b625a740826c97d67a3cabbd6"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3710,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-01.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "0a1b3374c0f2ea3ff5e4b946452c2aa1803af62b85650be61589f970a953353d"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2039,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-02.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "b37ad18809bcb4005f999c684d8eb94efe15b922d9875f8ec71812a614669f5b"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5269,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-03.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "cb4d5786d1325b38c2e3c1daaf592bad420e348bcce0aca791cad2e82e3c67cb"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5269,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-04.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "189177b1ef9af639dcc6c556ad5a31f36f23aeaa4d91d734f3eaf3b8b30eaeda"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5272,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-05.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "2b545c91bd857af9cce0da00636d00b45ce0480360f58e09c97e73e852928ed3"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5279,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-06.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "0c2128d04e47099fc2fdea8acd9159ac106a7f438ff9d51c9ccd3035381e3fa3"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5279,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-07.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "dd1fad9fb58d8112277453a71450b94cf18a48fa56cab1e06741b619dc0c45a6"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5279,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-08.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "c3e65aeeb8af460a31d4a0b00de0a2da50b69eec7dbce6b3909038f7512b0548"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3603,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-09.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "08a6c178a567ef90839c4b7ca334447331c6af8d2318563f0d8c4d2d0c54cb6b"
+    },
+    {
+      "allocated_bytes": 274432,
+      "bytes": 273068,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-1.png",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "4a8797aaf654f7d06f65ee808791d97b44da1e0ad8e0e5c37663f58323b349ad"
+    },
+    {
+      "allocated_bytes": 286720,
+      "bytes": 285145,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-10.png",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "741d6fdbb9d9ea0d66e9f39d02b818907e912bfceb4b8ef0932441192e37ccbc"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2224,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-10.txt",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "3418d2a178d7b97d0f0614348a364c4a8c837942326cc2950ccd5b165f9443fa"
+    },
+    {
+      "allocated_bytes": 274432,
+      "bytes": 273235,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-2.png",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "94cff7e4ef89fe9ea307d1b73a49b586cce3e2794aedf7257c560a25513cf13d"
+    },
+    {
+      "allocated_bytes": 102400,
+      "bytes": 98791,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-3-first-card-detail.png",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "620080eb82a18ce6d4528f4cb74e836777ade7b8888b76edbaf0f24fad1c787b"
+    },
+    {
+      "allocated_bytes": 221184,
+      "bytes": 218636,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-3.png",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "0028bbdc5f7adb3200652ac3e34d658b31b3410a68abdd44fe347d2f755cf64a"
+    },
+    {
+      "allocated_bytes": 253952,
+      "bytes": 253555,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/pdf-page-9.png",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "56a900402b30e7f1ee768cad8ed650a3e02856ac8bc919592c9c82db75f0df19"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 9367,
+      "kind": "file",
+      "path": "Build/level-oracle/levels/level024/source-r01/verify_source.py",
+      "role": "Private source-only lane output; original-source rendering/check or producer evidence; no candidate/admission",
+      "sha256": "d978bd37e2baa0cf8afa65886c9c019e3316f9076d8a53a8badd7a5d1a3ca0e3"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

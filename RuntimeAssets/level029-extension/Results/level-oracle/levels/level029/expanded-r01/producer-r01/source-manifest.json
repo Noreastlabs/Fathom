@@ -1,0 +1,39 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 163840,
+      "bytes": 161748,
+      "kind": "file",
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_29_Natural_Minor_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.txt",
+      "role": "original_txt",
+      "sha256": "543d98fa9279f39d8975d6b00cd43e5f5aebbb94c5e59fe7771f63af8d8244e5"
+    },
+    {
+      "allocated_bytes": 114688,
+      "bytes": 113107,
+      "kind": "file",
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_29_Natural_Minor_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "role": "original_pdf",
+      "sha256": "2310fc942262081445d80d164ae6feab6335a879db283863db27f69bb75ef445"
+    },
+    {
+      "allocated_bytes": 2723840,
+      "bytes": 2720059,
+      "kind": "file",
+      "path": "Build/parallel-08/2.3.1.1.1-level029-whole-r01/candidate-02.json",
+      "role": "historical_structural_candidate",
+      "sha256": "2b2ba16189a552799f764a9481bd7ccd50c451e17c66ae70485518defa6a3bfb"
+    },
+    {
+      "allocated_bytes": 1953792,
+      "bytes": 1952840,
+      "kind": "file",
+      "path": "Build/parallel-13/four-shard-source-bundle-r01/bundle/bin/fathom_content_validate",
+      "role": "frozen_validator",
+      "sha256": "a85c1b25d8cded12cbe273e4620bd5f33a711d06311d29583a0fdbed7748f714"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

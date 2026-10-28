@@ -1,0 +1,259 @@
+SCALE EXERCISES - SECTION IV, LEVEL 31
+MAJOR PENTATONIC TWO-OCTAVE SIX-STRING NECK LADDER: A TO A
+
+PURPOSE
+Extend the exact Level 30 major-pentatonic frame across all six strings and two full octaves. Play the complete
+22-note up/down cell, release pressure, move the entire hand-and-thumb frame exactly one fret, and repeat through
+every major-pentatonic key. Begin with A major pentatonic at low-E fret 5, climb to A major pentatonic at fret 17,
+then reverse and return one fret at a time.
+
+IMPORTANT INTERPRETATION
+Moving one fixed shape by one fret transposes it. A major pentatonic is the starting rung, not the key of every rung.
+Holding A major pentatonic constant while connecting its five positions is a later branch of Section IV.
+
+MAJOR-PENTATONIC FORMULA
+Degrees per octave: 1 2 3 5 6
+Intervals: whole - whole - minor third - whole - minor third
+The omitted degrees 4 and 7 remain absent in both octaves.
+
+COMPACT TWO-OCTAVE SIX-STRING SHAPE - ROOT FRET R ON LOW E
+Low E string: R, R+2               Fingers 2,4
+A string:     R-1, R+2             Fingers 1,4
+D string:     R-1, R+2             Fingers 1,4
+G string:     R-1, R+1             Fingers 1,3
+B string:     R, R+2               Fingers 2,4
+High e string:R                    Finger 2
+The four-fret hand frame runs from R-1 through R+2.
+
+STRING-DISTRIBUTION RULE
+Ascending note counts by string: 2 - 2 - 2 - 2 - 2 - 1.
+Descending note counts by string: 1 - 2 - 2 - 2 - 2 - 2.
+The G-to-B tuning offset changes the visible geometry. Rebuild the assigned fingering rather than copying the
+G-string shape directly onto the B and high-e strings.
+
+CELL AND PICKING RULE
+Ascend from the low root through the middle root to the high root, repeat the high root at the turnaround,
+then descend to the low root. The complete cell contains 22 notes, so the next key begins with the same
+alternate-picking orientation.
+D-start: strict D-U alternate picking through every crossing, root, turnaround, and one-fret relocation.
+U-start: strict U-D alternate picking through every crossing, root, turnaround, and one-fret relocation.
+Do not restart the pick cycle on a new string, at the middle root, at the high-root turn, or after shifting.
+
+NECK ROUTE
+UP:   A(5) > Bb(6) > B(7) > C(8) > Db(9) > D(10) > Eb(11) > E(12) > F(13) > Gb(14) > G(15) > Ab(16) > A(17)
+DOWN: A(17) > Ab(16) > G(15) > Gb(14) > F(13) > E(12) > Eb(11) > D(10) > Db(9) > C(8) > B(7) > Bb(6) > A(5)
+
+PRACTICE RULE
+Begin 10-15 BPM below your clean Level 30 tempo. First master the A-major-pentatonic cell alone. Then use 2-3
+neighboring rungs, play even eighth notes, and pause one beat after each 22-note cell while moving the complete
+frame one fret. Repeat with both pick starts. Remove the pause, connect the ladder, reverse at fret 17, and return
+to fret 5. Add 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, crossing noise, dragged shifts,
+or rising tension. Advance after the full route is clean with both pick starts on two separate days.
+
+==========================================================================================================================
+RUNG 01 OF 13 - A MAJOR PENTATONIC - ROOT ON LOW E FRET 5 - FRAME 4-7
+Scale tones across two octaves: A B C# E F# A | B C# E F# A
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------5--5--------------------------------|
+B  |------------------------5--7--------7--5--------------------------|
+G  |------------------4--6--------------------6--4--------------------|
+D  |------------4--7--------------------------------7--4--------------|
+A  |------4--7--------------------------------------------7--4--------|
+E  |5--7--------------------------------------------------------7--5--|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 02 OF 13 - BB MAJOR PENTATONIC - ROOT ON LOW E FRET 6 - FRAME 5-8
+Scale tones across two octaves: Bb C D F G Bb | C D F G Bb
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------6--6--------------------------------|
+B  |------------------------6--8--------8--6--------------------------|
+G  |------------------5--7--------------------7--5--------------------|
+D  |------------5--8--------------------------------8--5--------------|
+A  |------5--8--------------------------------------------8--5--------|
+E  |6--8--------------------------------------------------------8--6--|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 03 OF 13 - B MAJOR PENTATONIC - ROOT ON LOW E FRET 7 - FRAME 6-9
+Scale tones across two octaves: B C# D# F# G# B | C# D# F# G# B
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------7--7--------------------------------|
+B  |------------------------7--9--------9--7--------------------------|
+G  |------------------6--8--------------------8--6--------------------|
+D  |------------6--9--------------------------------9--6--------------|
+A  |------6--9--------------------------------------------9--6--------|
+E  |7--9--------------------------------------------------------9--7--|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 04 OF 13 - C MAJOR PENTATONIC - ROOT ON LOW E FRET 8 - FRAME 7-10
+Scale tones across two octaves: C D E G A C | D E G A C
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------8--8--------------------------------|
+B  |------------------------8--10-------10-8--------------------------|
+G  |------------------7--9--------------------9--7--------------------|
+D  |------------7--10-------------------------------10-7--------------|
+A  |------7--10-------------------------------------------10-7--------|
+E  |8--10-------------------------------------------------------10-8--|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 05 OF 13 - DB MAJOR PENTATONIC - ROOT ON LOW E FRET 9 - FRAME 8-11
+Scale tones across two octaves: Db Eb F Ab Bb Db | Eb F Ab Bb Db
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------9--9--------------------------------|
+B  |------------------------9--11-------11-9--------------------------|
+G  |------------------8--10-------------------10-8--------------------|
+D  |------------8--11-------------------------------11-8--------------|
+A  |------8--11-------------------------------------------11-8--------|
+E  |9--11-------------------------------------------------------11-9--|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 06 OF 13 - D MAJOR PENTATONIC - ROOT ON LOW E FRET 10 - FRAME 9-12
+Scale tones across two octaves: D E F# A B D | E F# A B D
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------10-10-------------------------------|
+B  |------------------------10-12-------12-10-------------------------|
+G  |------------------9--11-------------------11-9--------------------|
+D  |------------9--12-------------------------------12-9--------------|
+A  |------9--12-------------------------------------------12-9--------|
+E  |10-12-------------------------------------------------------12-10-|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 07 OF 13 - EB MAJOR PENTATONIC - ROOT ON LOW E FRET 11 - FRAME 10-13
+Scale tones across two octaves: Eb F G Bb C Eb | F G Bb C Eb
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------11-11-------------------------------|
+B  |------------------------11-13-------13-11-------------------------|
+G  |------------------10-12-------------------12-10-------------------|
+D  |------------10-13-------------------------------13-10-------------|
+A  |------10-13-------------------------------------------13-10-------|
+E  |11-13-------------------------------------------------------13-11-|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 08 OF 13 - E MAJOR PENTATONIC - ROOT ON LOW E FRET 12 - FRAME 11-14
+Scale tones across two octaves: E F# G# B C# E | F# G# B C# E
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------12-12-------------------------------|
+B  |------------------------12-14-------14-12-------------------------|
+G  |------------------11-13-------------------13-11-------------------|
+D  |------------11-14-------------------------------14-11-------------|
+A  |------11-14-------------------------------------------14-11-------|
+E  |12-14-------------------------------------------------------14-12-|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 09 OF 13 - F MAJOR PENTATONIC - ROOT ON LOW E FRET 13 - FRAME 12-15
+Scale tones across two octaves: F G A C D F | G A C D F
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------13-13-------------------------------|
+B  |------------------------13-15-------15-13-------------------------|
+G  |------------------12-14-------------------14-12-------------------|
+D  |------------12-15-------------------------------15-12-------------|
+A  |------12-15-------------------------------------------15-12-------|
+E  |13-15-------------------------------------------------------15-13-|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 10 OF 13 - GB MAJOR PENTATONIC - ROOT ON LOW E FRET 14 - FRAME 13-16
+Scale tones across two octaves: Gb Ab Bb Db Eb Gb | Ab Bb Db Eb Gb
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------14-14-------------------------------|
+B  |------------------------14-16-------16-14-------------------------|
+G  |------------------13-15-------------------15-13-------------------|
+D  |------------13-16-------------------------------16-13-------------|
+A  |------13-16-------------------------------------------16-13-------|
+E  |14-16-------------------------------------------------------16-14-|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 11 OF 13 - G MAJOR PENTATONIC - ROOT ON LOW E FRET 15 - FRAME 14-17
+Scale tones across two octaves: G A B D E G | A B D E G
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------15-15-------------------------------|
+B  |------------------------15-17-------17-15-------------------------|
+G  |------------------14-16-------------------16-14-------------------|
+D  |------------14-17-------------------------------17-14-------------|
+A  |------14-17-------------------------------------------17-14-------|
+E  |15-17-------------------------------------------------------17-15-|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 12 OF 13 - AB MAJOR PENTATONIC - ROOT ON LOW E FRET 16 - FRAME 15-18
+Scale tones across two octaves: Ab Bb C Eb F Ab | Bb C Eb F Ab
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------16-16-------------------------------|
+B  |------------------------16-18-------18-16-------------------------|
+G  |------------------15-17-------------------17-15-------------------|
+D  |------------15-18-------------------------------18-15-------------|
+A  |------15-18-------------------------------------------18-15-------|
+E  |16-18-------------------------------------------------------18-16-|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+==========================================================================================================================
+RUNG 13 OF 13 - A MAJOR PENTATONIC - OCTAVE - ROOT ON LOW E FRET 17 - FRAME 16-19
+Scale tones across two octaves: A B C# E F# A | B C# E F# A
+22-note cell: low root to high root, repeat the high root, then return to the low root.
+Deg|1--2--3--5--6--1--2--3--5--6--1--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------17-17-------------------------------|
+B  |------------------------17-19-------19-17-------------------------|
+G  |------------------16-18-------------------18-16-------------------|
+D  |------------16-19-------------------------------19-16-------------|
+A  |------16-19-------------------------------------------19-16-------|
+E  |17-19-------------------------------------------------------19-17-|
+Return to the low root, release pressure, and move the entire frame one fret in the route direction.
+
+FULL ROUND-TRIP CHALLENGE
+1. Start with A major pentatonic at low-E fret 5.
+2. Play all 13 cells without restarting the alternate-picking cycle.
+3. Reverse after the fret-17 cell and return through rungs 12-01.
+4. Name each key and sing or say 1-2-3-5-6 through both octaves.
+5. Repeat the route with the opposite starting stroke.
+One complete route contains 25 cells x 22 notes = 550 picked notes.
+
+CLEAN-ROUND STANDARD
+No open strings, missing pentatonic tone, unplanned doubled note, dragged shift, crossing hesitation, or volume
+drop at the middle or high root. The one-fret relocations must not change the tempo.
+
+AFTER THE LADDER IS CLEAN
+Root accents: accent only the low, middle, and high roots.
+Chord-tone focus: accent degrees 1, 3, and 5; hear degrees 2 and 6 as color tones.
+String-entry audit: accent the first note on every new string, then remove all landing accents.
+Direction: begin selected sessions at fret 17 and descend first.
+Random entry: choose any root fret from 5-17, name the key, and continue either way.
+
+MASTERY GATE
+Complete the full route with both pick starts on two separate days. Name every key, preserve the five-note formula
+in both octaves, keep equal note length and volume, and recover the correct key after a deliberate random stop.
+
+NEXT LEVEL
+Level 32 begins major-pentatonic sequence studies, using short three-note cells and full five-note groups.

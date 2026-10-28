@@ -1,0 +1,601 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "fathom.closed-book-context-source-map.1.schema",
+  "$comment": "This is a closed DATA table, not a caller program or source-role capability. validate_closed_map.py adds source identity/version/rawLF/extent/privacy/disposition and refusal guards beyond this structural schema.",
+  "type": "object",
+  "properties": {
+    "schema": {
+      "const": "fathom.closed-book-context-source-map.1"
+    },
+    "as_of_utc": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "producer": {
+      "const": "/root/remaining_source_custody"
+    },
+    "Root_decision_and_distinct_review": {
+      "type": "object"
+    },
+    "current_descriptor": {
+      "$ref": "#/$defs/reference"
+    },
+    "current_source_index": {
+      "$ref": "#/$defs/reference"
+    },
+    "source_catalog": {
+      "$ref": "#/$defs/reference"
+    },
+    "prior_coverage_candidate": {
+      "$ref": "#/$defs/reference"
+    },
+    "original210_asset_authority": {
+      "$ref": "#/$defs/reference"
+    },
+    "source17_exact_exception_ledger": {
+      "$ref": "#/$defs/reference"
+    },
+    "owner_catalog": {
+      "type": "object"
+    },
+    "source_passage_catalog": {
+      "type": "object"
+    },
+    "bridge_resource_cards": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/card"
+      },
+      "minItems": 21,
+      "maxItems": 21
+    },
+    "book_rows": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/book"
+      },
+      "minItems": 105,
+      "maxItems": 105
+    },
+    "collection_invariants": {
+      "type": "object",
+      "properties": {
+        "raw_source_facts_unchanged": {
+          "const": true
+        },
+        "caller_program_allowed": {
+          "const": false
+        },
+        "caller_source_role_allowed": {
+          "const": false
+        },
+        "automatic_answer_reveal": {
+          "const": false
+        },
+        "actual_source_supplied": {
+          "const": false
+        },
+        "hosted_dependency": {
+          "const": false
+        },
+        "audio_recording_import_added": {
+          "const": false
+        },
+        "new_numeric_ids": {
+          "const": false
+        },
+        "learner_credit": {
+          "const": false
+        },
+        "global_release": {
+          "const": false
+        },
+        "book_or_parent_rollup": {
+          "const": false
+        },
+        "full_PDF_context_and_continuations_retained": {
+          "const": true
+        }
+      },
+      "required": [
+        "raw_source_facts_unchanged",
+        "caller_program_allowed",
+        "caller_source_role_allowed",
+        "automatic_answer_reveal",
+        "actual_source_supplied",
+        "hosted_dependency",
+        "audio_recording_import_added",
+        "new_numeric_ids",
+        "learner_credit",
+        "global_release",
+        "book_or_parent_rollup",
+        "full_PDF_context_and_continuations_retained"
+      ],
+      "additionalProperties": false
+    },
+    "construction_exception_ledger": {
+      "type": "object"
+    },
+    "relationship_policy_catalog": {
+      "type": "object"
+    },
+    "reference_catalog": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "bytes": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "logical_path": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "path",
+          "bytes",
+          "sha256"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 466,
+      "maxItems": 466
+    }
+  },
+  "required": [
+    "schema",
+    "as_of_utc",
+    "producer",
+    "Root_decision_and_distinct_review",
+    "current_descriptor",
+    "current_source_index",
+    "source_catalog",
+    "prior_coverage_candidate",
+    "original210_asset_authority",
+    "source17_exact_exception_ledger",
+    "owner_catalog",
+    "source_passage_catalog",
+    "bridge_resource_cards",
+    "book_rows",
+    "collection_invariants",
+    "construction_exception_ledger",
+    "relationship_policy_catalog",
+    "reference_catalog"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "reference": {
+      "type": "object",
+      "properties": {
+        "reference_slot": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 465
+        },
+        "json_pointer": {
+          "type": "string",
+          "pattern": "^(/|$)"
+        },
+        "jsonl_line": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "raw_LF_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      },
+      "required": [
+        "reference_slot"
+      ],
+      "additionalProperties": false
+    },
+    "publicCard": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "bridge",
+            "resource"
+          ]
+        },
+        "title": {
+          "type": "string"
+        },
+        "public_summary": {
+          "type": "string"
+        },
+        "applies_to_levels": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 105
+          }
+        },
+        "see_hear_play_use": {
+          "type": [
+            "object",
+            "null"
+          ]
+        },
+        "public_source_refs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "content": {
+          "type": [
+            "object",
+            "null"
+          ]
+        },
+        "learner_steps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "provider_warning": {
+          "type": "string"
+        },
+        "availability": {
+          "const": "required_unsupplied"
+        },
+        "required_outputs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "qualification_note": {
+          "type": "string"
+        },
+        "allowed_substitution_notice": {
+          "type": "string"
+        },
+        "prospective_manual_evidence_notice": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "title",
+        "public_summary",
+        "applies_to_levels",
+        "see_hear_play_use",
+        "public_source_refs"
+      ],
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "kind": {
+                "const": "resource"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "learner_steps",
+              "provider_warning",
+              "availability",
+              "required_outputs",
+              "qualification_note",
+              "allowed_substitution_notice"
+            ],
+            "not": {
+              "required": [
+                "content"
+              ]
+            }
+          },
+          "else": {
+            "required": [
+              "content"
+            ],
+            "not": {
+              "required": [
+                "required_outputs"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "card": {
+      "type": "object",
+      "properties": {
+        "card_id": {
+          "type": "string"
+        },
+        "source_ref": {
+          "$ref": "#/$defs/reference"
+        },
+        "public_projection": {
+          "$ref": "#/$defs/publicCard"
+        },
+        "public_projection_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "attribution": {
+          "type": "string"
+        },
+        "historical_new_wording_accepted_flag": {
+          "const": false
+        },
+        "prospective_wording_authority": {
+          "type": "object"
+        },
+        "actual_availability": {
+          "enum": [
+            null,
+            "required_unsupplied"
+          ]
+        },
+        "supplied_audio": {
+          "const": false
+        },
+        "task_relationships": {
+          "type": "array"
+        },
+        "trusted_exact_requirement": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/reference"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "trusted_requirement_visibility": {
+          "type": "string"
+        },
+        "raw_preparation_visibility": {
+          "type": "string"
+        },
+        "historical_preview_notice_ref": {
+          "$ref": "#/$defs/reference"
+        },
+        "prospective_manual_notice_status": {
+          "const": "PRODUCER_PROPOSAL_PENDING_DISTINCT_SOURCE_MATERIAL_PRESENTATION_REVIEW"
+        }
+      },
+      "required": [
+        "card_id",
+        "source_ref",
+        "public_projection",
+        "public_projection_sha256",
+        "attribution",
+        "historical_new_wording_accepted_flag",
+        "prospective_wording_authority",
+        "actual_availability",
+        "supplied_audio",
+        "task_relationships",
+        "trusted_exact_requirement",
+        "trusted_requirement_visibility",
+        "raw_preparation_visibility"
+      ],
+      "additionalProperties": false
+    },
+    "task": {
+      "type": "object",
+      "properties": {
+        "source_identity": {
+          "type": "string"
+        },
+        "existing_package_key": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_kind": {
+          "type": "string"
+        },
+        "current_child_status": {
+          "enum": [
+            null,
+            "Accepted",
+            "Pending"
+          ]
+        },
+        "resolved_source_status": {
+          "type": "string"
+        },
+        "original_source_record": {
+          "$ref": "#/$defs/reference"
+        },
+        "current_index_binding": {
+          "$ref": "#/$defs/reference"
+        },
+        "native_owner_binding": {
+          "type": [
+            "object",
+            "null"
+          ]
+        },
+        "whole_source_extent": {
+          "type": "object",
+          "properties": {
+            "original_TXT": {
+              "type": [
+                "object",
+                "null"
+              ]
+            },
+            "original_PDF": {
+              "type": [
+                "object",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "original_TXT",
+            "original_PDF"
+          ],
+          "additionalProperties": false
+        },
+        "raw_metadata_visibility": {
+          "type": "string"
+        },
+        "resource_context_relationships": {
+          "type": "array"
+        }
+      },
+      "required": [
+        "source_identity",
+        "existing_package_key",
+        "source_kind",
+        "current_child_status",
+        "resolved_source_status",
+        "original_source_record",
+        "current_index_binding",
+        "native_owner_binding",
+        "whole_source_extent",
+        "raw_metadata_visibility",
+        "resource_context_relationships"
+      ],
+      "additionalProperties": false
+    },
+    "book": {
+      "type": "object",
+      "properties": {
+        "workbook_id": {
+          "type": "string",
+          "pattern": "^fg:workbook:000[0-9]{3}$"
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 105
+        },
+        "existing_wbs_parent": {
+          "type": "string"
+        },
+        "source_title": {
+          "type": "string"
+        },
+        "originals": {
+          "type": "object",
+          "properties": {
+            "level": {
+              "type": "integer"
+            },
+            "txt": {
+              "$ref": "#/$defs/reference"
+            },
+            "pdf": {
+              "$ref": "#/$defs/reference"
+            }
+          },
+          "required": [
+            "level",
+            "txt",
+            "pdf"
+          ],
+          "additionalProperties": false
+        },
+        "full_PDF": {
+          "type": "object"
+        },
+        "full_TXT": {
+          "type": "object"
+        },
+        "original_context_segments": {
+          "type": "array"
+        },
+        "full_extent_continuations": {
+          "type": "array"
+        },
+        "tasks": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/task"
+          }
+        },
+        "bridge_and_resource_card_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "source17_exception_ledger": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/reference"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "public_initial_state": {
+          "type": "object",
+          "properties": {
+            "actual_source_supplied": {
+              "const": false
+            },
+            "learner_evidence": {
+              "const": null
+            },
+            "credit": {
+              "const": false
+            },
+            "book_complete": {
+              "const": false
+            },
+            "new_book_admission": {
+              "const": false
+            }
+          },
+          "required": [
+            "actual_source_supplied",
+            "learner_evidence",
+            "credit",
+            "book_complete",
+            "new_book_admission"
+          ],
+          "additionalProperties": false
+        },
+        "admission": {
+          "const": "PROSPECTIVE_PRIVATE_MAP_ONLY"
+        }
+      },
+      "required": [
+        "workbook_id",
+        "level",
+        "existing_wbs_parent",
+        "source_title",
+        "originals",
+        "full_PDF",
+        "full_TXT",
+        "original_context_segments",
+        "full_extent_continuations",
+        "tasks",
+        "bridge_and_resource_card_ids",
+        "source17_exception_ledger",
+        "public_initial_state",
+        "admission"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

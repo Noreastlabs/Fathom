@@ -1,0 +1,924 @@
+{
+  "kind": "accepted source predicates, not new curriculum or runtime conversion",
+  "records": [
+    {
+      "id": "fg:item:000007",
+      "legacy_level": 48,
+      "rubric": {
+        "dimensions": [
+          {
+            "name": "Form awareness",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Rhythmic space",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Chord targeting",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Bend and slide intonation",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Motif continuity",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Position movement",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Dynamic shape",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Recovery after an error",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          }
+        ],
+        "minimum_total": 13,
+        "maximum_total": 16,
+        "protected_nonzero": [
+          "Form awareness",
+          "Chord targeting",
+          "Recovery after an error"
+        ],
+        "repeatability": {
+          "kind": "two_separate_days"
+        },
+        "required_obligations_refs": [
+          "L48-TXT1214-1246"
+        ],
+        "required_obligations": [
+          "all five local pairs and four seam conversations",
+          "transform one motif in seven ways",
+          "sparse/medium/dense target preservation",
+          "all three model choruses",
+          "tonic ending and functional turnaround",
+          "deliberate wrong-note recovery without stopping",
+          "record three connected choruses on two separate days",
+          "audible A7-D7-E7 form without accompaniment"
+        ],
+        "evidence_kind": "explicit_learner_or_reviewer_attestation"
+      },
+      "source_refs": [
+        "L48-TXT28-43",
+        "L48-TXT49-76",
+        "L48-TXT1214-1246"
+      ]
+    },
+    {
+      "id": "fg:item:000011",
+      "legacy_level": 83,
+      "rubric": {
+        "dimensions": [
+          {
+            "name": "Melody clarity",
+            "anchors": [
+              "lost",
+              "functional",
+              "dominant/clear"
+            ]
+          },
+          {
+            "name": "Bass logic",
+            "anchors": [
+              "unclear",
+              "functional",
+              "directed"
+            ]
+          },
+          {
+            "name": "Chord quality",
+            "anchors": [
+              "wrong",
+              "mostly clear",
+              "clear"
+            ]
+          },
+          {
+            "name": "Guide-tone motion",
+            "anchors": [
+              "lost",
+              "functional",
+              "smooth"
+            ]
+          },
+          {
+            "name": "Substitution function",
+            "anchors": [
+              "random",
+              "plausible",
+              "purposeful"
+            ]
+          },
+          {
+            "name": "Voicing cleanliness",
+            "anchors": [
+              "noisy",
+              "usable",
+              "clean"
+            ]
+          },
+          {
+            "name": "Form/pulse",
+            "anchors": [
+              "lost",
+              "recovers",
+              "stable"
+            ]
+          },
+          {
+            "name": "Recovery",
+            "anchors": [
+              "restart",
+              "simplifies",
+              "seamless"
+            ]
+          }
+        ],
+        "minimum_total": 14,
+        "maximum_total": 16,
+        "protected_nonzero": [
+          "Melody clarity",
+          "Bass logic",
+          "Form/pulse",
+          "Recovery"
+        ],
+        "repeatability": {
+          "kind": "two_separate_days"
+        },
+        "required_obligations_refs": [
+          "L83-PDF19",
+          "L83-PDF20"
+        ],
+        "required_obligations": [
+          "retain fixed24bar melody",
+          "reharmonize at least four measures in17\u201324",
+          "source recovery hierarchy"
+        ],
+        "evidence_kind": "explicit_learner_or_reviewer_attestation"
+      },
+      "source_refs": [
+        "L83-TXT52-56",
+        "L83-PDF19",
+        "L83-PDF20"
+      ]
+    },
+    {
+      "id": "fg:item:000012",
+      "legacy_level": 97,
+      "rubric": {
+        "dimensions": [
+          {
+            "name": "Form",
+            "anchors": [
+              "wrong",
+              "mostly",
+              "secure"
+            ]
+          },
+          {
+            "name": "Bass/function",
+            "anchors": [
+              "wrong",
+              "plausible",
+              "confirmed"
+            ]
+          },
+          {
+            "name": "Harmony",
+            "anchors": [
+              "wrong",
+              "functional",
+              "clear"
+            ]
+          },
+          {
+            "name": "Groove",
+            "anchors": [
+              "lost",
+              "approximate",
+              "source-like"
+            ]
+          },
+          {
+            "name": "Signature material",
+            "anchors": [
+              "missing",
+              "partial",
+              "clear"
+            ]
+          },
+          {
+            "name": "Structural judgment",
+            "anchors": [
+              "poor",
+              "mixed",
+              "disciplined"
+            ]
+          },
+          {
+            "name": "Performance",
+            "anchors": [
+              "stops",
+              "functional",
+              "convincing"
+            ]
+          },
+          {
+            "name": "Recovery",
+            "anchors": [
+              "restart",
+              "simplifies",
+              "seamless"
+            ]
+          }
+        ],
+        "minimum_total": 14,
+        "maximum_total": 16,
+        "protected_nonzero": [
+          "Form",
+          "Bass/function",
+          "Groove",
+          "Recovery"
+        ],
+        "repeatability": {
+          "kind": "two_unfamiliar_excerpts",
+          "same_excerpt_twice_counts": false
+        },
+        "required_obligations_refs": [
+          "L97-TXT35-40"
+        ],
+        "required_obligations": [
+          "unfamiliar48bar recording",
+          "no chord chart",
+          "one-page map",
+          "functional arrangement",
+          "reduced fallback",
+          "uninterrupted performance"
+        ],
+        "evidence_kind": "explicit_learner_or_reviewer_attestation"
+      },
+      "source_refs": [
+        "L97-TXT35-40",
+        "L97-PDF19"
+      ]
+    },
+    {
+      "id": "fg:item:000013",
+      "legacy_level": 105,
+      "rubric": {
+        "dimensions": [
+          {
+            "name": "Technique/fretboard",
+            "anchors": [
+              "breaks/unknown",
+              "basic",
+              "controlled",
+              "immediate + musical"
+            ]
+          },
+          {
+            "name": "Harmony/voicing",
+            "anchors": [
+              "wrong",
+              "basic",
+              "functional",
+              "voice-led + adaptive"
+            ]
+          },
+          {
+            "name": "Rhythm/groove",
+            "anchors": [
+              "unstable",
+              "keeps time",
+              "stylistic",
+              "deep pocket + switching"
+            ]
+          },
+          {
+            "name": "Ear/transcription",
+            "anchors": [
+              "cannot reconstruct",
+              "partial",
+              "functional",
+              "fast + selective"
+            ]
+          },
+          {
+            "name": "Improvisation",
+            "anchors": [
+              "random",
+              "phrases",
+              "develops motif",
+              "coherent arc"
+            ]
+          },
+          {
+            "name": "Repertoire",
+            "anchors": [
+              "fragile",
+              "memorized",
+              "adaptable",
+              "resilient + transferable"
+            ]
+          },
+          {
+            "name": "Arrangement",
+            "anchors": [
+              "cluttered",
+              "basic",
+              "role-aware",
+              "orchestrated"
+            ]
+          },
+          {
+            "name": "Composition",
+            "anchors": [
+              "fragment",
+              "complete",
+              "coherent",
+              "distinct + revisable"
+            ]
+          },
+          {
+            "name": "Recovery",
+            "anchors": [
+              "stops",
+              "recovers late",
+              "simplifies",
+              "seamless"
+            ]
+          },
+          {
+            "name": "Performance",
+            "anchors": [
+              "fragmented",
+              "complete",
+              "convincing",
+              "commanding + musical"
+            ]
+          }
+        ],
+        "minimum_total": 24,
+        "maximum_total": 30,
+        "protected_nonzero": [
+          "Rhythm/groove",
+          "Ear/transcription",
+          "Recovery",
+          "Performance"
+        ],
+        "repeatability": {
+          "kind": "any_of",
+          "alternatives": [
+            {
+              "kind": "two_separate_days"
+            },
+            {
+              "kind": "one_passing_performance_independent_reviewer",
+              "minimum_reviewer_total": 24
+            }
+          ],
+          "alternative_affects": "repeatability_only"
+        },
+        "required_obligations_refs": [
+          "L105-PDF30"
+        ],
+        "required_obligations": [
+          "complete final session without abandoning exam",
+          "one finished original presented",
+          "one complete adapted piece presented"
+        ],
+        "evidence_kind": "explicit_learner_or_reviewer_attestation"
+      },
+      "source_refs": [
+        "L105-TXT26-61",
+        "L105-PDF29",
+        "L105-PDF30",
+        "L105-PDF31"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "R39",
+      "level": 39,
+      "source_refs": [
+        "L39-TXT4-40",
+        "L39-TXT499-514"
+      ],
+      "purpose": "A/F#drone comparison and self-recorded phrase",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "separate A andF#tonal-center comparison",
+        "no-drone answer-hidden ear test",
+        "record30secondF#centred phrase"
+      ],
+      "required_outputs": [
+        "context identification",
+        "external phrase take",
+        "source self-review"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R48",
+      "level": 48,
+      "source_refs": [
+        "L48-TXT1214-1242"
+      ],
+      "purpose": "Three-chorus record/review",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "three connected choruses",
+        "two separate days",
+        "A7-D7-E7 form without accompaniment"
+      ],
+      "required_outputs": [
+        "actual external recordings",
+        "dates/take labels",
+        "all source obligations and8domain scores",
+        "repair and recorded retry"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R73",
+      "level": 73,
+      "source_refs": [
+        "L73-TXT650-668"
+      ],
+      "purpose": "Modulation recordings",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "related-key and chromatic-mediant source exercises",
+        "record both on two separate days"
+      ],
+      "required_outputs": [
+        "external performances and source self-review"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R74",
+      "level": 74,
+      "source_refs": [
+        "L74-TXT400-410"
+      ],
+      "purpose": "Rhythm capstone recording",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "source16barcapstone"
+      ],
+      "required_outputs": [
+        "external take",
+        "source rhythm/recovery review"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R75",
+      "level": 75,
+      "source_refs": [
+        "L75-PDF20"
+      ],
+      "purpose": "Complete performance structural review",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "complete source performance",
+        "review actual recorded outcome"
+      ],
+      "required_outputs": [
+        "external take and structural review"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R76",
+      "level": 76,
+      "source_refs": [
+        "L76-PDF1",
+        "L76-PDF13",
+        "L76-PDF20"
+      ],
+      "purpose": "Source cards and unfamiliar reconstruction",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "practice:partner performs card OR self-record once, hide page and wait",
+        "qualifying:unfamiliar16\u201332bar excerpt",
+        "no supplied chart",
+        "two separate days"
+      ],
+      "required_outputs": [
+        "form/bass/harmony/rhythm/melodic/arrangement maps",
+        "uninterrupted arrangement"
+      ],
+      "qualification_note": "Authored self-study recording is allowed practice; do not call remembered material unfamiliar. Source rubric10/12 and protecteddomains remain source facts, not global thresholds.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R77",
+      "level": 77,
+      "source_refs": [
+        "L77-PDF1",
+        "L77-PDF19"
+      ],
+      "purpose": "Ear-source/dictation capstone",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "practice:partner ideal OR self-record once, shuffle, wait, hide",
+        "qualifying:unfamiliar16bars",
+        "at least4chordqualities",
+        "dominant resolution",
+        "repeated motif",
+        "syncopation",
+        "section or tonal landmark"
+      ],
+      "required_outputs": [
+        "hidden-source responses",
+        "source rubric/verification",
+        "capstone performance"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R78",
+      "level": 78,
+      "source_refs": [
+        "L78-PDF13",
+        "L78-PDF17",
+        "L78-PDF19"
+      ],
+      "purpose": "Partner cues and solo role substitute",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "partner_or_authored_solo_offline",
+      "selection_constraints": [
+        "use source-specific cue/role exercises",
+        "explicit solo substitute:record comp then answer live; record lead then comp around spaces"
+      ],
+      "required_outputs": [
+        "external role recordings/live response",
+        "cue/role attestations"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R79",
+      "level": 79,
+      "source_refs": [
+        "L79-PDF9",
+        "L79-PDF18",
+        "L79-PDF20"
+      ],
+      "purpose": "Ensemble/cue/recovery performance",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "partner_where_source_requires",
+      "selection_constraints": [
+        "source-requested cue/role exercise requirements retained",
+        "do not automatically extendL78solo substitute"
+      ],
+      "required_outputs": [
+        "actual partner/cue and performance evidence",
+        "record two passing takes"
+      ],
+      "qualification_note": "Without required partner/cue capability, leave affected qualifying exercise unavailable; no surrogate accepted in this plan.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R95",
+      "level": 95,
+      "source_refs": [
+        "L95-PDF5"
+      ],
+      "purpose": "Section names over backing",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "recording or backing track matching source section exercise"
+      ],
+      "required_outputs": [
+        "spoken section practice attestation"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R96",
+      "level": 96,
+      "source_refs": [
+        "L96-PDF15"
+      ],
+      "purpose": "Partial recording brief",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "16bars",
+        "C tonal centre",
+        "recurring Cmaj7\u2013A7\u2013Dm7\u2013G7",
+        "exact form/rhythm withheld"
+      ],
+      "required_outputs": [
+        "independent reconstruction/performance"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R97A",
+      "level": 97,
+      "source_refs": [
+        "L97-PDF16"
+      ],
+      "purpose": "Groove-led16bar source",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "16bars",
+        "no chart",
+        "likely major key",
+        "repeated two-beat guitar rhythm",
+        "section change atbar9",
+        "ending figure"
+      ],
+      "required_outputs": [
+        "blind form/pulse",
+        "bass/root map",
+        "harmony",
+        "groove",
+        "signature material",
+        "functional performance and audit"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R97B",
+      "level": 97,
+      "source_refs": [
+        "L97-PDF17"
+      ],
+      "purpose": "Harmony-led16bar source",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "16bars",
+        "no chart",
+        "one secondary dominant",
+        "one minor-key cadence",
+        "comping alternates short lead answers"
+      ],
+      "required_outputs": [
+        "harmonic function",
+        "guide-tone targets",
+        "role changes",
+        "one repeated answer",
+        "ending",
+        "six source passes"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R97C",
+      "level": 97,
+      "source_refs": [
+        "L97-PDF2",
+        "L97-PDF18",
+        "L97-PDF19"
+      ],
+      "purpose": "48barcapstone / independent verification",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "48bars",
+        "no chord chart",
+        "sections1\u20134Intro,5\u201312A,13\u201316B,17\u201324Aprime,25\u201332C,33\u201340Solo/support,41\u201344Return,45\u201348Outro",
+        "source allows unfamiliar recording or self/partner-created source for practice",
+        "qualifying:two separate unfamiliar excerpts"
+      ],
+      "required_outputs": [
+        "one-page form map",
+        "root/function chart",
+        "groove map",
+        "S/C/O detail classification",
+        "performance arrangement",
+        "reduced fallback",
+        "uninterrupted memory take"
+      ],
+      "qualification_note": "C4accepted:14/16on two unfamiliar excerpts; protectedForm,Bass/function,Groove,Recovery. Self-created practice alone cannot evidence unfamiliarity. Record actual unfamiliarity for qualifying takes; no substitution ofdays for excerpts.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R99",
+      "level": 99,
+      "source_refs": [
+        "L99-PDF19",
+        "L99-PDF20"
+      ],
+      "purpose": "Eight-piece live set",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "8pieces",
+        "approximately25\u201330minutes",
+        "source permits original studies, public-domain material, own repertoire or legally accessed pieces",
+        "entire set recorded in one unedited file"
+      ],
+      "required_outputs": [
+        "external set take",
+        "set/transition/recovery source evidence"
+      ],
+      "qualification_note": "Preserve source-specific qualifying conditions; no inferred completion.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    },
+    {
+      "id": "R105",
+      "level": 105,
+      "source_refs": [
+        "L105-PDF10",
+        "L105-PDF29",
+        "L105-PDF30"
+      ],
+      "purpose": "Finalearsource/original/adaptedpiece/review",
+      "classification": "learner_teacher_resource",
+      "availability": "required_unsupplied",
+      "route": "learner_or_teacher_offline",
+      "selection_constraints": [
+        "unfamiliar8\u201316bar recording OR partner-created source",
+        "no chart first pass",
+        "finished original",
+        "complete adapted piece",
+        "complete final session"
+      ],
+      "required_outputs": [
+        "ear reconstruction",
+        "original and adapted performances",
+        "all10domain scores/protected conditions",
+        "two-day passes OR passing independent reviewer24+"
+      ],
+      "qualification_note": "24/30and protecteddomains/completion always apply; independent24+ alternative affects repeatability only. No audio/listening supplied.",
+      "supplied_asset": null,
+      "rights_evidence": null,
+      "runtime_network": false,
+      "in_app_recorder": false,
+      "in_app_import": false,
+      "substitution": "only alternatives explicitly listed in this resource entry",
+      "implementation_consumer": "2.4.1.2.1"
+    }
+  ]
+}

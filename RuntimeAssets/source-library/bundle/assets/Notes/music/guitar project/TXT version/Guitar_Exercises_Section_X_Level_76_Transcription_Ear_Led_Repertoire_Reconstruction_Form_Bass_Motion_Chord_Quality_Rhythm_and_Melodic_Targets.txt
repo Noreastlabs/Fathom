@@ -1,0 +1,199 @@
+GUITAR EXERCISES - SECTION X, LEVEL 76
+TRANSCRIPTION AND EAR-LED REPERTOIRE RECONSTRUCTION
+
+COMPLETE WRITTEN WORKLOAD: 920 events plus one complete 32-bar ear-led reconstruction capstone.
+
+PURPOSE
+Reverse Level 75. Begin with audio instead of a supplied chart. Reconstruct form, pulse, tonal center, bass motion, chord quality, rhythm, melodic targets, register, texture, dynamics, and cues in separate passes, then rebuild a playable arrangement.
+
+SEVEN-PASS TRANSCRIPTION STACK
+1. Form
+2. Pulse
+3. Bass
+4. Harmony
+5. Rhythm
+6. Melody
+7. Arrangement
+
+UNCERTAINTY NOTATION
+? = unresolved
+/ = two plausible answers
+( ) = optional or ornamental
+! = verified by two independent clues
+
+MODULE A - TONAL CENTER AND CADENCE: 48 events
+1. E-G#-B-A -> expected tonic A (A minor)
+2. D-B-G-C -> expected tonic C (C major)
+3. A-C-D-G -> expected tonic G (G major)
+4. F#-D-B-E -> expected tonic E (E minor)
+5. E-C#-A-D -> expected tonic D (D major)
+6. G-E-C-F -> expected tonic F (F major)
+7. B-G#-E-A -> expected tonic A (A major)
+8. E-C-A-D -> expected tonic D (D minor)
+9. F#-D#-B-E -> expected tonic E (E major)
+10. C#-A-F#-B -> expected tonic B (B minor)
+11. A-F-D-G -> expected tonic G (G minor)
+12. D-Bb-G-C -> expected tonic C (C minor)
+
+MODULE B - BASS MOTION: 72 events
+C major: 1-5-6-3-4-5 = C-G-A-E-F-G
+C major: 1-7-6-5-4-5 = C-B-A-G-F-G
+G major: 1-3-4-5-6-5 = G-B-C-D-E-D
+D major: 1-5-6-4-2-5 = D-A-B-G-E-A
+A major: 1-3-4-5-6-2 = A-C#-D-E-F#-B
+A minor: 1-7-6-5-4-5 = A-G-F-E-D-E
+E minor: 1-3-6-7-4-5 = E-G-C-D-A-B
+D minor: 1-7-6-5-4-5 = D-C-Bb-A-G-A
+F major: 1-3-4-2-5-1 = F-A-Bb-G-C-F
+C major: 1-3-6-5-4-2 = C-E-A-G-F-D
+G major: 1-7-6-4-2-5 = G-F#-E-C-A-D
+E major: 1-5-6-4-2-5 = E-B-C#-A-F#-B
+
+MODULE C - CHORD QUALITY AND HARMONIC DICTATION: 160 events
+Quality card 1: C-E-G; bass C; answer major triad
+Quality card 2: C-Eb-G; bass C; answer minor triad
+Quality card 3: C-E-G-B; bass C; answer major 7
+Quality card 4: C-E-G-Bb; bass C; answer dominant 7
+Quality card 5: C-Eb-G-Bb; bass C; answer minor 7
+Quality card 6: B-D-F-A; bass B; answer m7b5
+Quality card 7: G#-B-D-F; bass G#; answer dim7
+Quality card 8: C-E-G#; bass C; answer augmented
+Quality card 9: D-G-A; bass D; answer sus4
+Quality card 10: D-E-A; bass D; answer sus2
+Quality card 11: A-C-E-G#; bass A; answer minor-major 7
+Quality card 12: D-F#-A-C; bass D; answer dominant 7
+Quality card 13: E-G#-B-D; bass E; answer dominant 7
+Quality card 14: F-A-C-E; bass F; answer major 7
+Quality card 15: A-C#-E-G; bass A; answer dominant 7
+Quality card 16: B-D-F#-A; bass B; answer minor 7
+Progression 1 [C major]: C-Am-F-G | C-G/B-Am-G -> I-vi-IV-V | I-V6-vi-V
+Progression 2 [G major]: G-D-Em-C | Am-D-G-G -> I-V-vi-IV | ii-V-I-I
+Progression 3 [D major]: D-Bm-G-A | Em-A-D-D -> I-vi-IV-V | ii-V-I-I
+Progression 4 [A minor]: Am-F-C-G | Dm-E-Am-Am -> i-VI-III-VII | iv-V-i-i
+Progression 5 [E minor]: Em-C-G-D | Am-B-Em-Em -> i-VI-III-VII | iv-V-i-i
+Progression 6 [F major]: F-Dm-Bb-C | Gm-C-F-F -> I-vi-IV-V | ii-V-I-I
+Progression 7 [C major -> G]: C-Am-D7-G | Em-A7-D7-G -> I-vi-V/G-I/G | vi/G-V/V-V-I
+Progression 8 [A minor -> C]: Am-Dm-G-C | F-Dm-E-Am -> i-iv-V/C-I/C | IV/C-ii/C-V/i-i
+
+MODULE D - RHYTHM DICTATION: 128 contacts
+Quarter: 1---2---3---4---
+Eighths: 1-&-2-&-3-&-4-&-
+Backbeat: ----2-------4---
+3+3+2: 1--a--&-3--a--&-
+Push &4: 1---2---3---4-P-
+Late a4: 1---2---3---4--P
+16th stab: P-x-P-x-P-x-P-x-
+Funk 1: P-x--x-P-x--x-P-
+Tie &2: P---P-~~----P---
+Tie bar: P---P---P---P-~~
+Stop time: P-------P-------
+Shuffle: P--P P--P P--P P--P
+Quintuplet: P-P-P-P-P
+Septuplet: P-P-P-P-P-P-P
+5/4 3+2: P--P--P-P-
+7/8 2+2+3: P-P-P--
+Dictation 1: P---P---P---P---
+Dictation 2: P-P-P-P-P-P-P-P-
+Dictation 3: P-x-P-x-P-x-P-x-
+Dictation 4: P---P-~~----P---
+Dictation 5: P-x--x-P-x--x-P-
+Dictation 6: ----P-------P---
+Dictation 7: P--P--P-P--P--P-
+Dictation 8: P---P---P---P--P
+Dictation 9: P-x-P---P-x-P---
+Dictation 10: P-----P-P-----P-
+Dictation 11: P--xP---P--xP---
+Dictation 12: P---x---P---x---
+Dictation 13: P--P P--P P--P P--P
+Dictation 14: PP---P--PP---P--
+Dictation 15: P-x---P-P-x---P-
+Dictation 16: P---P---|----P--P
+
+MODULE E - MELODIC HEARING: 96 tones
+C major: 1-2-3-5 = C-D-E-G
+C major: 5-3-2-1 = G-E-D-C
+G major: 1-3-5-6 = G-B-D-E
+D major: 5-6-3-2 = A-B-F#-E
+A minor: 1-b3-5-b7 = A-C-E-G
+A minor: 5-4-b3-1 = E-D-C-A
+E minor: 1-2-b3-5 = E-F#-G-B
+D minor: b3-4-5-1 = F-G-A-D
+A harmonic minor: 5-b6-7-1 = E-F-G#-A
+A melodic minor: 5-6-7-1 = E-F#-G#-A
+C major: 7-1-3-2 = B-C-E-D
+G7: 3-b7-5-1 = B-F-D-G
+Cmaj7: phrase D-E-G-E; structural target E (3)
+G7: phrase A-G-F-B; structural target B (3)
+Am7: phrase B-C-E-G; structural target C (b3)
+Dm7: phrase E-F-A-C; structural target F (b3)
+E7: phrase G-G#-B-D; structural target G# (3)
+A7: phrase C-C#-E-G; structural target C# (3)
+Cmaj7: phrase F-E-D-C; structural target C (R)
+Gmaj7: phrase A-F#-G-B; structural target F# (7)
+Bm7b5: phrase C#-D-F-A; structural target D (b3)
+D7#11: phrase G#-A-F#-C; structural target G# (#11)
+E7b13: phrase C-B-G#-D; structural target C (b13)
+G#7alt: phrase A-C-F#-G#; structural target C (3 as B#)
+
+MODULE F - FORM RECONSTRUCTION: 64 section events
+A: bars 4-8-4-8-4; plausible form Intro / Verse / Pre / Chorus / Outro
+B: bars 8-8-8-8; plausible form A / A / B / A
+C: bars 4-8-8-4; plausible form Intro / Verse / Chorus / Outro
+D: bars 8-4-8-8-4; plausible form Verse / Pre / Chorus / Bridge / Outro
+E: bars 4-8-4-8-8; plausible form Intro / Verse / Pre / Chorus / Solo
+F: bars 8-8-4-8; plausible form Verse / Chorus / Bridge / Chorus
+G: bars 4-8-4-8-8-4; plausible form Intro / Verse / Pre / Chorus / Solo / Outro
+H: bars 8-8-8-8-8; plausible form A / A / B / Solo-A / A
+
+MODULE G - 16-BAR LAYERED LAB: 128 events
+1 | Cmaj7 | C | whole-note swell | E-G-B-E | mp / high triad
+2 | Am7 | A | whole-note swell | C-E-G-C | mp
+3 | Dm7 | D | quarters | F-A-C-A | mp
+4 | G7 | G | &4 anticipation | B-D-F-B | mf
+5 | Cmaj7 | C | 8th partials | E-G-E-D | p / low-mid
+6 | G/B | B | 8th partials | D-G-B-D | p
+7 | Am7 | A | 8th partials | C-E-G-E | p
+8 | Em7 | E | 8th partials | G-B-D-B | p
+9 | Fmaj7 | F | quarters -> 8ths | A-C-E-C | mp
+10 | C/E | E | quarters -> 8ths | G-C-E-G | mp
+11 | Dm7 | D | quarters -> 8ths | F-A-C-D | mf
+12 | G7 | G | push &4 | B-F-D-B | mf
+13 | Cmaj7 | C | 16th comp | E-G-B-G | f / upper
+14 | G7 | G | 16th comp | B-D-F-D | f
+15 | Am7 | A | 16th comp | C-E-G-E | f
+16 | Cmaj7 | C | half + whole | E-D-C-C | f -> mp
+
+MODULE H - ARRANGEMENT RECONSTRUCTION: 96 events
+1 | low | p | palm-muted 8ths | foundation | no fills
+2 | mid | mp | open triads | comping | fill on &4
+3 | high | mf | shell stabs | counterline | beats 2/4
+4 | wide | f | full chords | chorus comp | 16ths
+5 | low+high | mf | bass + upper dyad | hybrid role | call/answer
+6 | high | p | single-note motif | lead | long rests
+7 | mid | mf->f | rising triads | build | density increases
+8 | all | f->pp | quarters to whole | outro | density falls
+
+MODULE I - VERIFICATION: 64 events
+Use sing-back, root-only, guide-tone, muted-rhythm, slow-playback, octave, neighbor, section-comparison, bass/chord-split, and complete-reconstruction tests.
+
+MODULE J - 32-BAR CAPSTONE: 128 events
+1-4 | Intro | Gmaj7 | Em7 | Am7 | D7 | whole / quarters | high triads | mp
+5-12 | Verse | Gmaj7 | D/F# | Em7 | Bm7 | Cmaj7 | G/B | Am7 | D7 | 8th partials | low-mid | p
+13-16 | Pre | Em7 | Bm7 | Cmaj7 | D7 | qtr -> 8th | rising | mp->mf
+17-24 | Chorus | Gmaj7 | D7 | Em7 | Cmaj7 | Gmaj7 | D7 | Cmaj7 | D7 | 16th comp | upper/open | f
+25-28 | Bridge | Em7 | Cmaj7 | Gmaj7 | A7 | 3+3+2 | wide | mf
+29-32 | Outro | Am7 | D7 | Gmaj7 | Gmaj7 | quarters -> whole | falling | mf->pp
+
+RECOVERY ORDER
+1. Keep pulse.
+2. Find active bar.
+3. Return to root or shell.
+4. Rejoin known rhythm cell.
+5. Restore arrangement at the next section.
+6. Review only after the ending.
+
+MASTERY STANDARD
+On two separate days, reconstruct an unfamiliar 16-32 bar excerpt without a supplied chart. Score 0-2 for form, bass, harmony, rhythm, melodic targets, and arrangement. Pass at 10/12 or better, with no zero in form, bass, harmony, or rhythm, then perform the reconstructed arrangement without stopping.
+
+NEXT LEVEL
+Level 77: active ear training - interval recognition, chord-function hearing, sung guide tones, melodic dictation, call-and-response reproduction, and instant fretboard realization.

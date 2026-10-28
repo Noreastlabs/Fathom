@@ -1,0 +1,31 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "development",
+      "generator": "Unix Makefiles",
+      "binaryDir": "${sourceDir}/Build/development",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_OSX_DEPLOYMENT_TARGET": "11.0",
+        "BUILD_TESTING": "ON",
+        "FATHOM_BUILD_DESKTOP": "ON"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "development",
+      "configurePreset": "development"
+    }
+  ],
+  "testPresets": [
+    {
+      "name": "development",
+      "configurePreset": "development",
+      "output": {
+        "outputOnFailure": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,2044 @@
+{
+  "schema": "p02.level015-r05.native-readiness-map.1",
+  "status": "PRIVATE_ORDINAL_MAP_NO_CANONICAL_IDS",
+  "source_packet_sha256": "bff1da256722d18dff4c564032a74947fa56cbd3af460b3733537380dc9d804b",
+  "source_record_canonical_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd",
+  "accepted_timing_overlay_sha256": "b84c694e9dcc3560ff87e1354ec458a789e2b425e6ecdbee8d9570be1fcce4c9",
+  "source_identity": "printed:l015:complete-tablature:rung-05-of-13-db-major-root-on-low-e-fret-9-frame-8-11",
+  "event_count": 78,
+  "group_count": 26,
+  "nominal_terminal_q": [
+    26,
+    1
+  ],
+  "rows": [
+    {
+      "ordinal": 1,
+      "local_event_key": "L15-rung05-ordinal-0001",
+      "group": 1,
+      "slot": 1,
+      "half": "up",
+      "degree": 1,
+      "source_string": "E",
+      "native_string": 1,
+      "fret": 9,
+      "finger": 2,
+      "midi": 49,
+      "spelling": "Db",
+      "source_high_root_turn": false,
+      "onset_q": [
+        0,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 2,
+      "local_event_key": "L15-rung05-ordinal-0002",
+      "group": 1,
+      "slot": 2,
+      "half": "up",
+      "degree": 2,
+      "source_string": "E",
+      "native_string": 1,
+      "fret": 11,
+      "finger": 4,
+      "midi": 51,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        1,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 3,
+      "local_event_key": "L15-rung05-ordinal-0003",
+      "group": 1,
+      "slot": 3,
+      "half": "up",
+      "degree": 3,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 8,
+      "finger": 1,
+      "midi": 53,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        2,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 4,
+      "local_event_key": "L15-rung05-ordinal-0004",
+      "group": 2,
+      "slot": 1,
+      "half": "up",
+      "degree": 2,
+      "source_string": "E",
+      "native_string": 1,
+      "fret": 11,
+      "finger": 4,
+      "midi": 51,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        1,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 5,
+      "local_event_key": "L15-rung05-ordinal-0005",
+      "group": 2,
+      "slot": 2,
+      "half": "up",
+      "degree": 3,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 8,
+      "finger": 1,
+      "midi": 53,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        4,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 6,
+      "local_event_key": "L15-rung05-ordinal-0006",
+      "group": 2,
+      "slot": 3,
+      "half": "up",
+      "degree": 4,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 9,
+      "finger": 2,
+      "midi": 54,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        5,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 7,
+      "local_event_key": "L15-rung05-ordinal-0007",
+      "group": 3,
+      "slot": 1,
+      "half": "up",
+      "degree": 3,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 8,
+      "finger": 1,
+      "midi": 53,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        2,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 8,
+      "local_event_key": "L15-rung05-ordinal-0008",
+      "group": 3,
+      "slot": 2,
+      "half": "up",
+      "degree": 4,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 9,
+      "finger": 2,
+      "midi": 54,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        7,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 9,
+      "local_event_key": "L15-rung05-ordinal-0009",
+      "group": 3,
+      "slot": 3,
+      "half": "up",
+      "degree": 5,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 11,
+      "finger": 4,
+      "midi": 56,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        8,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 10,
+      "local_event_key": "L15-rung05-ordinal-0010",
+      "group": 4,
+      "slot": 1,
+      "half": "up",
+      "degree": 4,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 9,
+      "finger": 2,
+      "midi": 54,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        3,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 11,
+      "local_event_key": "L15-rung05-ordinal-0011",
+      "group": 4,
+      "slot": 2,
+      "half": "up",
+      "degree": 5,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 11,
+      "finger": 4,
+      "midi": 56,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        10,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 12,
+      "local_event_key": "L15-rung05-ordinal-0012",
+      "group": 4,
+      "slot": 3,
+      "half": "up",
+      "degree": 6,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 8,
+      "finger": 1,
+      "midi": 58,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        11,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 13,
+      "local_event_key": "L15-rung05-ordinal-0013",
+      "group": 5,
+      "slot": 1,
+      "half": "up",
+      "degree": 5,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 11,
+      "finger": 4,
+      "midi": 56,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        4,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 14,
+      "local_event_key": "L15-rung05-ordinal-0014",
+      "group": 5,
+      "slot": 2,
+      "half": "up",
+      "degree": 6,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 8,
+      "finger": 1,
+      "midi": 58,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        13,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 15,
+      "local_event_key": "L15-rung05-ordinal-0015",
+      "group": 5,
+      "slot": 3,
+      "half": "up",
+      "degree": 7,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 10,
+      "finger": 3,
+      "midi": 60,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        14,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 16,
+      "local_event_key": "L15-rung05-ordinal-0016",
+      "group": 6,
+      "slot": 1,
+      "half": "up",
+      "degree": 6,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 8,
+      "finger": 1,
+      "midi": 58,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        5,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 17,
+      "local_event_key": "L15-rung05-ordinal-0017",
+      "group": 6,
+      "slot": 2,
+      "half": "up",
+      "degree": 7,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 10,
+      "finger": 3,
+      "midi": 60,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        16,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 18,
+      "local_event_key": "L15-rung05-ordinal-0018",
+      "group": 6,
+      "slot": 3,
+      "half": "up",
+      "degree": 8,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 11,
+      "finger": 4,
+      "midi": 61,
+      "spelling": "Db",
+      "source_high_root_turn": false,
+      "onset_q": [
+        17,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 19,
+      "local_event_key": "L15-rung05-ordinal-0019",
+      "group": 7,
+      "slot": 1,
+      "half": "up",
+      "degree": 7,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 10,
+      "finger": 3,
+      "midi": 60,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        6,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 20,
+      "local_event_key": "L15-rung05-ordinal-0020",
+      "group": 7,
+      "slot": 2,
+      "half": "up",
+      "degree": 8,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 11,
+      "finger": 4,
+      "midi": 61,
+      "spelling": "Db",
+      "source_high_root_turn": false,
+      "onset_q": [
+        19,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 21,
+      "local_event_key": "L15-rung05-ordinal-0021",
+      "group": 7,
+      "slot": 3,
+      "half": "up",
+      "degree": 9,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 8,
+      "finger": 1,
+      "midi": 63,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        20,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 22,
+      "local_event_key": "L15-rung05-ordinal-0022",
+      "group": 8,
+      "slot": 1,
+      "half": "up",
+      "degree": 8,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 11,
+      "finger": 4,
+      "midi": 61,
+      "spelling": "Db",
+      "source_high_root_turn": false,
+      "onset_q": [
+        7,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 23,
+      "local_event_key": "L15-rung05-ordinal-0023",
+      "group": 8,
+      "slot": 2,
+      "half": "up",
+      "degree": 9,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 8,
+      "finger": 1,
+      "midi": 63,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        22,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 24,
+      "local_event_key": "L15-rung05-ordinal-0024",
+      "group": 8,
+      "slot": 3,
+      "half": "up",
+      "degree": 10,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 10,
+      "finger": 3,
+      "midi": 65,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        23,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 25,
+      "local_event_key": "L15-rung05-ordinal-0025",
+      "group": 9,
+      "slot": 1,
+      "half": "up",
+      "degree": 9,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 8,
+      "finger": 1,
+      "midi": 63,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        8,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 26,
+      "local_event_key": "L15-rung05-ordinal-0026",
+      "group": 9,
+      "slot": 2,
+      "half": "up",
+      "degree": 10,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 10,
+      "finger": 3,
+      "midi": 65,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        25,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 27,
+      "local_event_key": "L15-rung05-ordinal-0027",
+      "group": 9,
+      "slot": 3,
+      "half": "up",
+      "degree": 11,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 11,
+      "finger": 4,
+      "midi": 66,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        26,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 28,
+      "local_event_key": "L15-rung05-ordinal-0028",
+      "group": 10,
+      "slot": 1,
+      "half": "up",
+      "degree": 10,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 10,
+      "finger": 3,
+      "midi": 65,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        9,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 29,
+      "local_event_key": "L15-rung05-ordinal-0029",
+      "group": 10,
+      "slot": 2,
+      "half": "up",
+      "degree": 11,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 11,
+      "finger": 4,
+      "midi": 66,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        28,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 30,
+      "local_event_key": "L15-rung05-ordinal-0030",
+      "group": 10,
+      "slot": 3,
+      "half": "up",
+      "degree": 12,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 9,
+      "finger": 2,
+      "midi": 68,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        29,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 31,
+      "local_event_key": "L15-rung05-ordinal-0031",
+      "group": 11,
+      "slot": 1,
+      "half": "up",
+      "degree": 11,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 11,
+      "finger": 4,
+      "midi": 66,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        10,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 32,
+      "local_event_key": "L15-rung05-ordinal-0032",
+      "group": 11,
+      "slot": 2,
+      "half": "up",
+      "degree": 12,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 9,
+      "finger": 2,
+      "midi": 68,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        31,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 33,
+      "local_event_key": "L15-rung05-ordinal-0033",
+      "group": 11,
+      "slot": 3,
+      "half": "up",
+      "degree": 13,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 11,
+      "finger": 4,
+      "midi": 70,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        32,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 34,
+      "local_event_key": "L15-rung05-ordinal-0034",
+      "group": 12,
+      "slot": 1,
+      "half": "up",
+      "degree": 12,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 9,
+      "finger": 2,
+      "midi": 68,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        11,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 35,
+      "local_event_key": "L15-rung05-ordinal-0035",
+      "group": 12,
+      "slot": 2,
+      "half": "up",
+      "degree": 13,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 11,
+      "finger": 4,
+      "midi": 70,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        34,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 36,
+      "local_event_key": "L15-rung05-ordinal-0036",
+      "group": 12,
+      "slot": 3,
+      "half": "up",
+      "degree": 14,
+      "source_string": "e",
+      "native_string": 6,
+      "fret": 8,
+      "finger": 1,
+      "midi": 72,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        35,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 37,
+      "local_event_key": "L15-rung05-ordinal-0037",
+      "group": 13,
+      "slot": 1,
+      "half": "up",
+      "degree": 13,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 11,
+      "finger": 4,
+      "midi": 70,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        12,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 38,
+      "local_event_key": "L15-rung05-ordinal-0038",
+      "group": 13,
+      "slot": 2,
+      "half": "up",
+      "degree": 14,
+      "source_string": "e",
+      "native_string": 6,
+      "fret": 8,
+      "finger": 1,
+      "midi": 72,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        37,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 39,
+      "local_event_key": "L15-rung05-ordinal-0039",
+      "group": 13,
+      "slot": 3,
+      "half": "up",
+      "degree": 15,
+      "source_string": "e",
+      "native_string": 6,
+      "fret": 9,
+      "finger": 2,
+      "midi": 73,
+      "spelling": "Db",
+      "source_high_root_turn": true,
+      "onset_q": [
+        38,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 40,
+      "local_event_key": "L15-rung05-ordinal-0040",
+      "group": 14,
+      "slot": 1,
+      "half": "down",
+      "degree": 15,
+      "source_string": "e",
+      "native_string": 6,
+      "fret": 9,
+      "finger": 2,
+      "midi": 73,
+      "spelling": "Db",
+      "source_high_root_turn": true,
+      "onset_q": [
+        13,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 41,
+      "local_event_key": "L15-rung05-ordinal-0041",
+      "group": 14,
+      "slot": 2,
+      "half": "down",
+      "degree": 14,
+      "source_string": "e",
+      "native_string": 6,
+      "fret": 8,
+      "finger": 1,
+      "midi": 72,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        40,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 42,
+      "local_event_key": "L15-rung05-ordinal-0042",
+      "group": 14,
+      "slot": 3,
+      "half": "down",
+      "degree": 13,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 11,
+      "finger": 4,
+      "midi": 70,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        41,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 43,
+      "local_event_key": "L15-rung05-ordinal-0043",
+      "group": 15,
+      "slot": 1,
+      "half": "down",
+      "degree": 14,
+      "source_string": "e",
+      "native_string": 6,
+      "fret": 8,
+      "finger": 1,
+      "midi": 72,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        14,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 44,
+      "local_event_key": "L15-rung05-ordinal-0044",
+      "group": 15,
+      "slot": 2,
+      "half": "down",
+      "degree": 13,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 11,
+      "finger": 4,
+      "midi": 70,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        43,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 45,
+      "local_event_key": "L15-rung05-ordinal-0045",
+      "group": 15,
+      "slot": 3,
+      "half": "down",
+      "degree": 12,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 9,
+      "finger": 2,
+      "midi": 68,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        44,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 46,
+      "local_event_key": "L15-rung05-ordinal-0046",
+      "group": 16,
+      "slot": 1,
+      "half": "down",
+      "degree": 13,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 11,
+      "finger": 4,
+      "midi": 70,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        15,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 47,
+      "local_event_key": "L15-rung05-ordinal-0047",
+      "group": 16,
+      "slot": 2,
+      "half": "down",
+      "degree": 12,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 9,
+      "finger": 2,
+      "midi": 68,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        46,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 48,
+      "local_event_key": "L15-rung05-ordinal-0048",
+      "group": 16,
+      "slot": 3,
+      "half": "down",
+      "degree": 11,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 11,
+      "finger": 4,
+      "midi": 66,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        47,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 49,
+      "local_event_key": "L15-rung05-ordinal-0049",
+      "group": 17,
+      "slot": 1,
+      "half": "down",
+      "degree": 12,
+      "source_string": "B",
+      "native_string": 5,
+      "fret": 9,
+      "finger": 2,
+      "midi": 68,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        16,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 50,
+      "local_event_key": "L15-rung05-ordinal-0050",
+      "group": 17,
+      "slot": 2,
+      "half": "down",
+      "degree": 11,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 11,
+      "finger": 4,
+      "midi": 66,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        49,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 51,
+      "local_event_key": "L15-rung05-ordinal-0051",
+      "group": 17,
+      "slot": 3,
+      "half": "down",
+      "degree": 10,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 10,
+      "finger": 3,
+      "midi": 65,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        50,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 52,
+      "local_event_key": "L15-rung05-ordinal-0052",
+      "group": 18,
+      "slot": 1,
+      "half": "down",
+      "degree": 11,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 11,
+      "finger": 4,
+      "midi": 66,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        17,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 53,
+      "local_event_key": "L15-rung05-ordinal-0053",
+      "group": 18,
+      "slot": 2,
+      "half": "down",
+      "degree": 10,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 10,
+      "finger": 3,
+      "midi": 65,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        52,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 54,
+      "local_event_key": "L15-rung05-ordinal-0054",
+      "group": 18,
+      "slot": 3,
+      "half": "down",
+      "degree": 9,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 8,
+      "finger": 1,
+      "midi": 63,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        53,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 55,
+      "local_event_key": "L15-rung05-ordinal-0055",
+      "group": 19,
+      "slot": 1,
+      "half": "down",
+      "degree": 10,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 10,
+      "finger": 3,
+      "midi": 65,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        18,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 56,
+      "local_event_key": "L15-rung05-ordinal-0056",
+      "group": 19,
+      "slot": 2,
+      "half": "down",
+      "degree": 9,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 8,
+      "finger": 1,
+      "midi": 63,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        55,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 57,
+      "local_event_key": "L15-rung05-ordinal-0057",
+      "group": 19,
+      "slot": 3,
+      "half": "down",
+      "degree": 8,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 11,
+      "finger": 4,
+      "midi": 61,
+      "spelling": "Db",
+      "source_high_root_turn": false,
+      "onset_q": [
+        56,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 58,
+      "local_event_key": "L15-rung05-ordinal-0058",
+      "group": 20,
+      "slot": 1,
+      "half": "down",
+      "degree": 9,
+      "source_string": "G",
+      "native_string": 4,
+      "fret": 8,
+      "finger": 1,
+      "midi": 63,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        19,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 59,
+      "local_event_key": "L15-rung05-ordinal-0059",
+      "group": 20,
+      "slot": 2,
+      "half": "down",
+      "degree": 8,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 11,
+      "finger": 4,
+      "midi": 61,
+      "spelling": "Db",
+      "source_high_root_turn": false,
+      "onset_q": [
+        58,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 60,
+      "local_event_key": "L15-rung05-ordinal-0060",
+      "group": 20,
+      "slot": 3,
+      "half": "down",
+      "degree": 7,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 10,
+      "finger": 3,
+      "midi": 60,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        59,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 61,
+      "local_event_key": "L15-rung05-ordinal-0061",
+      "group": 21,
+      "slot": 1,
+      "half": "down",
+      "degree": 8,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 11,
+      "finger": 4,
+      "midi": 61,
+      "spelling": "Db",
+      "source_high_root_turn": false,
+      "onset_q": [
+        20,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 62,
+      "local_event_key": "L15-rung05-ordinal-0062",
+      "group": 21,
+      "slot": 2,
+      "half": "down",
+      "degree": 7,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 10,
+      "finger": 3,
+      "midi": 60,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        61,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 63,
+      "local_event_key": "L15-rung05-ordinal-0063",
+      "group": 21,
+      "slot": 3,
+      "half": "down",
+      "degree": 6,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 8,
+      "finger": 1,
+      "midi": 58,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        62,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 64,
+      "local_event_key": "L15-rung05-ordinal-0064",
+      "group": 22,
+      "slot": 1,
+      "half": "down",
+      "degree": 7,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 10,
+      "finger": 3,
+      "midi": 60,
+      "spelling": "C",
+      "source_high_root_turn": false,
+      "onset_q": [
+        21,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 65,
+      "local_event_key": "L15-rung05-ordinal-0065",
+      "group": 22,
+      "slot": 2,
+      "half": "down",
+      "degree": 6,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 8,
+      "finger": 1,
+      "midi": 58,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        64,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 66,
+      "local_event_key": "L15-rung05-ordinal-0066",
+      "group": 22,
+      "slot": 3,
+      "half": "down",
+      "degree": 5,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 11,
+      "finger": 4,
+      "midi": 56,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        65,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 67,
+      "local_event_key": "L15-rung05-ordinal-0067",
+      "group": 23,
+      "slot": 1,
+      "half": "down",
+      "degree": 6,
+      "source_string": "D",
+      "native_string": 3,
+      "fret": 8,
+      "finger": 1,
+      "midi": 58,
+      "spelling": "Bb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        22,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 68,
+      "local_event_key": "L15-rung05-ordinal-0068",
+      "group": 23,
+      "slot": 2,
+      "half": "down",
+      "degree": 5,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 11,
+      "finger": 4,
+      "midi": 56,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        67,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 69,
+      "local_event_key": "L15-rung05-ordinal-0069",
+      "group": 23,
+      "slot": 3,
+      "half": "down",
+      "degree": 4,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 9,
+      "finger": 2,
+      "midi": 54,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        68,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 70,
+      "local_event_key": "L15-rung05-ordinal-0070",
+      "group": 24,
+      "slot": 1,
+      "half": "down",
+      "degree": 5,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 11,
+      "finger": 4,
+      "midi": 56,
+      "spelling": "Ab",
+      "source_high_root_turn": false,
+      "onset_q": [
+        23,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 71,
+      "local_event_key": "L15-rung05-ordinal-0071",
+      "group": 24,
+      "slot": 2,
+      "half": "down",
+      "degree": 4,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 9,
+      "finger": 2,
+      "midi": 54,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        70,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 72,
+      "local_event_key": "L15-rung05-ordinal-0072",
+      "group": 24,
+      "slot": 3,
+      "half": "down",
+      "degree": 3,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 8,
+      "finger": 1,
+      "midi": 53,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        71,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 73,
+      "local_event_key": "L15-rung05-ordinal-0073",
+      "group": 25,
+      "slot": 1,
+      "half": "down",
+      "degree": 4,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 9,
+      "finger": 2,
+      "midi": 54,
+      "spelling": "Gb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        24,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 74,
+      "local_event_key": "L15-rung05-ordinal-0074",
+      "group": 25,
+      "slot": 2,
+      "half": "down",
+      "degree": 3,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 8,
+      "finger": 1,
+      "midi": 53,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        73,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 75,
+      "local_event_key": "L15-rung05-ordinal-0075",
+      "group": 25,
+      "slot": 3,
+      "half": "down",
+      "degree": 2,
+      "source_string": "E",
+      "native_string": 1,
+      "fret": 11,
+      "finger": 4,
+      "midi": 51,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        74,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 76,
+      "local_event_key": "L15-rung05-ordinal-0076",
+      "group": 26,
+      "slot": 1,
+      "half": "down",
+      "degree": 3,
+      "source_string": "A",
+      "native_string": 2,
+      "fret": 8,
+      "finger": 1,
+      "midi": 53,
+      "spelling": "F",
+      "source_high_root_turn": false,
+      "onset_q": [
+        25,
+        1
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 77,
+      "local_event_key": "L15-rung05-ordinal-0077",
+      "group": 26,
+      "slot": 2,
+      "half": "down",
+      "degree": 2,
+      "source_string": "E",
+      "native_string": 1,
+      "fret": 11,
+      "finger": 4,
+      "midi": 51,
+      "spelling": "Eb",
+      "source_high_root_turn": false,
+      "onset_q": [
+        76,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    },
+    {
+      "ordinal": 78,
+      "local_event_key": "L15-rung05-ordinal-0078",
+      "group": 26,
+      "slot": 3,
+      "half": "down",
+      "degree": 1,
+      "source_string": "E",
+      "native_string": 1,
+      "fret": 9,
+      "finger": 2,
+      "midi": 49,
+      "spelling": "Db",
+      "source_high_root_turn": false,
+      "onset_q": [
+        77,
+        3
+      ],
+      "duration_q": [
+        1,
+        3
+      ],
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "source_record_sha256": "e0ec786d67bd1a3ff9c77c3a414d9fdc8fc5b29dcbfe8885b5581af5fb4b38cd"
+    }
+  ]
+}

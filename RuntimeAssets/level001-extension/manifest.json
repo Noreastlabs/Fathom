@@ -1,0 +1,110 @@
+{
+  "version": "level001-extension-bundle.1",
+  "content_version": "level001-full-route-quarter-pulse-108-candidate.1",
+  "decision_sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036",
+  "profile_sha256": "b76c298763c8c88e211fb5517f950ffca09b22a58c9d767e7616fe43759ee3ba",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/manager-resume-r01/level001-whole-candidate-r01/candidate-r01/package.json",
+    "registry": "Build/manager-resume-r01/level001-whole-candidate-r01/candidate-r01/identity-registry.json",
+    "profile": "Build/manager-resume-r01/level001-final-profile-r01/expected-profile.final.json",
+    "empty_resource_plan": "installed-empty-resource-plan.json"
+  },
+  "files": [
+    {
+      "path": "decision.json",
+      "bytes": 1449,
+      "sha256": "17a1f80cd4cfc775626d31da9358dc42b060df3b1cb92e103bb4c83aad313036"
+    },
+    {
+      "path": "agent-curriculum-decision.md",
+      "bytes": 2142,
+      "sha256": "e91342f9f73b6fd07e1174877e93a96bf3abcec1b0e8628c890197d6a1dfcf3e"
+    },
+    {
+      "path": "installed-empty-resource-plan.json",
+      "bytes": 227,
+      "sha256": "bdf0f2424df0f72e0a8b32a225d8e42a07b5005baa0a7fa8f023ca62c9c5fbd4"
+    },
+    {
+      "bytes": 4427001,
+      "path": "Build/manager-resume-r01/level001-final-profile-r01/expected-profile.final.json",
+      "sha256": "b76c298763c8c88e211fb5517f950ffca09b22a58c9d767e7616fe43759ee3ba"
+    },
+    {
+      "bytes": 328067,
+      "path": "Build/manager-resume-r01/level001-whole-candidate-r01/candidate-r01/candidate-allocation.json",
+      "sha256": "adace134c841ad1d996e889b5c933b9ff6aa403aed2bc23be2e2ace97dfc5060"
+    },
+    {
+      "bytes": 962408,
+      "path": "Build/manager-resume-r01/level001-whole-candidate-r01/candidate-r01/identity-baseline.json",
+      "sha256": "ca2c10f54fe90ece7687e313f74a3f164f4f14d2a98fcf37be3b947f732dd10f"
+    },
+    {
+      "bytes": 133308,
+      "path": "Build/manager-resume-r01/level001-whole-candidate-r01/candidate-r01/identity-registry.json",
+      "sha256": "07c7e371d7a7900fbfb98bc28ec33810f3428db8e7a1f77dd1c80b7f202b397f"
+    },
+    {
+      "bytes": 98907,
+      "path": "Build/manager-resume-r01/level001-whole-candidate-r01/candidate-r01/lineage-baseline.json",
+      "sha256": "fe73f528d381f00cdcb8600719b75451238ea0da5c762b8a228a5bb3269bda29"
+    },
+    {
+      "bytes": 3777798,
+      "path": "Build/manager-resume-r01/level001-whole-candidate-r01/candidate-r01/package.json",
+      "sha256": "64c155482b5c3886de5a0669c661d3b38e4d0c9ce5dfa713bad362ffe4511082"
+    },
+    {
+      "bytes": 1539,
+      "path": "Build/manager-resume-r01/level001-whole-candidate-r01/candidate-r01/source-manifest.json",
+      "sha256": "5b321fcc6df6f88683f34f9e9d344345639dc276503d70da8d53928b4223ce39"
+    },
+    {
+      "bytes": 1462354,
+      "path": "Build/parallel-12/level009-schema1-overlay-r02b/candidate-allocation.json",
+      "sha256": "f5bda91a233e4747edb480641cf55c966b1f842b850917faa377035b217ee42d"
+    },
+    {
+      "bytes": 36189,
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Guitar_Tablature.txt",
+      "sha256": "0f5719945456692fc4c40ce3b06e0cd742b61b7f8615ad465b9f26832cd08842"
+    },
+    {
+      "bytes": 3049,
+      "path": "Prompts/manager-resume-r01/level001-whole-candidate-r01/authored-realization-supplement.txt",
+      "sha256": "8d1e053294d143ccd73bcfcf11cd9597ec3b7e2673555ee864d3ae9b00c19ec0"
+    },
+    {
+      "bytes": 5005,
+      "path": "Results/manager-resume-r01/level001-actual-source-review-r01/final-report.md",
+      "sha256": "5b4db66cf148fe864532c63aa5537d5f22df0133fd392fe2806f5f69b3c6d17f"
+    },
+    {
+      "bytes": 19273,
+      "path": "Results/manager-resume-r01/level001-whole-contract/realization-contract.md",
+      "sha256": "cea318ba4a1c8e54371eccb40c29729e1104d163e922a41665317319055f9646"
+    },
+    {
+      "bytes": 10319431,
+      "path": "Results/primary/20260912T104210Z-2.3.1.1.1-r01-evidence/validation01/report.json",
+      "sha256": "e1475872e5ebe78ea72d84b7f0bb611585cd09bc313763497a66f4d16c21faf3"
+    },
+    {
+      "bytes": 3949,
+      "path": "Results/primary/manager-resume-r01/level001-contract-adoption.md",
+      "sha256": "cacbddae4be0d6a726a001eded413c5df6f5b2832c522ac7b2d5dfeae228251d"
+    },
+    {
+      "bytes": 3031,
+      "path": "Results/primary/manager-resume-r01/level001-parity-matrix-clarification.md",
+      "sha256": "4f2ac4c6c9fafbd1181ed0bb72c01e2b11d3d0716b48755c0f555ad0d2680bb8"
+    },
+    {
+      "bytes": 2882,
+      "path": "Results/primary/manager-resume-r01/level001-variant-reservation.json",
+      "sha256": "759ecfff7c4a57008f57b392c2bf3d0c57812dfb8e201c7ba170ab6ab4c58e8b"
+    }
+  ]
+}

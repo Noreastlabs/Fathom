@@ -1,0 +1,63 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4259,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/level004-ex013-runtime-decision-r01/full-template-prompt.md",
+      "role": "prompt",
+      "sha256": "bb46fdb82fd87073ca9f18dc0a9f82fad3beec86e968512e45dad83344411a8b"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 8291,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex013-runtime-decision-r01/check.py",
+      "role": "focused_checker",
+      "sha256": "10cebeebb1fc863a98255519ca3457501fbaea8224a9368356cb5611a6a60704"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4831,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex013-runtime-decision-r01/checks.json",
+      "role": "focused_checks",
+      "sha256": "06e231a4e88f975dbb93022363d30b1f76a048795cd91f6a3d4fcc4ec4514143"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5793,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex013-runtime-decision-r01/decision.md",
+      "role": "decision",
+      "sha256": "395e51c228b05f0b5a766484e732cda912af564f69f7136b2ce9d5501e1d84fc"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 979,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex013-runtime-decision-r01/git-state.json",
+      "role": "git_state",
+      "sha256": "6f3b0eeb698873af0d896a40c01fc89e7def86791f402112025130bbf3dd64fc"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1192,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex013-runtime-decision-r01/evidence-audit.json",
+      "role": "evidence_audit",
+      "sha256": "71f772dad6bac81a8569c086fb8792f4b3154a4040f88bf25eaf3b9fb8f3bb91"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 205,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex013-runtime-decision-r01/lease-close.json",
+      "role": "lease_close",
+      "sha256": "ca3fcdb56f6f909272ec8187464b2df10e9de4e6fa4112d685ba3c4a64356810"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

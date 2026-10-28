@@ -1,0 +1,520 @@
+SCALE EXERCISES - SECTION IV, LEVEL 37
+A MAJOR PENTATONIC I-IV-V CHORD-TONE TARGETING AND VOICE LEADING
+FIXED KEY A - FIVE POSITIONS - A, D, AND E MAJOR HARMONY
+
+PURPOSE
+Turn the fixed-key A-major-pentatonic map into harmony-aware phrasing. Keep the same five notes and five positions,
+but stop treating every note as equally stable. Hear the active I, IV, or V chord; land on a strong chord tone at
+the change; use the remaining pentatonic notes as motion; then resolve before the harmony changes again.
+
+A MAJOR PENTATONIC
+Notes: A B C# E F#
+Degrees: 1 2 3 5 6
+I-IV-V chords: A major = A C# E; D major = D F# A; E major = E G# B.
+
+CORE TARGETS AVAILABLE INSIDE A MAJOR PENTATONIC
+I - A major: A root, C# third, E fifth.
+IV - D major: F# third, A fifth. The D root is not in A major pentatonic.
+V - E major: E root, B fifth. The G# third is not in A major pentatonic.
+Module D adds D and G# temporarily as chord-completion tones; they are not new pentatonic degrees.
+
+CHORD-ROLE MATRIX
+Note | Over A | Over D | Over E
+A    | R      | 5      | 11    
+B    | 9      | 13     | 5     
+C#   | 3      | M7     | 13    
+E    | 5      | 9      | R     
+F#   | 13     | 3      | 9     
+A over E functions as 11/sus4 tension. C# over D functions as major-7 tension. Use either as motion, not an
+unresolved downbeat landing, until the ear clearly hears the intended color.
+
+COUNTS
+Module A chord-target cells: 168 notes.
+Module B voice-leading routes: 60 held tones.
+Module C five position phrases: 160 eighth notes.
+Module D chord-completion cadences: 60 quarter notes.
+Module E model 12-bar chorus: 48 quarter notes.
+Complete written workout: 496 sounding tones before optional articulation overlays.
+
+========================================================================================================================
+MODULE A - FIVE-POSITION CHORD-TARGET CELLS
+========================================================================================================================
+Play every target in the position from low to high, repeat the highest target, then return. Every cell is even.
+Practice with D-start and U-start. Say the chord role of every note: root, third, or fifth.
+
+P1 - ROOT FRAME - FRETS 4-7
+I - A MAJOR - 14-NOTE TARGET CELL
+Targets: A(E5), C#(A4), E(A7), A(D7), C#(G6), E(B5), A(e5)
+Nte|A---C#--E---A---C#--E---A---A---E---C#--A---E---C#--A---|
+Rol|R---3---5---R---3---5---R---R---5---3---R---5---3---R---|
+Fng|2---1---4---4---3---2---2---2---2---3---4---4---1---2---|
+e  |------------------------5---5---------------------------|
+B  |--------------------5-----------5-----------------------|
+G  |----------------6-------------------6-------------------|
+D  |------------7---------------------------7---------------|
+A  |----4---7-----------------------------------7---4-------|
+E  |5---------------------------------------------------5---|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+IV - D MAJOR - 10-NOTE TARGET CELL
+Targets: A(E5), F#(D4), A(D7), F#(B7), A(e5)
+Nte|A---F#--A---F#--A---A---F#--A---F#--A---|
+Rol|5---3---5---3---5---5---3---5---3---5---|
+Fng|2---1---4---4---2---2---4---4---1---2---|
+e  |----------------5---5-------------------|
+B  |------------7-----------7---------------|
+G  |----------------------------------------|
+D  |----4---7-------------------7---4-------|
+A  |----------------------------------------|
+E  |5-----------------------------------5---|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+V - E MAJOR - 10-NOTE TARGET CELL
+Targets: B(E7), E(A7), B(G4), E(B5), B(e7)
+Nte|B---E---B---E---B---B---E---B---E---B---|
+Rol|5---R---5---R---5---5---R---5---R---5---|
+Fng|4---4---1---2---4---4---2---1---4---4---|
+e  |----------------7---7-------------------|
+B  |------------5-----------5---------------|
+G  |--------4-------------------4-----------|
+D  |----------------------------------------|
+A  |----7---------------------------7-------|
+E  |7-----------------------------------7---|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+
+P2 - SECOND-DEGREE FRAME - FRETS 6-10
+I - A MAJOR - 14-NOTE TARGET CELL
+Targets: C#(E9), E(A7), A(D7), C#(G6), E(G9), A(B10), C#(e9)
+Nte|C#--E---A---C#--E---A---C#--C#--A---E---C#--A---E---C#--|
+Rol|3---5---R---3---5---R---3---3---R---5---3---R---5---3---|
+Fng|3---1---1---1---4---4---3---3---4---4---1---1---1---3---|
+e  |------------------------9---9---------------------------|
+B  |--------------------10----------10----------------------|
+G  |------------6---9-------------------9---6---------------|
+D  |--------7-----------------------------------7-----------|
+A  |----7-------------------------------------------7-------|
+E  |9---------------------------------------------------9---|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+IV - D MAJOR - 8-NOTE TARGET CELL
+Targets: F#(A9), A(D7), F#(B7), A(B10)
+Nte|F#--A---F#--A---A---F#--A---F#--|
+Rol|3---5---3---5---5---3---5---3---|
+Fng|3---1---1---4---4---1---1---3---|
+e  |--------------------------------|
+B  |--------7---10--10--7-----------|
+G  |--------------------------------|
+D  |----7-------------------7-------|
+A  |9---------------------------9---|
+E  |--------------------------------|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+V - E MAJOR - 10-NOTE TARGET CELL
+Targets: B(E7), E(A7), B(D9), E(G9), B(e7)
+Nte|B---E---B---E---B---B---E---B---E---B---|
+Rol|5---R---5---R---5---5---R---5---R---5---|
+Fng|1---1---3---4---1---1---4---3---1---1---|
+e  |----------------7---7-------------------|
+B  |----------------------------------------|
+G  |------------9-----------9---------------|
+D  |--------9-------------------9-----------|
+A  |----7---------------------------7-------|
+E  |7-----------------------------------7---|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+
+P3 - THIRD-DEGREE FRAME - FRETS 9-12
+I - A MAJOR - 16-NOTE TARGET CELL
+Targets: C#(E9), E(E12), A(A12), C#(D11), E(G9), A(B10), C#(e9), E(e12)
+Nte|C#--E---A---C#--E---A---C#--E---E---C#--A---E---C#--A---E---C#--|
+Rol|3---5---R---3---5---R---3---5---5---3---R---5---3---R---5---3---|
+Fng|1---4---4---3---1---2---1---4---4---1---2---1---3---4---4---1---|
+e  |------------------------9---12--12--9---------------------------|
+B  |--------------------10------------------10----------------------|
+G  |----------------9---------------------------9-------------------|
+D  |------------11----------------------------------11--------------|
+A  |--------12------------------------------------------12----------|
+E  |9---12--------------------------------------------------12--9---|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+IV - D MAJOR - 8-NOTE TARGET CELL
+Targets: F#(A9), A(A12), F#(G11), A(B10)
+Nte|F#--A---F#--A---A---F#--A---F#--|
+Rol|3---5---3---5---5---3---5---3---|
+Fng|1---4---3---2---2---3---4---1---|
+e  |--------------------------------|
+B  |------------10--10--------------|
+G  |--------11----------11----------|
+D  |--------------------------------|
+A  |9---12------------------12--9---|
+E  |--------------------------------|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+V - E MAJOR - 10-NOTE TARGET CELL
+Targets: E(E12), B(D9), E(G9), B(B12), E(e12)
+Nte|E---B---E---B---E---E---B---E---B---E---|
+Rol|R---5---R---5---R---R---5---R---5---R---|
+Fng|4---1---1---4---4---4---4---1---1---4---|
+e  |----------------12--12------------------|
+B  |------------12----------12--------------|
+G  |--------9-------------------9-----------|
+D  |----9---------------------------9-------|
+A  |----------------------------------------|
+E  |12----------------------------------12--|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+
+P4 - FIFTH-DEGREE FRAME - FRETS 11-14
+I - A MAJOR - 14-NOTE TARGET CELL
+Targets: E(E12), A(A12), C#(D11), E(D14), A(G14), C#(B14), E(e12)
+Nte|E---A---C#--E---A---C#--E---E---C#--A---E---C#--A---E---|
+Rol|5---R---3---5---R---3---5---5---3---R---5---3---R---5---|
+Fng|2---2---1---4---4---4---2---2---4---4---4---1---2---2---|
+e  |------------------------12--12--------------------------|
+B  |--------------------14----------14----------------------|
+G  |----------------14------------------14------------------|
+D  |--------11--14--------------------------14--11----------|
+A  |----12------------------------------------------12------|
+E  |12--------------------------------------------------12--|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+IV - D MAJOR - 10-NOTE TARGET CELL
+Targets: F#(E14), A(A12), F#(G11), A(G14), F#(e14)
+Nte|F#--A---F#--A---F#--F#--A---F#--A---F#--|
+Rol|3---5---3---5---3---3---5---3---5---3---|
+Fng|4---2---1---4---4---4---4---1---2---4---|
+e  |----------------14--14------------------|
+B  |----------------------------------------|
+G  |--------11--14----------14--11----------|
+D  |----------------------------------------|
+A  |----12--------------------------12------|
+E  |14----------------------------------14--|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+V - E MAJOR - 10-NOTE TARGET CELL
+Targets: E(E12), B(A14), E(D14), B(B12), E(e12)
+Nte|E---B---E---B---E---E---B---E---B---E---|
+Rol|R---5---R---5---R---R---5---R---5---R---|
+Fng|2---4---4---2---2---2---2---4---4---2---|
+e  |----------------12--12------------------|
+B  |------------12----------12--------------|
+G  |----------------------------------------|
+D  |--------14------------------14----------|
+A  |----14--------------------------14------|
+E  |12----------------------------------12--|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+
+P5 - SIXTH-DEGREE FRAME - FRETS 14-17
+I - A MAJOR - 14-NOTE TARGET CELL
+Targets: A(E17), C#(A16), E(D14), A(G14), C#(B14), E(B17), A(e17)
+Nte|A---C#--E---A---C#--E---A---A---E---C#--A---E---C#--A---|
+Rol|R---3---5---R---3---5---R---R---5---3---R---5---3---R---|
+Fng|4---3---1---1---1---4---4---4---4---1---1---1---3---4---|
+e  |------------------------17--17--------------------------|
+B  |----------------14--17----------17--14------------------|
+G  |------------14--------------------------14--------------|
+D  |--------14----------------------------------14----------|
+A  |----16------------------------------------------16------|
+E  |17--------------------------------------------------17--|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+IV - D MAJOR - 12-NOTE TARGET CELL
+Targets: F#(E14), A(E17), F#(D16), A(G14), F#(e14), A(e17)
+Nte|F#--A---F#--A---F#--A---A---F#--A---F#--A---F#--|
+Rol|3---5---3---5---3---5---5---3---5---3---5---3---|
+Fng|1---4---3---1---1---4---4---1---1---3---4---1---|
+e  |----------------14--17--17--14------------------|
+B  |------------------------------------------------|
+G  |------------14------------------14--------------|
+D  |--------16--------------------------16----------|
+A  |------------------------------------------------|
+E  |14--17----------------------------------17--14--|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+V - E MAJOR - 8-NOTE TARGET CELL
+Targets: B(A14), E(D14), B(G16), E(B17)
+Nte|B---E---B---E---E---B---E---B---|
+Rol|5---R---5---R---R---5---R---5---|
+Fng|1---1---3---4---4---3---1---1---|
+e  |--------------------------------|
+B  |------------17--17--------------|
+G  |--------16----------16----------|
+D  |----14------------------14------|
+A  |14--------------------------14--|
+E  |--------------------------------|
+Rule: equal note length and volume; hear the chord under the line; do not fill in omitted scale notes.
+
+========================================================================================================================
+MODULE B - NEAREST-TARGET VOICE LEADING THROUGH | A | D | E | A |
+========================================================================================================================
+First hold one whole note per bar. Then add two eighth-note pickup notes before each new landing while keeping the
+printed target on beat 1. The coordinate in parentheses is string plus fret.
+
+P1 - ROOT FRAME - FRETS 4-7
+COMMON-TONE: A(e5) R | A(e5) 5 | B(e7) 5 | A(e5) R
+  Keep A common from I to IV; move one whole step to B over V.
+GUIDE-TONE: C#(G6) 3 | F#(B7) 3 | E(B5) R | C#(G6) 3
+  Track the thirds of I and IV, then the root of V.
+FIFTH-LED: E(B5) 5 | F#(B7) 3 | E(B5) R | A(e5) R
+  Move I fifth to IV third, return to V root, resolve to tonic.
+
+P2 - SECOND-DEGREE FRAME - FRETS 6-10
+COMMON-TONE: A(D7) R | A(D7) 5 | B(D9) 5 | A(D7) R
+  Keep A common from I to IV; move one whole step to B over V.
+GUIDE-TONE: C#(G6) 3 | F#(B7) 3 | E(G9) R | C#(G6) 3
+  Track the thirds of I and IV, then the root of V.
+FIFTH-LED: E(A7) 5 | F#(A9) 3 | E(A7) R | A(D7) R
+  Move I fifth to IV third, return to V root, resolve to tonic.
+
+P3 - THIRD-DEGREE FRAME - FRETS 9-12
+COMMON-TONE: A(B10) R | A(B10) 5 | B(B12) 5 | A(B10) R
+  Keep A common from I to IV; move one whole step to B over V.
+GUIDE-TONE: C#(D11) 3 | F#(G11) 3 | E(G9) R | C#(D11) 3
+  Track the thirds of I and IV, then the root of V.
+FIFTH-LED: E(G9) 5 | F#(G11) 3 | E(G9) R | A(B10) R
+  Move I fifth to IV third, return to V root, resolve to tonic.
+
+P4 - FIFTH-DEGREE FRAME - FRETS 11-14
+COMMON-TONE: A(A12) R | A(A12) 5 | B(A14) 5 | A(A12) R
+  Keep A common from I to IV; move one whole step to B over V.
+GUIDE-TONE: C#(D11) 3 | F#(G11) 3 | E(D14) R | C#(D11) 3
+  Track the thirds of I and IV, then the root of V.
+FIFTH-LED: E(E12) 5 | F#(E14) 3 | E(E12) R | A(A12) R
+  Move I fifth to IV third, return to V root, resolve to tonic.
+
+P5 - SIXTH-DEGREE FRAME - FRETS 14-17
+COMMON-TONE: A(G14) R | A(G14) 5 | B(G16) 5 | A(G14) R
+  Keep A common from I to IV; move one whole step to B over V.
+GUIDE-TONE: C#(A16) 3 | F#(D16) 3 | E(D14) R | C#(A16) 3
+  Track the thirds of I and IV, then the root of V.
+FIFTH-LED: E(D14) 5 | F#(D16) 3 | E(D14) R | A(G14) R
+  Move I fifth to IV third, return to V root, resolve to tonic.
+
+========================================================================================================================
+MODULE C - FIVE FOUR-BAR TARGET PHRASES
+========================================================================================================================
+Progression: | A | D | E | A |. Eight eighth notes per bar. The role row marks the first note of each bar with >.
+Play straight first. On a second pass, add no more than one Level-36 articulation per bar without changing targets.
+
+P1 - ROOT FRAME - FRETS 4-7 - 32 EIGHTH NOTES
+Beat-1 targets: A A(R) | D F#(3) | E E(R) | A C#(3)
+BARS 1-2: A | D
+Nte|A---B---C#--E---C#--B---A---C#--|F#--E---C#--B---A---F#--E---F#--|
+Rol|>R--9---3---5---3---9---R---3---|>3--9---M7--13--5---3---9---3---|
+e  |--------------------------------|--------------------------------|
+B  |------------5-------------------|7---5---------------------------|
+G  |----4---6-------6---4-------6---|--------6---4-------------------|
+D  |7-----------------------7-------|----------------7---4-------4---|
+A  |--------------------------------|------------------------7-------|
+E  |--------------------------------|--------------------------------|
+BARS 3-4: E | A
+Nte|E---F#--A---B---C#--B---A---E---|C#--B---A---F#--E---C#--B---A---|
+Rol|>R--9---11--5---13--5---11--R---|>3--9---R---13--5---3---9---R---|
+e  |--------------------------------|--------------------------------|
+B  |----------------------------5---|--------------------------------|
+G  |------------4---6---4-----------|6---4---------------------------|
+D  |----4---7---------------7-------|--------7---4-------------------|
+A  |7-------------------------------|----------------7---4-----------|
+E  |--------------------------------|------------------------7---5---|
+
+P2 - SECOND-DEGREE FRAME - FRETS 6-10 - 32 EIGHTH NOTES
+Beat-1 targets: A C#(3) | D A(5) | E B(5) | A A(R)
+BARS 1-2: A | D
+Nte|C#--B---A---B---C#--E---C#--B---|A---F#--E---F#--A---B---C#--A---|
+Rol|>3--9---R---9---3---5---3---9---|>5--3---9---3---5---13--M7--5---|
+e  |--------------------------------|--------------------------------|
+B  |--------------------------------|--------------------------------|
+G  |6---------------6---9---6-------|------------------------6-------|
+D  |----9---7---9---------------9---|7---------------7---9-------7---|
+A  |--------------------------------|----9---7---9-------------------|
+E  |--------------------------------|--------------------------------|
+BARS 3-4: E | A
+Nte|B---C#--E---F#--E---C#--B---E---|A---B---C#--E---F#--E---C#--A---|
+Rol|>5--13--R---9---R---13--5---R---|>R--9---3---5---13--5---3---R---|
+e  |--------------------------------|--------------------------------|
+B  |------------7-------------------|----------------7---------------|
+G  |----6---9-------9---6-----------|--------6---9-------9---6-------|
+D  |9-----------------------9-------|7---9-----------------------7---|
+A  |----------------------------7---|--------------------------------|
+E  |--------------------------------|--------------------------------|
+
+P3 - THIRD-DEGREE FRAME - FRETS 9-12 - 32 EIGHTH NOTES
+Beat-1 targets: A E(5) | D F#(3) | E E(R) | A A(R)
+BARS 1-2: A | D
+Nte|E---C#--B---A---B---C#--E---C#--|F#--A---B---C#--E---C#--B---F#--|
+Rol|>5--3---9---R---9---3---5---3---|>3--5---13--M7--9---M7--13--3---|
+e  |--------------------------------|------------9---12--9-----------|
+B  |--------------------------------|----10--12--------------12------|
+G  |9-----------------------9-------|11--------------------------11--|
+D  |----11--9-------9---11------11--|--------------------------------|
+A  |------------12------------------|--------------------------------|
+E  |--------------------------------|--------------------------------|
+BARS 3-4: E | A
+Nte|E---F#--A---B---C#--B---A---E---|A---B---C#--E---C#--B---A---A---|
+Rol|>R--9---11--5---13--5---11--R---|>R--9---3---5---3---9---R---R---|
+e  |----------------9---------------|--------9---12--9---------------|
+B  |--------10--12------12--10------|10--12--------------12--10--10--|
+G  |9---11----------------------9---|--------------------------------|
+D  |--------------------------------|--------------------------------|
+A  |--------------------------------|--------------------------------|
+E  |--------------------------------|--------------------------------|
+
+P4 - FIFTH-DEGREE FRAME - FRETS 11-14 - 32 EIGHTH NOTES
+Beat-1 targets: A A(R) | D F#(3) | E B(5) | A C#(3)
+BARS 1-2: A | D
+Nte|A---B---C#--E---F#--E---C#--A---|F#--E---C#--B---A---B---C#--F#--|
+Rol|>R--9---3---5---13--5---3---R---|>3--9---M7--13--5---13--M7--3---|
+e  |------------12--14--12----------|--------------------------------|
+B  |----12--14--------------14------|--------------------------------|
+G  |14--------------------------14--|11--------------------------11--|
+D  |--------------------------------|----14--11--------------11------|
+A  |--------------------------------|------------14--12--14----------|
+E  |--------------------------------|--------------------------------|
+BARS 3-4: E | A
+Nte|B---C#--E---F#--E---C#--B---E---|C#--E---F#--A---F#--E---C#--A---|
+Rol|>5--13--R---9---R---13--5---R---|>3--5---13--R---13--5---3---R---|
+e  |--------12--14--12--------------|--------------------------------|
+B  |12--14--------------14--12------|--------------------------------|
+G  |--------------------------------|--------11--14--11--------------|
+D  |----------------------------14--|11--14--------------14--11------|
+A  |--------------------------------|----------------------------12--|
+E  |--------------------------------|--------------------------------|
+
+P5 - SIXTH-DEGREE FRAME - FRETS 14-17 - 32 EIGHTH NOTES
+Beat-1 targets: A C#(3) | D A(5) | E E(R) | A A(R)
+BARS 1-2: A | D
+Nte|C#--B---A---F#--E---C#--B---A---|A---F#--E---C#--E---F#--A---F#--|
+Rol|>3--9---R---13--5---3---9---R---|>5--3---9---M7--9---3---5---3---|
+e  |--------------------------------|--------------------------------|
+B  |14------------------14----------|--------------------------------|
+G  |----16--14--------------16--14--|14----------------------14------|
+D  |------------16--14--------------|----16--14------14--16------16--|
+A  |--------------------------------|------------16------------------|
+E  |--------------------------------|--------------------------------|
+BARS 3-4: E | A
+Nte|E---C#--B---C#--E---F#--E---B---|A---B---C#--E---F#--E---C#--A---|
+Rol|>R--13--5---13--R---9---R---5---|>R--9---3---5---13--5---3---R---|
+e  |--------------------------------|--------------------------------|
+B  |--------------------------------|--------------------------------|
+G  |--------------------------------|--------------------------------|
+D  |14--------------14--16--14------|------------14--16--14----------|
+A  |----16--14--16--------------14--|----14--16--------------16------|
+E  |--------------------------------|17--------------------------17--|
+
+========================================================================================================================
+MODULE D - CHORD-COMPLETION TONES: D OVER IV AND G# OVER V
+========================================================================================================================
+A major pentatonic does not contain the IV root D or the V third G#. Add them only while their chord is sounding,
+then return to the five-note pool. An asterisk marks a completion tone outside A major pentatonic.
+Position | D choices | G# choices
+P1       | A5, G7             | E4, D6, e4
+P2       | G7, E10, e10       | D6, B9
+P3       | E10, D12, e10      | A11, B9
+P4       | D12, B15           | A11, G13
+P5       | B15, D12           | E16, e16, G13
+
+CADENCE: | D | E | A |. Four quarter notes per bar. D* and G#* complete the chord.
+
+P1 COMPLETION CADENCE
+Nte|D*--F#--A---F#--|G#*-B---E---B---|A---C#--E---A---|
+Rol|R---3---5---3---|3---5---R---5---|R---3---5---R---|
+e  |----------------|----------------|------------5---|
+B  |----------------|--------5-------|--------5-------|
+G  |----------------|----4-------4---|----6-----------|
+D  |----4---7---4---|6---------------|7---------------|
+A  |5---------------|----------------|----------------|
+E  |----------------|----------------|----------------|
+
+P2 COMPLETION CADENCE
+Nte|D*--F#--A---F#--|G#*-B---E---B---|A---C#--E---A---|
+Rol|R---3---5---3---|3---5---R---5---|R---3---5---R---|
+e  |----------------|----------------|----------------|
+B  |----------------|----------------|------------10--|
+G  |----------------|--------9-------|----6---9-------|
+D  |--------7-------|6---9-------9---|7---------------|
+A  |----9-------9---|----------------|----------------|
+E  |10--------------|----------------|----------------|
+
+P3 COMPLETION CADENCE
+Nte|D*--F#--A---F#--|G#*-B---E---B---|A---C#--E---A---|
+Rol|R---3---5---3---|3---5---R---5---|R---3---5---R---|
+e  |----------------|----------------|----------------|
+B  |----------------|----------------|------------10--|
+G  |----------------|--------9-------|--------9-------|
+D  |----------------|----9-------9---|----11----------|
+A  |----9---12--9---|11--------------|12--------------|
+E  |10--------------|----------------|----------------|
+
+P4 COMPLETION CADENCE
+Nte|D*--F#--A---F#--|G#*-B---E---B---|A---C#--E---A---|
+Rol|R---3---5---3---|3---5---R---5---|R---3---5---R---|
+e  |----------------|--------12------|--------12------|
+B  |----------------|----12------12--|----14----------|
+G  |----11--14--11--|13--------------|14----------14--|
+D  |12--------------|----------------|----------------|
+A  |----------------|----------------|----------------|
+E  |----------------|----------------|----------------|
+
+P5 COMPLETION CADENCE
+Nte|D*--F#--A---F#--|G#*-B---E---B---|A---C#--E---A---|
+Rol|R---3---5---3---|3---5---R---5---|R---3---5---R---|
+e  |----------------|----------------|------------17--|
+B  |----------------|--------17------|----14--17------|
+G  |--------14------|13--16------16--|14--------------|
+D  |12--16------16--|----------------|----------------|
+A  |----------------|----------------|----------------|
+E  |----------------|----------------|----------------|
+
+========================================================================================================================
+MODULE E - 12-BAR I-IV-V TARGET CIRCUIT AND MODEL CHORUS
+========================================================================================================================
+Progression: | A | A | A | A | D | D | A | A | E | D | A | E |.
+Pass 1: play only the beat-1 target as a whole note. Pass 2: use four quarter notes per bar. Pass 3: improvise
+between targets while preserving the same beat-1 landing. D* and G#* may be omitted for a pentatonic-only pass.
+
+BARS 1-4
+Nte|A---B---C#--E---|C#--B---A---E---|E---F#--E---C#--|A---C#--E---A---|
+Rol|>R--9---3---5---|>3--9---R---5---|>5--13--5---3---|>R--3---5---R---|
+e  |----------------|----------------|----------------|----------------|
+B  |------------5---|----------------|----------------|----------------|
+G  |----4---6-------|6---4-----------|----------------|----6---9-------|
+D  |7---------------|--------7-------|----------------|7-----------7---|
+A  |----------------|------------7---|7---9---7-------|----------------|
+E  |----------------|----------------|------------9---|----------------|
+
+BARS 5-8
+Nte|D*--F#--A---F#--|A---B---F#--A---|C#--E---F#--E---|A---B---C#--A---|
+Rol|>R--3---5---3---|>5--13--3---5---|>3--5---13--5---|>R--9---3---R---|
+e  |----------------|----------------|----12--14--12--|----------------|
+B  |--------10------|10--12------10--|14--------------|----12--14------|
+G  |----11------11--|--------11------|----------------|14----------14--|
+D  |12--------------|----------------|----------------|----------------|
+A  |----------------|----------------|----------------|----------------|
+E  |----------------|----------------|----------------|----------------|
+
+BARS 9-12
+Nte|G#*-B---E---B---|F#--A---E---F#--|E---C#--B---A---|B---G#*-E---B---|
+Rol|>3--5---R---5---|>3--5---9---3---|>5--3---9---R---|>5--3---R---5---|
+e  |----------------|--------12--14--|12--9-----------|7---4-----------|
+B  |--------17------|----------------|--------12--10--|--------5-------|
+G  |13--16------16--|11--14----------|----------------|------------4---|
+D  |----------------|----------------|----------------|----------------|
+A  |----------------|----------------|----------------|----------------|
+E  |----------------|----------------|----------------|----------------|
+
+PRACTICE PROGRESSION
+1. Speak the I-IV-V chord tones and the five-note role matrix.
+2. Complete one Position-1 target cell for each chord with both pick starts.
+3. Play all fifteen target cells; hear the active chord before each cell.
+4. Hold the three voice-leading routes as whole notes in all five positions.
+5. Play one four-bar phrase and verify every beat-1 landing.
+6. Add all five phrases, then one Level-36 articulation per bar.
+7. Add D* and G#* through the five completion cadences.
+8. Complete the 12-bar model chorus, then create a new fill while preserving its targets.
+
+ERROR DIAGNOSIS
+SCALE-RUN AUTOPILOT: stop the fill; play only one whole-note target per chord.
+WEAK CHORD CHANGE: sing the next target before the bar arrives; reduce the fill to two notes.
+D-CHORD C# LANDING: treat C# as major-7 tension and resolve immediately to D*, B, or a printed strong target.
+E-CHORD A LANDING: treat A as suspended 11 tension and resolve to G#*, B, or E.
+FRET SEARCH: name the string and fret before leaving the current target.
+OVERFILLED BAR: leave beat 4 empty; silence is part of the phrase.
+PICK OR ARTICULATION RESET: preserve the target rhythm first; expression is secondary.
+
+MASTERY GATE BEFORE LEVEL 38
+Identify the role of every A-major-pentatonic note over A, D, and E; play all fifteen target cells with both pick
+starts; perform all three voice-leading routes in all five positions; land every written phrase target on beat 1;
+use D and G# only over their supporting chords; complete the 12-bar chorus on two separate days; and improvise one
+new chorus whose chord changes remain audible without a backing track.
+
+NEXT LEVEL
+Level 38 combines the five positions, horizontal movement, articulation, and I-IV-V targeting into call-and-response
+phrasing and controlled improvisation synthesis.

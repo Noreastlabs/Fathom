@@ -1,0 +1,124 @@
+{
+  "content_version": "curriculum-v1-level080-module-a-pass1-r02-supplemental-build-only.1",
+  "decision_sha256": "b02d10705866b62cbf1556cf9d416043db2e90d73b5ca356b042ed263f9b9581",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/parallel-02/level080-r02-installed-r01/packet/package.json",
+    "profile": "Build/parallel-02/level080-r02-installed-r01/packet/expected-profile.json",
+    "registry": "Build/parallel-02/level080-r02-installed-r01/packet/identity-registry.json"
+  },
+  "files": [
+    {
+      "bytes": 2304,
+      "path": "decision.json",
+      "sha256": "b02d10705866b62cbf1556cf9d416043db2e90d73b5ca356b042ed263f9b9581"
+    },
+    {
+      "bytes": 2979,
+      "path": "agent-curriculum-decision.md",
+      "sha256": "8cde969673e4586ecd0dcc09a3c5f3c6c6ab99e763368b04b6d669f0768664d6"
+    },
+    {
+      "bytes": 245,
+      "path": "Content/runtime/level080-module-a-pass1-r02-extension-v1/installed-resource-plan.json",
+      "sha256": "45d2df1954ce7b02c89c665677af9dad7b24fca21236c5a86a51565db01bbf95"
+    },
+    {
+      "bytes": 8870,
+      "path": "Build/parallel-02/level080-r02-installed-r01/packet/package.json",
+      "sha256": "cf7b66d9bf1382cc18de099bdd4e404e2065ba0a4690e01f864b4efbfefd3106"
+    },
+    {
+      "bytes": 12757,
+      "path": "Build/parallel-02/level080-r02-installed-r01/packet/expected-profile.json",
+      "sha256": "08110660a28f8e1364dc64c79c6c4c25eed2cbc370b6d2de487c9448c9b725ef"
+    },
+    {
+      "bytes": 1048,
+      "path": "Build/parallel-02/level080-r02-installed-r01/packet/identity-registry.json",
+      "sha256": "276253e7763f6e039b1b29a2f7abae6de08858fd093873075cd7b99ee47e6a15"
+    },
+    {
+      "bytes": 565,
+      "path": "Build/parallel-02/level080-r02-installed-r01/packet/candidate-allocation.json",
+      "sha256": "b1bcc3700df026ebf985ac7526021eb69955081be543630381d7c6ccb5ce7465"
+    },
+    {
+      "bytes": 8770,
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r02/native-package.json",
+      "sha256": "40f4ff84e334f9707346a6ae9f12c88f896b23bb66c254d01999960468136824"
+    },
+    {
+      "bytes": 12408,
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r02/native-profile.json",
+      "sha256": "ce11ee1035d6d92c49f4e6d12325bd24ef76790802a9e5fc3baf51962d1779e7"
+    },
+    {
+      "bytes": 1048,
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/identity-registry.json",
+      "sha256": "137259d3d03bb02f652a985bfb1a6002657ed7f1e4a8d7a927aa40f13d20d184"
+    },
+    {
+      "bytes": 531,
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/candidate-allocation.json",
+      "sha256": "b4e6de5d1468abf0ce66efeb4eb71c608d3b9f0deaac44dcfcc39a3ee238baea"
+    },
+    {
+      "bytes": 4180,
+      "path": "Results/manager-resume-r01/gv-level080-r02-review-r01/final-report.md",
+      "sha256": "2dfaa0b58b044c2a6546ce0ea43d5ae8b229054a3254af3bae18c7123bc578ed"
+    },
+    {
+      "bytes": 4349,
+      "path": "Results/manager-resume-r01/level080-r02-native-review-r01/final-review.md",
+      "sha256": "0670c940febacaec3ac79bc531243642021cdc6b1021767952cb469c87978d6f"
+    },
+    {
+      "bytes": 370,
+      "path": "Results/guitar-virtuoso/level080/module-a-pass1-r01/source-manifest.json",
+      "sha256": "9774b44ab3c4fff7b21b0511e1b41b64f5d0ed8ce6116080a2b93776ab997e65"
+    },
+    {
+      "bytes": 395,
+      "path": "Results/guitar-virtuoso/level080/module-a-pass1-r01/provisional-authority.md",
+      "sha256": "d885deec3707686e93b39e3a1dde5fb387a6c2ab595d1504493c30acf5d7c527"
+    },
+    {
+      "bytes": 3055,
+      "path": "Results/guitar-virtuoso/level080/module-a-pass1-r01/source-choice-ledger.json",
+      "sha256": "6f3cebf9437ef33b808f0e343dd5dd399f9ff814fbe8d7d7d57f40d7bd112ece"
+    },
+    {
+      "bytes": 436,
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/identity-baseline.json",
+      "sha256": "65d55f7117349b050750b6c8bc5337b69807e625acf22cbafc6b5ff1f21d4dd6"
+    },
+    {
+      "bytes": 111,
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/allocation-baseline.json",
+      "sha256": "cdbb3545775a1c08245e77b99ae59fc5e74046d87f853f1bc01496ea9e873945"
+    },
+    {
+      "bytes": 55,
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/lineage-baseline.json",
+      "sha256": "93c7d42e37ae94d28316ca242b017c5e810230b1fb86e12805829ad9552dfee9"
+    },
+    {
+      "bytes": 652,
+      "path": "Results/guitar-virtuoso/level080/module-a-pass1-r01/authored-realization.txt",
+      "sha256": "11701831a73e5fca67e4fe53c38aa1e521812f79b912b3bdfeb22cd215d329a2"
+    },
+    {
+      "bytes": 47983,
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_80_Chord_Melody_Independent_Voice_Control_Bass_Melody_Inner_Guide_Tones_and_Simultaneous_Accompaniment_Lead.pdf",
+      "sha256": "cf99966ce9d5bd155d738dd30866a26fe0c30e2d633107393cf856bcb29c9afc"
+    },
+    {
+      "bytes": 5739,
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_80_Chord_Melody_Independent_Voice_Control_Bass_Melody_Inner_Guide_Tones_and_Simultaneous_Accompaniment_Lead.txt",
+      "sha256": "e2297c8404a4041af1289e095fcace5012e5079698b0d7c32ff1bf77808de8b6"
+    }
+  ],
+  "profile_sha256": "08110660a28f8e1364dc64c79c6c4c25eed2cbc370b6d2de487c9448c9b725ef",
+  "version": "level080-module-a-pass1-r02-extension-bundle.1"
+}

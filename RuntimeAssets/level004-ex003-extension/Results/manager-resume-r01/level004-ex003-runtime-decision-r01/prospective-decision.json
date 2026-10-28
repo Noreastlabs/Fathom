@@ -1,0 +1,62 @@
+{
+  "schema": "fathom-prospective-runtime-admission-decision.1",
+  "decision": "ADMISSION_ACCEPT_PROSPECTIVE_ONLY",
+  "decision_owner": "distinct manager-assigned agent Product/Curriculum/runtime-admission owner",
+  "decided_at_utc": "2026-09-27T20:21:15+00:00",
+  "wbs_slice": "2.3.1.1.1",
+  "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-003-1214",
+  "learn_row": 435,
+  "workbook_id": "fg:workbook:000004",
+  "module_id": "fg:module:000446",
+  "item_id": "fg:item:000446",
+  "content_revision": 1,
+  "canonical_body_sha256": "c9c063d2f7eb64a663992e5dd1bc61b9986c2c66e4bd9553cb96b93d6d37a283",
+  "private_package_sha256": "348feabd2449efe11ba84d682c6acf829ffa7c61b115a745821e59374a011e26",
+  "selected_projection_sha256": "d16fae8bb9857a35b06e2f7d7ef5214c5c1bccdf044da8ca57bc793dc9ac5e5a",
+  "original_txt_sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a",
+  "original_pdf_sha256": "b24cad79148b8165b74cbd3662031c2ad0227f0e856aa955d03c88db31dbafb1",
+  "source_adoption_sha256": "427160177fe6175c9967b5a06f97caba6ce0afd9a4e51d23e4fc62dac6ea55c6",
+  "native_adoption_sha256": "d818f372a401366bcd6f5fdcd17c30d6b9937953a26aa58bc54af05d9fb22198",
+  "curriculum_adoption_sha256": "d8fc79ec233be41e478b2812a54cdf356798d72218ecbb51ebae2a19e8bed4b9",
+  "producer_report_sha256": "bd41a7ea5566f5bbca3233cc0f1fb22584c10697e346b9a2f4f38ecca9a6a19c",
+  "independent_native_review_sha256": "2f09a61eb49720976159cb7d2ba4f13031e18c4ac65a9482743f9bbd1cd42913",
+  "curriculum_decision_sha256": "93cf8d1f0f2e0da41e65178a3a316d160c761844babcdf44f3c52f88ad7b63f7",
+  "producer_manifest_sha256": "d13fecd559b1e31b4e67001414ddf3e6363eb7574be5bac3696f9427c749e174",
+  "native_review_manifest_sha256": "e83455068414e3976d016b3c66b9d8f57d608a67495876ccdfdf1903a8522bb2",
+  "curriculum_manifest_sha256": "cf116de5eae0b5d382bb35bd42cc2cf3ab90dcd3d30a4632497dca823d7b36a6",
+  "retained_event_ids": "fg:item:000446:event:0001..0032",
+  "retained_variant_ids": "fg:variant:003298..003309",
+  "retained_variant_count": 12,
+  "retained_memberships": 384,
+  "prospective_eligible_variant_ids": [
+    "fg:variant:003299",
+    "fg:variant:003301"
+  ],
+  "prospective_eligible_memberships": 64,
+  "metric_contract": {
+    "type": "relative_practice_attack_slots",
+    "onset_q": "(ordinal-1)/4 for ordinal 1..32",
+    "slot_width_q": "1/4",
+    "end_q": "8",
+    "source_onset_duration": null,
+    "fixed_bpm": null,
+    "acoustic_note_off": null,
+    "credit": false
+  },
+  "install_condition": "P02 fresh prewrite guard and separate typed hash-bound allowlist; unchanged source, item revision/body, selected variants and decision; installed Learn-to-Practice, exact Session/Attempt identity, refusal/no-credit and two read-only restarts; different installed reviewer",
+  "refuse_if": [
+    "original source, private package, canonical body, content revision or identity absent/changed/stale",
+    "source/native/Curriculum/runtime decision or typed allowlist absent/changed/stale/forged",
+    "unselected variant requested or selected event/variant membership changed",
+    "case-bound queue/identity reservation displaced or conflicting"
+  ],
+  "excluded": [
+    "first accented pass and exercise-level opposite-start repetition",
+    "triplet/quintuplet or other rhythms, fixed BPM, acoustic note-off, numeric accent",
+    "whole Exercise003, clean-loop mastery, learner correctness, progression or credit",
+    "official-child, whole-workbook and WBS-parent acceptance"
+  ],
+  "installed_admission": false,
+  "accepted_counts_changed": false,
+  "physical_a02": "NOT RUN - deferred/nonblocking"
+}

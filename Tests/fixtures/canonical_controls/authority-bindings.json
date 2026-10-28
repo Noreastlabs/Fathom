@@ -1,0 +1,7 @@
+{
+  "classification": "derived comparison input, not human converted curriculum acceptance",
+  "expected_profile_sha256": "2d02e7d2f80366a58a1805982125c0aad3560db34a7aae648ba4bcc5125f7e17",
+  "source_package_sha256": "717aa63f5aa5ca67de9553364158113217a244b8830a60e2e212475f7259e405",
+  "source_registry_sha256": "6f0f486f5781b90fb50a6fe201a8002e618e6c014d758086f45fd7e4550f0e3b",
+  "derivation": "Exact accepted package and registry, accepted4.1eventpassage/degree-root mappings; actual authority artifact SHA; resource plan separately retained."
+}

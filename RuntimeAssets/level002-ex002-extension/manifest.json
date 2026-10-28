@@ -1,0 +1,134 @@
+{
+  "version": "level002-ex002-extension-bundle.1",
+  "content_version": "curriculum-v1-level002-ex002-1213-straight16-private.1",
+  "decision_sha256": "e840455c908cb099fbba9ed6cf67912346a7ea23a275dfdf3f4dff8b16ddbf70",
+  "profile_sha256": "1d78e2e7445e3b4736124ac876e69c07b0adfa1f220287a5fd0f5cd6e21e4b03",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/parallel-02/level002-ex002-installed-r01/packet/package.json",
+    "profile": "Build/parallel-02/level002-ex002-installed-r01/packet/expected-profile.json",
+    "registry": "Build/parallel-02/level002-ex002-installed-r01/packet/identity-registry.json"
+  },
+  "files": [
+    {
+      "path": "Build/fullscope-private-a-r01/level002-r01/packet.jsonl",
+      "bytes": 3382459,
+      "sha256": "534471bc4827c4f95c4e48d388e832a9db4b61394963b1b54d0c39ea1cac07cc"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-installed-r01/packet/candidate-allocation.json",
+      "bytes": 2591,
+      "sha256": "ea105220fbac6589dd95a64427d185436a4f882b392c97a875b044fe3af389f1"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-installed-r01/packet/expected-profile.json",
+      "bytes": 39677,
+      "sha256": "1d78e2e7445e3b4736124ac876e69c07b0adfa1f220287a5fd0f5cd6e21e4b03"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-installed-r01/packet/identity-registry.json",
+      "bytes": 1212,
+      "sha256": "adea111e58fc2aec5bb49ee38372ff64ebae8c57430320ad8b7ab6d9f6c49d6f"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-installed-r01/packet/package.json",
+      "bytes": 31884,
+      "sha256": "41cf4ebfd29792872813dbcdc1342e40d6e0a020b1eeebd80942cff8622facd0"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-native-r01/allocation-baseline.json",
+      "bytes": 101,
+      "sha256": "69d846eeb4df29c0c3fc5571475314601c7cada8be2e582943c5924ed92c2e70"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-native-r01/candidate-allocation.json",
+      "bytes": 2591,
+      "sha256": "ea105220fbac6589dd95a64427d185436a4f882b392c97a875b044fe3af389f1"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-native-r01/identity-baseline.json",
+      "bytes": 436,
+      "sha256": "65d55f7117349b050750b6c8bc5337b69807e625acf22cbafc6b5ff1f21d4dd6"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-native-r01/identity-registry.json",
+      "bytes": 1212,
+      "sha256": "adea111e58fc2aec5bb49ee38372ff64ebae8c57430320ad8b7ab6d9f6c49d6f"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-native-r01/lineage-baseline.json",
+      "bytes": 55,
+      "sha256": "93c7d42e37ae94d28316ca242b017c5e810230b1fb86e12805829ad9552dfee9"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-native-r01/r02/expected-profile.json",
+      "bytes": 39487,
+      "sha256": "776d41cdcb9ff6db87d56fd29e0523bbbf222408060d2564f5869d4d25395aa6"
+    },
+    {
+      "path": "Build/parallel-02/level002-ex002-native-r01/r02/package.json",
+      "bytes": 31884,
+      "sha256": "41cf4ebfd29792872813dbcdc1342e40d6e0a020b1eeebd80942cff8622facd0"
+    },
+    {
+      "path": "Content/controls/curriculum-v1/package.json",
+      "bytes": 24698658,
+      "sha256": "766e7d07d91b3810e0c35ea0799b0afb7f34f25398cfa092de307167adeca255"
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_2_Two_String_Transfer.pdf",
+      "bytes": 44979,
+      "sha256": "cfcc4b3414400f5bfc2510c30c407f0d72e573ef8e899a184820202d67671ac8"
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_2_Two_String_Transfer.txt",
+      "bytes": 68598,
+      "sha256": "49ca027e8c7fee7b2c5437f93f8a5b5576e272e6cf888dbb1a82632749cec31a"
+    },
+    {
+      "path": "Prompts/manager-resume-r01/20260927T1229Z-level002-ex002-installed-shared-release.md",
+      "bytes": 7319,
+      "sha256": "cbe0aebf8e9230af327ee059625cf6cd72d927534fa598d30ff6e8492bb44ff6"
+    },
+    {
+      "path": "Results/manager-resume-r01/fullscope-first-packet-spotcheck-r01/artifact-manifest.json",
+      "bytes": 12600,
+      "sha256": "40df3ae433c7e84a2afdde5aa4ead5595e36c2f2ede92648304c7300e51731e1"
+    },
+    {
+      "path": "Results/manager-resume-r01/fullscope-first-packet-spotcheck-r01/review-report.md",
+      "bytes": 9153,
+      "sha256": "a946aa7a4c89502d86af334c9f857fd43beb4b9324b3af3ac9dce74c2d7e70f8"
+    },
+    {
+      "path": "Results/manager-resume-r01/level002-ex002-native-review-r01/review-report.md",
+      "bytes": 5554,
+      "sha256": "bc46d1c9fa5f381629b7fdcaf098bb200fd20a2896b0a8f9860d80fe80156261"
+    },
+    {
+      "path": "Results/primary/20260927T1203Z-level002-ex002-private-source-adoption-and-selection.md",
+      "bytes": 3194,
+      "sha256": "da453406fb31b8d0c5999e232461d75d41bd84b204e338b8c930b28dad4778e4"
+    },
+    {
+      "path": "Results/primary/20260927T1228Z-level002-ex002-private-native-adoption.md",
+      "bytes": 2151,
+      "sha256": "69784a1e9722875e842e64568937ba60de02f61e562ff457fd773a5671c27769"
+    },
+    {
+      "path": "agent-curriculum-decision.md",
+      "bytes": 925,
+      "sha256": "96217e7201d3fdc34a300b988320551c14d0b60eebd64f68f194e3364ac5c3c8"
+    },
+    {
+      "path": "decision.json",
+      "bytes": 2283,
+      "sha256": "e840455c908cb099fbba9ed6cf67912346a7ea23a275dfdf3f4dff8b16ddbf70"
+    },
+    {
+      "path": "installed-resource-plan.json",
+      "bytes": 272,
+      "sha256": "a9f56e56b925499e5a367dde4476312f3a42bcd250e5c87b336d85247cd57d1a"
+    }
+  ]
+}

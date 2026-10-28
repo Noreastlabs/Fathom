@@ -1,0 +1,42 @@
+{
+  "entities": [
+    {
+      "id": "fg:course:000001",
+      "kind": "course",
+      "label": "Fathom Guitar105",
+      "parent": null
+    },
+    {
+      "id": "fg:workbook:000015",
+      "kind": "workbook",
+      "label": "Legacy Level15",
+      "parent": "fg:course:000001"
+    },
+    {
+      "id": "fg:module:001186",
+      "kind": "module",
+      "label": "Level 15 Rung04 C-major complete 78-note two-octave rolling-triplet cell",
+      "parent": "fg:workbook:000015"
+    },
+    {
+      "id": "fg:item:001186",
+      "kind": "item",
+      "label": "Level 15 Rung04 C-major complete 78-note two-octave rolling-triplet cell",
+      "parent": "fg:module:001186"
+    },
+    {
+      "id": "fg:variant:007712",
+      "kind": "variant",
+      "label": "L15-rung04-complete-triplets-D-start",
+      "parent": "fg:item:001186"
+    },
+    {
+      "id": "fg:variant:007713",
+      "kind": "variant",
+      "label": "L15-rung04-complete-triplets-U-start",
+      "parent": "fg:item:001186"
+    }
+  ],
+  "identity_version": 1,
+  "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber."
+}

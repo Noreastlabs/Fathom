@@ -1,0 +1,144 @@
+"""Focused exact-contract checks for the detached Level 8 Sets 1–9 adapter."""
+
+from __future__ import annotations
+
+import copy
+import hashlib
+import json
+import unittest
+from pathlib import Path
+
+from parallel_12_level008_sets01_09_normalize import (
+    CANDIDATES, PDF, ROOT, SOURCE_PINS, TXT, NormalizeError, build,
+    load_pinned, normalize_documents, serialize, verify,
+)
+import parallel_12_level008_sets01_05_normalize as earlier
+
+
+class LevelEightNormalizationTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.documents, cls.txt, cls.pdf = load_pinned(ROOT)
+
+    def mutate(self, change, code: str) -> None:
+        documents = copy.deepcopy(self.documents)
+        change(documents)
+        with self.assertRaisesRegex(NormalizeError, code):
+            normalize_documents(documents, self.txt, self.pdf)
+
+    def test_all_nine_sets_and_every_route_survive_without_admission(self) -> None:
+        result = normalize_documents(self.documents, self.txt, self.pdf)
+        self.assertEqual(result["sets"], list(range(1, 10)))
+        self.assertEqual(result["counts"], {"records": 108, "directions": 216, "string_routes": 1296,
+                                            "four_note_cells": 2592, "untimed_note_projections": 10368})
+        self.assertEqual(len(result["records"]), 108)
+        self.assertEqual(len({record["source_local_key"] for record in result["records"]}), 108)
+        self.assertEqual([record["exercise_number"] for record in result["records"]],
+                         [f"{number:03d}" for number in range(1, 109)])
+        for record in result["records"]:
+            self.assertEqual(record["source_refs"]["pdf"], f"L8-PDF1-p{record['set'] + 1}")
+            self.assertIsNone(record["canonical_item_id"])
+            self.assertIsNone(record["canonical_variant_id"])
+            self.assertIsNone(record["onset_q"])
+            self.assertIsNone(record["duration_q"])
+            self.assertFalse(record["admitted"] or record["runtime_admitted"] or record["runtime_eligible"])
+            self.assertEqual([direction["direction"] for direction in record["directions"]],
+                             ["shift_up", "shift_down"])
+            for direction in record["directions"]:
+                self.assertEqual(len(direction["routes"]), 6)
+                self.assertEqual([route["string"] for route in direction["routes"]], direction["route_order"])
+                for route in direction["routes"]:
+                    self.assertEqual(len(route["cells"]), 2)
+                    self.assertEqual([len(cell["notes"]) for cell in route["cells"]], [4, 4])
+                    self.assertEqual(route["shift_after_cell"], 1)
+                    self.assertTrue(route["shift_at_center_barline"])
+                    self.assertEqual(route["hand_frame_shift_frets"],
+                                     2 if direction["direction"] == "shift_up" else -2)
+                    for cell in route["cells"]:
+                        self.assertTrue(all(note["onset_q"] is None and note["duration_q"] is None
+                                            for note in cell["notes"]))
+        self.assertFalse(result["whole_workbook_complete"])
+        self.assertEqual(result["classification"], "detached_non_admitted_candidate")
+
+    def test_pinned_inputs_and_deterministic_serialization(self) -> None:
+        self.assertEqual(build(), normalize_documents(self.documents, self.txt, self.pdf))
+        first = serialize(build())
+        second = serialize(build())
+        self.assertEqual(first, second)
+        self.assertEqual(json.loads(first)["records"][0]["source_local_key"], "L8-set01-ex001")
+        self.assertEqual(json.loads(first)["records"][-1]["source_local_key"], "L8-set09-ex108")
+        for path, pin in SOURCE_PINS.items():
+            data = (ROOT / path).read_bytes()
+            verify(data, pin, path.name)
+            with self.assertRaisesRegex(NormalizeError, "PINNED_INPUT_DRIFT"):
+                verify(data + b"x", pin, path.name)
+        for number, (path, size, sha) in CANDIDATES.items():
+            data = (ROOT / path).read_bytes()
+            verify(data, (size, sha), f"SET{number}")
+            with self.assertRaisesRegex(NormalizeError, "PINNED_INPUT_DRIFT"):
+                verify(data[:-1], (size, sha), f"SET{number}")
+        self.assertEqual(SOURCE_PINS[TXT][0], 53407)
+        self.assertEqual(SOURCE_PINS[PDF][0], 43123)
+
+    def test_duplicate_exercise_key_and_record_loss_refuse(self) -> None:
+        self.mutate(lambda d: d[2]["records"][0].update(source_local_key=d[1]["records"][0]["source_local_key"]),
+                    "DUPLICATE_EXERCISE_KEY")
+        self.mutate(lambda d: d[3]["records"].pop(), "RECORD_COUNT")
+
+    def test_route_loss_and_mixed_schema_refuse(self) -> None:
+        self.mutate(lambda d: d[4]["records"][0]["directions"][0]["routes"].pop(), "ROUTE_LOSS")
+        self.mutate(lambda d: d[2]["records"][0]["directions"][0].update(routes=[]), "FIELD_SHAPE")
+        self.mutate(lambda d: d[3]["records"][0]["directions"][0]["string_routes"][0].update(string="A"),
+                    "ROUTE_LOSS_OR_ORDER")
+
+    def test_shift_cell_finger_and_printed_tab_refuse(self) -> None:
+        self.mutate(lambda d: d[1]["records"][0]["directions"][0]["routes"][0].update(shift_after_cell=0),
+                    "SHIFT_BOUNDARY")
+        self.mutate(lambda d: d[5]["records"][0]["directions"][0]["string_routes"][0]["cells"][1]["notes"][0].update(fret=99),
+                    "NOTE_SEMANTICS")
+        self.mutate(lambda d: d[4]["records"][0]["directions"][0]["txt_tab_rows_high_to_low"].__setitem__(0, "e|0|0|"),
+                    "TXT_TAB_REF|PDF_TXT_TEMPLATE")
+
+    def test_source_ref_and_false_admission_refuse(self) -> None:
+        self.mutate(lambda d: d[3]["records"][0]["source_refs"].update(txt="L8-TXT1-1-15"),
+                    "TXT_LINE_REF")
+        self.mutate(lambda d: d[1].update(runtime_admitted=True), "FALSE_ADMISSION")
+        self.mutate(lambda d: d[5]["records"][0].update(canonical_item_id="invented"),
+                    "INVENTED_ID_OR_TIME")
+        self.mutate(lambda d: d[2]["records"][0]["directions"][0]["string_routes"][0]["cells"][0]["notes"][0].update(onset_q=[0, 1]),
+                    "NOTE_SEMANTICS")
+
+    def test_new_set_schemas_and_mutations_refuse(self) -> None:
+        result = normalize_documents(self.documents, self.txt, self.pdf)
+        self.assertEqual([entry["set"] for entry in result["set_metadata"]], list(range(1, 10)))
+        self.assertEqual([len([record for record in result["records"] if record["set"] == number])
+                          for number in range(6, 10)], [12, 12, 12, 12])
+        self.assertEqual(result["records"][84]["source_local_key"], "L8-set08-ex085")
+        self.mutate(lambda d: d[6]["records"][0]["directions"][0]["string_routes"].pop(), "ROUTE_LOSS")
+        self.mutate(lambda d: d[7]["records"][0].update(runtime_eligible=True), "FALSE_ADMISSION")
+        self.mutate(lambda d: d[8]["records"][0]["directions"][0]["routes"][0].update(shift_after_cell=2),
+                    "SHIFT_BOUNDARY")
+        self.mutate(lambda d: d[9]["records"][0]["source_refs"].update(pdf="L8-PDF1-p9"), "SOURCE_REF")
+
+    def test_prior_five_set_projection_is_unchanged(self) -> None:
+        prior = earlier.normalize_documents({number: self.documents[number] for number in range(1, 6)},
+                                            self.txt, self.pdf)
+        current = normalize_documents(self.documents, self.txt, self.pdf)
+        self.assertEqual(current["records"][:60], prior["records"])
+        self.assertEqual(current["set_metadata"][:5], prior["set_metadata"])
+
+    def test_coverage_snapshot_is_advisory_and_set_three_pin_is_superseded(self) -> None:
+        path = Path("Results/parallel-08/exercises/conversion/20260923T142205Z-2.3.1.1.1-level008-set09-candidate-r01-evidence/level8-coverage-snapshot.json")
+        data = (ROOT / path).read_bytes()
+        self.assertEqual(len(data), 4153)
+        self.assertEqual(hashlib.sha256(data).hexdigest(),
+                         "2bf251bc1a7e3622a362e770bdd28dfba5cb08198531dafc8b7c2eb806dbfa61")
+        snapshot = json.loads(data)
+        set_three = next(entry for entry in snapshot["sets"] if entry["set"] == 3)
+        self.assertNotEqual(set_three["candidate_sha256"], CANDIDATES[3][2])
+        self.assertEqual(CANDIDATES[3][0].name, "candidate-03.json")
+        self.assertEqual(snapshot["records_present"], 108)
+
+
+if __name__ == "__main__":
+    unittest.main()

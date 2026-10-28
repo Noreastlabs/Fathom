@@ -1,0 +1,45 @@
+{
+  "version": "control-allocation.1",
+  "authority": "P02 exact Level13 Rung04 private native release SHA 35aac04d95cec4dd24924dba5c0eaa675f636b407a4fc88d4e21bde94266af33; same-case IDs after fresh live collision guard",
+  "records": {
+    "fg:item:001183": {
+      "legacy_level": 13,
+      "occurrences": {
+        "L13-rung04:note:001": "fg:item:001183:event:0001",
+        "L13-rung04:note:002": "fg:item:001183:event:0002",
+        "L13-rung04:note:003": "fg:item:001183:event:0003",
+        "L13-rung04:note:004": "fg:item:001183:event:0004",
+        "L13-rung04:note:005": "fg:item:001183:event:0005",
+        "L13-rung04:note:006": "fg:item:001183:event:0006",
+        "L13-rung04:note:007": "fg:item:001183:event:0007",
+        "L13-rung04:note:008": "fg:item:001183:event:0008",
+        "L13-rung04:note:009": "fg:item:001183:event:0009",
+        "L13-rung04:note:010": "fg:item:001183:event:0010",
+        "L13-rung04:note:011": "fg:item:001183:event:0011",
+        "L13-rung04:note:012": "fg:item:001183:event:0012",
+        "L13-rung04:note:013": "fg:item:001183:event:0013",
+        "L13-rung04:note:014": "fg:item:001183:event:0014",
+        "L13-rung04:note:015": "fg:item:001183:event:0015",
+        "L13-rung04:note:016": "fg:item:001183:event:0016",
+        "L13-rung04:note:017": "fg:item:001183:event:0017",
+        "L13-rung04:note:018": "fg:item:001183:event:0018",
+        "L13-rung04:note:019": "fg:item:001183:event:0019",
+        "L13-rung04:note:020": "fg:item:001183:event:0020",
+        "L13-rung04:note:021": "fg:item:001183:event:0021",
+        "L13-rung04:note:022": "fg:item:001183:event:0022",
+        "L13-rung04:note:023": "fg:item:001183:event:0023",
+        "L13-rung04:note:024": "fg:item:001183:event:0024",
+        "L13-rung04:note:025": "fg:item:001183:event:0025",
+        "L13-rung04:note:026": "fg:item:001183:event:0026",
+        "L13-rung04:note:027": "fg:item:001183:event:0027",
+        "L13-rung04:note:028": "fg:item:001183:event:0028",
+        "L13-rung04:note:029": "fg:item:001183:event:0029",
+        "L13-rung04:note:030": "fg:item:001183:event:0030"
+      },
+      "variants": {
+        "cell-D-start": "fg:variant:007706",
+        "cell-U-start": "fg:variant:007707"
+      }
+    }
+  }
+}

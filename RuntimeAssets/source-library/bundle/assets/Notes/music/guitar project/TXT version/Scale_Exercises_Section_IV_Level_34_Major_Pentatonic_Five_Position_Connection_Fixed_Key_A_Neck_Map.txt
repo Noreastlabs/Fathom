@@ -1,0 +1,403 @@
+SCALE EXERCISES - SECTION IV, LEVEL 34
+A MAJOR PENTATONIC FIVE-POSITION CONNECTION - FIXED-KEY NECK MAP
+
+PURPOSE
+Stop transposing one shape. Keep the key fixed as A major pentatonic and move through five common
+positions from the low-E root frame at frets 4-7 through the octave frame at frets 14-17. Learn each
+vertical position, connect adjacent positions around one shared anchor note on every string, then link
+all five frames in a forward and reverse zigzag.
+
+IMPORTANT POSITION-LABEL NOTE
+Pentatonic box numbers vary among methods. This workbook numbers positions in ascending-neck order,
+beginning with the A-root frame around low-E fret 5. Use the fret spans, degree maps, and root locations
+as the authoritative identity of each position.
+
+A MAJOR-PENTATONIC FORMULA
+Notes: A B C# E F#
+Degrees: 1 2 3 5 6
+Intervals: whole - whole - minor third - whole - minor third
+
+POSITION SUMMARY
+P1 ROOT FRAME             frets 4-7    starts degree 1  roots E5, D7, e5
+    Ascending degrees: 1 2 3 5 6 1 2 3 5 6 1 2
+P2 SECOND-DEGREE FRAME    frets 6-10   starts degree 2  roots D7, B10
+    Ascending degrees: 2 3 5 6 1 2 3 5 6 1 2 3
+P3 THIRD-DEGREE FRAME     frets 9-12   starts degree 3  roots A12, B10
+    Ascending degrees: 3 5 6 1 2 3 5 6 1 2 3 5
+P4 FIFTH-DEGREE FRAME     frets 11-14  starts degree 5  roots A12, G14
+    Ascending degrees: 5 6 1 2 3 5 6 1 2 3 5 6
+P5 SIXTH-DEGREE FRAME     frets 14-17  starts degree 6  roots E17, G14, e17
+    Ascending degrees: 6 1 2 3 5 6 1 2 3 5 6 1
+
+PICKING AND COUNTS
+Each vertical position cell contains 24 notes: 12 ascending and 12 descending with the high endpoint repeated.
+Each shared-anchor seam cell contains 30 notes: six five-note string groups. Every five-note group flips the
+starting stroke on the next string, but the complete 30-note cell is even.
+The forward zigzag contains 60 notes; the reverse zigzag contains 60 notes. Repeat high-e fret 17 at the
+turn when linking them, producing an even 120-note circuit.
+Five position cells = 120 notes. Four seam cells = 120 notes. Linked zigzag = 120 notes.
+Complete Level 34 workout = 360 notes.
+
+STRICT ALTERNATE PICKING
+Complete separate D-start and U-start passes. Do not restart at a string crossing, shared anchor, position
+boundary, root, outer-string turn, or the forward/reverse turnaround.
+
+========================================================================================================================
+FIVE VERTICAL POSITION CELLS
+========================================================================================================================
+
+POSITION 1 - ROOT FRAME - FRETS 4-7
+Starts on degree 1. Roots: E5, D7, e5.
+Low-E root at fret 5. This is the reference frame for the section.
+String pairs (fret / finger / degree):
+  E: 5-7 / fingers 2-4 / degrees 1-2 / notes A-B
+  A: 4-7 / fingers 1-4 / degrees 3-5 / notes C#-E
+  D: 4-7 / fingers 1-4 / degrees 6-1 / notes F#-A
+  G: 4-6 / fingers 1-3 / degrees 2-3 / notes B-C#
+  B: 5-7 / fingers 2-4 / degrees 5-6 / notes E-F#
+  e: 5-7 / fingers 2-4 / degrees 1-2 / notes A-B
+
+24-NOTE UP/DOWN CELL
+Nte|A--B--C#-E--F#-A--B--C#-E--F#-A--B--|B--A--F#-E--C#-B--A--F#-E--C#-B--A--|
+Deg|1--2--3--5--6--1--2--3--5--6--1--2--|2--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--4--|4--2--4--2--3--1--4--1--4--1--4--2--|
+e  |------------------------------5--7--|7--5--------------------------------|
+B  |------------------------5--7--------|------7--5--------------------------|
+G  |------------------4--6--------------|------------6--4--------------------|
+D  |------------4--7--------------------|------------------7--4--------------|
+A  |------4--7--------------------------|------------------------7--4--------|
+E  |5--7--------------------------------|------------------------------7--5--|
+
+Practice passes:
+1. Even eighth notes; say every degree.
+2. Accent only degree 1, then remove the accent.
+3. Begin descending first.
+4. Repeat with D-start and U-start.
+5. Prepare the shared-anchor seam into the next position.
+
+POSITION 2 - SECOND-DEGREE FRAME - FRETS 6-10
+Starts on degree 2. Roots: D7, B10.
+Re-form the hand around frets 7-10; reach back for G-string fret 6. Do not hold a rigid five-fret stretch.
+String pairs (fret / finger / degree):
+  E: 7-9 / fingers 1-3 / degrees 2-3 / notes B-C#
+  A: 7-9 / fingers 1-3 / degrees 5-6 / notes E-F#
+  D: 7-9 / fingers 1-3 / degrees 1-2 / notes A-B
+  G: 6-9 / fingers 1-4 / degrees 3-5 / notes C#-E
+  B: 7-10 / fingers 1-4 / degrees 6-1 / notes F#-A
+  e: 7-9 / fingers 1-3 / degrees 2-3 / notes B-C#
+
+24-NOTE UP/DOWN CELL
+Nte|B--C#-E--F#-A--B--C#-E--F#-A--B--C#-|C#-B--A--F#-E--C#-B--A--F#-E--C#-B--|
+Deg|2--3--5--6--1--2--3--5--6--1--2--3--|3--2--1--6--5--3--2--1--6--5--3--2--|
+Fng|1--3--1--3--1--3--1--4--1--4--1--3--|3--1--4--1--4--1--3--1--3--1--3--1--|
+e  |------------------------------7--9--|9--7--------------------------------|
+B  |------------------------7--10-------|------10-7--------------------------|
+G  |------------------6--9--------------|------------9--6--------------------|
+D  |------------7--9--------------------|------------------9--7--------------|
+A  |------7--9--------------------------|------------------------9--7--------|
+E  |7--9--------------------------------|------------------------------9--7--|
+
+Practice passes:
+1. Even eighth notes; say every degree.
+2. Accent only degree 1, then remove the accent.
+3. Begin descending first.
+4. Repeat with D-start and U-start.
+5. Prepare the shared-anchor seam into the next position.
+
+POSITION 3 - THIRD-DEGREE FRAME - FRETS 9-12
+Starts on degree 3. Roots: A12, B10.
+The low-string minor-third spans alternate with compact whole-step pairs on D, G, and B.
+String pairs (fret / finger / degree):
+  E: 9-12 / fingers 1-4 / degrees 3-5 / notes C#-E
+  A: 9-12 / fingers 1-4 / degrees 6-1 / notes F#-A
+  D: 9-11 / fingers 1-3 / degrees 2-3 / notes B-C#
+  G: 9-11 / fingers 1-3 / degrees 5-6 / notes E-F#
+  B: 10-12 / fingers 2-4 / degrees 1-2 / notes A-B
+  e: 9-12 / fingers 1-4 / degrees 3-5 / notes C#-E
+
+24-NOTE UP/DOWN CELL
+Nte|C#-E--F#-A--B--C#-E--F#-A--B--C#-E--|E--C#-B--A--F#-E--C#-B--A--F#-E--C#-|
+Deg|3--5--6--1--2--3--5--6--1--2--3--5--|5--3--2--1--6--5--3--2--1--6--5--3--|
+Fng|1--4--1--4--1--3--1--3--2--4--1--4--|4--1--4--2--3--1--3--1--4--1--4--1--|
+e  |------------------------------9--12-|12-9--------------------------------|
+B  |------------------------10-12-------|------12-10-------------------------|
+G  |------------------9--11-------------|------------11-9--------------------|
+D  |------------9--11-------------------|------------------11-9--------------|
+A  |------9--12-------------------------|------------------------12-9--------|
+E  |9--12-------------------------------|------------------------------12-9--|
+
+Practice passes:
+1. Even eighth notes; say every degree.
+2. Accent only degree 1, then remove the accent.
+3. Begin descending first.
+4. Repeat with D-start and U-start.
+5. Prepare the shared-anchor seam into the next position.
+
+POSITION 4 - FIFTH-DEGREE FRAME - FRETS 11-14
+Starts on degree 5. Roots: A12, G14.
+Roots sit on A-string fret 12 and G-string fret 14. Let those notes re-center the key.
+String pairs (fret / finger / degree):
+  E: 12-14 / fingers 2-4 / degrees 5-6 / notes E-F#
+  A: 12-14 / fingers 2-4 / degrees 1-2 / notes A-B
+  D: 11-14 / fingers 1-4 / degrees 3-5 / notes C#-E
+  G: 11-14 / fingers 1-4 / degrees 6-1 / notes F#-A
+  B: 12-14 / fingers 2-4 / degrees 2-3 / notes B-C#
+  e: 12-14 / fingers 2-4 / degrees 5-6 / notes E-F#
+
+24-NOTE UP/DOWN CELL
+Nte|E--F#-A--B--C#-E--F#-A--B--C#-E--F#-|F#-E--C#-B--A--F#-E--C#-B--A--F#-E--|
+Deg|5--6--1--2--3--5--6--1--2--3--5--6--|6--5--3--2--1--6--5--3--2--1--6--5--|
+Fng|2--4--2--4--1--4--1--4--2--4--2--4--|4--2--4--2--4--1--4--1--4--2--4--2--|
+e  |------------------------------12-14-|14-12-------------------------------|
+B  |------------------------12-14-------|------14-12-------------------------|
+G  |------------------11-14-------------|------------14-11-------------------|
+D  |------------11-14-------------------|------------------14-11-------------|
+A  |------12-14-------------------------|------------------------14-12-------|
+E  |12-14-------------------------------|------------------------------14-12-|
+
+Practice passes:
+1. Even eighth notes; say every degree.
+2. Accent only degree 1, then remove the accent.
+3. Begin descending first.
+4. Repeat with D-start and U-start.
+5. Prepare the shared-anchor seam into the next position.
+
+POSITION 5 - SIXTH-DEGREE FRAME - FRETS 14-17
+Starts on degree 6. Roots: E17, G14, e17.
+This frame closes the octave at low- and high-e fret 17 and prepares the return route.
+String pairs (fret / finger / degree):
+  E: 14-17 / fingers 1-4 / degrees 6-1 / notes F#-A
+  A: 14-16 / fingers 1-3 / degrees 2-3 / notes B-C#
+  D: 14-16 / fingers 1-3 / degrees 5-6 / notes E-F#
+  G: 14-16 / fingers 1-3 / degrees 1-2 / notes A-B
+  B: 14-17 / fingers 1-4 / degrees 3-5 / notes C#-E
+  e: 14-17 / fingers 1-4 / degrees 6-1 / notes F#-A
+
+24-NOTE UP/DOWN CELL
+Nte|F#-A--B--C#-E--F#-A--B--C#-E--F#-A--|A--F#-E--C#-B--A--F#-E--C#-B--A--F#-|
+Deg|6--1--2--3--5--6--1--2--3--5--6--1--|1--6--5--3--2--1--6--5--3--2--1--6--|
+Fng|1--4--1--3--1--3--1--3--1--4--1--4--|4--1--4--1--3--1--3--1--3--1--4--1--|
+e  |------------------------------14-17-|17-14-------------------------------|
+B  |------------------------14-17-------|------17-14-------------------------|
+G  |------------------14-16-------------|------------16-14-------------------|
+D  |------------14-16-------------------|------------------16-14-------------|
+A  |------14-16-------------------------|------------------------16-14-------|
+E  |14-17-------------------------------|------------------------------17-14-|
+
+Practice passes:
+1. Even eighth notes; say every degree.
+2. Accent only degree 1, then remove the accent.
+3. Begin descending first.
+4. Repeat with D-start and U-start.
+5. Prepare the reverse route back through Position 4.
+
+========================================================================================================================
+SHARED-ANCHOR SEAM CELLS
+========================================================================================================================
+For each string, play lower outer note -> shared anchor -> upper outer note -> shared anchor -> lower outer note.
+Stay in the lower-position fingering through note 2. Shift after the anchor sounds, play note 3 in the upper
+frame, return to the anchor as note 4, then shift back before note 5. Do not re-articulate the anchor merely
+to disguise the hand movement.
+
+SEAM P1 <-> P2 - 30 NOTES
+Shared anchors: E7, A7, D7, G6, B7, e7
+Deg|1--2--3--2--1--|3--5--6--5--3--|6--1--2--1--6--|2--3--5--3--2--|5--6--1--6--5--|1--2--3--2--1--|
+Fng|2--4--3--1--2--|1--4--3--1--1--|1--4--3--1--1--|1--3--4--1--1--|2--4--4--1--2--|2--4--3--1--2--|
+e  |---------------|---------------|---------------|---------------|---------------|5--7--9--7--5--|
+B  |---------------|---------------|---------------|---------------|5--7--10-7--5--|---------------|
+G  |---------------|---------------|---------------|4--6--9--6--4--|---------------|---------------|
+D  |---------------|---------------|4--7--9--7--4--|---------------|---------------|---------------|
+A  |---------------|4--7--9--7--4--|---------------|---------------|---------------|---------------|
+E  |5--7--9--7--5--|---------------|---------------|---------------|---------------|---------------|
+Picking: five-note groups alternate their starting stroke; the complete six-string seam cell is even.
+
+SEAM P2 <-> P3 - 30 NOTES
+Shared anchors: E9, A9, D9, G9, B10, e9
+Deg|2--3--5--3--2--|5--6--1--6--5--|1--2--3--2--1--|3--5--6--5--3--|6--1--2--1--6--|2--3--5--3--2--|
+Fng|1--3--4--1--1--|1--3--4--1--1--|1--3--3--1--1--|1--4--3--1--1--|1--4--4--2--1--|1--3--4--1--1--|
+e  |---------------|---------------|---------------|---------------|---------------|7--9--12-9--7--|
+B  |---------------|---------------|---------------|---------------|7--10-12-10-7--|---------------|
+G  |---------------|---------------|---------------|6--9--11-9--6--|---------------|---------------|
+D  |---------------|---------------|7--9--11-9--7--|---------------|---------------|---------------|
+A  |---------------|7--9--12-9--7--|---------------|---------------|---------------|---------------|
+E  |7--9--12-9--7--|---------------|---------------|---------------|---------------|---------------|
+Picking: five-note groups alternate their starting stroke; the complete six-string seam cell is even.
+
+SEAM P3 <-> P4 - 30 NOTES
+Shared anchors: E12, A12, D11, G11, B12, e12
+Deg|3--5--6--5--3--|6--1--2--1--6--|2--3--5--3--2--|5--6--1--6--5--|1--2--3--2--1--|3--5--6--5--3--|
+Fng|1--4--4--2--1--|1--4--4--2--1--|1--3--4--1--1--|1--3--4--1--1--|2--4--4--2--2--|1--4--4--2--1--|
+e  |---------------|---------------|---------------|---------------|---------------|9--12-14-12-9--|
+B  |---------------|---------------|---------------|---------------|10-12-14-12-10-|---------------|
+G  |---------------|---------------|---------------|9--11-14-11-9--|---------------|---------------|
+D  |---------------|---------------|9--11-14-11-9--|---------------|---------------|---------------|
+A  |---------------|9--12-14-12-9--|---------------|---------------|---------------|---------------|
+E  |9--12-14-12-9--|---------------|---------------|---------------|---------------|---------------|
+Picking: five-note groups alternate their starting stroke; the complete six-string seam cell is even.
+
+SEAM P4 <-> P5 - 30 NOTES
+Shared anchors: E14, A14, D14, G14, B14, e14
+Deg|5--6--1--6--5--|1--2--3--2--1--|3--5--6--5--3--|6--1--2--1--6--|2--3--5--3--2--|5--6--1--6--5--|
+Fng|2--4--4--1--2--|2--4--3--1--2--|1--4--3--1--1--|1--4--3--1--1--|2--4--4--1--2--|2--4--4--1--2--|
+e  |---------------|---------------|---------------|---------------|---------------|12-14-17-14-12-|
+B  |---------------|---------------|---------------|---------------|12-14-17-14-12-|---------------|
+G  |---------------|---------------|---------------|11-14-16-14-11-|---------------|---------------|
+D  |---------------|---------------|11-14-16-14-11-|---------------|---------------|---------------|
+A  |---------------|12-14-16-14-12-|---------------|---------------|---------------|---------------|
+E  |12-14-17-14-12-|---------------|---------------|---------------|---------------|---------------|
+Picking: five-note groups alternate their starting stroke; the complete six-string seam cell is even.
+
+========================================================================================================================
+FORWARD FIVE-POSITION ZIGZAG - 60 NOTES
+========================================================================================================================
+Route: P1 ASC -> high-e 7 to 9 -> P2 DESC -> low-E 7 to 9 -> P3 ASC -> high-e 12 to 14 ->
+       P4 DESC -> low-E 12 to 14 -> P5 ASC.
+Every position segment contains 12 notes, so every new frame begins with the same pick orientation.
+
+P1 ASC - frets 4-7 - 12 NOTES
+Deg|1--2--3--5--6--1--2--3--5--6--1--2--|
+Fng|2--4--1--4--1--4--1--3--2--4--2--4--|
+e  |------------------------------5--7--|
+B  |------------------------5--7--------|
+G  |------------------4--6--------------|
+D  |------------4--7--------------------|
+A  |------4--7--------------------------|
+E  |5--7--------------------------------|
+
+P2 DESC - frets 6-10 - 12 NOTES
+Deg|3--2--1--6--5--3--2--1--6--5--3--2--|
+Fng|3--1--4--1--4--1--3--1--3--1--3--1--|
+e  |9--7--------------------------------|
+B  |------10-7--------------------------|
+G  |------------9--6--------------------|
+D  |------------------9--7--------------|
+A  |------------------------9--7--------|
+E  |------------------------------9--7--|
+
+P3 ASC - frets 9-12 - 12 NOTES
+Deg|3--5--6--1--2--3--5--6--1--2--3--5--|
+Fng|1--4--1--4--1--3--1--3--2--4--1--4--|
+e  |------------------------------9--12-|
+B  |------------------------10-12-------|
+G  |------------------9--11-------------|
+D  |------------9--11-------------------|
+A  |------9--12-------------------------|
+E  |9--12-------------------------------|
+
+P4 DESC - frets 11-14 - 12 NOTES
+Deg|6--5--3--2--1--6--5--3--2--1--6--5--|
+Fng|4--2--4--2--4--1--4--1--4--2--4--2--|
+e  |14-12-------------------------------|
+B  |------14-12-------------------------|
+G  |------------14-11-------------------|
+D  |------------------14-11-------------|
+A  |------------------------14-12-------|
+E  |------------------------------14-12-|
+
+P5 ASC - frets 14-17 - 12 NOTES
+Deg|6--1--2--3--5--6--1--2--3--5--6--1--|
+Fng|1--4--1--3--1--3--1--3--1--4--1--4--|
+e  |------------------------------14-17-|
+B  |------------------------14-17-------|
+G  |------------------14-16-------------|
+D  |------------14-16-------------------|
+A  |------14-16-------------------------|
+E  |14-17-------------------------------|
+
+========================================================================================================================
+REVERSE FIVE-POSITION ZIGZAG - 60 NOTES
+========================================================================================================================
+Route: P5 DESC -> low-E 14 to 12 -> P4 ASC -> high-e 14 to 12 -> P3 DESC -> low-E 9 to 7 ->
+       P2 ASC -> high-e 9 to 7 -> P1 DESC.
+When linking forward and reverse, articulate high-e fret 17 at the end of the forward route and again to
+begin the reverse route. The linked circuit contains 120 notes and returns to low-E fret 5.
+
+P5 DESC - frets 14-17 - 12 NOTES
+Deg|1--6--5--3--2--1--6--5--3--2--1--6--|
+Fng|4--1--4--1--3--1--3--1--3--1--4--1--|
+e  |17-14-------------------------------|
+B  |------17-14-------------------------|
+G  |------------16-14-------------------|
+D  |------------------16-14-------------|
+A  |------------------------16-14-------|
+E  |------------------------------17-14-|
+
+P4 ASC - frets 11-14 - 12 NOTES
+Deg|5--6--1--2--3--5--6--1--2--3--5--6--|
+Fng|2--4--2--4--1--4--1--4--2--4--2--4--|
+e  |------------------------------12-14-|
+B  |------------------------12-14-------|
+G  |------------------11-14-------------|
+D  |------------11-14-------------------|
+A  |------12-14-------------------------|
+E  |12-14-------------------------------|
+
+P3 DESC - frets 9-12 - 12 NOTES
+Deg|5--3--2--1--6--5--3--2--1--6--5--3--|
+Fng|4--1--4--2--3--1--3--1--4--1--4--1--|
+e  |12-9--------------------------------|
+B  |------12-10-------------------------|
+G  |------------11-9--------------------|
+D  |------------------11-9--------------|
+A  |------------------------12-9--------|
+E  |------------------------------12-9--|
+
+P2 ASC - frets 6-10 - 12 NOTES
+Deg|2--3--5--6--1--2--3--5--6--1--2--3--|
+Fng|1--3--1--3--1--3--1--4--1--4--1--3--|
+e  |------------------------------7--9--|
+B  |------------------------7--10-------|
+G  |------------------6--9--------------|
+D  |------------7--9--------------------|
+A  |------7--9--------------------------|
+E  |7--9--------------------------------|
+
+P1 DESC - frets 4-7 - 12 NOTES
+Deg|2--1--6--5--3--2--1--6--5--3--2--1--|
+Fng|4--2--4--2--3--1--4--1--4--1--4--2--|
+e  |7--5--------------------------------|
+B  |------7--5--------------------------|
+G  |------------6--4--------------------|
+D  |------------------7--4--------------|
+A  |------------------------7--4--------|
+E  |------------------------------7--5--|
+
+========================================================================================================================
+PRACTICE PROGRESSION
+========================================================================================================================
+1. Map P1-P5 and say each starting degree.
+2. Play every 24-note vertical cell with both pick starts.
+3. Learn all four 30-note shared-anchor seam cells.
+4. Play the 60-note forward zigzag without a seam pause.
+5. Play the 60-note reverse zigzag without a seam pause.
+6. Link forward and reverse as one 120-note circuit.
+7. Accent every A root, then remove the accents while continuing to hear A as tonic.
+
+ERROR DIAGNOSIS
+LOST KEY CENTER: Stop on the nearest A root, sing A, and restart the local frame.
+WRONG BOX: Name the position span and its first low-E degree before playing.
+EARLY SHIFT: Remain in the lower frame through the shared anchor; move only after it sounds.
+NOISY SEAM: Release pressure, move the thumb with the hand, and reduce the tempo by 4-6 BPM.
+PICK RESET: Mute the strings and air-pick the exact 12-, 30-, or 60-note count.
+TENSION: Stop, shake out, and practice one seam instead of forcing the full route.
+
+ADVANCEMENT RULES
+Add 2 BPM after three clean circuits at the current route length.
+After two errors, reduce 4-6 BPM or shorten the route to one adjacent-position seam.
+Increase route length before speed when the shift is weak. Increase speed before route length when the map is secure.
+
+MASTERY GATE BEFORE LEVEL 35
+Name all five positions and fret spans; play each vertical cell with D-start and U-start; shift at every
+shared anchor without a scrape or hesitation; complete the linked 120-note zigzag on two separate days;
+identify every A root by sight and sound; and recover the correct position after a deliberate random stop.
+
+PRACTICE LOG
+Date | Focus | D/U | BPM | Clean? | Weak seam / position | Next target
+____ | _____ | ___ | ___ | ______ | ____________________ | ___________
+____ | _____ | ___ | ___ | ______ | ____________________ | ___________
+____ | _____ | ___ | ___ | ______ | ____________________ | ___________
+____ | _____ | ___ | ___ | ______ | ____________________ | ___________
+
+NEXT LEVEL
+Level 35 isolates horizontal A-major-pentatonic motion along individual strings and converts the five
+position seams into controlled melodic shifts, slides, and destination-note landings.

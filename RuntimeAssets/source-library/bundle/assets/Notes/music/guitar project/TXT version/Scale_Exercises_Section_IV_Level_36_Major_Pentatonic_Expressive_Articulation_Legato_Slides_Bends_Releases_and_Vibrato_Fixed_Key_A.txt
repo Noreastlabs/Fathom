@@ -1,0 +1,324 @@
+SCALE EXERCISES - SECTION IV, LEVEL 36
+A MAJOR PENTATONIC EXPRESSIVE ARTICULATION - LEGATO, SLIDES, BENDS, RELEASES, AND VIBRATO
+FIXED KEY A - FIVE POSITIONS - FRETS 4-17
+
+PURPOSE
+Turn the fixed-key A-major-pentatonic map from Levels 34-35 into controlled expressive motion. The pitch map
+does not change. What changes is how each pitch begins, connects, bends, releases, and sustains. Train hammer-ons
+and pull-offs in all five positions, combine legato with the four shared-anchor seams, calibrate whole-step bends
+against named target frets, add pre-bend releases and pitch-centered vibrato, then finish with five short cadences.
+
+IMPORTANT INTERPRETATION
+Expression does not excuse inaccurate rhythm or pitch. A hammer-on, pull-off, slide arrival, bend target, release,
+or vibrato pulse is a timed musical event. Picked and unpicked notes must remain equal in volume and duration.
+All core bends in this level are whole-step bends to a note two frets higher. The minor-third gaps 3->5 and 6->1
+would require a one-and-a-half-step bend and are deliberately excluded from the core bend module.
+
+A MAJOR PENTATONIC
+Notes: A B C# E F#
+Degrees: 1 2 3 5 6
+
+ARTICULATION NOTATION
+h = hammer-on; p = pull-off; / = ascending slide; \ = descending slide; b(T) = bend to target fret T;
+r = release; pb(T) = pre-bend silently to target pitch before the attack; ~ = vibrato.
+
+COUNTS
+Module A: 5 position cells x 24 sounding tones = 120 tones; 12 attacks per cell = 60 attacks.
+Module B: 4 seams x 6 strings x 5 tones = 120 tones; one attack per phrase = 24 attacks.
+Module C: 9 whole-step bend sites x 4 attacks = 36 attacks.
+Module D: 6 pre-bend cells x 3 attacks = 18 attacks; 8 A-root vibrato holds = 8 attacks.
+Module E: 5 cadence phrases = 19 attacks; articulation creates the remaining pitch motion.
+Complete core workout: 165 pick attacks, plus 240 explicitly counted legato/slide tones, 15 bend or pre-bend
+cells, 8 root-vibrato holds, and 5 cadence phrases.
+
+========================================================================================================================
+MODULE A - FIVE-POSITION LEGATO CELLS
+========================================================================================================================
+Pick the first tone of each two-note group. Hammer the ascending partner and pull off the descending partner.
+Each position contains 12 groups, 24 sounding tones, and 12 pick attacks. Alternate the group attacks continuously.
+D-start groups: D U D U D U | D U D U D U. U-start groups: U D U D U D | U D U D U D.
+
+POSITION 1 - ROOT FRAME - FRETS 4-7 - ROOTS E5, D7, e5
+  Low E  frets 5-7    notes A-B      degrees 1-2  fingers 2-4
+  A      frets 4-7    notes C#-E     degrees 3-5  fingers 1-4
+  D      frets 4-7    notes F#-A     degrees 6-1  fingers 1-4
+  G      frets 4-6    notes B-C#     degrees 2-3  fingers 1-3
+  B      frets 5-7    notes E-F#     degrees 5-6  fingers 2-4
+  High e frets 5-7    notes A-B      degrees 1-2  fingers 2-4
+24-TONE LEGATO CELL
+Nte|   AhB   |   C#hE  |   F#hA  |   BhC#  |   EhF#  |   AhB   |   BpA   |   F#pE  |   C#pB  |   ApF#  |   EpC#  |   BpA   |
+Deg|   1h2   |   3h5   |   6h1   |   2h3   |   5h6   |   1h2   |   2p1   |   6p5   |   3p2   |   1p6   |   5p3   |   2p1   |
+Fng|   2h4   |   1h4   |   1h4   |   1h3   |   2h4   |   2h4   |   4p2   |   4p2   |   3p1   |   4p1   |   4p1   |   4p2   |
+Art|    h    |    h    |    h    |    h    |    h    |    h    |    p    |    p    |    p    |    p    |    p    |    p    |
+e  |---------|---------|---------|---------|---------|   5h7   |   7p5   |---------|---------|---------|---------|---------|
+B  |---------|---------|---------|---------|   5h7   |---------|---------|   7p5   |---------|---------|---------|---------|
+G  |---------|---------|---------|   4h6   |---------|---------|---------|---------|   6p4   |---------|---------|---------|
+D  |---------|---------|   4h7   |---------|---------|---------|---------|---------|---------|   7p4   |---------|---------|
+A  |---------|   4h7   |---------|---------|---------|---------|---------|---------|---------|---------|   7p4   |---------|
+E  |   5h7   |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|   7p5   |
+Rule: pick once per group; the second tone must arrive in time and at equal volume. Pre-fret the pull-off target.
+
+POSITION 2 - SECOND-DEGREE FRAME - FRETS 6-10 - ROOTS D7, B10
+  Low E  frets 7-9    notes B-C#     degrees 2-3  fingers 1-3
+  A      frets 7-9    notes E-F#     degrees 5-6  fingers 1-3
+  D      frets 7-9    notes A-B      degrees 1-2  fingers 1-3
+  G      frets 6-9    notes C#-E     degrees 3-5  fingers 1-4
+  B      frets 7-10   notes F#-A     degrees 6-1  fingers 1-4
+  High e frets 7-9    notes B-C#     degrees 2-3  fingers 1-3
+24-TONE LEGATO CELL
+Nte|   BhC#  |   EhF#  |   AhB   |   C#hE  |   F#hA  |   BhC#  |   C#pB  |   ApF#  |   EpC#  |   BpA   |   F#pE  |   C#pB  |
+Deg|   2h3   |   5h6   |   1h2   |   3h5   |   6h1   |   2h3   |   3p2   |   1p6   |   5p3   |   2p1   |   6p5   |   3p2   |
+Fng|   1h3   |   1h3   |   1h3   |   1h4   |   1h4   |   1h3   |   3p1   |   4p1   |   4p1   |   3p1   |   3p1   |   3p1   |
+Art|    h    |    h    |    h    |    h    |    h    |    h    |    p    |    p    |    p    |    p    |    p    |    p    |
+e  |---------|---------|---------|---------|---------|   7h9   |   9p7   |---------|---------|---------|---------|---------|
+B  |---------|---------|---------|---------|   7h10  |---------|---------|   10p7  |---------|---------|---------|---------|
+G  |---------|---------|---------|   6h9   |---------|---------|---------|---------|   9p6   |---------|---------|---------|
+D  |---------|---------|   7h9   |---------|---------|---------|---------|---------|---------|   9p7   |---------|---------|
+A  |---------|   7h9   |---------|---------|---------|---------|---------|---------|---------|---------|   9p7   |---------|
+E  |   7h9   |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|   9p7   |
+Rule: pick once per group; the second tone must arrive in time and at equal volume. Pre-fret the pull-off target.
+
+POSITION 3 - THIRD-DEGREE FRAME - FRETS 9-12 - ROOTS A12, B10
+  Low E  frets 9-12   notes C#-E     degrees 3-5  fingers 1-4
+  A      frets 9-12   notes F#-A     degrees 6-1  fingers 1-4
+  D      frets 9-11   notes B-C#     degrees 2-3  fingers 1-3
+  G      frets 9-11   notes E-F#     degrees 5-6  fingers 1-3
+  B      frets 10-12  notes A-B      degrees 1-2  fingers 2-4
+  High e frets 9-12   notes C#-E     degrees 3-5  fingers 1-4
+24-TONE LEGATO CELL
+Nte|   C#hE  |   F#hA  |   BhC#  |   EhF#  |   AhB   |   C#hE  |   EpC#  |   BpA   |   F#pE  |   C#pB  |   ApF#  |   EpC#  |
+Deg|   3h5   |   6h1   |   2h3   |   5h6   |   1h2   |   3h5   |   5p3   |   2p1   |   6p5   |   3p2   |   1p6   |   5p3   |
+Fng|   1h4   |   1h4   |   1h3   |   1h3   |   2h4   |   1h4   |   4p1   |   4p2   |   3p1   |   3p1   |   4p1   |   4p1   |
+Art|    h    |    h    |    h    |    h    |    h    |    h    |    p    |    p    |    p    |    p    |    p    |    p    |
+e  |---------|---------|---------|---------|---------|   9h12  |   12p9  |---------|---------|---------|---------|---------|
+B  |---------|---------|---------|---------|  10h12  |---------|---------|  12p10  |---------|---------|---------|---------|
+G  |---------|---------|---------|   9h11  |---------|---------|---------|---------|   11p9  |---------|---------|---------|
+D  |---------|---------|   9h11  |---------|---------|---------|---------|---------|---------|   11p9  |---------|---------|
+A  |---------|   9h12  |---------|---------|---------|---------|---------|---------|---------|---------|   12p9  |---------|
+E  |   9h12  |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|   12p9  |
+Rule: pick once per group; the second tone must arrive in time and at equal volume. Pre-fret the pull-off target.
+
+POSITION 4 - FIFTH-DEGREE FRAME - FRETS 11-14 - ROOTS A12, G14
+  Low E  frets 12-14  notes E-F#     degrees 5-6  fingers 2-4
+  A      frets 12-14  notes A-B      degrees 1-2  fingers 2-4
+  D      frets 11-14  notes C#-E     degrees 3-5  fingers 1-4
+  G      frets 11-14  notes F#-A     degrees 6-1  fingers 1-4
+  B      frets 12-14  notes B-C#     degrees 2-3  fingers 2-4
+  High e frets 12-14  notes E-F#     degrees 5-6  fingers 2-4
+24-TONE LEGATO CELL
+Nte|   EhF#  |   AhB   |   C#hE  |   F#hA  |   BhC#  |   EhF#  |   F#pE  |   C#pB  |   ApF#  |   EpC#  |   BpA   |   F#pE  |
+Deg|   5h6   |   1h2   |   3h5   |   6h1   |   2h3   |   5h6   |   6p5   |   3p2   |   1p6   |   5p3   |   2p1   |   6p5   |
+Fng|   2h4   |   2h4   |   1h4   |   1h4   |   2h4   |   2h4   |   4p2   |   4p2   |   4p1   |   4p1   |   4p2   |   4p2   |
+Art|    h    |    h    |    h    |    h    |    h    |    h    |    p    |    p    |    p    |    p    |    p    |    p    |
+e  |---------|---------|---------|---------|---------|  12h14  |  14p12  |---------|---------|---------|---------|---------|
+B  |---------|---------|---------|---------|  12h14  |---------|---------|  14p12  |---------|---------|---------|---------|
+G  |---------|---------|---------|  11h14  |---------|---------|---------|---------|  14p11  |---------|---------|---------|
+D  |---------|---------|  11h14  |---------|---------|---------|---------|---------|---------|  14p11  |---------|---------|
+A  |---------|  12h14  |---------|---------|---------|---------|---------|---------|---------|---------|  14p12  |---------|
+E  |  12h14  |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|  14p12  |
+Rule: pick once per group; the second tone must arrive in time and at equal volume. Pre-fret the pull-off target.
+
+POSITION 5 - SIXTH-DEGREE FRAME - FRETS 14-17 - ROOTS E17, G14, e17
+  Low E  frets 14-17  notes F#-A     degrees 6-1  fingers 1-4
+  A      frets 14-16  notes B-C#     degrees 2-3  fingers 1-3
+  D      frets 14-16  notes E-F#     degrees 5-6  fingers 1-3
+  G      frets 14-16  notes A-B      degrees 1-2  fingers 1-3
+  B      frets 14-17  notes C#-E     degrees 3-5  fingers 1-4
+  High e frets 14-17  notes F#-A     degrees 6-1  fingers 1-4
+24-TONE LEGATO CELL
+Nte|   F#hA  |   BhC#  |   EhF#  |   AhB   |   C#hE  |   F#hA  |   ApF#  |   EpC#  |   BpA   |   F#pE  |   C#pB  |   ApF#  |
+Deg|   6h1   |   2h3   |   5h6   |   1h2   |   3h5   |   6h1   |   1p6   |   5p3   |   2p1   |   6p5   |   3p2   |   1p6   |
+Fng|   1h4   |   1h3   |   1h3   |   1h3   |   1h4   |   1h4   |   4p1   |   4p1   |   3p1   |   3p1   |   3p1   |   4p1   |
+Art|    h    |    h    |    h    |    h    |    h    |    h    |    p    |    p    |    p    |    p    |    p    |    p    |
+e  |---------|---------|---------|---------|---------|  14h17  |  17p14  |---------|---------|---------|---------|---------|
+B  |---------|---------|---------|---------|  14h17  |---------|---------|  17p14  |---------|---------|---------|---------|
+G  |---------|---------|---------|  14h16  |---------|---------|---------|---------|  16p14  |---------|---------|---------|
+D  |---------|---------|  14h16  |---------|---------|---------|---------|---------|---------|  16p14  |---------|---------|
+A  |---------|  14h16  |---------|---------|---------|---------|---------|---------|---------|---------|  16p14  |---------|
+E  |  14h17  |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|  17p14  |
+Rule: pick once per group; the second tone must arrive in time and at equal volume. Pre-fret the pull-off target.
+
+========================================================================================================================
+MODULE B - ONE-PICK FIVE-TONE SEAM CHAINS
+========================================================================================================================
+Phrase rule: lower note h shared anchor / upper note \ shared anchor p lower note. Pick only the first tone.
+Do not hold a rigid wide stretch at the outer destination. Release the lower finger during the outward slide and
+replant it during the return so the final pull-off is prepared. First use one tone per click; later use quintuplets.
+
+SEAM P1 <-> P2
+Low E  E|5h7/9\7p5|             Deg 1-2-3-2-1   Notes A-B-C#-B-A        Work finger 3
+A      A|4h7/9\7p4|             Deg 3-5-6-5-3   Notes C#-E-F#-E-C#      Work finger 4
+D      D|4h7/9\7p4|             Deg 6-1-2-1-6   Notes F#-A-B-A-F#       Work finger 4
+G      G|4h6/9\6p4|             Deg 2-3-5-3-2   Notes B-C#-E-C#-B       Work finger 3
+B      B|5h7/10\7p5|            Deg 5-6-1-6-5   Notes E-F#-A-F#-E       Work finger 3
+High e e|5h7/9\7p5|             Deg 1-2-3-2-1   Notes A-B-C#-B-A        Work finger 3
+One phrase = 5 sounding tones / 1 pick attack. The slide arrival and final pull-off remain on the subdivision.
+
+SEAM P2 <-> P3
+Low E  E|7h9/12\9p7|            Deg 2-3-5-3-2   Notes B-C#-E-C#-B       Work finger 3
+A      A|7h9/12\9p7|            Deg 5-6-1-6-5   Notes E-F#-A-F#-E       Work finger 3
+D      D|7h9/11\9p7|            Deg 1-2-3-2-1   Notes A-B-C#-B-A        Work finger 3
+G      G|6h9/11\9p6|            Deg 3-5-6-5-3   Notes C#-E-F#-E-C#      Work finger 4
+B      B|7h10/12\10p7|          Deg 6-1-2-1-6   Notes F#-A-B-A-F#       Work finger 4
+High e e|7h9/12\9p7|            Deg 2-3-5-3-2   Notes B-C#-E-C#-B       Work finger 3
+One phrase = 5 sounding tones / 1 pick attack. The slide arrival and final pull-off remain on the subdivision.
+
+SEAM P3 <-> P4
+Low E  E|9h12/14\12p9|          Deg 3-5-6-5-3   Notes C#-E-F#-E-C#      Work finger 4
+A      A|9h12/14\12p9|          Deg 6-1-2-1-6   Notes F#-A-B-A-F#       Work finger 4
+D      D|9h11/14\11p9|          Deg 2-3-5-3-2   Notes B-C#-E-C#-B       Work finger 3
+G      G|9h11/14\11p9|          Deg 5-6-1-6-5   Notes E-F#-A-F#-E       Work finger 3
+B      B|10h12/14\12p10|        Deg 1-2-3-2-1   Notes A-B-C#-B-A        Work finger 3
+High e e|9h12/14\12p9|          Deg 3-5-6-5-3   Notes C#-E-F#-E-C#      Work finger 4
+One phrase = 5 sounding tones / 1 pick attack. The slide arrival and final pull-off remain on the subdivision.
+
+SEAM P4 <-> P5
+Low E  E|12h14/17\14p12|        Deg 5-6-1-6-5   Notes E-F#-A-F#-E       Work finger 3
+A      A|12h14/16\14p12|        Deg 1-2-3-2-1   Notes A-B-C#-B-A        Work finger 3
+D      D|11h14/16\14p11|        Deg 3-5-6-5-3   Notes C#-E-F#-E-C#      Work finger 4
+G      G|11h14/16\14p11|        Deg 6-1-2-1-6   Notes F#-A-B-A-F#       Work finger 4
+B      B|12h14/17\14p12|        Deg 2-3-5-3-2   Notes B-C#-E-C#-B       Work finger 3
+High e e|12h14/17\14p12|        Deg 5-6-1-6-5   Notes E-F#-A-F#-E       Work finger 3
+One phrase = 5 sounding tones / 1 pick attack. The slide arrival and final pull-off remain on the subdivision.
+
+========================================================================================================================
+MODULE C - WHOLE-STEP BEND INTONATION
+========================================================================================================================
+Core cell: play the target fret; play the source and bend to the target; play the source and bend-release;
+finish by re-playing the target with narrow vibrato. Four attacks per site. Bend toward the center of the neck.
+Use the ring finger supported by the index and middle fingers where practical. Mute adjacent strings.
+
+G      G|--6----4b(6)----4b(6)r4----6~~~~--|                B(2) -> C#(3)
+G      G|--11----9b(11)----9b(11)r9----11~~~~--|            E(5) -> F#(6)
+G      G|--16----14b(16)----14b(16)r14----16~~~~--|         A(1) -> B(2)
+B      B|--7----5b(7)----5b(7)r5----7~~~~--|                E(5) -> F#(6)
+B      B|--12----10b(12)----10b(12)r10----12~~~~--|         A(1) -> B(2)
+B      B|--14----12b(14)----12b(14)r12----14~~~~--|         B(2) -> C#(3)
+High e e|--7----5b(7)----5b(7)r5----7~~~~--|                A(1) -> B(2)
+High e e|--9----7b(9)----7b(9)r7----9~~~~--|                B(2) -> C#(3)
+High e e|--14----12b(14)----12b(14)r12----14~~~~--|         E(5) -> F#(6)
+
+========================================================================================================================
+MODULE D - PRE-BEND RELEASES AND PITCH-CENTERED VIBRATO
+========================================================================================================================
+Pre-bend rule: reach the target pitch silently before attacking. The listener should hear the target first, then the
+controlled release. The final bend reaches the same target and adds narrow vibrato only after the pitch is stable.
+
+G      G|--11----9pb(11)r9----9b(11)~~~~--|                 E(5) -> F#(6)
+G      G|--16----14pb(16)r14----14b(16)~~~~--|              A(1) -> B(2)
+B      B|--7----5pb(7)r5----5b(7)~~~~--|                    E(5) -> F#(6)
+B      B|--12----10pb(12)r10----10b(12)~~~~--|              A(1) -> B(2)
+High e e|--9----7pb(9)r7----7b(9)~~~~--|                    B(2) -> C#(3)
+High e e|--14----12pb(14)r12----12b(14)~~~~--|              E(5) -> F#(6)
+
+A-ROOT VIBRATO MAP
+  Low E  fret  5  A degree 1  hold four beats with narrow wrist vibrato
+  D      fret  7  A degree 1  hold four beats with narrow wrist vibrato
+  B      fret 10  A degree 1  hold four beats with narrow wrist vibrato
+  A      fret 12  A degree 1  hold four beats with narrow wrist vibrato
+  G      fret 14  A degree 1  hold four beats with narrow wrist vibrato
+  Low E  fret 17  A degree 1  hold four beats with narrow wrist vibrato
+  High e fret  5  A degree 1  hold four beats with narrow wrist vibrato
+  High e fret 17  A degree 1  hold four beats with narrow wrist vibrato
+Vibrato passes: 4 pulses per whole note; 6 pulses per whole note; then free vibrato while returning to the
+original pitch between pulses. On a bent note, reach the target first and vibrate around that target.
+
+========================================================================================================================
+MODULE E - FIVE POSITION EXPRESSIVE CADENCES
+========================================================================================================================
+1. POSITION 1 CADENCE - BEND, RELEASE, AND ROOT VIBRATO - frets 4-7 - 4 PICK ATTACKS
+e|--5h7p5--------------------------|
+B|----------7p5--------------------|
+G|--------------4b(6)r4------------|
+D|----------------------7~~~~------|
+A|---------------------------------|
+E|---------------------------------|
+Degrees: 1-2-1 | 6-5 | 2-bend-to-3-release-2 | 1
+Notes:   A-B-A | F#-E | B-C#-B | A
+
+2. POSITION 2 CADENCE - LEGATO, SEAM SLIDE, BEND, AND ROOT - frets 6-10 - 4 PICK ATTACKS
+e|----------------7b(9)r7----------|
+B|--------7/10------------10~~~~--|
+G|--6h9p6-------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+Degrees: 3-5-3 | 6-slide-to-1 | 2-bend-to-3-release-2 | 1
+Notes:   C#-E-C# | F#-A | B-C#-B | A
+
+3. POSITION 3 CADENCE - PAIRED LEGATO, BEND, AND TONIC RETURN - frets 9-12 - 4 PICK ATTACKS
+e|--9h12p9-------------------------|
+B|----------10h12p10--------10~~~~|
+G|--------------------9b(11)r9-----|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+Degrees: 3-5-3 | 1-2-1 | 5-bend-to-6-release-5 | 1
+Notes:   C#-E-C# | A-B-A | E-F#-E | A
+
+4. POSITION 4 CADENCE - TOP-STRING LEGATO, BEND, AND SLIDE TO ROOT - frets 11-14 - 3 PICK ATTACKS
+e|--12h14p12-----------------------|
+B|------------12b(14)r12-----------|
+G|----------------------11/14~~~~--|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+Degrees: 5-6-5 | 2-bend-to-3-release-2 | 6-slide-to-1
+Notes:   E-F#-E | B-C#-B | F#-A
+
+5. POSITION 5 CADENCE - OCTAVE FRAME AND FINAL A RESOLUTION - frets 14-17 - 4 PICK ATTACKS
+e|--14h17p14----------------17~~~~|
+B|------------17p14----------------|
+G|------------------14b(16)r14-----|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+Degrees: 6-1-6 | 5-3 | 1-bend-to-2-release-1 | 1
+Notes:   F#-A-F# | E-C# | A-B-A | A
+
+Linking rule: practice each cadence alone, then play P1-P5 with one bar of rest between phrases. Finally remove
+the rests. Continue alternate picking through the actual attacks; do not add an attack to a hammer, pull, slide,
+bend arrival, release, or held vibrato note.
+
+========================================================================================================================
+PRACTICE PROGRESSION
+========================================================================================================================
+1. Map the notation and say the A-major-pentatonic notes and degrees before playing.
+2. Complete one Position 1 legato cell at one sounding tone per click.
+3. Play all five Module A cells with both D-start and U-start attack cycles.
+4. Add one seam page; keep all five tones equal from a single attack.
+5. Calibrate one bend site by alternating the fretted target and bent target.
+6. Complete all nine bend cells without overshooting, sagging, or adjacent-string noise.
+7. Add pre-bend releases, then the eight A-root vibrato holds.
+8. Play the five cadences separately, then link them without extra attacks.
+
+ERROR DIAGNOSIS
+WEAK HAMMER: strike closer to the fret with less travel; do not squeeze harder with the thumb.
+EMPTY PULL-OFF: keep the destination fretted and use a tiny lateral pluck rather than simply lifting.
+LATE SLIDE: shorten the motion; the arrival fret is a counted tone, not transportation.
+FLAT BEND: support the bending finger, rotate the wrist, and compare directly with the target fret.
+SHARP BEND: stop pushing after the target; hold the pitch before adding vibrato.
+WIDE VIBRATO: reduce the motion until every pulse returns to the pitch center.
+STRING NOISE: mute above the bend with the fretting index and below it with the picking hand.
+PAIN OR TENSION: stop. Do not force the whole-step bend or substitute a one-and-a-half-step bend.
+
+ADVANCEMENT RULES
+Add 2 BPM after three clean runs at the current module length. After two errors, reduce 4-6 BPM or isolate one
+string, seam, bend, or cadence. Intonation outranks speed. Use a clean tone until the pitch and muting are stable.
+
+MASTERY GATE BEFORE LEVEL 37
+Play all five legato cells with equal picked and unpicked volume; execute all 24 one-pick seam chains without an
+extra attack; match all nine whole-step bends to their fretted targets; perform six pre-bend releases without a
+scoop; hold all eight A roots with controlled vibrato; link the five cadence phrases on two separate days; and
+identify the note and degree of every bend source, bend target, and final root.
+
+PRACTICE LOG
+Date | Focus | D/U | BPM | Pitch clean? | Weak articulation / site | Next target
+____ | _____ | ___ | ___ | ____________ | ________________________ | ___________
+____ | _____ | ___ | ___ | ____________ | ________________________ | ___________
+____ | _____ | ___ | ___ | ____________ | ________________________ | ___________
+____ | _____ | ___ | ___ | ____________ | ________________________ | ___________
+
+NEXT LEVEL
+Level 37 applies A major pentatonic to I-IV-V harmony, targeting chord tones over A, D, and E major instead of
+treating every scale tone as equally stable.

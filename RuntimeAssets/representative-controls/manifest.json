@@ -1,0 +1,183 @@
+{
+  "version": "lesson-bundle.1",
+  "content_version": "representative-controls.1",
+  "entries": {
+    "package": "Content/controls/representative-v1/package.json",
+    "registry": "Content/controls/representative-v1/identity-registry.json",
+    "profile": "Content/controls/representative-v1/expected-profile.json",
+    "decision": "Results/20260908T140243Z-2.1.1.3.1-r02-evidence/consumer-disposition.json"
+  },
+  "files": [
+    {
+      "path": "Content/controls/representative-v1/expected-profile.json",
+      "sha256": "22c82db322f36d78e744b3445173f7d0a3f4f686ead209293c2416f0db308aed",
+      "bytes": 281140
+    },
+    {
+      "path": "Content/controls/representative-v1/identity-allocation.json",
+      "sha256": "84ce491159ea6d56aa47b4b1f504ada04d1e68bee62c78ea7051b319a4927e53",
+      "bytes": 12137
+    },
+    {
+      "path": "Content/controls/representative-v1/identity-registry.json",
+      "sha256": "fa64b6d9e0a937415c5c52ff96e050de89f5eb31b989e0fd3e4b97eb9adfb6a8",
+      "bytes": 13488
+    },
+    {
+      "path": "Content/controls/representative-v1/package.json",
+      "sha256": "0ecd2b1466a7b16e10ca6221299b3b1b21c197ff13cd5df9f038e307673aea8b",
+      "bytes": 242298
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "bytes": 43264
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_97_Recording_Led_Repertoire_Reconstruction_Audio_to_Form_Harmony_Groove_Riffs_Arrangement_and_Performance.pdf",
+      "sha256": "208d88c99d8c1c81d68ff2dcb3b396b1092153254ef280fe567e1b3c3741b307",
+      "bytes": 45729
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.pdf",
+      "sha256": "3571f063bdafa8a3acb9a52f542d6f490516d75e325f55ea29915111659e5c5c",
+      "bytes": 48628
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/output/pdf/Guitar_Complete_105_Level_Printable_Collection.pdf",
+      "sha256": "522c69965b8038af99d061465171067f31265d5d93f70f64ca57bd3803c8f093",
+      "bytes": 20195182
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Guitar_Tablature.txt",
+      "sha256": "0f5719945456692fc4c40ce3b06e0cd742b61b7f8615ad465b9f26832cd08842",
+      "bytes": 36189
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.txt",
+      "sha256": "1bb8d5225f2db8df2b3ce518f10f28e11158592e0b5cbbb4c28af2742c861b4f",
+      "bytes": 140780
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.txt",
+      "sha256": "793cf5eab18d4501b7b1d7317caeb89b91719e4b71d7cadff9f905afb4a56bf5",
+      "bytes": 1857
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.txt",
+      "sha256": "8487f1d1bc949e79509de98b10e1888200d48ddf8651d98979634e44b9fc20c3",
+      "bytes": 21942
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_58_Sixteenth_Note_Rhythm_Guitar_Syncopation_Dead_Strokes_Chord_Releases_Anticipations_Funk_Comping_and_Full_Song_Capstone.txt",
+      "sha256": "e0c153f77a6c917056b7f17c876b2431336b40cb93bf484708230296b472acd4",
+      "bytes": 18083
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIV_Level_97_Recording_Led_Repertoire_Reconstruction_Audio_to_Form_Harmony_Groove_Riffs_Arrangement_and_Performance.txt",
+      "sha256": "afb5b139ae7f24a1ce62b6deed53e4c5d09970e87f67be5024b25894f3ba506d",
+      "bytes": 1623
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.txt",
+      "sha256": "12561dfc8c1d81b710cb2d429b52e2d9574ea5fd7bfa65d0bf1f1b575682bb85",
+      "bytes": 1908
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.txt",
+      "sha256": "63df8ae138ca4587315a04f239818057db44c990c3a6fac3ce9f82244a46aa28",
+      "bytes": 18931
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_29_Natural_Minor_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "543d98fa9279f39d8975d6b00cd43e5f5aebbb94c5e59fe7771f63af8d8244e5",
+      "bytes": 161748
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_12_Major_Scale_One_Fret_Neck_Ladder.txt",
+      "sha256": "64e65f5293012f9af3c84a885cbdd54c82275f6c6e282c8f8a28cca579631be9",
+      "bytes": 13087
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514",
+      "bytes": 42020
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_39_F_Sharp_Minor_Pentatonic_Re_Centering_Workbook.txt",
+      "sha256": "24dfc7b858a2211ff28c47861967e5c10831002c95ea345363ae8270e17ccccd",
+      "bytes": 25219
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_48_A_Blues_Call_and_Response_and_Improvisation_Synthesis_Fixed_Key_A.txt",
+      "sha256": "76b77483351d84ee3af830b96fb08d9c95fcf944cb353e356e85974da18ed511",
+      "bytes": 70913
+    },
+    {
+      "path": "Results/20260906124133Z-2.1.1.1.1-r01-evidence/identity-manifest.json",
+      "sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe",
+      "bytes": 85171
+    },
+    {
+      "path": "Results/20260906T182131Z-2.1.1.1.1-r02-results.md",
+      "sha256": "e908e9c1fa1f17ffce70b671f23eade4c08afc9d50b43f7b8fb7000aa39195b9",
+      "bytes": 3485
+    },
+    {
+      "path": "Results/20260906T182702Z-2.1.1.2.1-r01-evidence/pdf-passages.json",
+      "sha256": "b5c79aab249d512d5c480e0053c7fa4a61cf88cb4bdb923629465a4612c988a2",
+      "bytes": 8178
+    },
+    {
+      "path": "Results/20260906T182702Z-2.1.1.2.1-r01-results.md",
+      "sha256": "14aa5c5a3af28d22e9bff400bf833c751a38071bf9524fd6c9ddcd13c693bcf4",
+      "bytes": 4373
+    },
+    {
+      "path": "Results/20260906T184530Z-2.4.1.1.1-r01-evidence/plan.json",
+      "sha256": "cb3c3f7a47343ac0255dbdb8bf53411af6dd7b929c101b04d00ed62d6e3f637a",
+      "bytes": 24880
+    },
+    {
+      "path": "Results/20260907T132728Z-4.1.1.1.1-r01-evidence/fixture-map.json",
+      "sha256": "d57299f78d26f80928c427175d7a52316a80148db9e9bfdcf8ecbd1107ea57d3",
+      "bytes": 6708
+    },
+    {
+      "path": "Results/20260907T132728Z-4.1.1.1.1-r01-evidence/model-contract.md",
+      "sha256": "0b49ab2374075cdac1c1eee01dd18179ea5e2039114d1252e62d992e5e5c825a",
+      "bytes": 7048
+    },
+    {
+      "path": "Results/20260907T190643Z-11.1.1.1.1-r01-evidence/valid-controls-05.json",
+      "sha256": "47f02ee12d0fe1f782cd1b4f9d1102e5f94325950be66e07ab54f10253d8d898",
+      "bytes": 88063
+    },
+    {
+      "path": "Results/20260907T200002Z-2.1.1.3.1-r01-evidence/reviewer/resource_plan_inputs/late-controls/new-selected-passages.json",
+      "sha256": "c571730465276c8253dc215be430b3f5f936a8a56235e14d80f83ca5bed4ec5e",
+      "bytes": 14068
+    },
+    {
+      "path": "Results/20260907T200002Z-2.1.1.3.1-r01-evidence/reviewer/resource_plan_inputs/late-controls/passage-classification.json",
+      "sha256": "c5e34903bec9bae2d06bd4450faabd32ede82714a7be66ff95dfb6a8406c8619",
+      "bytes": 20503
+    },
+    {
+      "path": "Results/20260907T200002Z-2.1.1.3.1-r01-evidence/reviewer/resource_plan_inputs/route-oracle/selected-passages.json",
+      "sha256": "ac7c7e7015576bd73a9629025507364c5eb937cba055a3e54d9609f440d641c4",
+      "bytes": 14906
+    },
+    {
+      "path": "Results/20260908T140243Z-2.1.1.3.1-r02-evidence/consumer-disposition.json",
+      "sha256": "e10359bfabf8d0c481447c592a62fe8c2d255f3bebb85d9b5872552447ae4164",
+      "bytes": 29112
+    },
+    {
+      "path": "Results/20260908T140243Z-2.1.1.3.1-r02-evidence/reviewer/source_closure_review/final01/final-review.json",
+      "sha256": "b7958502d6ab7964acb16b7af4329655888758f5d4fc53a8122fb0818f49df86",
+      "bytes": 12910
+    }
+  ],
+  "scope": "13 accepted selected local cases; instruction and structural TAB admission only; no whole-workbook or playback admission"
+}

@@ -1,0 +1,18 @@
+{
+  "authority": "Root-released exact Level80 R02 supplemental canonical IDs; one-case installed candidate",
+  "records": {
+    "fg:item:001179": {
+      "legacy_level": 80,
+      "occurrences": {
+        "GV-L080-PASS1-1": "fg:item:001179:event:0001",
+        "GV-L080-PASS1-2": "fg:item:001179:event:0002",
+        "GV-L080-PASS1-3": "fg:item:001179:event:0003",
+        "GV-L080-PASS1-4": "fg:item:001179:event:0004"
+      },
+      "variants": {
+        "GV-L080-MA-Cmaj7-EFGE-pass1": "fg:variant:007696"
+      }
+    }
+  },
+  "version": "control-allocation.1"
+}

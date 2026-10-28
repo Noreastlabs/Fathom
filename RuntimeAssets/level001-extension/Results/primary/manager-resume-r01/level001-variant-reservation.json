@@ -1,0 +1,54 @@
+{
+  "schema": "fathom-level001-manager-variant-reservation.1",
+  "utc": "2026-09-25T20:35:11.041551+00:00",
+  "status": "RESERVED_FOR_EXACT_PRIVATE_LEVEL001_GENERATION",
+  "decision": "Accept independent audit and reserve exact216 entries",
+  "decision_owner": "/root",
+  "allocation_proposal": {
+    "path": "Build/manager-resume-r01/level001-variant-allocation-proposal.json",
+    "sha256": "eff8a0a0dbe3bd5ab41f8425541bbc076fe9e908b8569e54057bd9369efedf0b",
+    "bytes": 121768
+  },
+  "independent_review": {
+    "path": "Results/manager-resume-r01/level001-allocation-review/decision.json",
+    "sha256": "83cb77280d8c2894f2353bb6a7592e399a0936ef8872bc27dadbc329ad34bb18",
+    "reviewer": "/root/level001_contract_review",
+    "manifest_sha256": "e7b9c8fee8bd1c3a804ff2d1ce6ffb5fc71aa1765d8f42b2ebb90a2886f9c740",
+    "root_verified_entries": 74
+  },
+  "contract_adoption": {
+    "path": "Results/primary/manager-resume-r01/level001-contract-adoption.md",
+    "sha256": "cacbddae4be0d6a726a001eded413c5df6f5b2832c522ac7b2d5dfeae228251d"
+  },
+  "reserved_kind": "variant",
+  "first": "fg:variant:007478",
+  "last": "fg:variant:007693",
+  "count": 216,
+  "mapping_authority": "Only the exact216 proposal entries,108 existing source-ordinal D/U pairs; range itself is not a derivation rule",
+  "assigned_private_producer": "/root/level001_contract_review in separate level001-whole-candidate-r01 roots after new full template",
+  "future_distinct_source_reviewer": "/root/p02_serial after Learn producer freeze, separately released",
+  "candidate_content_version": "level001-full-route-quarter-pulse-108-candidate.1",
+  "fresh_pre_reservation": {
+    "typed_union_count": 6604,
+    "typed_union_sha256": "6e8389a9a3ab50d7cbf019a0a87b0c075341633ff4b4b9ca8f76cdade9bc952b",
+    "collisions": [],
+    "prior_ledger_sha256": "bec49f569ea46772bbc14366076ac1b270e37ff1077583c15085a7794c6ff0d3",
+    "external_oracle": "fresh20:34UTC snapshot idle, same revision2/completedturn, no released new allocation wave"
+  },
+  "restrictions": [
+    "No new item/module/event IDs; preserve all original objects and all unrelated current659/6336 heads.",
+    "No shared Content/Source/Tests/CMake/Tools/Planning/WBS edits; P02 retains Learn shared/heavy/native/GUI slot.",
+    "Reservation alone grants no native/source-candidate/admission/installed/whole-workbook/WBS acceptance.",
+    "Private materialization requires separate exact release, input rehash and recognition of this own reservation; any unrelated collision refuses.",
+    "Do not reuse this range for another packet or silently reallocate if candidate needs correction. Original proposal and audit remain immutable."
+  ],
+  "accepted_counts_unchanged": {
+    "cases": 50,
+    "variants": 123,
+    "source_entries": 188,
+    "playable_cases": 39,
+    "workbook_identities": 33,
+    "whole_workbooks": 0,
+    "parents": "40/58"
+  }
+}

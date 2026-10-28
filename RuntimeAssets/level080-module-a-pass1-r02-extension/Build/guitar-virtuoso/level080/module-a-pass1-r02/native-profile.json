@@ -1,0 +1,307 @@
+{
+  "authority_artifacts": [
+    {
+      "path": "Results/guitar-virtuoso/level080/module-a-pass1-r01/source-manifest.json",
+      "role": "source_manifest",
+      "sha256": "9774b44ab3c4fff7b21b0511e1b41b64f5d0ed8ce6116080a2b93776ab997e65"
+    },
+    {
+      "path": "Results/guitar-virtuoso/level080/module-a-pass1-r01/provisional-authority.md",
+      "role": "source_acceptance",
+      "sha256": "d885deec3707686e93b39e3a1dde5fb387a6c2ab595d1504493c30acf5d7c527"
+    },
+    {
+      "path": "Results/guitar-virtuoso/level080/module-a-pass1-r01/source-choice-ledger.json",
+      "role": "authored_authority_ledger",
+      "sha256": "6f3cebf9437ef33b808f0e343dd5dd399f9ff814fbe8d7d7d57f40d7bd112ece"
+    },
+    {
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/identity-baseline.json",
+      "role": "identity_baseline",
+      "sha256": "65d55f7117349b050750b6c8bc5337b69807e625acf22cbafc6b5ff1f21d4dd6"
+    },
+    {
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/allocation-baseline.json",
+      "role": "allocation_baseline",
+      "sha256": "cdbb3545775a1c08245e77b99ae59fc5e74046d87f853f1bc01496ea9e873945"
+    },
+    {
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/lineage-baseline.json",
+      "role": "lineage_baseline",
+      "sha256": "93c7d42e37ae94d28316ca242b017c5e810230b1fb86e12805829ad9552dfee9"
+    },
+    {
+      "path": "Build/guitar-virtuoso/level080/module-a-pass1-r01/candidate-allocation.json",
+      "role": "candidate_identity_allocation",
+      "sha256": "b4e6de5d1468abf0ce66efeb4eb71c608d3b9f0deaac44dcfcc39a3ee238baea"
+    }
+  ],
+  "classification": "converted_candidate_reference",
+  "degree_roots": {},
+  "event_sources": {
+    "fg:item:080901:event:0001": "GV-L080-MA-PASS1-AUTHORED",
+    "fg:item:080901:event:0002": "GV-L080-MA-PASS1-AUTHORED",
+    "fg:item:080901:event:0003": "GV-L080-MA-PASS1-AUTHORED",
+    "fg:item:080901:event:0004": "GV-L080-MA-PASS1-AUTHORED"
+  },
+  "profile_version": "expected-profile.1",
+  "reference_package": {
+    "content_version": "gv-l080-ma-pass1-private-r01",
+    "records": [
+      {
+        "ambiguities": [
+          "Printed x-5-5-3 route does not determine four exact E-F-G-E guitar contacts.",
+          "Printed chord-melody alternation is broader study context; Pass1 explicitly melody only.",
+          "Source fixes no onset, duration, octave, finger, pick direction or acoustic gate."
+        ],
+        "authored_text_refs": [
+          "GV-L080-MA-PASS1-AUTHORED"
+        ],
+        "content_revision": 1,
+        "context": {
+          "capo": 0,
+          "local_code": "GV-L080-MA-PASS1-private",
+          "route": "high-e single-note first-pass reduction",
+          "tuning_open_midi": [
+            40,
+            45,
+            50,
+            55,
+            59,
+            64
+          ]
+        },
+        "control_scope": {
+          "basis_refs": [
+            "L080-TXT-MODULE-A-L26-27",
+            "L080-PDF-P3-MODULE-A",
+            "GV-L080-MA-PASS1-AUTHORED"
+          ],
+          "extent": "selected_illustration",
+          "local_case": "GV-L080-MA-PASS1-private",
+          "source_event_count": 4,
+          "unresolved": [],
+          "whole_workbook_complete": false
+        },
+        "events": [
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": [
+              1,
+              1
+            ],
+            "event_id": "fg:item:080901:event:0001",
+            "finger": "O",
+            "fret": 0,
+            "kind": "note",
+            "midi": 64,
+            "onset_q": [
+              0,
+              1
+            ],
+            "spelling": "E",
+            "string": 6,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": [
+              1,
+              1
+            ],
+            "event_id": "fg:item:080901:event:0002",
+            "finger": 1,
+            "fret": 1,
+            "kind": "note",
+            "midi": 65,
+            "onset_q": [
+              1,
+              1
+            ],
+            "spelling": "F",
+            "string": 6,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": [
+              1,
+              1
+            ],
+            "event_id": "fg:item:080901:event:0003",
+            "finger": 3,
+            "fret": 3,
+            "kind": "note",
+            "midi": 67,
+            "onset_q": [
+              2,
+              1
+            ],
+            "spelling": "G",
+            "string": 6,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": [
+              1,
+              1
+            ],
+            "event_id": "fg:item:080901:event:0004",
+            "finger": "O",
+            "fret": 0,
+            "kind": "note",
+            "midi": 64,
+            "onset_q": [
+              3,
+              1
+            ],
+            "spelling": "E",
+            "string": 6,
+            "tie_from": null
+          }
+        ],
+        "id": "fg:item:080901",
+        "kind": "notation",
+        "legacy_level": 80,
+        "lineage": {
+          "kind": "new"
+        },
+        "module_id": "fg:module:080901",
+        "normalization": [
+          {
+            "basis": "GV-L080-MA-PASS1-AUTHORED",
+            "kind": "representation_metadata",
+            "text": "Fathom-authored contacts/timing ledger sha256 6f3cebf9437ef33b808f0e343dd5dd399f9ff814fbe8d7d7d57f40d7bd112ece; PDF p3 Pass1 melody only; broader chord/melody pattern not sounded."
+          }
+        ],
+        "resource_requirements": [],
+        "rubric": null,
+        "runtime_eligible": false,
+        "source_refs": [
+          "L080-TXT-MODULE-A-L26-27",
+          "L080-PDF-P3-MODULE-A",
+          "GV-L080-MA-PASS1-AUTHORED"
+        ],
+        "status": "converted_candidate",
+        "timing": {
+          "basis": "Fathom-authored four equal quarter slots q0-4, preserving printed E-F-G-E order; 4/4 and 72 BPM illustrative",
+          "meter": [
+            4,
+            4
+          ],
+          "status": "unresolved",
+          "unit": "quarter"
+        },
+        "title": "Level80 Module A Cmaj7 E-F-G-E melody-only Pass1 Fathom realization",
+        "variants": [
+          {
+            "accent_policy": "source_unspecified",
+            "event_ids": [
+              "fg:item:080901:event:0001",
+              "fg:item:080901:event:0002",
+              "fg:item:080901:event:0003",
+              "fg:item:080901:event:0004"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "source_event_time",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": null,
+              "source_label": "Source pitch order; quarter-note placement Fathom-authored"
+            },
+            "id": "fg:variant:080901",
+            "label": "GV-L080-MA-Cmaj7-EFGE-pass1",
+            "pick_start": null,
+            "pick_start_origin": "not_applicable",
+            "role": "reference",
+            "route": "Fathom-authored high-e E-F-G-E melody-only first pass",
+            "source_refs": [
+              "L080-TXT-MODULE-A-L26-27",
+              "L080-PDF-P3-MODULE-A",
+              "GV-L080-MA-PASS1-AUTHORED"
+            ],
+            "tail_pause": null,
+            "unresolved": []
+          }
+        ],
+        "workbook_id": "fg:workbook:000080"
+      }
+    ],
+    "schema_version": "1.0.0-curriculum-candidate",
+    "source_acceptance": "Results/guitar-virtuoso/level080/module-a-pass1-r01/provisional-authority.md",
+    "source_manifest_sha256": "9774b44ab3c4fff7b21b0511e1b41b64f5d0ed8ce6116080a2b93776ab997e65",
+    "sources": {
+      "GV-L080-MA-PASS1-AUTHORED": {
+        "first_line": 1,
+        "format": "txt",
+        "last_line": 4,
+        "path": "Results/guitar-virtuoso/level080/module-a-pass1-r01/authored-realization.txt",
+        "sha256": "11701831a73e5fca67e4fe53c38aa1e521812f79b912b3bdfeb22cd215d329a2",
+        "text": "fg:item:080901:event:0001 slot1 E4 MIDI64 high-e string6 fret0 fingerO picked onset_q0 duration_q1; Fathom-authored contact and timing; source pitch name retained\nfg:item:080901:event:0002 slot2 F4 MIDI65 high-e string6 fret1 finger1 picked onset_q1 duration_q1; Fathom-authored contact and timing; source pitch name retained\nfg:item:080901:event:0003 slot3 G4 MIDI67 high-e string6 fret3 finger3 picked onset_q2 duration_q1; Fathom-authored contact and timing; source pitch name retained\nfg:item:080901:event:0004 slot4 E4 MIDI64 high-e string6 fret0 fingerO picked onset_q3 duration_q1; Fathom-authored contact and timing; source pitch name retained",
+        "text_sha256": "b168d7361d50056db5f9d64d5f21a822cced81a18668dff79c0402858de65369"
+      },
+      "L080-PDF-P3-MODULE-A": {
+        "format": "pdf",
+        "page": 3,
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_80_Chord_Melody_Independent_Voice_Control_Bass_Melody_Inner_Guide_Tones_and_Simultaneous_Accompaniment_Lead.pdf",
+        "sha256": "cf99966ce9d5bd155d738dd30866a26fe0c30e2d633107393cf856bcb29c9afc",
+        "text": "Guitar Exercises - Section XI, Level 80\nModule A - melody-on-top voicing control, studies 1-3\n3 STUDIES  |  48 EVENTS\nTOP VOICE MOVES; LOWER CHORD BODY REMAINS AS STABLE AS PRACTICAL\nCmaj7 - melody E-F-G-E\nMelody: E-F-G-E\nHigh-e/B route: x-5-5-3\nPattern: chord - melody - chord - melody\ntop line ascends then resolves\nPass 1: melody only. Pass 2: sustain bass + one guide tone. Pass 3: full voicing. Pass 4: remove one inner voice without changing\nmelody timing.\nDm7 - melody F-G-A-F\nMelody: F-G-A-F\nHigh-e/B route: 6-8-10-6\nPattern: chord - melody - chord - melody\nkeep D bass stable\nPass 1: melody only. Pass 2: sustain bass + one guide tone. Pass 3: full voicing. Pass 4: remove one inner voice without changing\nmelody timing.\nG7 - melody B-C-D-B\nMelody: B-C-D-B\nHigh-e/B route: 12-13-15-12\nPattern: chord - melody - chord - melody\nhear 3-11-5-3\nPass 1: melody only. Pass 2: sustain bass + one guide tone. Pass 3: full voicing. Pass 4: remove one inner voice without changing\nmelody timing.\nChord melody and independent-voice control: bass, inner guide tones, top-line melody, substitutions, and simultaneous accompaniment/lead.\nPage 3 of 20\n",
+        "text_sha256": "374eb3920d17abaeb01af680779891522a06c5003e95a8f7766dd902b5b78f6a"
+      },
+      "L080-TXT-MODULE-A-L26-27": {
+        "first_line": 26,
+        "format": "txt",
+        "last_line": 27,
+        "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_80_Chord_Melody_Independent_Voice_Control_Bass_Melody_Inner_Guide_Tones_and_Simultaneous_Accompaniment_Lead.txt",
+        "sha256": "e2297c8404a4041af1289e095fcace5012e5079698b0d7c32ff1bf77808de8b6",
+        "text": "MODULE A - MELODY ON TOP\nCmaj7: melody E-F-G-E; route x-5-5-3; top line ascends then resolves.",
+        "text_sha256": "63b9837e869e77e0028a41a72f11796c56aa54043191185fadde2ed62a5c86fa"
+      }
+    }
+  },
+  "reference_registry": {
+    "entities": [
+      {
+        "id": "fg:course:000001",
+        "kind": "course",
+        "label": "Fathom Guitar105",
+        "parent": null
+      },
+      {
+        "id": "fg:workbook:000080",
+        "kind": "workbook",
+        "label": "Legacy Level80 private reference",
+        "parent": "fg:course:000001"
+      },
+      {
+        "id": "fg:module:080901",
+        "kind": "module",
+        "label": "Module A Pass1 Fathom supplement",
+        "parent": "fg:workbook:000080"
+      },
+      {
+        "id": "fg:item:080901",
+        "kind": "item",
+        "label": "Module A Pass1 Fathom supplement",
+        "parent": "fg:module:080901"
+      },
+      {
+        "id": "fg:variant:080901",
+        "kind": "variant",
+        "label": "Fathom EFGE first pass",
+        "parent": "fg:item:080901"
+      }
+    ],
+    "identity_version": 1,
+    "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber."
+  },
+  "resource_plan": null
+}

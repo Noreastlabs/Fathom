@@ -1,0 +1,8 @@
+{
+  "version": "level001-installed-empty-resource-plan.1",
+  "availability": "none_supplied",
+  "resources": [],
+  "source_profile_resource_plan": null,
+  "source_timing": "unresolved",
+  "fathom_authored_quarter_grid": true
+}

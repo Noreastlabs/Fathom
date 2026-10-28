@@ -1,0 +1,127 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 16384,
+      "bytes": 15681,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/level004-ex010-runtime-decision-r01/full-template-prompt.md",
+      "role": "decision_prompt",
+      "sha256": "9488fc38aed1d2cc08bdd9aad26db74f0339283d8548c4e96a9e11e81ee50c4a"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6630,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex010-runtime-decision-r01/check.py",
+      "role": "private_checker",
+      "sha256": "8cdcff8b23e211f1ec4d54cf032fd5511d2e844018d0e5684a5b2601f185d589"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 643,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex010-runtime-decision-r01/checks.json",
+      "role": "private_checks",
+      "sha256": "4b84370931a3a817c4bf1aa1ba2cb96f73f611b2ffc3a8142fe36a0de52981fe"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4330,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex010-runtime-decision-r01/manifest-before-time-correction.json",
+      "role": "superseded_manifest",
+      "sha256": "a9deb76b8e76673e254dd7aa1613c2a1e84f2630d611a1298acd233f76dd8147"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3630,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex010-runtime-decision-r01/decision.md",
+      "role": "human_readable_decision",
+      "sha256": "06103abbef492018dd232a68331dcc53327615c10a339bbc019e4e3ea0762370"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1807,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex010-runtime-decision-r01/decision.json",
+      "role": "typed_decision",
+      "sha256": "551b23b87a863f3f1687de1f0ab9fef2767b38c5a6ff8d441b371f91eae58586"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 723,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex010-runtime-decision-r01/failure-trace.md",
+      "role": "checker_correction",
+      "sha256": "2a5b4116c6f9b9d8f27c3c85b9f68949765110d119ca1724ffa3ca5944441350"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 470,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex010-runtime-decision-r01/lease-close.json",
+      "role": "lease_closure",
+      "sha256": "ab7ebb5533344fc6b4ffcbabec5887e235eabb1ea0d83f903704d94d7a24e251"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1068,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex010-runtime-decision-r01/git-state.json",
+      "role": "scoped_git_state",
+      "sha256": "dd1dac1468f628cd7c73fa410753f39f562ba2ed076ac26435cdf64d810f335a"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3193,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/20260930T1158Z-level004-ex010-prospective-runtime-decision-release.md",
+      "role": "manager_release",
+      "sha256": "7e330d703b153cee0b1b2aba861ffd1949e8e43fac4126fd5a45303b3157c991"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2290,
+      "kind": "file",
+      "path": "Results/primary/20260930T1005Z-level004-ex010-source-adoption.md",
+      "role": "source_adoption",
+      "sha256": "b24090027a3c227cccfd66a113bd2c5c53cce7c8902ca9024a3ad81ad97c1438"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2810,
+      "kind": "file",
+      "path": "Results/primary/20260930T1035Z-level004-ex010-curriculum-adoption.md",
+      "role": "curriculum_adoption",
+      "sha256": "46a01cd5fd2b9b08d7084979a7d43fb8950d9c1588eb1621567260b6648b67c3"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2182,
+      "kind": "file",
+      "path": "Results/primary/20260930T1155Z-level004-ex010-private-native-adoption.md",
+      "role": "native_adoption",
+      "sha256": "930544980dfb219c7b736cc41c64d1d4d2128a1e6201fe467eff48b0ef5d159e"
+    },
+    {
+      "allocated_bytes": 28672,
+      "bytes": 26528,
+      "kind": "file",
+      "path": "Results/parallel-02/level004-ex010-case-bound-r01/manifest.json",
+      "role": "native_producer_manifest",
+      "sha256": "92f8e741983419899e3794d7d90a6da3ea1de6cf3b5cc75ef2f2c11dff0082f9"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7874,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex010-native-review-r01/manifest.json",
+      "role": "native_review_manifest",
+      "sha256": "4caf9bb20875a58901667db8d805ec98520d89232f5bcc94c547a694858d957c"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

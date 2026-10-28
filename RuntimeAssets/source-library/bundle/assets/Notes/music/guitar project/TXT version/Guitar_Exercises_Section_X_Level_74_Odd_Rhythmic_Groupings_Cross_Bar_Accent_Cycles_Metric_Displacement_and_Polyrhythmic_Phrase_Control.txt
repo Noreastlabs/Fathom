@@ -1,0 +1,429 @@
+GUITAR EXERCISES - SECTION X, LEVEL 74
+ODD RHYTHMIC GROUPINGS, CROSS-BAR ACCENT CYCLES, METRIC DISPLACEMENT, AND POLYRHYTHMIC PHRASE CONTROL
+
+PURPOSE
+Change the perceived rhythmic center without losing the meter, barline, harmony, or pulse. Train groups of 3, 5, and 7 over the sixteen-note 4/4 grid; metric displacement; quintuplet and septuplet subdivisions; 3:2 and 4:3 polyrhythms; 5/4 and 7/8; and full-form harmonic application.
+
+CORE ARITHMETIC
+4/4 contains 16 sixteenth-note slots per bar.
+Group of 3 returns after 48 slots = 3 bars = 16 groups.
+Group of 5 returns after 80 slots = 5 bars = 16 groups.
+Group of 7 returns after 112 slots = 7 bars = 16 groups.
+
+COMPLETE WRITTEN WORKLOAD
+Module A: 240 notated contacts.
+Module B: 64 notated contacts.
+Module C: 192 notated contacts.
+Module D: 108 notated contacts.
+Module E: 108 notated contacts.
+Module F: 192 notated contacts.
+Module G: 64 notated contacts.
+Module H: 200 notated contacts.
+TOTAL: 1168 notated contacts before diagnostic repeats and silent passes.
+
+========================================================================================================================
+MODULE A - CROSS-BAR ACCENT CYCLES
+========================================================================================================================
+
+GROUP OF 3: 3 bars, 48 contacts, 16 accents
+Route: A3(C) - D2(E) - G0(G)
+Bar 1|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |>-------->-------->-------->-------->-------->--|
+Grp   |1--------2--------3--------4--------5--------6--|
+Nte   |C--E--G--C--E--G--C--E--G--C--E--G--C--E--G--C--|
+
+Bar 2|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |------>-------->-------->-------->-------->-----|
+Grp   |------7--------8--------9--------10-------11----|
+Nte   |E--G--C--E--G--C--E--G--C--E--G--C--E--G--C--E--|
+
+Bar 3|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |--->-------->-------->-------->-------->--------|
+Grp   |---12-------13-------14-------15-------16-------|
+Nte   |G--C--E--G--C--E--G--C--E--G--C--E--G--C--E--G--|
+
+Rule: continue both note order and accent count through every barline.
+
+GROUP OF 5: 5 bars, 80 contacts, 16 accents
+Route: A3(C) - D2(E) - G0(G) - G4(B) - B3(D)
+Bar 1|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |>-------------->-------------->-------------->--|
+Grp   |1--------------2--------------3--------------4--|
+Nte   |C--E--G--B--D--C--E--G--B--D--C--E--G--B--D--C--|
+
+Bar 2|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |------------>-------------->-------------->-----|
+Grp   |------------5--------------6--------------7-----|
+Nte   |E--G--B--D--C--E--G--B--D--C--E--G--B--D--C--E--|
+
+Bar 3|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |--------->-------------->-------------->--------|
+Grp   |---------8--------------9--------------10-------|
+Nte   |G--B--D--C--E--G--B--D--C--E--G--B--D--C--E--G--|
+
+Bar 4|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |------>-------------->-------------->-----------|
+Grp   |------11-------------12-------------13----------|
+Nte   |B--D--C--E--G--B--D--C--E--G--B--D--C--E--G--B--|
+
+Bar 5|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |--->-------------->-------------->--------------|
+Grp   |---14-------------15-------------16-------------|
+Nte   |D--C--E--G--B--D--C--E--G--B--D--C--E--G--B--D--|
+
+Rule: continue both note order and accent count through every barline.
+
+GROUP OF 7: 7 bars, 112 contacts, 16 accents
+Route: A3(C) - D0(D) - D2(E) - D3(F) - D5(G) - G2(A) - G4(B)
+Bar 1|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |>-------------------->-------------------->-----|
+Grp   |1--------------------2--------------------3-----|
+Nte   |C--D--E--F--G--A--B--C--D--E--F--G--A--B--C--D--|
+
+Bar 2|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |--------------->-------------------->-----------|
+Grp   |---------------4--------------------5-----------|
+Nte   |E--F--G--A--B--C--D--E--F--G--A--B--C--D--E--F--|
+
+Bar 3|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |--------->-------------------->-----------------|
+Grp   |---------6--------------------7-----------------|
+Nte   |G--A--B--C--D--E--F--G--A--B--C--D--E--F--G--A--|
+
+Bar 4|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |--->-------------------->-------------------->--|
+Grp   |---8--------------------9--------------------10-|
+Nte   |B--C--D--E--F--G--A--B--C--D--E--F--G--A--B--C--|
+
+Bar 5|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |------------------>-------------------->--------|
+Grp   |------------------11-------------------12-------|
+Nte   |D--E--F--G--A--B--C--D--E--F--G--A--B--C--D--E--|
+
+Bar 6|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |------------>-------------------->--------------|
+Grp   |------------13-------------------14-------------|
+Nte   |F--G--A--B--C--D--E--F--G--A--B--C--D--E--F--G--|
+
+Bar 7|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Acc   |------>-------------------->--------------------|
+Grp   |------15-------------------16-------------------|
+Nte   |A--B--C--D--E--F--G--A--B--C--D--E--F--G--A--B--|
+
+Rule: continue both note order and accent count through every barline.
+
+========================================================================================================================
+MODULE B - METRIC DISPLACEMENT
+========================================================================================================================
+Motif: C-E-G-B-A-G-E-D
+Route: A3(C) - D2(E) - G0(G) - G4(B) - G2(A) - G0(G) - D2(E) - D0(D)
+
+B1: start on 1 of bar 1
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Nte  |C--E--G--B--A--G--E--D--------------------------|------------------------------------------------|
+
+
+B2: start on e of bar 1
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Nte  |---C--E--G--B--A--G--E--D-----------------------|------------------------------------------------|
+
+
+B3: start on & of bar 1
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Nte  |------C--E--G--B--A--G--E--D--------------------|------------------------------------------------|
+
+
+B4: start on a of bar 1
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Nte  |---------C--E--G--B--A--G--E--D-----------------|------------------------------------------------|
+
+
+B5: start on 4 of beat 4 / cross-bar area
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Nte  |------------------------------------C--E--G--B--|A--G--E--D--------------------------------------|
+
+
+B6: start on e of beat 4 / cross-bar area
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Nte  |---------------------------------------C--E--G--|B--A--G--E--D-----------------------------------|
+
+
+B7: start on & of beat 4 / cross-bar area
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Nte  |------------------------------------------C--E--|G--B--A--G--E--D--------------------------------|
+
+
+B8: start on a of beat 4 / cross-bar area
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Nte  |---------------------------------------------C--|E--G--B--A--G--E--D-----------------------------|
+
+
+========================================================================================================================
+MODULE C - QUINTUPLETS, SEPTUPLETS, AND RATE CONVERSION
+========================================================================================================================
+C1 single-note quintuplets: 20 A notes, five per beat.
+C2 Cmaj9 quintuplets: C-E-G-B-D once per beat, four beats.
+C3 five-beat accent rotation: accent slots 1, 2, 3, 4, then 5.
+Beat 1: > . . . .
+Beat 2: . > . . .
+Beat 3: . . > . .
+Beat 4: . . . > .
+Beat 5: . . . . >
+
+C4 single-note septuplets: 28 A notes, seven per beat.
+C5 scale septuplets: C-D-E-F-G-A-B once per beat, four beats.
+C6 seven-beat accent rotation:
+Beat 1: > . . . . . .
+Beat 2: . > . . . . .
+Beat 3: . . > . . . .
+Beat 4: . . . > . . .
+Beat 5: . . . . > . .
+Beat 6: . . . . . > .
+Beat 7: . . . . . . >
+
+C7 rate ladder:
+Beat 1: 4 notes C-E-G-B
+Beat 2: 5 notes C-E-G-B-D
+Beat 3: 6 notes C-D-E-G-A-B
+Beat 4: 7 notes C-D-E-F-G-A-B
+Total: 22 tones.
+
+========================================================================================================================
+MODULE D - POLYRHYTHMIC PHRASE CONTROL
+========================================================================================================================
+
+3:2 Cmaj7 - root C, upper E, locations A3 / B5
+Count|1---triplet-2---triplet-3---triplet-4---triplet-|
+2-pul|C-----------C-----------C-----------C-----------|
+3-pul|E-------E-------E-------E-------E-------E-------|
+
+
+3:2 Am7 - root A, upper C, locations E5 / B1
+Count|1---triplet-2---triplet-3---triplet-4---triplet-|
+2-pul|A-----------A-----------A-----------A-----------|
+3-pul|C-------C-------C-------C-------C-------C-------|
+
+
+3:2 Dm7 - root D, upper F, locations A5 / B6
+Count|1---triplet-2---triplet-3---triplet-4---triplet-|
+2-pul|D-----------D-----------D-----------D-----------|
+3-pul|F-------F-------F-------F-------F-------F-------|
+
+
+3:2 G7 - root G, upper B, locations E3 / B0
+Count|1---triplet-2---triplet-3---triplet-4---triplet-|
+2-pul|G-----------G-----------G-----------G-----------|
+3-pul|B-------B-------B-------B-------B-------B-------|
+
+
+4:3 Cmaj7 - lower pulse C, upper pulse E, beat-4 resolution C
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+3-pul|C-----------C-----------C-----------------------|
+4-pul|E--------E--------E--------E--------------------|
+Beat4|------------------------------------C-----------|
+
+
+4:3 Am7 - lower pulse A, upper pulse C, beat-4 resolution A
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+3-pul|A-----------A-----------A-----------------------|
+4-pul|C--------C--------C--------C--------------------|
+Beat4|------------------------------------A-----------|
+
+
+4:3 Dm7 - lower pulse D, upper pulse F, beat-4 resolution D
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+3-pul|D-----------D-----------D-----------------------|
+4-pul|F--------F--------F--------F--------------------|
+Beat4|------------------------------------D-----------|
+
+
+4:3 G7 - lower pulse G, upper pulse B, beat-4 resolution G
+Count|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+3-pul|G-----------G-----------G-----------------------|
+4-pul|B--------B--------B--------B--------------------|
+Beat4|------------------------------------G-----------|
+
+Transition cell 1: Cmaj7 3:2 -> G7 4:3. 18 tones.
+Transition cell 2: Am7 3:2 -> E7 4:3. 18 tones.
+
+========================================================================================================================
+MODULE E - ASYMMETRICAL METERS
+========================================================================================================================
+
+E1 - C major scale, 3+2
+Group 3+2    |>----------------------->---------------|
+Notes          |C---D---E---F---G---A---B---C---D---E---|
+
+Repeat for two bars: 20 contacts.
+
+E2 - C major scale, 2+3
+Group 2+3    |>--------------->-----------------------|
+Notes          |C---D---E---F---G---A---B---C---D---E---|
+
+Repeat for two bars: 20 contacts.
+
+E3 - Cmaj7 for 3 beats, G7 for 2
+Group 3+2    |>----------------------->---------------|
+Notes          |C---E---G---C---E---G---B---D---F---G---|
+
+Repeat for two bars: 20 contacts.
+
+E4 - Am7 for 2 beats, Dm7 for 3
+Group 2+3    |>--------------->-----------------------|
+Notes          |A---C---E---G---A---D---F---A---C---D---|
+
+Repeat for two bars: 20 contacts.
+
+E5 - 2+2+3
+Group 2+2+3  |>------->------->-----------|
+Notes          |C---D---E---F---G---A---B---|
+
+One bar: 7 contacts.
+
+E6 - 3+2+2
+Group 3+2+2  |>----------->------->-------|
+Notes          |C---D---E---F---G---A---B---|
+
+One bar: 7 contacts.
+
+E7 - 2+3+2
+Group 2+3+2  |>------->----------->-------|
+Notes          |C---D---E---F---G---A---B---|
+
+One bar: 7 contacts.
+
+E8 - chord-color route 2+2+3
+Group 2+2+3  |>------->------->-----------|
+Notes          |C---E---D---F---G---B---D---|
+
+One bar: 7 contacts.
+
+========================================================================================================================
+MODULE F - HARMONIC ACCENT CYCLES
+========================================================================================================================
+F1 group of 3 over | Cmaj7 | Am7 | Dm7 | G7 |
+Bar 1 Cmaj7|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |>-------->-------->-------->-------->-------->--|
+Notes      |C--E--G--C--E--G--C--E--G--C--E--G--C--E--G--C--|
+Bar 2 Am7  |1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |------>-------->-------->-------->-------->-----|
+Notes      |A--C--E--A--C--E--A--C--E--A--C--E--A--C--E--A--|
+Bar 3 Dm7  |1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |--->-------->-------->-------->-------->--------|
+Notes      |D--F--A--D--F--A--D--F--A--D--F--A--D--F--A--D--|
+Bar 4 G7   |1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |>-------->-------->-------->-------->-------->--|
+Notes      |G--B--D--G--B--D--G--B--D--G--B--D--G--B--D--G--|
+
+F2 group of 5 over | Cmaj7 | Am7 | Dm7 | G7 |
+Bar 1 Cmaj7|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |>-------------->-------------->-------------->--|
+Notes      |C--E--G--B--D--C--E--G--B--D--C--E--G--B--D--C--|
+Bar 2 Am7  |1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |------------>-------------->-------------->-----|
+Notes      |A--C--E--G--B--A--C--E--G--B--A--C--E--G--B--A--|
+Bar 3 Dm7  |1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |--------->-------------->-------------->--------|
+Notes      |D--F--A--C--E--D--F--A--C--E--D--F--A--C--E--D--|
+Bar 4 G7   |1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |------>-------------->-------------->-----------|
+Notes      |G--B--D--F--A--G--B--D--F--A--G--B--D--F--A--G--|
+
+F3 group of 7 over | Cmaj7 | Dm7 | G7 | Cmaj7 |
+Bar 1 Cmaj7|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |>-------------------->-------------------->-----|
+Notes      |C--D--E--F--G--A--B--C--D--E--F--G--A--B--C--D--|
+Bar 2 Dm7  |1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |--------------->-------------------->-----------|
+Notes      |D--E--F--G--A--B--C--D--E--F--G--A--B--C--D--E--|
+Bar 3 G7   |1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |--------->-------------------->-----------------|
+Notes      |G--A--B--C--D--E--F--G--A--B--C--D--E--F--G--A--|
+Bar 4 Cmaj7|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|
+Accent     |--->-------------------->-------------------->--|
+Notes      |C--D--E--F--G--A--B--C--D--E--F--G--A--B--C--D--|
+
+
+========================================================================================================================
+MODULE G - DISPLACED CALL AND RESPONSE
+========================================================================================================================
+Question: C-E-G-B on quarter notes in bar 1.
+Answer: A-G-E-D as four sixteenths in bar 2.
+
+G1: answer begins on 1 of bar 2
+Q|C-----E-----G-----B-----|
+A|A--G--E--D--------------------------------------|
+
+G2: answer begins on e of bar 2
+Q|C-----E-----G-----B-----|
+A|---A--G--E--D-----------------------------------|
+
+G3: answer begins on & of bar 2
+Q|C-----E-----G-----B-----|
+A|------A--G--E--D--------------------------------|
+
+G4: answer begins on a of bar 2
+Q|C-----E-----G-----B-----|
+A|---------A--G--E--D-----------------------------|
+
+G5: answer begins on 2 of bar 2
+Q|C-----E-----G-----B-----|
+A|------------A--G--E--D--------------------------|
+
+G6: answer begins on e of bar 2
+Q|C-----E-----G-----B-----|
+A|---------------A--G--E--D-----------------------|
+
+G7: answer begins on & of bar 2
+Q|C-----E-----G-----B-----|
+A|------------------A--G--E--D--------------------|
+
+G8: answer begins on a of bar 2
+Q|C-----E-----G-----B-----|
+A|---------------------A--G--E--D-----------------|
+
+========================================================================================================================
+MODULE H - SIXTEEN-BAR CAPSTONE
+========================================================================================================================
+Bars 1-3: group-of-3 cycle over Cmaj7-Am7-Dm7. 48 tones.
+Bars 4-8: group-of-5 cycle over G7-Cmaj7-Am7-Dm7-G7. 80 tones.
+Bars 9-12: metric motif starts on 1, e, &, then a of beat 1. 32 tones.
+Bars 13-16: 3:2 polyrhythm over Cmaj7-Am7-Dm7-G7. 40 tones.
+Final close: whole-note Cmaj7 after bar 16; not included in the 200-tone capstone count.
+
+========================================================================================================================
+PRACTICE PROGRESSION, ERROR REPAIR, AND MASTERY
+========================================================================================================================
+1. 1. Clap full group-of-3 cycle.
+2. 2. Clap full group-of-5 cycle.
+3. 3. Clap full group-of-7 cycle.
+4. 4. Add pitch cells without changing accents.
+5. 5. Complete eight metric displacements.
+6. 6. Play quintuplet and septuplet cells.
+7. 7. Separate and combine 3:2 voices.
+8. 8. Separate and combine 4:3 voices.
+9. 9. Perform 5/4 and 7/8 studies.
+10. 10. Record the sixteen-bar capstone.
+
+ERROR DIAGNOSIS
+ACCENT ADDS A NOTE: return to even attacks and change volume only.
+BARLINE MOVES: tap quarters and speak bar numbers.
+GROUP RESTARTS: continue global event count across the barline.
+QUINTUPLET RUSHES: practice one beat and land the next click.
+SEPTUPLET COLLAPSES: reduce tempo and accent only note 1.
+POLYRHYTHM MERGES: play each voice alone, then alternate.
+ODD METER FEELS SHORT: count large groups, not imaginary 4/4.
+DISPLACED MOTIF LOST: sing the motif before moving its onset.
+
+MASTERY GATE
+- Complete the full 3-, 5-, and 7-group accent cycles without restarting at a barline.
+- Perform all eight metric-displacement cells with the motif identity intact.
+- Play quintuplets and septuplets evenly and complete the 4-5-6-7 rate ladder.
+- Perform all 3:2 and 4:3 cells with distinct lower and upper voices.
+- Play all four 5/4 studies and all four 7/8 studies with the announced grouping.
+- Apply 3-, 5-, and 7-group accents through the printed chord progressions.
+- Complete all eight displaced call-and-response pairs.
+- Perform the sixteen-bar capstone from memory on two separate days.
+
+NEXT LEVEL
+Level 75 will apply modulation and advanced rhythm to repertoire analysis, arrangement, cue-based section changes, and complete-performance orchestration.

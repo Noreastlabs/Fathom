@@ -1,0 +1,131 @@
+Guitar Exercises - Section XI, Level 80
+CHORD MELODY, INDEPENDENT VOICE CONTROL, BASS, MELODY, INNER GUIDE TONES, AND SIMULTANEOUS ACCOMPANIMENT/LEAD
+
+PURPOSE
+Carry melody, harmony, bass motion, and inner guide-tone movement at the same time without losing pulse, form, or melodic priority.
+
+VOICE PRIORITY
+1. top melody
+2. bass
+3. guide tones
+4. extensions / color
+
+WRITTEN WORKLOAD
+A. Melody-on-top voicing control: 96 events
+B. Bass-line independence: 96 events
+C. Inner guide-tone motion: 96 events
+D. Four-voice drop-and-release studies: 96 events
+E. Chord-substitution melody reharmonization: 96 events
+F. Counterpoint and contrary-motion cells: 96 events
+G. Simultaneous accompaniment/lead patterns: 128 events
+H. Eight-bar chord-melody arrangements: 160 events
+I. Sixteen-bar complete chord-melody capstone: 128 events
+J. Recovery, reduction, and performance audit: 64 events
+TOTAL: 1056 events
+
+MODULE A - MELODY ON TOP
+Cmaj7: melody E-F-G-E; route x-5-5-3; top line ascends then resolves.
+Dm7: melody F-G-A-F; route 6-8-10-6; keep D bass stable.
+G7: melody B-C-D-B; route 12-13-15-12; hear 3-11-5-3.
+Am7: melody C-D-E-C; route 13-15-17-13; minor-third identity.
+Fmaj7: melody A-B-C-A; route 10-12-13-10; 3-#11?-5-3; treat B as passing color.
+Cmaj7: melody G-A-B-G; route 8-10-12-8; 5-6-7-5.
+
+MODULE B - BASS INDEPENDENCE
+Cmaj7: bass C-B-A-G; harmony Cmaj7 -> Cmaj7/B -> Am7 -> G7.
+Am7: bass A-G-F-E; harmony Am7 -> G7 -> Fmaj7 -> E7.
+Dm7: bass D-C-B-A; harmony Dm7 -> Cmaj7 -> Bm7b5 -> Am7.
+G7: bass G-F-E-D; harmony G7 -> Fmaj7 -> Em7 -> Dm7.
+C major walkup: bass C-D-E-F; harmony Cmaj7 -> Dm7 -> Em7 -> Fmaj7.
+A minor walkup: bass A-B-C-D; harmony Am7 -> Bm7b5 -> Cmaj7 -> Dm7.
+
+MODULE C - INNER GUIDE TONES
+Cmaj7 -> Am7: voice1 B -> C; voice2 E -> E; bass C -> A.
+Dm7 -> G7: voice1 C -> B; voice2 F -> F; bass D -> G.
+G7 -> Cmaj7: voice1 F -> E; voice2 B -> B; bass G -> C.
+Bm7b5 -> E7: voice1 A -> G#; voice2 D -> D; bass B -> E.
+E7 -> Am7: voice1 D -> C; voice2 G# -> G; bass E -> A.
+Fmaj7 -> G7: voice1 E -> F; voice2 A -> B; bass F -> G.
+
+MODULE D - FOUR-VOICE DROP AND RELEASE
+Six coordination cells: all voices, melody-only insertions, bass-only insertions, dyad call/response, build-from-fragments, and clean cutoff.
+
+MODULE E - MELODY-PRESERVING SUBSTITUTION
+E melody: Cmaj7 -> Am7; function change E = 3 -> 5.
+G melody: Cmaj7 -> Em7; function change G = 5 -> b3.
+A melody: Fmaj7 -> Am7; function change A = 3 -> root.
+C melody: Am7 -> Fmaj7; function change C = b3 -> 5.
+D melody: G7 -> Dm7; function change D = 5 -> root.
+B melody: G7 -> Em7; function change B = 3 -> 5.
+F melody: Dm7 -> G7; function change F = b3 -> b7.
+C melody: Fmaj7 -> Dm7; function change C = 5 -> b7.
+
+MODULE F - COUNTERPOINT
+Cell 1: bass C-D-E-F; melody G-F-E-D; contrary.
+Cell 2: bass A-G-F-E; melody C-D-E-F; contrary.
+Cell 3: bass D-E-F-G; melody F-E-D-C; contrary.
+Cell 4: bass G-F-E-D; melody B-C-D-E; contrary.
+Cell 5: bass C-B-A-G; melody E-E-F-F; oblique.
+Cell 6: bass A-B-C-D; melody E-D-C-B; contrary.
+
+MODULE G - SIMULTANEOUS ACCOMPANIMENT AND LEAD
+Bass + melody: P - m - P - a -; thumb/pick bass, finger melody.
+Shell + melody: P m a m | P m a m; shell sustains under line.
+Chord hit + answer: ALL - - M | - M - -; short chord then top-line response.
+Pedal bass: P m P a | P m P a; repeat root under melody.
+Inner pedal: P m a m; hold guide tone, move top.
+Broken chord: P i m a; low to high arpeggio.
+Reverse broken chord: a m i P; high to low answer.
+Syncopated melody: P - m a | - m - a; melody avoids bass accents.
+
+MODULE H - FOUR EIGHT-BAR ARRANGEMENTS
+Arrangement 1 - C major ballad
+| Cmaj7 | Am7 | Dm7 | G7 |
+Melody: E G A G | C B A G | F A G F | B A G D
+Bass:   C A D G
+Arrangement 2 - A minor
+| Am7 | Dm7 | E7 | Am7 |
+Melody: C E F E | F A G F | G# B D C | C B A E
+Bass:   A D E A
+Arrangement 3 - ii-V-I
+| Dm7 | G7 | Cmaj7 | Cmaj7 |
+Melody: F A C A | B D F D | E G B G | E D C G
+Bass:   D G C C
+Arrangement 4 - modulating
+| Cmaj7 | Am7 | D7 | Gmaj7 |
+Melody: E G A G | C B A E | F# A C A | B A G D
+Bass:   C A D G
+
+MODULE I - SIXTEEN-BAR CAPSTONE
+Bar 1: Cmaj7; melody target E; bass C; statement.
+Bar 2: Am7; melody target C; bass A; answer.
+Bar 3: Dm7; melody target F; bass D; rise.
+Bar 4: G7; melody target B; bass G; cadence.
+Bar 5: Cmaj7; melody target G; bass C; register lift.
+Bar 6: A7; melody target C#; bass A; secondary dominant.
+Bar 7: Dm7; melody target A; bass D; release.
+Bar 8: G7; melody target F; bass G; turnaround.
+Bar 9: Em7; melody target G; bass E; contrast.
+Bar 10: A7; melody target C#; bass A; dominant.
+Bar 11: Dm7; melody target F; bass D; predominant.
+Bar 12: G7; melody target B; bass G; cadence.
+Bar 13: Cmaj7; melody target E; bass C; return.
+Bar 14: Fmaj7; melody target A; bass F; expansion.
+Bar 15: G7; melody target D; bass G; final dominant.
+Bar 16: Cmaj7; melody target C; bass C; tonic close.
+
+MODULE J - RECOVERY
+Melody hidden: remove extension; then keep melody + bass.
+Bass late: remove inner voices; then play bass + melody only.
+Chord change noisy: use shell voicing; then restore full grip later.
+Top note missed: play melody alone next beat; then resume harmony after target.
+Inner note sustains wrongly: release chord body; then let melody continue.
+Right hand confused: return to bass-melody alternation; then rebuild pattern.
+Substitution sounds wrong: restore original chord; then keep melody fixed.
+Form lost: roots + melody target; then re-enter at cadence.
+
+MASTERY
+Pass the 16-bar capstone at 14/16 or better on two separate days, with no zero in melody clarity, bass independence, pulse/form, or recovery.
+
+NEXT
+Level 81: moving inner voices, pedal tones, walking bass, passing diminished chords, drop-2/drop-3 voicings, and longer independent-voice arrangements.

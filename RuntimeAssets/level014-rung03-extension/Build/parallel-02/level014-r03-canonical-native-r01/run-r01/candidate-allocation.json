@@ -1,0 +1,51 @@
+{
+  "authority": "Manager exact same-case ID reservation: Results/primary/20260926T2313Z-level014-r03-canonical-id-guard.md SHA-256 43b3b1716e6a684478ca1ac045d748b9c96e67947d71b57022c44db3f8f370b3; private native reference only; no runtime admission",
+  "records": {
+    "fg:item:001180": {
+      "legacy_level": 14,
+      "occurrences": {
+        "L14-rung03:note:001": "fg:item:001180:event:0001",
+        "L14-rung03:note:002": "fg:item:001180:event:0002",
+        "L14-rung03:note:003": "fg:item:001180:event:0003",
+        "L14-rung03:note:004": "fg:item:001180:event:0004",
+        "L14-rung03:note:005": "fg:item:001180:event:0005",
+        "L14-rung03:note:006": "fg:item:001180:event:0006",
+        "L14-rung03:note:007": "fg:item:001180:event:0007",
+        "L14-rung03:note:008": "fg:item:001180:event:0008",
+        "L14-rung03:note:009": "fg:item:001180:event:0009",
+        "L14-rung03:note:010": "fg:item:001180:event:0010",
+        "L14-rung03:note:011": "fg:item:001180:event:0011",
+        "L14-rung03:note:012": "fg:item:001180:event:0012",
+        "L14-rung03:note:013": "fg:item:001180:event:0013",
+        "L14-rung03:note:014": "fg:item:001180:event:0014",
+        "L14-rung03:note:015": "fg:item:001180:event:0015",
+        "L14-rung03:note:016": "fg:item:001180:event:0016",
+        "L14-rung03:note:017": "fg:item:001180:event:0017",
+        "L14-rung03:note:018": "fg:item:001180:event:0018",
+        "L14-rung03:note:019": "fg:item:001180:event:0019",
+        "L14-rung03:note:020": "fg:item:001180:event:0020",
+        "L14-rung03:note:021": "fg:item:001180:event:0021",
+        "L14-rung03:note:022": "fg:item:001180:event:0022",
+        "L14-rung03:note:023": "fg:item:001180:event:0023",
+        "L14-rung03:note:024": "fg:item:001180:event:0024",
+        "L14-rung03:note:025": "fg:item:001180:event:0025",
+        "L14-rung03:note:026": "fg:item:001180:event:0026",
+        "L14-rung03:note:027": "fg:item:001180:event:0027",
+        "L14-rung03:note:028": "fg:item:001180:event:0028",
+        "L14-rung03:note:029": "fg:item:001180:event:0029",
+        "L14-rung03:note:030": "fg:item:001180:event:0030",
+        "L14-rung03:note:031": "fg:item:001180:event:0031",
+        "L14-rung03:note:032": "fg:item:001180:event:0032",
+        "L14-rung03:note:033": "fg:item:001180:event:0033",
+        "L14-rung03:note:034": "fg:item:001180:event:0034",
+        "L14-rung03:note:035": "fg:item:001180:event:0035",
+        "L14-rung03:note:036": "fg:item:001180:event:0036"
+      },
+      "variants": {
+        "rolling-D-start": "fg:variant:007698",
+        "rolling-U-start": "fg:variant:007699"
+      }
+    }
+  },
+  "version": "control-allocation.1"
+}

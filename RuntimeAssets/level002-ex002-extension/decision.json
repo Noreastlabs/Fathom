@@ -1,0 +1,41 @@
+{
+  "allocation_sha256": "ea105220fbac6589dd95a64427d185436a4f882b392c97a875b044fe3af389f1",
+  "authority_name": "P02 interim agent Curriculum/Product runtime decision owner",
+  "decision": "Only one exact printed Level2 Exercise002 1213 case is eligible for candidate installed Learn/Practice. Native valid_reference exit2 was nonadmitted; this signed agent decision authorizes opt-in catalog rendering after source/identity/manifest validation. Different installed review and manager adoption are still required.",
+  "installed_empty_resource_plan_sha256": "a9f56e56b925499e5a367dde4476312f3a42bcd250e5c87b336d85247cd57d1a",
+  "installed_profile_sha256": "1d78e2e7445e3b4736124ac876e69c07b0adfa1f220287a5fd0f5cd6e21e4b03",
+  "manager_release_sha256": "cbe0aebf8e9230af327ee059625cf6cd72d927534fa598d30ff6e8492bb44ff6",
+  "native_adoption_sha256": "69784a1e9722875e842e64568937ba60de02f61e562ff457fd773a5671c27769",
+  "native_review_sha256": "bc46d1c9fa5f381629b7fdcaf098bb200fd20a2896b0a8f9860d80fe80156261",
+  "original_profile_sha256": "776d41cdcb9ff6db87d56fd29e0523bbbf222408060d2564f5869d4d25395aa6",
+  "package_sha256": "41cf4ebfd29792872813dbcdc1342e40d6e0a020b1eeebd80942cff8622facd0",
+  "registry_sha256": "adea111e58fc2aec5bb49ee38372ff64ebae8c57430320ad8b7ab6d9f6c49d6f",
+  "scope": {
+    "acoustic_sustain": null,
+    "automatic_credit": false,
+    "continuous_alternation_no_turn_reset": "bounded_interpretation",
+    "events": 40,
+    "fixed_bpm": null,
+    "fixed_meter": null,
+    "item_id": "fg:item:001188",
+    "module_id": "fg:module:001188",
+    "performance_assessment": false,
+    "resource_requirements": [],
+    "selected_grouping": "straight_sixteenths",
+    "selected_relative_grid": "q=i/4; duration=1/4; endq=10",
+    "source_authored_starts": [
+      "D",
+      "U"
+    ],
+    "source_extent_kind": "exact_single_printed_unit_candidate",
+    "source_identity": "printed:l002:set-1-of-9-exercises-001-012:exercise-002-1213",
+    "variants": [
+      "fg:variant:007716",
+      "fg:variant:007717"
+    ],
+    "whole_workbook": false
+  },
+  "source_review_sha256": "a946aa7a4c89502d86af334c9f857fd43beb4b9324b3af3ac9dce74c2d7e70f8",
+  "status": "ACCEPTED_FOR_ONE_CASE_RUNTIME_CANDIDATE",
+  "version": "level002-ex002-1213-curriculum-runtime-decision.1"
+}

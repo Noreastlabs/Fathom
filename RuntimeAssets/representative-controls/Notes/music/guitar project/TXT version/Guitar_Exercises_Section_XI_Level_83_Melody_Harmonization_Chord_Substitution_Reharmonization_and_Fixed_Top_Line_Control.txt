@@ -1,0 +1,59 @@
+GUITAR EXERCISES — SECTION XI, LEVEL 83
+Melody Harmonization, Chord Substitution, Reharmonization, and Fixed-Top-Line Control
+
+LEVEL 83 OF 105 — HARD STOP AFTER LEVEL 105
+Complete written workload: 1200 events
+
+CORE HIERARCHY
+1. Melody
+2. Bass destination
+3. Guide tones
+4. Chord body
+5. Color / extension
+
+MODULES
+A. Single melody-note harmonization — 96 events
+B. Diatonic harmonization of short melodies — 128 events
+C. Common-tone chord substitutions — 112 events
+D. Secondary-dominant and diminished substitutions — 112 events
+E. Bass reharmonization beneath a fixed top line — 128 events
+F. Guide-tone and inner-voice preservation — 112 events
+G. Harmonization density and reduction — 96 events
+H. Four eight-bar reharmonization studies — 160 events
+I. Twenty-four-bar melody-first capstone — 192 events
+J. Recovery and choice audit — 64 events
+
+FIXED-TOP-LINE HARMONIZATION
+For each melody note C D E F G A B:
+1. Sing the note.
+2. Play melody alone.
+3. Add bass.
+4. Add shell.
+5. Add complete voicing.
+6. Name the melody's chord role.
+7. Reject substitutions that do not improve function, bass, voice leading, or intentional color.
+
+COMMON-TONE SUBSTITUTIONS
+E: Cmaj7 -> Am7 -> Fmaj7
+G: Cmaj7 -> Em7 -> G7
+C: Am7 -> Fmaj7 -> Cmaj7
+F: Dm7 -> G7 -> Fmaj7
+B: Cmaj7 -> Em7 -> Gmaj7
+A: Dm7 -> Fmaj7 -> Am7
+
+SECONDARY / DIMINISHED COLOR
+Cmaj7 -> A7 -> Dm7
+Cmaj7 -> D7 -> G7
+Gmaj7 -> B7 -> Em7
+Cmaj7 -> C#dim7 -> Dm7
+G7 -> G#dim7 -> Am7
+Fmaj7 -> F#dim7 -> G7
+
+CAPSTONE
+24 bars. Keep the written melody fixed while progressing from diatonic baseline to functional chromatic reharmonization.
+
+MASTERY
+14/16 or better on two separate days. No zero in melody clarity, bass logic, form/pulse, or recovery.
+
+NEXT
+Level 84: complete solo-guitar arrangement capstone — independent melody, walking bass, reharmonization, substitutions, inner voices, dynamics, and uninterrupted performance.

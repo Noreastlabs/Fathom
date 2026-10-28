@@ -1,0 +1,238 @@
+{
+  "reviewer": "/root/resource_plan_inputs/storage_interface_extract",
+  "classification_version": "late-passage-scope.1",
+  "status": "source-scope clarification only; no candidate or Curriculum acceptance",
+  "input_new_selected_passages_sha256": "c571730465276c8253dc215be430b3f5f936a8a56235e14d80f83ca5bed4ec5e",
+  "counts": {
+    "passages": 15,
+    "required_selected_case_instruction": 12,
+    "adjacent_read_only_context": 3
+  },
+  "clarification_of_prior_preparation": "Earlier oracle retained full adjacentL74C/Etext for exact context. This classification controls applicability: those neighboring exercises and L49globallegend are contextual, not additional mandatory converted controls. Required source-level5/7subdivision and5/4,7/8boundaries remain unchanged.",
+  "passages": [
+    {
+      "passage_id": "L49-TXT18-20",
+      "classification": "adjacent_read_only_context",
+      "selected_control": "L49 E/Em voicing definitions",
+      "relation": "Global chord-diagram legend and ergonomics. O/open and string order are already explicit in the selected definitions; X applies to other voicings. Useful contextual link, not an additional exercise or mandatory conversion of the eight open/power-chord family.",
+      "conversion_boundary": "May retain as read-only legend context; do not add ModuleA muting/pressure exercises or whole-workbook workload.",
+      "source_asset_sha256": "8487f1d1bc949e79509de98b10e1888200d48ddf8651d98979634e44b9fc20c3",
+      "passage_text_sha256": "4ffc683e02b3eab2e3504ba0e5832cc54a81f43b43d07c6a984b851b1ba6a36a",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.txt",
+        "format": "txt",
+        "first_line": 18,
+        "last_line": 20
+      }
+    },
+    {
+      "passage_id": "L49-TXT49-63",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L49 E/Em voicing definitions",
+      "relation": "Completes the exact selected ModuleB E/Em definitions. The prior49-61 span stops before Em build order A2→D2 and fingers2–3/addfinger1 instruction at62-63.",
+      "conversion_boundary": "Two distinct untimed voicing alternatives and their build/transition instructions only; no timed strums or other chord families.",
+      "source_asset_sha256": "8487f1d1bc949e79509de98b10e1888200d48ddf8651d98979634e44b9fc20c3",
+      "passage_text_sha256": "8f425c59d87c95f75fbfbafc2a9df6677abf6eb8358e398199a19629d8c10ddc",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.txt",
+        "format": "txt",
+        "first_line": 49,
+        "last_line": 63
+      }
+    },
+    {
+      "passage_id": "L58-TXT4-5",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L58 A1 beat-only mask",
+      "relation": "The continuous1-e-&-a hand-path instruction directly governs the selected A1 grid: all16hand strokes continue through12air strokes and four pitched contacts. The opening reference to Levels49-57 provides background, not extra conversion scope.",
+      "conversion_boundary": "Apply continuous-hand semantics to A1 only. No other14attack masks, referenced chord vocabulary or fullsong conversion; chord/gate remain unbound.",
+      "source_asset_sha256": "e0c153f77a6c917056b7f17c876b2431336b40cb93bf484708230296b472acd4",
+      "passage_text_sha256": "d880d24b647adef2560574b78bc236aa93bd8ba152687580b88916c3a0d3b77d",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_58_Sixteenth_Note_Rhythm_Guitar_Syncopation_Dead_Strokes_Chord_Releases_Anticipations_Funk_Comping_and_Full_Song_Capstone.txt",
+        "format": "txt",
+        "first_line": 4,
+        "last_line": 5
+      }
+    },
+    {
+      "passage_id": "L74-TXT161-189",
+      "classification": "adjacent_read_only_context",
+      "selected_control": "L74 source rhythm boundaries and ModuleD phrase descriptors",
+      "relation": "Adjacent ModuleC shows concrete quintuplet/septuplet/rate examples. The selected overview5-11 already requires quintuplet/septuplet distinctions; the retained181-249 span already includes the C7ladder tail. Inspecting fullC1-C7clarifies context but does not add all those exercises to the accepted selected controls.",
+      "conversion_boundary": "Optional read-only source context. Preserve required5/7subdivision instructions in the selected record; do not require new pitched events, fullC1-C7variants or their performance completion.",
+      "source_asset_sha256": "63df8ae138ca4587315a04f239818057db44c990c3a6fac3ce9f82244a46aa28",
+      "passage_text_sha256": "11cf1ad6b33144ded80c445d859ee776a13f4b24828ed7c53deaba311e6c784d",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.txt",
+        "format": "txt",
+        "first_line": 161,
+        "last_line": 189
+      }
+    },
+    {
+      "passage_id": "L74-TXT249-299",
+      "classification": "adjacent_read_only_context",
+      "selected_control": "L74 source rhythm boundaries and ModuleD phrase descriptors",
+      "relation": "Adjacent ModuleE illustrates asymmetrical-meter groupings. Selected overview5-11 already retains5/4and7/8requirements. Its eight concrete E exercises are neighboring material, not newly selected executable controls.",
+      "conversion_boundary": "Optional read-only meter context. Preserve5/4and7/8requirements; do not convert or requireE1-E8pitched workloads, eight additional tasks or wholeModuleEcompletion.",
+      "source_asset_sha256": "63df8ae138ca4587315a04f239818057db44c990c3a6fac3ce9f82244a46aa28",
+      "passage_text_sha256": "8e1abf1963eae3425fde6de700fb0c12b2ac3053b704d5c5bb1da7a4aa44ee88",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.txt",
+        "format": "txt",
+        "first_line": 249,
+        "last_line": 299
+      }
+    },
+    {
+      "passage_id": "L97-PDF18",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L97 forty-eight-bar recording-led capstone",
+      "relation": "This is the full ModuleI version of the exact48-bar unfamiliar-recording capstone selected atTXT35-40. Its eight bar/section/input/task rows and seven required outputs specify how that chosen capstone is completed. AbbreviatedTXT omits root/function chart, groove map, S/C/Oclassification and memory-take detail.",
+      "conversion_boundary": "Retain those instructions/table with eventless task representation. NoModulesA-Hor1424workbookeventconversion. Self/partner-created practice versus two unfamiliar qualifying excerpts is already settled byC4/R97C; no new source asset/license/import/recorder.",
+      "source_asset_sha256": "208d88c99d8c1c81d68ff2dcb3b396b1092153254ef280fe567e1b3c3741b307",
+      "passage_text_sha256": "21ce6db7926826ada2bc897a33e69f6c81caed6aad1753ec9ed4e3ac66e43c4e",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_97_Recording_Led_Repertoire_Reconstruction_Audio_to_Form_Harmony_Groove_Riffs_Arrangement_and_Performance.pdf",
+        "format": "pdf",
+        "page": 18
+      }
+    },
+    {
+      "passage_id": "L105-PDF20",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Final60-minute integrated exam overview",
+      "relation": "Defines the eight blocks/minute windows of the selected final examination and explicitly permits slight minute shifts while requiring one session with minimal interruption. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "a7cedcf3615dc4c2d009d322f615c846171d060ed2acfd0be9b3bf31745e99c6",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 20
+      }
+    },
+    {
+      "passage_id": "L105-PDF21",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Block1 technique/fretboard",
+      "relation": "Provides four exact0-8minute subtasks and equal weighting of execution and immediate fretboard access. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "9a53be84e92629d8ce7703693ae41c45ab98b22d66baaecc58cf49b545b68915",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 21
+      }
+    },
+    {
+      "passage_id": "L105-PDF22",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Block2 harmony/voicing",
+      "relation": "Provides four exact8-16minute subtasks and requires explanation of every non-diatonic chord. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "5ce9cc39bf0fc8a505c0b75c2ac2ad9c1783c0a4d22da72e8cc9df5036f21d46",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 22
+      }
+    },
+    {
+      "passage_id": "L105-PDF23",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Block3 groove/style",
+      "relation": "Provides four exact16-24minute switches and same-tempo/harmony default unless otherwise chosen; change audible without effects. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "e6a9166a8f96799b74330a66e8065a8add92c728eb7011dac64118abeaafe545",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 23
+      }
+    },
+    {
+      "passage_id": "L105-PDF24",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Block4 ear/reconstruction",
+      "relation": "Provides four exact24-32minute subtasks and prevents spending the entire block on one uncertain extension. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "0a2885f298e0e5672d28b459f4d9124447f4126151df9fca825d3bd014a93dfc",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 24
+      }
+    },
+    {
+      "passage_id": "L105-PDF25",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Block5 improvisation/expression",
+      "relation": "Provides four exact32-40minute subtasks includingReturn/Space/Build/Endcue, mandatory clear motif return and ending. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "b2635c71243961c894ff83684bdb2ecd107d8d8ddf1d8b40618d54c479997ee6",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 25
+      }
+    },
+    {
+      "passage_id": "L105-PDF26",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Block6 repertoire adaptation",
+      "relation": "Provides four exact40-48minute subtasks includingmiddle-sectionstart, role/key adaptation and injected-failure recovery. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "721914e862baa26c749c2c80d8075da80459ea48d2b3a4a3cf72330efab9404f",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 26
+      }
+    },
+    {
+      "passage_id": "L105-PDF27",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Block7 original work",
+      "relation": "Provides three exact48-56minute subtasks: stateidentity/form, complete original or condensed core version,50%reduction/alternatearrangement; retain identity/form/development/return/ending. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "7ff0a29d86ef1e814de58dbcf207646debffd2e15bef014998dd125497b24e19",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 27
+      }
+    },
+    {
+      "passage_id": "L105-PDF28",
+      "classification": "required_selected_case_instruction",
+      "selected_control": "L105 final examination / Block8 reflection/final declaration",
+      "relation": "Completes selected56-60minute reflection with all six one-sentence questions and source-directed futurestudy statement. These are detailed instructions for the exact selected final examination, not an additional workbook/module selection. C4 requires completing the final session without abandonment, so the schedule alone cannot establish selected-case instructional completeness.",
+      "conversion_boundary": "Preserve task text/tables and existingC4rubric/graduation/repairmap. No pitch/event generation from minute windows, hardtimer cutoff, automatic scoring, added Level106, or conversion of preliminaryModulesA-I. Original/adapted-piece presentation and protected domains remain mandatory; reviewer alternative changes repeatability only.",
+      "source_asset_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "passage_text_sha256": "d74513df1ee7b12b5baa98349aa53842b24d87a3d548635573e735dc84917cbd",
+      "exact_locator": {
+        "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+        "format": "pdf",
+        "page": 28
+      }
+    }
+  ],
+  "settled_authority": "C1-C4andRP remain settled. Required human review is of the actual converted candidate at exact versions, not reapproval of these unchanged decisions.",
+  "preserved_files": [
+    "prepare_oracle.py",
+    "new-selected-passages.json",
+    "late-control-oracle.json",
+    "preparation-review.json"
+  ],
+  "new_extraction_performed": false,
+  "production_native_gui_actions": false
+}

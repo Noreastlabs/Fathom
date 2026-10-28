@@ -1,0 +1,1957 @@
+{
+  "rows": [
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 1,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 1,
+      "half": "up",
+      "midi": 48,
+      "native_string": 1,
+      "onset_q": [
+        0,
+        1
+      ],
+      "ordinal": 1,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "E",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 2,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 1,
+      "half": "up",
+      "midi": 50,
+      "native_string": 1,
+      "onset_q": [
+        1,
+        3
+      ],
+      "ordinal": 2,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "E",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 3,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 1,
+      "half": "up",
+      "midi": 52,
+      "native_string": 2,
+      "onset_q": [
+        2,
+        3
+      ],
+      "ordinal": 3,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 2,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 2,
+      "half": "up",
+      "midi": 50,
+      "native_string": 1,
+      "onset_q": [
+        1,
+        1
+      ],
+      "ordinal": 4,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "E",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 3,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 2,
+      "half": "up",
+      "midi": 52,
+      "native_string": 2,
+      "onset_q": [
+        4,
+        3
+      ],
+      "ordinal": 5,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 4,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 2,
+      "half": "up",
+      "midi": 53,
+      "native_string": 2,
+      "onset_q": [
+        5,
+        3
+      ],
+      "ordinal": 6,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 3,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 3,
+      "half": "up",
+      "midi": 52,
+      "native_string": 2,
+      "onset_q": [
+        2,
+        1
+      ],
+      "ordinal": 7,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 4,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 3,
+      "half": "up",
+      "midi": 53,
+      "native_string": 2,
+      "onset_q": [
+        7,
+        3
+      ],
+      "ordinal": 8,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 5,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 3,
+      "half": "up",
+      "midi": 55,
+      "native_string": 2,
+      "onset_q": [
+        8,
+        3
+      ],
+      "ordinal": 9,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 4,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 4,
+      "half": "up",
+      "midi": 53,
+      "native_string": 2,
+      "onset_q": [
+        3,
+        1
+      ],
+      "ordinal": 10,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 5,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 4,
+      "half": "up",
+      "midi": 55,
+      "native_string": 2,
+      "onset_q": [
+        10,
+        3
+      ],
+      "ordinal": 11,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 6,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 4,
+      "half": "up",
+      "midi": 57,
+      "native_string": 3,
+      "onset_q": [
+        11,
+        3
+      ],
+      "ordinal": 12,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 5,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 5,
+      "half": "up",
+      "midi": 55,
+      "native_string": 2,
+      "onset_q": [
+        4,
+        1
+      ],
+      "ordinal": 13,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 6,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 5,
+      "half": "up",
+      "midi": 57,
+      "native_string": 3,
+      "onset_q": [
+        13,
+        3
+      ],
+      "ordinal": 14,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 7,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 5,
+      "half": "up",
+      "midi": 59,
+      "native_string": 3,
+      "onset_q": [
+        14,
+        3
+      ],
+      "ordinal": 15,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 6,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 6,
+      "half": "up",
+      "midi": 57,
+      "native_string": 3,
+      "onset_q": [
+        5,
+        1
+      ],
+      "ordinal": 16,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 7,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 6,
+      "half": "up",
+      "midi": 59,
+      "native_string": 3,
+      "onset_q": [
+        16,
+        3
+      ],
+      "ordinal": 17,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 8,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 6,
+      "half": "up",
+      "midi": 60,
+      "native_string": 3,
+      "onset_q": [
+        17,
+        3
+      ],
+      "ordinal": 18,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 7,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 7,
+      "half": "up",
+      "midi": 59,
+      "native_string": 3,
+      "onset_q": [
+        6,
+        1
+      ],
+      "ordinal": 19,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 8,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 7,
+      "half": "up",
+      "midi": 60,
+      "native_string": 3,
+      "onset_q": [
+        19,
+        3
+      ],
+      "ordinal": 20,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 9,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 7,
+      "half": "up",
+      "midi": 62,
+      "native_string": 4,
+      "onset_q": [
+        20,
+        3
+      ],
+      "ordinal": 21,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 8,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 8,
+      "half": "up",
+      "midi": 60,
+      "native_string": 3,
+      "onset_q": [
+        7,
+        1
+      ],
+      "ordinal": 22,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 9,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 8,
+      "half": "up",
+      "midi": 62,
+      "native_string": 4,
+      "onset_q": [
+        22,
+        3
+      ],
+      "ordinal": 23,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 10,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 8,
+      "half": "up",
+      "midi": 64,
+      "native_string": 4,
+      "onset_q": [
+        23,
+        3
+      ],
+      "ordinal": 24,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 9,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 9,
+      "half": "up",
+      "midi": 62,
+      "native_string": 4,
+      "onset_q": [
+        8,
+        1
+      ],
+      "ordinal": 25,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 10,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 9,
+      "half": "up",
+      "midi": 64,
+      "native_string": 4,
+      "onset_q": [
+        25,
+        3
+      ],
+      "ordinal": 26,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 11,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 9,
+      "half": "up",
+      "midi": 65,
+      "native_string": 4,
+      "onset_q": [
+        26,
+        3
+      ],
+      "ordinal": 27,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 10,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 10,
+      "half": "up",
+      "midi": 64,
+      "native_string": 4,
+      "onset_q": [
+        9,
+        1
+      ],
+      "ordinal": 28,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 11,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 10,
+      "half": "up",
+      "midi": 65,
+      "native_string": 4,
+      "onset_q": [
+        28,
+        3
+      ],
+      "ordinal": 29,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 12,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 10,
+      "half": "up",
+      "midi": 67,
+      "native_string": 5,
+      "onset_q": [
+        29,
+        3
+      ],
+      "ordinal": 30,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 11,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 11,
+      "half": "up",
+      "midi": 65,
+      "native_string": 4,
+      "onset_q": [
+        10,
+        1
+      ],
+      "ordinal": 31,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 12,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 11,
+      "half": "up",
+      "midi": 67,
+      "native_string": 5,
+      "onset_q": [
+        31,
+        3
+      ],
+      "ordinal": 32,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 13,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 11,
+      "half": "up",
+      "midi": 69,
+      "native_string": 5,
+      "onset_q": [
+        32,
+        3
+      ],
+      "ordinal": 33,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 12,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 12,
+      "half": "up",
+      "midi": 67,
+      "native_string": 5,
+      "onset_q": [
+        11,
+        1
+      ],
+      "ordinal": 34,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 13,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 12,
+      "half": "up",
+      "midi": 69,
+      "native_string": 5,
+      "onset_q": [
+        34,
+        3
+      ],
+      "ordinal": 35,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 14,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 12,
+      "half": "up",
+      "midi": 71,
+      "native_string": 6,
+      "onset_q": [
+        35,
+        3
+      ],
+      "ordinal": 36,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "e",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 13,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 13,
+      "half": "up",
+      "midi": 69,
+      "native_string": 5,
+      "onset_q": [
+        12,
+        1
+      ],
+      "ordinal": 37,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 14,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 13,
+      "half": "up",
+      "midi": 71,
+      "native_string": 6,
+      "onset_q": [
+        37,
+        3
+      ],
+      "ordinal": 38,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "e",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 15,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 13,
+      "half": "up",
+      "midi": 72,
+      "native_string": 6,
+      "onset_q": [
+        38,
+        3
+      ],
+      "ordinal": 39,
+      "slot": 3,
+      "source_high_root_turn": true,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "e",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 15,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 14,
+      "half": "down",
+      "midi": 72,
+      "native_string": 6,
+      "onset_q": [
+        13,
+        1
+      ],
+      "ordinal": 40,
+      "slot": 1,
+      "source_high_root_turn": true,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "e",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 14,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 14,
+      "half": "down",
+      "midi": 71,
+      "native_string": 6,
+      "onset_q": [
+        40,
+        3
+      ],
+      "ordinal": 41,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "e",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 13,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 14,
+      "half": "down",
+      "midi": 69,
+      "native_string": 5,
+      "onset_q": [
+        41,
+        3
+      ],
+      "ordinal": 42,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 14,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 15,
+      "half": "down",
+      "midi": 71,
+      "native_string": 6,
+      "onset_q": [
+        14,
+        1
+      ],
+      "ordinal": 43,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "e",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 13,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 15,
+      "half": "down",
+      "midi": 69,
+      "native_string": 5,
+      "onset_q": [
+        43,
+        3
+      ],
+      "ordinal": 44,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 12,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 15,
+      "half": "down",
+      "midi": 67,
+      "native_string": 5,
+      "onset_q": [
+        44,
+        3
+      ],
+      "ordinal": 45,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 13,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 16,
+      "half": "down",
+      "midi": 69,
+      "native_string": 5,
+      "onset_q": [
+        15,
+        1
+      ],
+      "ordinal": 46,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 12,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 16,
+      "half": "down",
+      "midi": 67,
+      "native_string": 5,
+      "onset_q": [
+        46,
+        3
+      ],
+      "ordinal": 47,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 11,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 16,
+      "half": "down",
+      "midi": 65,
+      "native_string": 4,
+      "onset_q": [
+        47,
+        3
+      ],
+      "ordinal": 48,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 12,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 17,
+      "half": "down",
+      "midi": 67,
+      "native_string": 5,
+      "onset_q": [
+        16,
+        1
+      ],
+      "ordinal": 49,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "B",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 11,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 17,
+      "half": "down",
+      "midi": 65,
+      "native_string": 4,
+      "onset_q": [
+        49,
+        3
+      ],
+      "ordinal": 50,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 10,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 17,
+      "half": "down",
+      "midi": 64,
+      "native_string": 4,
+      "onset_q": [
+        50,
+        3
+      ],
+      "ordinal": 51,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 11,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 18,
+      "half": "down",
+      "midi": 65,
+      "native_string": 4,
+      "onset_q": [
+        17,
+        1
+      ],
+      "ordinal": 52,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 10,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 18,
+      "half": "down",
+      "midi": 64,
+      "native_string": 4,
+      "onset_q": [
+        52,
+        3
+      ],
+      "ordinal": 53,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 9,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 18,
+      "half": "down",
+      "midi": 62,
+      "native_string": 4,
+      "onset_q": [
+        53,
+        3
+      ],
+      "ordinal": 54,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 10,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 19,
+      "half": "down",
+      "midi": 64,
+      "native_string": 4,
+      "onset_q": [
+        18,
+        1
+      ],
+      "ordinal": 55,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 9,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 19,
+      "half": "down",
+      "midi": 62,
+      "native_string": 4,
+      "onset_q": [
+        55,
+        3
+      ],
+      "ordinal": 56,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 8,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 19,
+      "half": "down",
+      "midi": 60,
+      "native_string": 3,
+      "onset_q": [
+        56,
+        3
+      ],
+      "ordinal": 57,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 9,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 20,
+      "half": "down",
+      "midi": 62,
+      "native_string": 4,
+      "onset_q": [
+        19,
+        1
+      ],
+      "ordinal": 58,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "G",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 8,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 20,
+      "half": "down",
+      "midi": 60,
+      "native_string": 3,
+      "onset_q": [
+        58,
+        3
+      ],
+      "ordinal": 59,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 7,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 20,
+      "half": "down",
+      "midi": 59,
+      "native_string": 3,
+      "onset_q": [
+        59,
+        3
+      ],
+      "ordinal": 60,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 8,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 21,
+      "half": "down",
+      "midi": 60,
+      "native_string": 3,
+      "onset_q": [
+        20,
+        1
+      ],
+      "ordinal": 61,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "C"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 7,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 21,
+      "half": "down",
+      "midi": 59,
+      "native_string": 3,
+      "onset_q": [
+        61,
+        3
+      ],
+      "ordinal": 62,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 6,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 21,
+      "half": "down",
+      "midi": 57,
+      "native_string": 3,
+      "onset_q": [
+        62,
+        3
+      ],
+      "ordinal": 63,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 7,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 3,
+      "fret": 9,
+      "group": 22,
+      "half": "down",
+      "midi": 59,
+      "native_string": 3,
+      "onset_q": [
+        21,
+        1
+      ],
+      "ordinal": 64,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "B"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 6,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 22,
+      "half": "down",
+      "midi": 57,
+      "native_string": 3,
+      "onset_q": [
+        64,
+        3
+      ],
+      "ordinal": 65,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 5,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 22,
+      "half": "down",
+      "midi": 55,
+      "native_string": 2,
+      "onset_q": [
+        65,
+        3
+      ],
+      "ordinal": 66,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 6,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 23,
+      "half": "down",
+      "midi": 57,
+      "native_string": 3,
+      "onset_q": [
+        22,
+        1
+      ],
+      "ordinal": 67,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "D",
+      "spelling": "A"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 5,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 23,
+      "half": "down",
+      "midi": 55,
+      "native_string": 2,
+      "onset_q": [
+        67,
+        3
+      ],
+      "ordinal": 68,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 4,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 23,
+      "half": "down",
+      "midi": 53,
+      "native_string": 2,
+      "onset_q": [
+        68,
+        3
+      ],
+      "ordinal": 69,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 5,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 24,
+      "half": "down",
+      "midi": 55,
+      "native_string": 2,
+      "onset_q": [
+        23,
+        1
+      ],
+      "ordinal": 70,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "G"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 4,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 24,
+      "half": "down",
+      "midi": 53,
+      "native_string": 2,
+      "onset_q": [
+        70,
+        3
+      ],
+      "ordinal": 71,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 3,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 24,
+      "half": "down",
+      "midi": 52,
+      "native_string": 2,
+      "onset_q": [
+        71,
+        3
+      ],
+      "ordinal": 72,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 4,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 25,
+      "half": "down",
+      "midi": 53,
+      "native_string": 2,
+      "onset_q": [
+        24,
+        1
+      ],
+      "ordinal": 73,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "F"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 3,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 25,
+      "half": "down",
+      "midi": 52,
+      "native_string": 2,
+      "onset_q": [
+        73,
+        3
+      ],
+      "ordinal": 74,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 2,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 25,
+      "half": "down",
+      "midi": 50,
+      "native_string": 1,
+      "onset_q": [
+        74,
+        3
+      ],
+      "ordinal": 75,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "E",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 3,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 1,
+      "fret": 7,
+      "group": 26,
+      "half": "down",
+      "midi": 52,
+      "native_string": 2,
+      "onset_q": [
+        25,
+        1
+      ],
+      "ordinal": 76,
+      "slot": 1,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "A",
+      "spelling": "E"
+    },
+    {
+      "D_start_pick": "D",
+      "U_start_pick": "U",
+      "degree": 2,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 4,
+      "fret": 10,
+      "group": 26,
+      "half": "down",
+      "midi": 50,
+      "native_string": 1,
+      "onset_q": [
+        76,
+        3
+      ],
+      "ordinal": 77,
+      "slot": 2,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "E",
+      "spelling": "D"
+    },
+    {
+      "D_start_pick": "U",
+      "U_start_pick": "D",
+      "degree": 1,
+      "duration_q": [
+        1,
+        3
+      ],
+      "finger": 2,
+      "fret": 8,
+      "group": 26,
+      "half": "down",
+      "midi": 48,
+      "native_string": 1,
+      "onset_q": [
+        77,
+        3
+      ],
+      "ordinal": 78,
+      "slot": 3,
+      "source_high_root_turn": false,
+      "source_record_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+      "source_string": "E",
+      "spelling": "C"
+    }
+  ],
+  "source_identity": "printed:l015:complete-tablature:rung-04-of-13-c-major-root-on-low-e-fret-8-frame-7-10",
+  "source_record_canonical_sha256": "a538c7d6da268efc5230d33d3ba888140109fced540e36753524b4a9bb1b9afe",
+  "timing_overlay_sha256": "dfec96ca2c638fe26aded34b1a1ae553318697964e1f7000cd58024b41cc5626"
+}

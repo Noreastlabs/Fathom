@@ -1,0 +1,473 @@
+SCALE EXERCISES - SECTION V, LEVEL 42
+A MINOR PENTATONIC HORIZONTAL MOVEMENT AND ARTICULATION - FIXED KEY A
+
+PURPOSE
+Turn the five vertical A-minor-pentatonic positions from Level 41 into six horizontal string lanes, then
+convert the map into controlled shifts, timed slides, hammer-ons, pull-offs, pitch-matched bends, blue-third
+inflection, bend releases, root vibrato, and five position-specific cadence phrases.
+
+FIXED PITCH SET
+Notes: A C D E G
+Degrees: 1 b3 4 5 b7
+Intervals: minor third - whole - whole - minor third - whole
+Every fret in Modules A-E belongs to A minor pentatonic. C# appears only as the upper boundary for the
+blue-third inflection and is marked as an expressive target, not as a new pentatonic degree.
+
+NOTATION
+h = hammer-on | p = pull-off | / = slide upward | \ = slide downward
+b(target) = bend to the printed target fret | r = release | ~~~~ = vibrato
+b<(target) = blue-third shade: move toward the target but stop below the full half-step pitch
+
+HORIZONTAL LANE SUMMARY
+Low E   frets 5 8 10 12 15 17    degrees 1 b3 4 5 b7 1     notes A C D E G A   fingers 1 4 1 3 1 3 roots 5,17
+A       frets 5 7 10 12 15 17    degrees 4 5 b7 1 b3 4     notes D E G A C D   fingers 1 3 1 3 1 3 roots 12
+D       frets 5 7 10 12 14 17    degrees b7 1 b3 4 5 b7    notes G A C D E G   fingers 1 3 1 3 1 4 roots 7
+G       frets 5 7 9 12 14 17     degrees b3 4 5 b7 1 b3    notes C D E G A C   fingers 1 3 1 4 1 4 roots 14
+B       frets 5 8 10 13 15 17    degrees 5 b7 1 b3 4 5     notes E G A C D E   fingers 1 4 1 4 1 3 roots 10
+High e  frets 5 8 10 12 15 17    degrees 1 b3 4 5 b7 1     notes A C D E G A   fingers 1 4 1 3 1 3 roots 5,17
+
+COUNTS
+Module A: 72 sounding tones / 72 attacks
+Module B: 96 sounding tones / 96 attacks
+Module C: 144 sounding tones / 96 attacks
+Module D: 120 sounding tones / 60 attacks
+Module E: 120 sounding tones / 24 attacks
+Module F: 65 counted pitch events / 52 attacks
+Module G: 8 root-vibrato holds / 8 attacks
+Module H: 43 sounding tones / 20 attacks
+Complete written workout: 668 counted sounding events / 428 pick attacks
+
+========================================================================================================================
+MODULE A - SIX SILENT-SHIFT HORIZONTAL LANES
+========================================================================================================================
+Group each lane into three two-note stations. Use fingers 1-3 for a whole step and 1-4 for a minor third.
+Release pressure and move the hand plus thumb together before each station change. No slide is allowed.
+
+LOW E STRING - 12-NOTE UP/DOWN CELL - STATIONS 5-8 | 10-12 | 15-17
+Nte|A---C---|D---E---|G---A---|A---G---|E---D---|C---A---|
+Deg|1---b3--|4---5---|b7--1---|1---b7--|5---4---|b3--1---|
+Fng|1---4---|1---3---|1---3---|3---1---|3---1---|4---1---|
+  e|--------|--------|--------|--------|--------|--------|
+  B|--------|--------|--------|--------|--------|--------|
+  G|--------|--------|--------|--------|--------|--------|
+  D|--------|--------|--------|--------|--------|--------|
+  A|--------|--------|--------|--------|--------|--------|
+  E|5---8---|10--12--|15--17--|17--15--|12--10--|8---5---|
+Rule: equal volume, silent relocation, D-start and U-start passes.
+
+A STRING - 12-NOTE UP/DOWN CELL - STATIONS 5-7 | 10-12 | 15-17
+Nte|D---E---|G---A---|C---D---|D---C---|A---G---|E---D---|
+Deg|4---5---|b7--1---|b3--4---|4---b3--|1---b7--|5---4---|
+Fng|1---3---|1---3---|1---3---|3---1---|3---1---|3---1---|
+  e|--------|--------|--------|--------|--------|--------|
+  B|--------|--------|--------|--------|--------|--------|
+  G|--------|--------|--------|--------|--------|--------|
+  D|--------|--------|--------|--------|--------|--------|
+  A|5---7---|10--12--|15--17--|17--15--|12--10--|7---5---|
+  E|--------|--------|--------|--------|--------|--------|
+Rule: equal volume, silent relocation, D-start and U-start passes.
+
+D STRING - 12-NOTE UP/DOWN CELL - STATIONS 5-7 | 10-12 | 14-17
+Nte|G---A---|C---D---|E---G---|G---E---|D---C---|A---G---|
+Deg|b7--1---|b3--4---|5---b7--|b7--5---|4---b3--|1---b7--|
+Fng|1---3---|1---3---|1---4---|4---1---|3---1---|3---1---|
+  e|--------|--------|--------|--------|--------|--------|
+  B|--------|--------|--------|--------|--------|--------|
+  G|--------|--------|--------|--------|--------|--------|
+  D|5---7---|10--12--|14--17--|17--14--|12--10--|7---5---|
+  A|--------|--------|--------|--------|--------|--------|
+  E|--------|--------|--------|--------|--------|--------|
+Rule: equal volume, silent relocation, D-start and U-start passes.
+
+G STRING - 12-NOTE UP/DOWN CELL - STATIONS 5-7 | 9-12 | 14-17
+Nte|C---D---|E---G---|A---C---|C---A---|G---E---|D---C---|
+Deg|b3--4---|5---b7--|1---b3--|b3--1---|b7--5---|4---b3--|
+Fng|1---3---|1---4---|1---4---|4---1---|4---1---|3---1---|
+  e|--------|--------|--------|--------|--------|--------|
+  B|--------|--------|--------|--------|--------|--------|
+  G|5---7---|9---12--|14--17--|17--14--|12--9---|7---5---|
+  D|--------|--------|--------|--------|--------|--------|
+  A|--------|--------|--------|--------|--------|--------|
+  E|--------|--------|--------|--------|--------|--------|
+Rule: equal volume, silent relocation, D-start and U-start passes.
+
+B STRING - 12-NOTE UP/DOWN CELL - STATIONS 5-8 | 10-13 | 15-17
+Nte|E---G---|A---C---|D---E---|E---D---|C---A---|G---E---|
+Deg|5---b7--|1---b3--|4---5---|5---4---|b3--1---|b7--5---|
+Fng|1---4---|1---4---|1---3---|3---1---|4---1---|4---1---|
+  e|--------|--------|--------|--------|--------|--------|
+  B|5---8---|10--13--|15--17--|17--15--|13--10--|8---5---|
+  G|--------|--------|--------|--------|--------|--------|
+  D|--------|--------|--------|--------|--------|--------|
+  A|--------|--------|--------|--------|--------|--------|
+  E|--------|--------|--------|--------|--------|--------|
+Rule: equal volume, silent relocation, D-start and U-start passes.
+
+HIGH E STRING - 12-NOTE UP/DOWN CELL - STATIONS 5-8 | 10-12 | 15-17
+Nte|A---C---|D---E---|G---A---|A---G---|E---D---|C---A---|
+Deg|1---b3--|4---5---|b7--1---|1---b7--|5---4---|b3--1---|
+Fng|1---4---|1---3---|1---3---|3---1---|3---1---|4---1---|
+  e|5---8---|10--12--|15--17--|17--15--|12--10--|8---5---|
+  B|--------|--------|--------|--------|--------|--------|
+  G|--------|--------|--------|--------|--------|--------|
+  D|--------|--------|--------|--------|--------|--------|
+  A|--------|--------|--------|--------|--------|--------|
+  E|--------|--------|--------|--------|--------|--------|
+Rule: equal volume, silent relocation, D-start and U-start passes.
+
+========================================================================================================================
+MODULE B - SILENT DESTINATION SHIFTS
+========================================================================================================================
+Launch from the lower endpoint. Land on the third, fourth, fifth, and sixth lane notes. Each four-note cell
+is launch -> target -> repeated target -> launch. No slide. Look at and name the destination before leaving.
+
+LOW E STRING - FOUR INCREASING-DISTANCE TARGETS
+Launch: A(1) fret 5; no slide; first pass uses finger 1 on every note.
+Nte|A---D---D---A---|A---E---E---A---|A---G---G---A---|A---A---A---A---|
+Deg|1---4---4---1---|1---5---5---1---|1---b7--b7--1---|1---1---1---1---|
+  E|5---10--10--5---|5---12--12--5---|5---15--15--5---|5---17--17--5---|
+Pck|D---U---D---U---|D---U---D---U---|D---U---D---U---|D---U---D---U---|
+Targets: D(4)@10 +5 | E(5)@12 +7 | G(b7)@15 +10 | A(1)@17 +12
+After the printed pass, begin at the upper endpoint and mirror the target order downward.
+
+A STRING - FOUR INCREASING-DISTANCE TARGETS
+Launch: D(4) fret 5; no slide; first pass uses finger 1 on every note.
+Nte|D---G---G---D---|D---A---A---D---|D---C---C---D---|D---D---D---D---|
+Deg|4---b7--b7--4---|4---1---1---4---|4---b3--b3--4---|4---4---4---4---|
+  A|5---10--10--5---|5---12--12--5---|5---15--15--5---|5---17--17--5---|
+Pck|D---U---D---U---|D---U---D---U---|D---U---D---U---|D---U---D---U---|
+Targets: G(b7)@10 +5 | A(1)@12 +7 | C(b3)@15 +10 | D(4)@17 +12
+After the printed pass, begin at the upper endpoint and mirror the target order downward.
+
+D STRING - FOUR INCREASING-DISTANCE TARGETS
+Launch: G(b7) fret 5; no slide; first pass uses finger 1 on every note.
+Nte|G---C---C---G---|G---D---D---G---|G---E---E---G---|G---G---G---G---|
+Deg|b7--b3--b3--b7--|b7--4---4---b7--|b7--5---5---b7--|b7--b7--b7--b7--|
+  D|5---10--10--5---|5---12--12--5---|5---14--14--5---|5---17--17--5---|
+Pck|D---U---D---U---|D---U---D---U---|D---U---D---U---|D---U---D---U---|
+Targets: C(b3)@10 +5 | D(4)@12 +7 | E(5)@14 +9 | G(b7)@17 +12
+After the printed pass, begin at the upper endpoint and mirror the target order downward.
+
+G STRING - FOUR INCREASING-DISTANCE TARGETS
+Launch: C(b3) fret 5; no slide; first pass uses finger 1 on every note.
+Nte|C---E---E---C---|C---G---G---C---|C---A---A---C---|C---C---C---C---|
+Deg|b3--5---5---b3--|b3--b7--b7--b3--|b3--1---1---b3--|b3--b3--b3--b3--|
+  G|5---9---9---5---|5---12--12--5---|5---14--14--5---|5---17--17--5---|
+Pck|D---U---D---U---|D---U---D---U---|D---U---D---U---|D---U---D---U---|
+Targets: E(5)@9 +4 | G(b7)@12 +7 | A(1)@14 +9 | C(b3)@17 +12
+After the printed pass, begin at the upper endpoint and mirror the target order downward.
+
+B STRING - FOUR INCREASING-DISTANCE TARGETS
+Launch: E(5) fret 5; no slide; first pass uses finger 1 on every note.
+Nte|E---A---A---E---|E---C---C---E---|E---D---D---E---|E---E---E---E---|
+Deg|5---1---1---5---|5---b3--b3--5---|5---4---4---5---|5---5---5---5---|
+  B|5---10--10--5---|5---13--13--5---|5---15--15--5---|5---17--17--5---|
+Pck|D---U---D---U---|D---U---D---U---|D---U---D---U---|D---U---D---U---|
+Targets: A(1)@10 +5 | C(b3)@13 +8 | D(4)@15 +10 | E(5)@17 +12
+After the printed pass, begin at the upper endpoint and mirror the target order downward.
+
+HIGH E STRING - FOUR INCREASING-DISTANCE TARGETS
+Launch: A(1) fret 5; no slide; first pass uses finger 1 on every note.
+Nte|A---D---D---A---|A---E---E---A---|A---G---G---A---|A---A---A---A---|
+Deg|1---4---4---1---|1---5---5---1---|1---b7--b7--1---|1---1---1---1---|
+  e|5---10--10--5---|5---12--12--5---|5---15--15--5---|5---17--17--5---|
+Pck|D---U---D---U---|D---U---D---U---|D---U---D---U---|D---U---D---U---|
+Targets: D(4)@10 +5 | E(5)@12 +7 | G(b7)@15 +10 | A(1)@17 +12
+After the printed pass, begin at the upper endpoint and mirror the target order downward.
+
+========================================================================================================================
+MODULE C - CONTROLLED POSITION-SEAM SLIDES
+========================================================================================================================
+Pick the lower note; pick the shared anchor and slide to the destination; re-pick the destination and slide
+back to the anchor; pick the lower note. Six sounding tones, four attacks. The slide arrival is a counted tone.
+
+SEAM P1 -> P2
+String | Tablature | Degree path | Note path | Slide finger
+Low E   E|5--8/10--10\8--5--|      1-b3/4-4\b3-1                   A-C/D-D\C-A                3
+A       A|5--7/10--10\7--5--|      4-5/b7-b7\5-4                   D-E/G-G\E-D                4
+D       D|5--7/10--10\7--5--|      b7-1/b3-b3\1-b7                 G-A/C-C\A-G                4
+G       G|5--7/9--9\7--5--|        b3-4/5-5\4-b3                   C-D/E-E\D-C                3
+B       B|5--8/10--10\8--5--|      5-b7/1-1\b7-5                   E-G/A-A\G-E                3
+High e  e|5--8/10--10\8--5--|      1-b3/4-4\b3-1                   A-C/D-D\C-A                3
+Timing rule: do not add an attack at the slide arrival; keep both directions equal in volume.
+
+SEAM P2 -> P3
+String | Tablature | Degree path | Note path | Slide finger
+Low E   E|8--10/12--12\10--8--|    b3-4/5-5\4-b3                   C-D/E-E\D-C                3
+A       A|7--10/12--12\10--7--|    5-b7/1-1\b7-5                   E-G/A-A\G-E                3
+D       D|7--10/12--12\10--7--|    1-b3/4-4\b3-1                   A-C/D-D\C-A                3
+G       G|7--9/12--12\9--7--|      4-5/b7-b7\5-4                   D-E/G-G\E-D                4
+B       B|8--10/13--13\10--8--|    b7-1/b3-b3\1-b7                 G-A/C-C\A-G                4
+High e  e|8--10/12--12\10--8--|    b3-4/5-5\4-b3                   C-D/E-E\D-C                3
+Timing rule: do not add an attack at the slide arrival; keep both directions equal in volume.
+
+SEAM P3 -> P4
+String | Tablature | Degree path | Note path | Slide finger
+Low E   E|10--12/15--15\12--10--|  4-5/b7-b7\5-4                   D-E/G-G\E-D                4
+A       A|10--12/15--15\12--10--|  b7-1/b3-b3\1-b7                 G-A/C-C\A-G                4
+D       D|10--12/14--14\12--10--|  b3-4/5-5\4-b3                   C-D/E-E\D-C                3
+G       G|9--12/14--14\12--9--|    5-b7/1-1\b7-5                   E-G/A-A\G-E                3
+B       B|10--13/15--15\13--10--|  1-b3/4-4\b3-1                   A-C/D-D\C-A                3
+High e  e|10--12/15--15\12--10--|  4-5/b7-b7\5-4                   D-E/G-G\E-D                4
+Timing rule: do not add an attack at the slide arrival; keep both directions equal in volume.
+
+SEAM P4 -> P5
+String | Tablature | Degree path | Note path | Slide finger
+Low E   E|12--15/17--17\15--12--|  5-b7/1-1\b7-5                   E-G/A-A\G-E                3
+A       A|12--15/17--17\15--12--|  1-b3/4-4\b3-1                   A-C/D-D\C-A                3
+D       D|12--14/17--17\14--12--|  4-5/b7-b7\5-4                   D-E/G-G\E-D                4
+G       G|12--14/17--17\14--12--|  b7-1/b3-b3\1-b7                 G-A/C-C\A-G                4
+B       B|13--15/17--17\15--13--|  b3-4/5-5\4-b3                   C-D/E-E\D-C                3
+High e  e|12--15/17--17\15--12--|  5-b7/1-1\b7-5                   E-G/A-A\G-E                3
+Timing rule: do not add an attack at the slide arrival; keep both directions equal in volume.
+
+========================================================================================================================
+MODULE D - FIVE POSITION HAMMER-ON AND PULL-OFF CELLS
+========================================================================================================================
+Pick once per two-note pair. Hammer the ascending partner and pull off the descending partner. The unpicked
+tone must arrive on the subdivision and match the picked tone in volume. Each position: 24 tones / 12 attacks.
+
+P1 - ROOT FRAME - frets 5-8
+E:5h8/8p5 A-C 1-b3 | A:5h7/7p5 D-E 4-5 | D:5h7/7p5 G-A b7-1 | G:5h7/7p5 C-D b3-4 | B:5h8/8p5 E-G 5-b7 | e:5h8/8p5 A-C 1-b3
+ e|---------------------------------------------5h8------8p5---------------------------------------------------|
+ B|------------------------------------5h8------------------------8p5------------------------------------------|
+ G|---------------------------5h7------------------------------------------7p5---------------------------------|
+ D|------------------5h7------------------------------------------------------------7p5------------------------|
+ A|---------5h7------------------------------------------------------------------------------7p5---------------|
+ E|5h8------------------------------------------------------------------------------------------------8p5------|
+Attack cycle: complete one D-start pass and one U-start pass through the twelve actual attacks.
+
+P2 - FLAT-THIRD FRAME - frets 7-10
+E:8h10/10p8 C-D b3-4 | A:7h10/10p7 E-G 5-b7 | D:7h10/10p7 A-C 1-b3 | G:7h9/9p7 D-E 4-5 | B:8h10/10p8 G-A b7-1 | e:8h10/10p8 C-D b3-4
+ e|---------------------------------------------8h10-----10p8--------------------------------------------------|
+ B|------------------------------------8h10-----------------------10p8-----------------------------------------|
+ G|---------------------------7h9------------------------------------------9p7---------------------------------|
+ D|------------------7h10-----------------------------------------------------------10p7-----------------------|
+ A|---------7h10-----------------------------------------------------------------------------10p7--------------|
+ E|8h10-----------------------------------------------------------------------------------------------10p8-----|
+Attack cycle: complete one D-start pass and one U-start pass through the twelve actual attacks.
+
+P3 - FOURTH-DEGREE FRAME - frets 9-13
+E:10h12/12p10 D-E 4-5 | A:10h12/12p10 G-A b7-1 | D:10h12/12p10 C-D b3-4 | G:9h12/12p9 E-G 5-b7 | B:10h13/13p10 A-C 1-b3 | e:10h12/12p10 D-E 4-5
+ e|---------------------------------------------10h12----12p10-------------------------------------------------|
+ B|------------------------------------10h13----------------------13p10----------------------------------------|
+ G|---------------------------9h12-----------------------------------------12p9--------------------------------|
+ D|------------------10h12----------------------------------------------------------12p10----------------------|
+ A|---------10h12----------------------------------------------------------------------------12p10-------------|
+ E|10h12----------------------------------------------------------------------------------------------12p10----|
+Attack cycle: complete one D-start pass and one U-start pass through the twelve actual attacks.
+
+P4 - FIFTH-DEGREE FRAME - frets 12-15
+E:12h15/15p12 E-G 5-b7 | A:12h15/15p12 A-C 1-b3 | D:12h14/14p12 D-E 4-5 | G:12h14/14p12 G-A b7-1 | B:13h15/15p13 C-D b3-4 | e:12h15/15p12 E-G 5-b7
+ e|---------------------------------------------12h15----15p12-------------------------------------------------|
+ B|------------------------------------13h15----------------------15p13----------------------------------------|
+ G|---------------------------12h14----------------------------------------14p12-------------------------------|
+ D|------------------12h14----------------------------------------------------------14p12----------------------|
+ A|---------12h15----------------------------------------------------------------------------15p12-------------|
+ E|12h15----------------------------------------------------------------------------------------------15p12----|
+Attack cycle: complete one D-start pass and one U-start pass through the twelve actual attacks.
+
+P5 - FLAT-SEVENTH FRAME - frets 14-17
+E:15h17/17p15 G-A b7-1 | A:15h17/17p15 C-D b3-4 | D:14h17/17p14 E-G 5-b7 | G:14h17/17p14 A-C 1-b3 | B:15h17/17p15 D-E 4-5 | e:15h17/17p15 G-A b7-1
+ e|---------------------------------------------15h17----17p15-------------------------------------------------|
+ B|------------------------------------15h17----------------------17p15----------------------------------------|
+ G|---------------------------14h17----------------------------------------17p14-------------------------------|
+ D|------------------14h17----------------------------------------------------------17p14----------------------|
+ A|---------15h17----------------------------------------------------------------------------17p15-------------|
+ E|15h17----------------------------------------------------------------------------------------------17p15----|
+Attack cycle: complete one D-start pass and one U-start pass through the twelve actual attacks.
+
+========================================================================================================================
+MODULE E - ONE-PICK POSITION-SEAM CHAINS
+========================================================================================================================
+Pick the lower note once, hammer to the shared anchor, slide to the destination, slide back, and pull off to
+the lower note. Five sounding tones from one attack. No extra pick may appear at either slide arrival.
+
+SEAM P1 <-> P2
+String | Tablature | Degree path | Note path | Work finger
+Low E   E|5h8/10\8p5|           1-b3-4-b3-1              A-C-D-C-A            4
+A       A|5h7/10\7p5|           4-5-b7-5-4               D-E-G-E-D            3
+D       D|5h7/10\7p5|           b7-1-b3-1-b7             G-A-C-A-G            3
+G       G|5h7/9\7p5|            b3-4-5-4-b3              C-D-E-D-C            3
+B       B|5h8/10\8p5|           5-b7-1-b7-5              E-G-A-G-E            4
+High e  e|5h8/10\8p5|           1-b3-4-b3-1              A-C-D-C-A            4
+One phrase = five sounding tones / one pick attack.
+
+SEAM P2 <-> P3
+String | Tablature | Degree path | Note path | Work finger
+Low E   E|8h10/12\10p8|         b3-4-5-4-b3              C-D-E-D-C            3
+A       A|7h10/12\10p7|         5-b7-1-b7-5              E-G-A-G-E            4
+D       D|7h10/12\10p7|         1-b3-4-b3-1              A-C-D-C-A            4
+G       G|7h9/12\9p7|           4-5-b7-5-4               D-E-G-E-D            3
+B       B|8h10/13\10p8|         b7-1-b3-1-b7             G-A-C-A-G            3
+High e  e|8h10/12\10p8|         b3-4-5-4-b3              C-D-E-D-C            3
+One phrase = five sounding tones / one pick attack.
+
+SEAM P3 <-> P4
+String | Tablature | Degree path | Note path | Work finger
+Low E   E|10h12/15\12p10|       4-5-b7-5-4               D-E-G-E-D            3
+A       A|10h12/15\12p10|       b7-1-b3-1-b7             G-A-C-A-G            3
+D       D|10h12/14\12p10|       b3-4-5-4-b3              C-D-E-D-C            3
+G       G|9h12/14\12p9|         5-b7-1-b7-5              E-G-A-G-E            4
+B       B|10h13/15\13p10|       1-b3-4-b3-1              A-C-D-C-A            4
+High e  e|10h12/15\12p10|       4-5-b7-5-4               D-E-G-E-D            3
+One phrase = five sounding tones / one pick attack.
+
+SEAM P4 <-> P5
+String | Tablature | Degree path | Note path | Work finger
+Low E   E|12h15/17\15p12|       5-b7-1-b7-5              E-G-A-G-E            4
+A       A|12h15/17\15p12|       1-b3-4-b3-1              A-C-D-C-A            4
+D       D|12h14/17\14p12|       4-5-b7-5-4               D-E-G-E-D            3
+G       G|12h14/17\14p12|       b7-1-b3-1-b7             G-A-C-A-G            3
+B       B|13h15/17\15p13|       b3-4-5-4-b3              C-D-E-D-C            3
+High e  e|12h15/17\15p12|       5-b7-1-b7-5              E-G-A-G-E            4
+One phrase = five sounding tones / one pick attack.
+
+========================================================================================================================
+MODULE F - WHOLE-STEP BEND INTONATION AND BLUE-THIRD INFLECTION
+========================================================================================================================
+WHOLE-STEP CORE CELL
+Play the target fret; bend the source to that pitch; repeat the bend and release to the source; finish by
+re-playing the target with narrow vibrato. Four attacks per site. Use support fingers and mute adjacent strings.
+G       G|--7----5b(7)----5b(7)r5----7~~~~--|   C(b3) -> D(4)
+G       G|--9----7b(9)----7b(9)r7----9~~~~--|   D(4) -> E(5)
+G       G|--14----12b(14)----12b(14)r12----14~~~~--|   G(b7) -> A(1)
+B       B|--10----8b(10)----8b(10)r8----10~~~~--|   G(b7) -> A(1)
+B       B|--15----13b(15)----13b(15)r13----15~~~~--|   C(b3) -> D(4)
+B       B|--17----15b(17)----15b(17)r15----17~~~~--|   D(4) -> E(5)
+High e  e|--10----8b(10)----8b(10)r8----10~~~~--|   C(b3) -> D(4)
+High e  e|--12----10b(12)----10b(12)r10----12~~~~--|   D(4) -> E(5)
+High e  e|--17----15b(17)----15b(17)r15----17~~~~--|   G(b7) -> A(1)
+
+BLUE-THIRD SHADE - C TOWARD C#
+First establish the full C# half-step as the ceiling. Then use b<(target) to stop below C#. The shaded pitch
+is intentional in-between color, not a failed full bend. Release cleanly to C and finish with centered vibrato.
+G       G|--6----5b(6)----5b<(6)r5----5~~~~--|   C(b3) toward C#(3 boundary)
+G       G|--18----17b(18)----17b<(18)r17----17~~~~--|   C(b3) toward C#(3 boundary)
+B       B|--14----13b(14)----13b<(14)r13----13~~~~--|   C(b3) toward C#(3 boundary)
+High e  e|--9----8b(9)----8b<(9)r8----8~~~~--|   C(b3) toward C#(3 boundary)
+
+========================================================================================================================
+MODULE G - A-ROOT VIBRATO MAP
+========================================================================================================================
+Low E   fret  5  A degree 1  hold four beats with narrow wrist vibrato
+D       fret  7  A degree 1  hold four beats with narrow wrist vibrato
+B       fret 10  A degree 1  hold four beats with narrow wrist vibrato
+A       fret 12  A degree 1  hold four beats with narrow wrist vibrato
+G       fret 14  A degree 1  hold four beats with narrow wrist vibrato
+Low E   fret 17  A degree 1  hold four beats with narrow wrist vibrato
+High e  fret  5  A degree 1  hold four beats with narrow wrist vibrato
+High e  fret 17  A degree 1  hold four beats with narrow wrist vibrato
+Pass 1: four pulses per whole note. Pass 2: six pulses. Pass 3: one beat straight tone, then free vibrato.
+Every pulse returns to the original pitch center. Add width only after the center remains stable.
+
+========================================================================================================================
+MODULE H - FIVE POSITION-SPECIFIC MINOR CADENCES
+========================================================================================================================
+
+1. P1 - ROOT FRAME: BLUE-THIRD SHADE TO A - 4 PICK ATTACKS
+e|--5h8p5------------------------------|
+B|----------8p5------------------------|
+G|--------------5b<(6)r5---------------|
+D|------------------------7~~~~--------|
+A|-------------------------------------|
+E|-------------------------------------|
+Degrees: 1-b3-1 | b7-5 | b3-shade-to-3-release-b3 | 1
+Notes:   A-C-A | G-E | C-toward-C#-C | A
+Counted sounding tones: 8
+
+2. P2 - FLAT-THIRD FRAME: SLIDE, SHADE, ROOT - 4 PICK ATTACKS
+e|------------------8b<(9)r8-----------|
+B|----------8/10----------------10~~~~-|
+G|--7h9p7------------------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+Degrees: 4-5-4 | b7-slide-to-1 | b3-shade-to-3-release-b3 | 1
+Notes:   D-E-D | G-A | C-toward-C#-C | A
+Counted sounding tones: 8
+
+3. P3 - FOURTH-DEGREE FRAME: LEGATO AND G-TO-A BEND - 4 PICK ATTACKS
+e|--10h12p10---------------------------|
+B|-------------10h13p10-----------10~~~|
+G|----------------------12b(14)r12------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+Degrees: 4-5-4 | 1-b3-1 | b7-bend-to-1-release-b7 | 1
+Notes:   D-E-D | A-C-A | G-A-G | A
+Counted sounding tones: 9
+
+4. P4 - FIFTH-DEGREE FRAME: TOP-STRING SHADE AND ROOT - 4 PICK ATTACKS
+e|--12h15p12---------------------------|
+B|-------------13b<(14)r13-------------|
+G|----------------------12h14p12--------|
+D|-------------------------------------|
+A|-------------------------------12~~~~|
+E|-------------------------------------|
+Degrees: 5-b7-5 | b3-shade-to-3-release-b3 | b7-1-b7 | 1
+Notes:   E-G-E | C-toward-C#-C | G-A-G | A
+Counted sounding tones: 9
+
+5. P5 - FLAT-SEVENTH FRAME: OCTAVE BEND TO FINAL A - 4 PICK ATTACKS
+e|----------------------15b(17)r15--17~~~~|
+B|-----------15h17p15--------------------|
+G|--14h17p14-----------------------------|
+D|---------------------------------------|
+A|---------------------------------------|
+E|---------------------------------------|
+Degrees: 1-b3-1 | 4-5-4 | b7-bend-to-1-release-b7 | 1
+Notes:   A-C-A | D-E-D | G-A-G | A
+Counted sounding tones: 9
+
+LINKED CADENCE CIRCUIT
+Play P1 through P5 with one bar of rest between phrases. Then reduce the rest to two beats, one beat, and no
+extra pause. Preserve the attack count; do not pick hammer, pull, slide, bend arrival, release, or vibrato pulses.
+
+========================================================================================================================
+PRACTICE PROGRESSION, ERROR REPAIR, AND MASTERY
+========================================================================================================================
+1. Say the six lane notes and degrees before playing.
+2. Learn one Module A lane at one sounding tone per click.
+3. Complete all six silent-shift cells with D-start and U-start.
+4. Add Module B destination landings; remove fret fishing before increasing speed.
+5. Practice one Module C seam, then convert it into the one-pick Module E chain.
+6. Complete all five Module D legato cells with equal picked and unpicked volume.
+7. Calibrate one whole-step bend against its printed target; then add the release.
+8. Establish C# as the blue-third ceiling, then produce a deliberate shade below it.
+9. Hold all eight A roots with centered vibrato.
+10. Link the five cadence phrases without extra attacks or loss of tonic.
+
+ERROR DIAGNOSIS
+NOISY SHIFT: release earlier, move thumb with hand, reduce 4-6 BPM.
+FRET FISHING: look at and name the destination before leaving the launch note.
+WEAK HAMMER: strike closer to the fret with less travel; do not clamp the thumb.
+EMPTY PULL-OFF: keep the destination fretted and use a tiny lateral pluck.
+LATE SLIDE: shorten the motion; the destination is a counted tone.
+FLAT OR SHARP BEND: compare directly with the fretted target and hold before releasing.
+BLUE SHADE REACHES C#: reduce the motion; the full half-step is only the upper boundary.
+WIDE VIBRATO: narrow the movement until every pulse returns to center.
+STRING NOISE: mute above the bend with the index and below it with the picking hand.
+PAIN OR TENSION: stop. Do not force a bend or hold a rigid five-fret stretch.
+
+ADVANCEMENT
+Add 2 BPM after three clean runs at the current module length. After two errors, reduce 4-6 BPM or isolate one
+lane, seam, bend site, or cadence. Intonation and timing outrank speed. Use clean tone until muting is stable.
+
+MASTERY GATE BEFORE LEVEL 43
+Name all six horizontal lanes; play Modules A and B with silent relocations; execute all 24 timed seam slides
+and all 24 one-pick chains without extra attacks; play five legato cells with equal volume; match nine whole-step
+bends; distinguish a full C# bend from four blue-third shades; hold eight A roots with centered vibrato; and link
+the five cadences on two separate days.
+
+PRACTICE LOG
+Date | Focus | D/U | BPM | Pitch clean? | Weak lane / seam / bend / cadence | Next target
+____ | _____ | ___ | ___ | ____________ | _________________________________ | ___________
+____ | _____ | ___ | ___ | ____________ | _________________________________ | ___________
+____ | _____ | ___ | ___ | ____________ | _________________________________ | ___________
+____ | _____ | ___ | ___ | ____________ | _________________________________ | ___________
+____ | _____ | ___ | ___ | ____________ | _________________________________ | ___________
+
+NEXT LEVEL
+Level 43 adds Eb, the b5 blue note, to create the A blues scale and trains controlled 4-b5-5 and 5-b5-4
+resolutions without treating the added note as an automatically stable resting tone.

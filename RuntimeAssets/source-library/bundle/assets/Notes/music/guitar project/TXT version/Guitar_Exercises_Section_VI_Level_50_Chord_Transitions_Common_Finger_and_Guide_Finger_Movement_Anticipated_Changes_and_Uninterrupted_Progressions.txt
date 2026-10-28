@@ -1,0 +1,439 @@
+GUITAR EXERCISES - SECTION VI, LEVEL 50
+CHORD TRANSITIONS, COMMON-FINGER AND GUIDE-FINGER MOVEMENT, ANTICIPATED CHANGES, AND UNINTERRUPTED PROGRESSIONS
+
+PURPOSE
+Keep the eight open-chord shapes from Level 49 while reducing excess movement, preserving planted fingers, using guide fingers, controlling pressure release, anticipating changes on the and of 4, and maintaining longer progressions without a reset.
+
+COMPLETE NOTATED WORKLOAD: 768 strum or pick attacks plus 80 silent chord landings before optional repeats.
+
+
+========================================================================================================================
+CHORD REFERENCE
+========================================================================================================================
+Em: frets 0 2 2 0 0 0 | fingers O 2 3 O O O | spelling E G B | attack all 6 strings
+E: frets 0 2 2 1 0 0 | fingers O 2 3 1 O O | spelling E G# B | attack all 6 strings
+Am: frets x 0 2 2 1 0 | fingers x O 2 3 1 O | spelling A C E | attack A string through high e
+A: frets x 0 2 2 2 0 | fingers x O 2 1 3 O | spelling A C# E | attack A string through high e
+Dm: frets x x 0 2 3 1 | fingers x x O 2 3 1 | spelling D F A | attack D string through high e
+D: frets x x 0 2 3 2 | fingers x x O 1 3 2 | spelling D F# A | attack D string through high e
+C: frets x 3 2 0 1 0 | fingers x 3 2 O 1 O | spelling C E G | attack A string through high e
+G: frets 3 2 0 0 0 3 | fingers 2 1 O O O 3 | spelling G B D | attack all 6 strings
+
+ALTERNATE TRANSITION FINGERINGS
+Em-alt: frets 0 2 2 0 0 0 | fingers O 1 2 O O O | Use for G-Em and Em-C so A2 or D2 can stay planted.
+E-alt: frets 0 2 2 1 0 0 | fingers O 3 2 1 O O | Use for E-C so finger 2 stays on D2.
+
+========================================================================================================================
+MODULE A - SILENT TRANSITION MECHANICS
+========================================================================================================================
+Count 1: hold current chord. Count 2: release pressure while preserving anchors. Count 3: move guide and remaining fingers. Count 4: land and inspect. Reverse the transition on the next four counts.
+E-Em: two planted fingers; 8 silent landings.
+D-Dm: one planted finger; 8 silent landings.
+C-Am: two planted fingers; 8 silent landings.
+A-Am: one planted finger; 8 silent landings.
+G-Em-alt: one planted finger; 8 silent landings.
+Em-alt-C: one planted finger; 8 silent landings.
+A-D: one planted finger; 8 silent landings.
+E-A: same-string guide slide; 8 silent landings.
+D-G: same-fret guide transfer; 8 silent landings.
+G-C: same-fret long transfer; 8 silent landings.
+Audit: low hover distance, no string drag, correct bass-side landing, relaxed thumb, no strum.
+
+========================================================================================================================
+MODULE B - COMMON, PIVOT, AND STATIONARY-FINGER TRANSITIONS
+========================================================================================================================
+E <-> Em
+Keep fingers 2-3 on A2 and D2; add or lift finger 1 at G1.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|E----Em---E----Em---E----Em---E----Em---|
+Str|D----D----D----D----D----D----D----D----|
+
+D <-> Dm
+Keep finger 3 on B3; exchange the high-e quality note.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|D----Dm---D----Dm---D----Dm---D----Dm---|
+Str|D----D----D----D----D----D----D----D----|
+
+C <-> Am
+Keep finger 1 on B1 and finger 2 on D2; move finger 3 A3 <-> G2.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|C----Am---C----Am---C----Am---C----Am---|
+Str|D----D----D----D----D----D----D----D----|
+
+A <-> Am
+Keep finger 2 on D2; reform the G/B-string quality pair.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|A----Am---A----Am---A----Am---A----Am---|
+Str|D----D----D----D----D----D----D----D----|
+
+G <-> Em-alt
+Keep finger 1 on A2; move finger 2 E3 -> D2 and release high e3.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|G----Em---G----Em---G----Em---G----Em---|
+Str|D----D----D----D----D----D----D----D----|
+
+Em-alt <-> C
+Keep finger 2 on D2; move finger 1 A2 -> B1 and add A3.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|Em---C----Em---C----Em---C----Em---C----|
+Str|D----D----D----D----D----D----D----D----|
+
+A <-> D
+Keep finger 1 on G2; fingers 2 and 3 exchange the D/B/high-e area.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|A----D----A----D----A----D----A----D----|
+Str|D----D----D----D----D----D----D----D----|
+
+G <-> C
+Use the ring finger as a same-fret guide e3 <-> A3; land the bass side first.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|G----C----G----C----G----C----G----C----|
+Str|D----D----D----D----D----D----D----D----|
+
+
+========================================================================================================================
+MODULE C - GUIDE-FINGER AND BASS-SIDE TRANSFER ISOLATION
+========================================================================================================================
+E <-> A
+Index slides G1 <-> G2; the remaining fingers reform close to the strings.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|E----A----E----A----E----A----E----A----|
+Str|D----D----D----D----D----D----D----D----|
+
+D <-> G
+Ring finger transfers B3 <-> e3; form or release the G bass pair after the guide lands.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|D----G----D----G----D----G----D----G----|
+Str|D----D----D----D----D----D----D----D----|
+
+G <-> C
+Ring finger transfers e3 <-> A3; do not lift it high above the fretboard.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|G----C----G----C----G----C----G----C----|
+Str|D----D----D----D----D----D----D----D----|
+
+Em-alt <-> C
+Middle finger stays on D2; the index and ring move around it.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|Em---C----Em---C----Em---C----Em---C----|
+Str|D----D----D----D----D----D----D----D----|
+
+E-alt <-> C
+Middle finger stays on D2; use E fingering 3-2-1 for this exercise.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|E----C----E----C----E----C----E----C----|
+Str|D----D----D----D----D----D----D----D----|
+
+Am <-> D
+Index B1 -> G2 leads the change; the remaining fingers follow as one compact exchange.
+Cnt|1----2----3----4----1----2----3----4----|
+Chd|Am---D----Am---D----Am---D----Am---D----|
+Str|D----D----D----D----D----D----D----D----|
+
+
+========================================================================================================================
+MODULE D - RELEASE TIMING AND MUTED BACKBEATS
+========================================================================================================================
+Em release cell
+Cnt|1----2----3----4----|1----2----3----4----|
+Chd|Em---Em---Em---MUTE-|Em---Em---Em---MUTE-|
+Atk|D----D----D----x----|D----D----D----x----|
+Hnd|P----P----P----R----|P----P----P----R----|
+Attack zone: all 6 strings.
+
+E release cell
+Cnt|1----2----3----4----|1----2----3----4----|
+Chd|E----E----E----MUTE-|E----E----E----MUTE-|
+Atk|D----D----D----x----|D----D----D----x----|
+Hnd|P----P----P----R----|P----P----P----R----|
+Attack zone: all 6 strings.
+
+Am release cell
+Cnt|1----2----3----4----|1----2----3----4----|
+Chd|Am---Am---Am---MUTE-|Am---Am---Am---MUTE-|
+Atk|D----D----D----x----|D----D----D----x----|
+Hnd|P----P----P----R----|P----P----P----R----|
+Attack zone: A string through high e.
+
+A release cell
+Cnt|1----2----3----4----|1----2----3----4----|
+Chd|A----A----A----MUTE-|A----A----A----MUTE-|
+Atk|D----D----D----x----|D----D----D----x----|
+Hnd|P----P----P----R----|P----P----P----R----|
+Attack zone: A string through high e.
+
+Dm release cell
+Cnt|1----2----3----4----|1----2----3----4----|
+Chd|Dm---Dm---Dm---MUTE-|Dm---Dm---Dm---MUTE-|
+Atk|D----D----D----x----|D----D----D----x----|
+Hnd|P----P----P----R----|P----P----P----R----|
+Attack zone: D string through high e.
+
+D release cell
+Cnt|1----2----3----4----|1----2----3----4----|
+Chd|D----D----D----MUTE-|D----D----D----MUTE-|
+Atk|D----D----D----x----|D----D----D----x----|
+Hnd|P----P----P----R----|P----P----P----R----|
+Attack zone: D string through high e.
+
+C release cell
+Cnt|1----2----3----4----|1----2----3----4----|
+Chd|C----C----C----MUTE-|C----C----C----MUTE-|
+Atk|D----D----D----x----|D----D----D----x----|
+Hnd|P----P----P----R----|P----P----P----R----|
+Attack zone: A string through high e.
+
+G release cell
+Cnt|1----2----3----4----|1----2----3----4----|
+Chd|G----G----G----MUTE-|G----G----G----MUTE-|
+Atk|D----D----D----x----|D----D----D----x----|
+Hnd|P----P----P----R----|P----P----P----R----|
+Attack zone: all 6 strings.
+
+P = normal pressure. R = release pressure while fingers remain in contact. x = dry muted strum.
+
+========================================================================================================================
+MODULE E - ANTICIPATED CHANGES ON THE AND OF 4
+========================================================================================================================
+E -> Em -> E: quality change
+Cnt|1----&----2----&----3----&----4----&----|1----&----2----&----3----&----4----&----|
+Chd|E---------E---------E---------E----Em---|Em--------Em--------Em--------Em---E----|
+Str|D---------D---------D---------D----U----|D---------D---------D---------D----U----|
+Pass 2: let the anticipated chord ring through beat 1 and resume on beat 2.
+
+A -> Am -> A: quality change
+Cnt|1----&----2----&----3----&----4----&----|1----&----2----&----3----&----4----&----|
+Chd|A---------A---------A---------A----Am---|Am--------Am--------Am--------Am---A----|
+Str|D---------D---------D---------D----U----|D---------D---------D---------D----U----|
+Pass 2: let the anticipated chord ring through beat 1 and resume on beat 2.
+
+D -> Dm -> D: quality change
+Cnt|1----&----2----&----3----&----4----&----|1----&----2----&----3----&----4----&----|
+Chd|D---------D---------D---------D----Dm---|Dm--------Dm--------Dm--------Dm---D----|
+Str|D---------D---------D---------D----U----|D---------D---------D---------D----U----|
+Pass 2: let the anticipated chord ring through beat 1 and resume on beat 2.
+
+C -> Am -> C: two common fingers
+Cnt|1----&----2----&----3----&----4----&----|1----&----2----&----3----&----4----&----|
+Chd|C---------C---------C---------C----Am---|Am--------Am--------Am--------Am---C----|
+Str|D---------D---------D---------D----U----|D---------D---------D---------D----U----|
+Pass 2: let the anticipated chord ring through beat 1 and resume on beat 2.
+
+Em -> G -> Em: alternate Em
+Cnt|1----&----2----&----3----&----4----&----|1----&----2----&----3----&----4----&----|
+Chd|Em--------Em--------Em--------Em---G----|G---------G---------G---------G----Em---|
+Str|D---------D---------D---------D----U----|D---------D---------D---------D----U----|
+Pass 2: let the anticipated chord ring through beat 1 and resume on beat 2.
+
+G -> C -> G: same-fret guide
+Cnt|1----&----2----&----3----&----4----&----|1----&----2----&----3----&----4----&----|
+Chd|G---------G---------G---------G----C----|C---------C---------C---------C----G----|
+Str|D---------D---------D---------D----U----|D---------D---------D---------D----U----|
+Pass 2: let the anticipated chord ring through beat 1 and resume on beat 2.
+
+D -> A -> D: G2 pivot
+Cnt|1----&----2----&----3----&----4----&----|1----&----2----&----3----&----4----&----|
+Chd|D---------D---------D---------D----A----|A---------A---------A---------A----D----|
+Str|D---------D---------D---------D----U----|D---------D---------D---------D----U----|
+Pass 2: let the anticipated chord ring through beat 1 and resume on beat 2.
+
+E -> A -> E: G-string guide slide
+Cnt|1----&----2----&----3----&----4----&----|1----&----2----&----3----&----4----&----|
+Chd|E---------E---------E---------E----A----|A---------A---------A---------A----E----|
+Str|D---------D---------D---------D----U----|D---------D---------D---------D----U----|
+Pass 2: let the anticipated chord ring through beat 1 and resume on beat 2.
+
+
+========================================================================================================================
+MODULE F - HALF-BEAT TRANSITION BURSTS
+========================================================================================================================
+E <-> Em: add/lift index
+Cnt|1---&---2---&---3---&---4---&---1---&---2---&---3---&---4---&---|
+Chd|E---Em--E---Em--E---Em--E---Em--E---Em--E---Em--E---Em--E---Em--|
+Str|D---U---D---U---D---U---D---U---D---U---D---U---D---U---D---U---|
+One two-bar burst, full relaxation, then repeat.
+
+A <-> Am: D2 common
+Cnt|1---&---2---&---3---&---4---&---1---&---2---&---3---&---4---&---|
+Chd|A---Am--A---Am--A---Am--A---Am--A---Am--A---Am--A---Am--A---Am--|
+Str|D---U---D---U---D---U---D---U---D---U---D---U---D---U---D---U---|
+One two-bar burst, full relaxation, then repeat.
+
+D <-> Dm: B3 common
+Cnt|1---&---2---&---3---&---4---&---1---&---2---&---3---&---4---&---|
+Chd|D---Dm--D---Dm--D---Dm--D---Dm--D---Dm--D---Dm--D---Dm--D---Dm--|
+Str|D---U---D---U---D---U---D---U---D---U---D---U---D---U---D---U---|
+One two-bar burst, full relaxation, then repeat.
+
+C <-> Am: B1/D2 common
+Cnt|1---&---2---&---3---&---4---&---1---&---2---&---3---&---4---&---|
+Chd|C---Am--C---Am--C---Am--C---Am--C---Am--C---Am--C---Am--C---Am--|
+Str|D---U---D---U---D---U---D---U---D---U---D---U---D---U---D---U---|
+One two-bar burst, full relaxation, then repeat.
+
+G <-> Em: alternate Em
+Cnt|1---&---2---&---3---&---4---&---1---&---2---&---3---&---4---&---|
+Chd|G---Em--G---Em--G---Em--G---Em--G---Em--G---Em--G---Em--G---Em--|
+Str|D---U---D---U---D---U---D---U---D---U---D---U---D---U---D---U---|
+One two-bar burst, full relaxation, then repeat.
+
+A <-> D: G2 pivot
+Cnt|1---&---2---&---3---&---4---&---1---&---2---&---3---&---4---&---|
+Chd|A---D---A---D---A---D---A---D---A---D---A---D---A---D---A---D---|
+Str|D---U---D---U---D---U---D---U---D---U---D---U---D---U---D---U---|
+One two-bar burst, full relaxation, then repeat.
+
+
+========================================================================================================================
+MODULE G - ONE-BEAT PROGRESSION CELLS
+========================================================================================================================
+G-D-Em-C: I-V-vi-IV in G
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|G----D----Em---C----G----D----Em---C----G----D----Em---C----G----D----Em---C----|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+A-D-E-A: I-IV-V-I in A
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|A----D----E----A----A----D----E----A----A----D----E----A----A----D----E----A----|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+D-G-A-D: I-IV-V-I in D
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|D----G----A----D----D----G----A----D----D----G----A----D----D----G----A----D----|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+Em-C-G-D: i-VI-III-VII in E minor
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|Em---C----G----D----Em---C----G----D----Em---C----G----D----Em---C----G----D----|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+Am-C-G-Em: i-III-VII-v in A minor
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|Am---C----G----Em---Am---C----G----Em---Am---C----G----Em---Am---C----G----Em---|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+Am-Dm-E-Am: i-iv-V-i in A minor
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|Am---Dm---E----Am---Am---Dm---E----Am---Am---Dm---E----Am---Am---Dm---E----Am---|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+
+========================================================================================================================
+MODULE H - STRUM, RELEASE, MUTE, AND BASS-CHORD PATTERNS
+========================================================================================================================
+Progression: | Am | C | G | Em |
+H1 sustained quarters: Atk|D----D----D----D----|; hold until next attack.
+H2 clipped quarters: Atk|D----D----D----D----|; release immediately after each short chord.
+H3 pitched/muted backbeats: Atk|D----x----D----x----|; chord beats 1/3, mute 2/4.
+H4 bass/chord alternation: Atk|B----D----B----D----|; bass 1/3, chord 2/4.
+Each complete four-bar pass contains 16 attacks.
+
+========================================================================================================================
+MODULE I - UNINTERRUPTED EIGHT-BAR PROGRESSIONS
+========================================================================================================================
+Major route 1
+I-V-vi-IV | I-V-IV-V in G
+Bar|1---------------2---------------3---------------4---------------5---------------6---------------7---------------8---------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|G---G---G---G---D---D---D---D---Em--Em--Em--Em--C---C---C---C---G---G---G---G---D---D---D---D---C---C---C---C---D---D---D---D---|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+Pass 1 sustained quarters. Pass 2 clip beat 4. Pass 3 anticipate bars 5 and 8.
+
+Major route 2
+I-IV-V-I | IV-I-V-V in A
+Bar|1---------------2---------------3---------------4---------------5---------------6---------------7---------------8---------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|A---A---A---A---D---D---D---D---E---E---E---E---A---A---A---A---D---D---D---D---A---A---A---A---E---E---E---E---E---E---E---E---|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+Pass 1 sustained quarters. Pass 2 clip beat 4. Pass 3 anticipate bars 5 and 8.
+
+Minor route 1
+i-VI-III-VII | i-III-VII-VI
+Bar|1---------------2---------------3---------------4---------------5---------------6---------------7---------------8---------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Em--Em--Em--Em--C---C---C---C---G---G---G---G---D---D---D---D---Em--Em--Em--Em--G---G---G---G---D---D---D---D---C---C---C---C---|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+Pass 1 sustained quarters. Pass 2 clip beat 4. Pass 3 anticipate bars 5 and 8.
+
+Minor route 2
+i-III-VII-v | i-iv-V-i
+Bar|1---------------2---------------3---------------4---------------5---------------6---------------7---------------8---------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Am--Am--Am--Am--C---C---C---C---G---G---G---G---Em--Em--Em--Em--Am--Am--Am--Am--Dm--Dm--Dm--Dm--E---E---E---E---Am--Am--Am--Am--|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+Pass 1 sustained quarters. Pass 2 clip beat 4. Pass 3 anticipate bars 5 and 8.
+
+
+========================================================================================================================
+MODULE J - SIXTEEN-BAR CAPSTONES
+========================================================================================================================
+MAJOR CAPSTONE
+| G D Em C | G D C D | Em C G D | G C D G |
+Bar|1---------------2---------------3---------------4---------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|G---G---G---G---D---D---D---D---Em--Em--Em--Em--C---C---C---C---|
+Bar|5---------------6---------------7---------------8---------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|G---G---G---G---D---D---D---D---C---C---C---C---D---D---D---D---|
+Bar|9---------------10--------------11--------------12--------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Em--Em--Em--Em--C---C---C---C---G---G---G---G---D---D---D---D---|
+Bar|13--------------14--------------15--------------16--------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|G---G---G---G---C---C---C---C---D---D---D---D---G---G---G---G---|
+Passes: sustained quarters; clipped beat 4; anticipations at bars 4/8/12; bass/chord alternation.
+
+MINOR CAPSTONE
+| Am C G Em | Am Dm E Am | C G Am Em | Dm Am E Am |
+Bar|1---------------2---------------3---------------4---------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Am--Am--Am--Am--C---C---C---C---G---G---G---G---Em--Em--Em--Em--|
+Bar|5---------------6---------------7---------------8---------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Am--Am--Am--Am--Dm--Dm--Dm--Dm--E---E---E---E---Am--Am--Am--Am--|
+Bar|9---------------10--------------11--------------12--------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|C---C---C---C---G---G---G---G---Am--Am--Am--Am--Em--Em--Em--Em--|
+Bar|13--------------14--------------15--------------16--------------|
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Dm--Dm--Dm--Dm--Am--Am--Am--Am--E---E---E---E---Am--Am--Am--Am--|
+Prepare E major G# during the preceding sustain. End on Am without extra pressure.
+
+
+========================================================================================================================
+PRACTICE PROGRESSION AND ERROR REPAIR
+========================================================================================================================
+1. Transition taxonomy
+2. Silent mechanics
+3. Common fingers
+4. Guide transfers
+5. Release timing
+6. Anticipated changes
+7. Half-beat bursts
+8. One-beat progressions
+9. Eight-bar routes
+10. Sixteen-bar capstones
+ANCHOR SQUEEZES: keep contact but reduce pressure.
+GUIDE SQUEAKS: release before sliding or transferring.
+LATE BASS: land from the bass side and narrow the strum.
+EARLY RELEASE: hold through the printed count.
+PUSH IS EARLY: count 4 and before the upstroke.
+PUSH IS LATE: prepare during beat 4, not after it.
+BURST COLLAPSES: shorten to one bar and reduce tempo.
+FORM RESET: say the next chord one beat early.
+PAIN OR TENSION: stop, reduce duration, and return to silent mechanics.
+
+========================================================================================================================
+MASTERY GATE BEFORE LEVEL 51
+========================================================================================================================
+- Identify planted, pivot, guide, and moving fingers before every transition.
+- Complete all eighty silent landings with low hover distance and correct attack zones.
+- Play all common/pivot and guide-transfer cells at quarter-note speed.
+- Execute release-mute cells without lifting the hand from the strings.
+- Place all eight anticipated changes on the and of 4.
+- Complete all six half-beat bursts without losing chord quality.
+- Play six one-beat progressions, four eight-bar routes, and both sixteen-bar capstones.
+- Meet the standard on two separate days without pain or increased fretting pressure.
+
+NEXT LEVEL
+Level 51 - movable barre-chord families. Open E and A shapes become movable major and minor chords rooted on the low E and A strings.

@@ -1,0 +1,102 @@
+{
+  "all_clear": true,
+  "existing_shared": [
+    {
+      "current_bytes": 155745,
+      "current_sha256": "ff71bf36495b428267e8b33bac7cae6862ded90d2c3cbfa5b6d1c614a7473cb5",
+      "expected_bytes": 155745,
+      "expected_sha256": "ff71bf36495b428267e8b33bac7cae6862ded90d2c3cbfa5b6d1c614a7473cb5",
+      "match": true,
+      "path": "CMakeLists.txt"
+    },
+    {
+      "current_bytes": 24509,
+      "current_sha256": "242eabf5ba02e01e1fc4d998ca26e0944e316f79bf5d1682370880adba079729",
+      "expected_bytes": 24509,
+      "expected_sha256": "242eabf5ba02e01e1fc4d998ca26e0944e316f79bf5d1682370880adba079729",
+      "match": true,
+      "path": "Source/content/InstalledExtensionRegistry.hpp"
+    },
+    {
+      "current_bytes": 48295,
+      "current_sha256": "db666072ea4a70b4eed3fed9d564332fa90fc41751c740a1bf2e33713272b341",
+      "expected_bytes": 48295,
+      "expected_sha256": "db666072ea4a70b4eed3fed9d564332fa90fc41751c740a1bf2e33713272b341",
+      "match": true,
+      "path": "Source/progression/InstalledDomainCatalog.cpp"
+    },
+    {
+      "current_bytes": 4195,
+      "current_sha256": "3f55854744810dea48d82293e3f0bd390eb9a53be02661f949e984f5b3fd0eb0",
+      "expected_bytes": 4195,
+      "expected_sha256": "3f55854744810dea48d82293e3f0bd390eb9a53be02661f949e984f5b3fd0eb0",
+      "match": true,
+      "path": "Content/runtime/learn-source-index-v1/accepted-overlay.json"
+    },
+    {
+      "current_bytes": 327,
+      "current_sha256": "d6744756aec561df92ae78b199d62f36fb516188bd745859bf44bad649930d2c",
+      "expected_bytes": 327,
+      "expected_sha256": "d6744756aec561df92ae78b199d62f36fb516188bd745859bf44bad649930d2c",
+      "match": true,
+      "path": "Source/content/LearnSourceIndexPins.hpp"
+    },
+    {
+      "current_bytes": 6941,
+      "current_sha256": "781ff8c9d0e49607715d9728bb81998cfcae6df8285c9f707ec26699d649347b",
+      "expected_bytes": 6941,
+      "expected_sha256": "781ff8c9d0e49607715d9728bb81998cfcae6df8285c9f707ec26699d649347b",
+      "match": true,
+      "path": "Tests/learn_source_index_tests.cpp"
+    }
+  ],
+  "frozen_input_pins": {
+    "adoption": {
+      "match": true,
+      "path": "Results/primary/20260926T2329Z-level014-r03-private-native-adoption.md",
+      "sha256": "57a056375afd40525fa34117e8f450d5029e95c45fef7d193368ceada6763fc7"
+    },
+    "native_manifest": {
+      "match": true,
+      "path": "Results/manager-resume-r01/level014-r03-canonical-native-review-r01/execution-r01/artifact-manifest.json",
+      "sha256": "ee6f246f6980af7202fe8470cdd4d11d0e81ba316c599e6f88576c08a6b28506"
+    },
+    "native_package": {
+      "match": true,
+      "path": "Build/parallel-02/level014-r03-canonical-native-r01/run-r01/package.json",
+      "sha256": "d498dac23f30d0e5a5502bd44017b2af9bd21012890983c2ebc54375362c0841"
+    },
+    "native_profile": {
+      "match": true,
+      "path": "Build/parallel-02/level014-r03-canonical-native-r01/run-r01/expected-profile.json",
+      "sha256": "46149c196a6b9b470585b3fa0abca881382a0b2ed9630e85dce5ba5e955e9915"
+    },
+    "native_registry": {
+      "match": true,
+      "path": "Build/parallel-02/level014-r03-canonical-native-r01/run-r01/identity-registry.json",
+      "sha256": "f19a21ced38907291550497b04c075a894f70a92ac67fd90bcb5875780fc37ed"
+    },
+    "native_review": {
+      "match": true,
+      "path": "Results/manager-resume-r01/level014-r03-canonical-native-review-r01/execution-r01/final-review.md",
+      "sha256": "e002b2da98a993c9a8a8f27cd50ac7b417362ac8039c034a9fe011cf100029c8"
+    },
+    "release": {
+      "match": true,
+      "path": "Prompts/manager-resume-r01/level014-r03-installed-shared-release.md",
+      "sha256": "a0e5125b12c91ec03afa5f03e479624e6ee90ef83b114f2854ab561eb78eea21"
+    }
+  },
+  "id_scan": {
+    "files_scanned": 2200,
+    "hits": [],
+    "scope": "current shared CMakeLists.txt, Content, Source, Tests and Tools; expected reservation/private candidate excluded"
+  },
+  "memory": {
+    "active_wired_occupied_compressor_gib": 10.2913,
+    "headroom_to_14_gib": 3.7087
+  },
+  "process_competitors": [],
+  "schema": "p02.level014-r03.installed-prewrite-guard.1",
+  "utc": "2026-09-26T23:31:11.717366+00:00"
+}

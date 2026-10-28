@@ -1,0 +1,27 @@
+{
+  "schema": "p02.level013-r03.installed-derivation.1",
+  "source_sha256": {
+    "package": "f61ca4a78a03f8e71c308f0c945e692b564b9ee443a6c56af294332bc32e9905",
+    "profile": "b3a8edfebd1a10cb4ba9337adb4f1f715d516be105c5b672fba467ae80289b21",
+    "registry": "e6649e66247b7aab8732899cd8f7d0665c87e5ff751273af5b51ef00a02e2e73"
+  },
+  "derived_sha256": {
+    "allocation": "8a90232bab6438a4e427322d341c23a259aefaab4c16636b5559893562379ff6",
+    "package": "dc4b229ea2c90bdfd0a09421c43d9b2a847bceb892afdb9d55a84e1271dc2231",
+    "registry": "e6649e66247b7aab8732899cd8f7d0665c87e5ff751273af5b51ef00a02e2e73",
+    "profile": "3620b0053e77a5556cca28cabccbd948390b4fce06fbe2cd07ade9e71813815b",
+    "resource_adapter": "37f37a400a2ff9b019d3b787405b5bcce528fc3fcf0323c8544c0896ce9971ee"
+  },
+  "allowed_differences": [
+    "content_version",
+    "profile reference_package",
+    "profile required_unsupplied local adapter path/hash",
+    "profile candidate_identity_allocation path/hash"
+  ],
+  "identities_preserved": true,
+  "all_30_events_preserved": true,
+  "source_timing_preserved": true,
+  "runtime_eligible_still_false": true,
+  "resource_entries": 16,
+  "supplied_resources": 0
+}

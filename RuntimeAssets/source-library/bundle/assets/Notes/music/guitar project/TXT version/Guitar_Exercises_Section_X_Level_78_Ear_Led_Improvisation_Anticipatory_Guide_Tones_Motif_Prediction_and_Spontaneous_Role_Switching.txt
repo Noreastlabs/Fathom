@@ -1,0 +1,218 @@
+GUITAR EXERCISES - SECTION X, LEVEL 78
+EAR-LED IMPROVISATION, ANTICIPATORY GUIDE TONES, MOTIF PREDICTION, AND SPONTANEOUS ROLE SWITCHING
+
+PURPOSE
+Hear or sing the musical destination before the hand moves. Predict motif continuations, anticipate guide tones through chord changes, and switch between accompaniment and lead roles without losing pulse or form.
+
+CONTROL LOOP
+HEAR -> SING -> LOCATE -> PLAY TARGET -> LISTEN -> ANSWER -> RETURN TO ROLE / FORM
+
+WRITTEN WORKLOAD
+Module A 96 events
+Module B 96 events
+Module C 96 events
+Module D 96 events
+Module E 128 events
+Module F 128 events
+Module G 128 events
+Module H 128 events
+TOTAL 896 events
+
+MODULE A - PRE-HEARD TARGETS
+Major ii-V-I targets:
+1 | Dm7 | b3 | F | count-in 4
+2 | G7 | 3 | B | bar 1 beat 4
+3 | Cmaj7 | 3 | E | bar 2 beat 4
+4 | Cmaj7 | 7 | B | bar 3 beat 4
+5 | Dm7 | b7 | C | bar 4 beat 4
+6 | G7 | b7 | F | bar 5 beat 4
+7 | Cmaj7 | 5 | G | bar 6 beat 4
+8 | Cmaj7 | R | C | bar 7 beat 4
+9 | Dm7 | R | D | bar 8 beat 4
+10 | G7 | 5 | D | bar 9 beat 4
+11 | Cmaj7 | 7 | B | bar 10 beat 4
+12 | Cmaj7 | R | C | bar 11 beat 4
+
+Minor iiø-V-i targets:
+1 | Bm7b5 | b3 | D | count-in 4 | hold
+2 | E7 | 3 | G# | bar 1 beat 4 | -> A later
+3 | Am7 | b3 | C | bar 2 beat 4 | settle
+4 | Am7 | b7 | G | bar 3 beat 4 | hold
+5 | Bm7b5 | b5 | F | bar 4 beat 4 | -> E/D
+6 | E7 | b7 | D | bar 5 beat 4 | -> C
+7 | Am7 | 5 | E | bar 6 beat 4 | settle
+8 | Am7 | R | A | bar 7 beat 4 | settle
+9 | Bm7b5 | R | B | bar 8 beat 4 | hold
+10 | E7 | 3 | G# | bar 9 beat 4 | -> A
+11 | Am7 | b3 | C | bar 10 beat 4 | settle
+12 | Am7 | R | A | bar 11 beat 4 | close
+
+MODULE B - ANTICIPATORY GUIDE TONES
+Major routes:
+C major | Dm7 -> G7 -> Cmaj7 | F -> F -> E | C -> B -> B
+G major | Am7 -> D7 -> Gmaj7 | C -> C -> B | G -> F# -> F#
+D major | Em7 -> A7 -> Dmaj7 | G -> G -> F# | D -> C# -> C#
+A major | Bm7 -> E7 -> Amaj7 | D -> D -> C# | A -> G# -> G#
+E major | F#m7 -> B7 -> Emaj7 | A -> A -> G# | E -> D# -> D#
+F major | Gm7 -> C7 -> Fmaj7 | Bb -> Bb -> A | F -> E -> E
+
+Minor routes:
+A minor | Bm7b5 -> E7 -> Am7 | D -> D -> C | A -> G# -> G
+E minor | F#m7b5 -> B7 -> Em7 | A -> A -> G | E -> D# -> D
+B minor | C#m7b5 -> F#7 -> Bm7 | E -> E -> D | B -> A# -> A
+F# minor | G#m7b5 -> C#7 -> F#m7 | B -> B -> A | F# -> E# -> E
+C# minor | D#m7b5 -> G#7 -> C#m7 | F# -> F# -> E | C# -> B# -> B
+D minor | Em7b5 -> A7 -> Dm7 | G -> G -> F | D -> C# -> C
+
+MODULE C - SUNG PHRASE PREDICTION
+C major | C-D-E-G | E-D | 3-2
+C major | G-A-G-E | D-C | 2-1
+G major | G-B-A-D | C-B | 4-3
+D major | A-F#-E-D | C#-D | 7-1
+A minor | A-C-D-E | G-E | b7-5
+E minor | B-A-G-F# | E-G | 1-b3
+A harmonic minor | E-F-G#-A | G#-E | 7-5
+A melodic minor | A-B-C-E | F#-G# | 6-7
+Cmaj7 | E-G-B | C-B | R-7
+G7 | B-D-F | E-D | 13-5
+E7 | G#-B-D | C-B | b13-5
+AmMaj7 | C-E-G# | A-G# | R-7
+
+Function-target prompts:
+C major | ii -> V | 3 of V | B
+C major | V -> I | 3 of I | E
+C major | IV -> V | b7 of V | F
+G major | ii -> V | 3 of V | F#
+D major | V -> I | 7 of I | C#
+A major | ii -> V | 3 of V | G#
+A minor | iiø -> V | 3 of V | G#
+A minor | V -> i | b3 of i | C
+E minor | iiø -> V | 3 of V | D#
+D minor | V -> i | b3 of i | F
+A melodic minor | IV7 -> V7 | 3 of V7 | G#
+C# minor | V7alt -> i | b3 of i | E
+
+MODULE D - MOTIF CONTINUATION
+Cmaj7 | C-E-G-E | same rhythm, higher answer | E-G-B-G
+Dm7 | D-F-A-F | same rhythm, lower answer | C-A-F-D
+G7 | G-B-D-F | reverse contour | F-D-B-G
+Am7 | A-C-E-G | compress range | C-E-G-E
+Cmaj7 | E-G-B-C | shift up octave | E-G-B-C
+E7 | E-G#-B-D | same contour into Am | A-C-E-G
+Dm7 -> G7 | F-A-C-A | answer on V | B-D-F-D
+Bm7b5 -> E7 | D-F-A-F | answer on V | G#-B-D-B
+
+Across chord changes:
+Dm7 -> G7 | F-A-C-A | B-D-F-D
+G7 -> Cmaj7 | B-D-F-D | E-G-B-G
+Am7 -> D7 | C-E-G-E | F#-A-C-A
+D7 -> Gmaj7 | F#-A-C-A | B-D-F#-D
+Bm7b5 -> E7 | D-F-A-F | G#-B-D-B
+E7 -> Am7 | G#-B-D-B | C-E-G-E
+F#m7b5 -> B7 | A-C-E-C | D#-F#-A-F#
+B7 -> Em7 | D#-F#-A-F# | G-B-D-B
+
+MODULE E - ACCOMPANIMENT TO LEAD
+C major | Cmaj7 | Am7 | Dm7 | G7 | E | triad shells -> lead
+G major | Gmaj7 | Em7 | Am7 | D7 | B | shells -> arpeggio
+D major | Dmaj7 | Bm7 | Em7 | A7 | F# | triads -> motif
+A major | Amaj7 | F#m7 | Bm7 | E7 | C# | shells -> guide line
+A minor | Am7 | Dm7 | Bm7b5 | E7 | C | shells -> minor phrase
+E minor | Em7 | Am7 | F#m7b5 | B7 | G | shells -> minor phrase
+A melodic minor | AmMaj7 | D7 | Bm7 | E7 | G# | upper triad -> mode color
+C# minor | C#m7 | F#m7 | G#7alt | C#m7 | E | shells -> altered answer
+
+Register orchestration:
+Low comp -> high lead | Cmaj7-Am7-Dm7-G7 | roots/shells | G-B-e triad fragments
+Middle comp -> low lead | Am7-Dm7-E7-Am7 | D-G-B shells | low E/A arpeggio targets
+High comp -> middle lead | Dm7-G7-Cmaj7-Cmaj7 | G-B-e triads | D-G-B guide-tone line
+Partial chords -> single-note lead | Bm7b5-E7-Am7-Am7 | 3-string shells | diagonal chord-tone phrase
+
+MODULE F - LEAD TO ACCOMPANIMENT
+C major | lead ends on B -> comp Cmaj7 | bar 4 beat 3 | B -> C
+G major | lead ends on F# -> comp Gmaj7 | bar 4 beat 3 | F# -> G
+A minor | lead ends on G# -> comp Am | bar 4 beat 3 | G# -> A
+E minor | lead ends on D# -> comp Em | bar 4 beat 3 | D# -> E
+D major | lead ends on C# -> comp Dmaj7 | bar 4 & of 2 | C# -> D
+A major | lead ends on G# -> comp Amaj7 | bar 4 & of 2 | G# -> A
+A melodic minor | lead G# -> comp Am6 | bar 4 beat 3 | G# -> A / F# color
+C# minor | lead B# -> comp C#m | bar 4 beat 3 | B# -> C#
+
+Cue recovery:
+Cue at beat 1 | finish current target; comp next bar
+Cue at beat 2 | one answer note; leave beat 4 free
+Cue at beat 3 | resolve immediately; re-form chord
+Cue at beat 4 | no new lead note; comp next beat 1
+Visual nod | acknowledge while maintaining pulse
+Drum fill | hear final fill beat; enter after it
+Held ensemble chord | reduce to guide tone; wait for release
+Unexpected extra bar | repeat motif or comp shell; do not invent new form
+
+MODULE G - SPARSE / DENSE ROLE SWITCHING
+Cmaj7-Am7-Dm7-G7 | Sparse comp | 1 shell / bar | Dense lead | 5 tones / bar
+Am-Dm-E7-Am | Sparse lead | 2 tones / bar | Dense comp | 8th-note stabs
+Dm7-G7-Cmaj7-Cmaj7 | Dense comp | backbeat shells | Sparse lead | 1 target + rest
+Bm7b5-E7-Am7-Am7 | Sparse comp | root + shell | Dense lead | arpeggio + approach
+Gmaj7-Em7-Am7-D7 | Dense lead | motif sequence | Sparse comp | 2 attacks / bar
+Amaj7-F#m7-Bm7-E7 | Sparse lead | guide tones | Dense comp | syncopated triads
+AmMaj7-D7-E7-Am6 | Dense comp | upper triads | Sparse lead | mode-color targets
+C#m7-F#m7-G#7alt-C#m7 | Sparse comp | shells | Dense lead | altered approach + target
+
+Command deck:
+Comp Cmaj7 -> lead on E
+Lead over G7 -> comp Cmaj7
+Comp Am7 -> lead on C
+Lead over E7 -> comp Am
+Comp Dm7 -> lead on F
+Lead over D7 -> comp Gmaj7
+Comp Bm7b5 -> lead on D
+Lead over B7 -> comp Em7
+Low comp -> high lead
+High lead -> middle shells
+Roots -> guide-tone line
+Triads -> single-note motif
+Lead sparse -> comp dense
+Comp dense -> lead sparse
+Visual cue -> switch role
+One extra bar -> preserve current role
+
+MODULE H - 16-BAR CAPSTONE FORM
+1 | Cmaj7 | comp | E
+2 | Am7 | comp | C
+3 | Dm7 | lead | F
+4 | G7 | lead | B
+5 | Cmaj7 | lead | E
+6 | A7 | lead | C#
+7 | Dm7 | comp | F
+8 | G7 | comp | B
+9 | Cmaj7 | comp | B
+10 | E7 | lead | G#
+11 | Am7 | lead | C
+12 | D7 | lead | F#
+13 | Gmaj7 | comp | B
+14 | Am7 | comp | C
+15 | D7 | lead | F#
+16 | Gmaj7 | comp | G
+
+FIVE-PASS LADDER
+1. Targets only: Sing every beat-one target; play one note; rest for remainder of bar.
+2. Accompaniment only: Use roots, shells, or triads. Sing upcoming lead targets even though no lead is played.
+3. Printed role map: Follow the comp/lead roles from page 16 exactly. Keep beat 4 available before handoffs.
+4. Randomized cues: Partner changes four role handoffs. Player simplifies immediately and preserves the form.
+5. Free orchestration: Choose role, register, density, and articulation, but keep the chord and target schedule intact.
+
+ENSEMBLE ROLE LAB
+1. Four-bar trade | 2 bars comp / 2 bars lead | Cmaj7-Am7-Dm7-G7
+2. One-bar trade | 1 bar comp / 1 bar lead | Am7-Dm7-E7-Am7
+3. Question / shell answer | lead phrase / chord shell | Dm7-G7-Cmaj7
+4. Shell / melodic answer | shell cue / 3-note response | Bm7b5-E7-Am7
+5. Register handoff | low role / high role | Gmaj7-Em7-Am7-D7
+6. Density handoff | sparse / dense | Amaj7-F#m7-Bm7-E7
+7. Hidden cue | partner signals switch | any 4-bar form
+8. Error rescue | partner inserts extra bar | preserve form by listening
+
+MASTERY
+Pre-hear 24 major/minor targets; sing major and minor guide-tone routes; predict 10/12 phrase completions; continue all motif cells; switch roles on random cues without losing form; pass the 16-bar capstone at 28/32 or better on two separate days.
+
+NEXT LEVEL
+Level 79: complete-performance improvisation synthesis with long-form dynamic arcs, multiple key centers, rhythmic displacement, ear-led recovery, ensemble cues, and a multi-chorus capstone.

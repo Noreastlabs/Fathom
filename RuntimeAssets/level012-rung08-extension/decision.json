@@ -1,0 +1,41 @@
+{
+  "authority_name": "P02 interim agent Curriculum/Product runtime decision owner",
+  "decision_evidence": "agent-curriculum-decision.md",
+  "decision_evidence_sha256": "ee01abdf516ec717ffa9b4c4726fbf7bdd5d5f94be8fe5f53dc9602261323b9d",
+  "native_review_evidence": "Results/manager-resume-r01/level012-r08-native-review-r01/final-review.md",
+  "native_review_sha256": "d29aeb28dae148fc50d0d5d26caa9b9b6c13e1edc7a3ae944fba7431ccdcb66d",
+  "original_package_sha256": "ba630bedbcec2755c62ef8666850ce2c19dc4cb2d7759a8edaa90f8eb177e123",
+  "original_profile_sha256": "477a9c58c1148f21d1d7864a6f0cfb5c068623fc09d0f79df04458cafff0192e",
+  "original_registry_sha256": "fd4e905d0f436f2817689bd28dd83e5f64b77b0c2eb5b33e63633bff800cd6fe",
+  "package_sha256": "ccc58d75f0eb0c7c5e2e556cdb6e13a9ddc835f10fc606ae740f56970ae9f8b2",
+  "profile_sha256": "02d5f00f9874014e56a670907331c51bb501973309452146480db0c6a5913f3d",
+  "recorded_utc": "2026-09-26T19:47:20Z",
+  "registry_sha256": "c1d1a34a0eb27e5ef393001f3ef57e2fdd73fe7d1b6d7a7c6a4f2cae63ed04dd",
+  "resource_adapter_sha256": "46c3eae8c870630ccc7e2d1bb522c08cf3b8daa4755994a7e64002913161f287",
+  "scope": {
+    "automatic_credit": false,
+    "content_revision": 1,
+    "events": 16,
+    "fixed_authored_bpm": false,
+    "intercell_pause_included": false,
+    "item_id": "fg:item:001178",
+    "mastery": false,
+    "module_id": "fg:module:001178",
+    "recorded_domain": "Technique/fretboard",
+    "required_unsupplied_resource_entry_count": 16,
+    "resource_availability": "required_unsupplied",
+    "rhythm_groove_inferred": false,
+    "source_timing": "even_eighths",
+    "span_q": 8,
+    "variant_ids": [
+      "fg:variant:007694",
+      "fg:variant:007695"
+    ],
+    "whole_ladder": false,
+    "whole_workbook": false
+  },
+  "source_review_evidence": "Results/level-oracle/exercise-implementation-r01/level012-rung08-portable-r01/review-r01/review-report.md",
+  "source_review_sha256": "5ee18730afaa8b8a0a8dc503c30296720e16bd4aea204e99ecc40395b8109b79",
+  "status": "ACCEPTED",
+  "version": "level012-rung08-first-cell-curriculum-decision.1"
+}

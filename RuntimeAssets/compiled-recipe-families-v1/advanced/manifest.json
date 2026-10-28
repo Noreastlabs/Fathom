@@ -1,0 +1,807 @@
+{
+  "bulk_definitions": {
+    "bytes": 261220,
+    "path": "definitions.jsonl",
+    "sha256": "2c289af865a37ff93a93414b9ecba1e630e5bbc24a1668f059a2b020130fa927"
+  },
+  "definitions": [
+    {
+      "context_ref": "85551e81fbc2f88137cc4ad18b4f4dea09f0407b996472ab4eb016a54de80ad6",
+      "contract_sha256": "f6ad607036dfe44ee06a48437e642d952a35f7f8ac1256bdc92b4d09d8d67921",
+      "definition": {
+        "bytes": 5045,
+        "path": "definitions/level077/modulef/p014-t1-r1/cmaj7/definition.json",
+        "sha256": "6acd22e338a5d65a891595846bad77bedfa749d89bd9a1f7d8dbe42aa7733a14"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r1/cmaj7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r1/cmaj7"
+    },
+    {
+      "context_ref": "f32c07bd158c6edd6efab1c4ee23e83f2defe2d921b4e250dc104b60cc4e9102",
+      "contract_sha256": "f863ef663b69a42eb6735bfa34888722249aac9cf70fd307eeef81211f4bd8ff",
+      "definition": {
+        "bytes": 5045,
+        "path": "definitions/level077/modulef/p014-t1-r2/cmaj7/definition.json",
+        "sha256": "80510f256a17e7c0b0a0258bf4cb989f9e7e9bdde32fbb27f15e64f2ad943e1e"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r2/cmaj7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r2/cmaj7"
+    },
+    {
+      "context_ref": "eef8043ae10f6b98206d77aed6efd79e62cea10ff8ec731647bf4ee55b5c4d7f",
+      "contract_sha256": "040e662e89db0b68f1523379c5f1a368cba6cd8283668d9571445d939e9b3d10",
+      "definition": {
+        "bytes": 5036,
+        "path": "definitions/level077/modulef/p014-t1-r3/dm7/definition.json",
+        "sha256": "261e366cb9eb76a924ba695c8facd7577aafb577ce80cfdb24a054f82c71e7f3"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r3/dm7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r3/dm7"
+    },
+    {
+      "context_ref": "04fc80d69fd181030185f80282b0af436b2fca6480d33aad6fb8556d58c14312",
+      "contract_sha256": "aa43bc0c6fac982b675b7f37ca80496cf76ff88b7bfc2542112a3d2a5ff59d91",
+      "definition": {
+        "bytes": 5036,
+        "path": "definitions/level077/modulef/p014-t1-r4/dm7/definition.json",
+        "sha256": "e9a479fa75d7b74ade4c1af9c0c8ad33dbad02681c02781efec038a01e4405de"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r4/dm7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r4/dm7"
+    },
+    {
+      "context_ref": "284f61761181b014a471101c2f4850c03eadcf0f5f9fb157fd61e537c5f0f15d",
+      "contract_sha256": "027e018f8243ce673e5d581fa7dc83de172991fb610bff180ecbc6a5fb3e7697",
+      "definition": {
+        "bytes": 5030,
+        "path": "definitions/level077/modulef/p014-t1-r5/g7/definition.json",
+        "sha256": "7e35cf986c0bb410f29cca43ad34bf97aa59359dd1913c81975b07e01141d8c6"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r5/g7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r5/g7"
+    },
+    {
+      "context_ref": "2a1b662f0057c1f63bca1fce0dae898a8b3ed2130cc9ce3dd859b6c965032447",
+      "contract_sha256": "490aad5f97f4a912502d00fe7cf318efe509cdeafbd46b071b02c484e241e92c",
+      "definition": {
+        "bytes": 5031,
+        "path": "definitions/level077/modulef/p014-t1-r6/g7/definition.json",
+        "sha256": "d4bb807db87a50d11b9f4465d453fe6ad50cc74fc3882985c8f3e5a3e086ca68"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r6/g7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r6/g7"
+    },
+    {
+      "context_ref": "84ca10d82c32fc2cd2199efd63034eac2aa69fdbba6f60a56c7b1c00dd32d9cf",
+      "contract_sha256": "f8775c8826a340a513716db74d6f07f37fde906126c5e4914ab452eb0123dd63",
+      "definition": {
+        "bytes": 5036,
+        "path": "definitions/level077/modulef/p014-t1-r7/am7/definition.json",
+        "sha256": "c12b7ae191a01790500e84e142327911c43c832df6d80d9a89530f209bc7fbee"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r7/am7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r7/am7"
+    },
+    {
+      "context_ref": "a5f02759717338451a176a2bd1465b6c3a2298895c2b5f55972447b2147f6b4f",
+      "contract_sha256": "2e354782d1a8ded174a6b4f6f3fb5e50b06a69b932025f1f571e8690505bb34f",
+      "definition": {
+        "bytes": 5036,
+        "path": "definitions/level077/modulef/p014-t1-r8/am7/definition.json",
+        "sha256": "909738d87e4f3dc329f01aeff1a5919fea5332627f763a5688bfb7c2399ef9da"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r8/am7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r8/am7"
+    },
+    {
+      "context_ref": "0f9aa8638cb98599ab060f891e79a94c5e028973d7c896c5944a1389ad48d3ff",
+      "contract_sha256": "999b9995636e6ce8f8299f2c68b16a23934d35256f81d899804c360abfccc0fb",
+      "definition": {
+        "bytes": 5046,
+        "path": "definitions/level077/modulef/p014-t1-r9/bm7b5/definition.json",
+        "sha256": "088be0d8436af0c870cf80d0b60bb6ccb2530223d5119b49c293e8bdb7682c81"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r9/bm7b5",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r9/bm7b5"
+    },
+    {
+      "context_ref": "6070fec9417a45e2658c7afe628e007abe44256248ecde7bb4d6b396c0410638",
+      "contract_sha256": "9cc288a2cf865843b98a20709078e28548fe032323a8cbf592c059ea7a5a6927",
+      "definition": {
+        "bytes": 5035,
+        "path": "definitions/level077/modulef/p014-t1-r10/e7/definition.json",
+        "sha256": "8bab4fb1e8dc36a678b8063a13f2fb25060d8d3d7f93344f6dccb4587851b90a"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r10/e7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r10/e7"
+    },
+    {
+      "context_ref": "a8758cfd7dba9ed9d01290fedf1c77427c334ac424f4f0d6ac4a494f167944c2",
+      "contract_sha256": "f247e31001fdab219a6c1c3e39ab4e96852aa12e024a00a6bb0dbc76a976fe1f",
+      "definition": {
+        "bytes": 5035,
+        "path": "definitions/level077/modulef/p014-t1-r11/e7/definition.json",
+        "sha256": "374d068edbffb37566842b6c7db182c9295195bd39cfd9a3ee78bde989102e85"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r11/e7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r11/e7"
+    },
+    {
+      "context_ref": "0d4ea8a4dc87c1b7e2a604c7cd4ef5281a9f9bec960b39564fec0a270d7810d9",
+      "contract_sha256": "d71b30b704b255f774286959cbaf771889966b590e8e9215565aa9182bb50ebf",
+      "definition": {
+        "bytes": 5055,
+        "path": "definitions/level077/modulef/p014-t1-r12/ammaj7/definition.json",
+        "sha256": "11f7970f3441f8caa1cba2b0f6ebdb724cfd8016eea7b73d7b06a3dad0aa990c"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r12/ammaj7",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r12/ammaj7"
+    },
+    {
+      "context_ref": "7d741594bc1dcf437bd5a8e97da79b6e7752860136b8ea873e69811028fa5c9e",
+      "contract_sha256": "2bae3258c6424f39145a27d2de891d3b4ed301eb9002fdadbbf53f42f7f81c2c",
+      "definition": {
+        "bytes": 5052,
+        "path": "definitions/level077/modulef/p014-t1-r13/d7#11/definition.json",
+        "sha256": "f805e67a1b95fe8583215102d1b9d62e760d19b241578c152ed6155eb12a460e"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r13/d7#11",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r13/d7#11"
+    },
+    {
+      "context_ref": "8f7a418bc1be029deb637963acf7ad05e372e951d11675d47c9f7194aa7e220e",
+      "contract_sha256": "0e18d5a6009541faa482c48661cdf9daa872b6c3c012a5254fb690661647e6f0",
+      "definition": {
+        "bytes": 5620,
+        "path": "definitions/level077/modulef/p014-t1-r15/g#7alt/definition.json",
+        "sha256": "e9529325ca54c21a8ca824f2b8437d07a309d66ec5d80c6d22888c3b1a0903c3"
+      },
+      "recipe": "chord_tone_transfer",
+      "source_identity": "level077/modulef/p014-t1-r15/g#7alt",
+      "source_key": "exercise-completeness-r01/level077/modulef/p014-t1-r15/g#7alt"
+    },
+    {
+      "context_ref": "1d5be56772dad0e56650fc694f1ef7a731915fbd6f0b07972c5c4cfce32cd08c",
+      "contract_sha256": "43b5dc428b6998040efba959767f41f4d1fbc2df82782e3e2c93668667b4be74",
+      "definition": {
+        "bytes": 7307,
+        "path": "definitions/level077/moduleh/p017-u001/modulehsixteenbareartohandmodelreconstruction/definition.json",
+        "sha256": "983677a430f60a1e1fcd591c8ada6ee3e871c99e82471ec02e9ac2c4391b3abf"
+      },
+      "recipe": "full_reconstruction",
+      "source_identity": "level077/moduleh/p017-u001/modulehsixteenbareartohandmodelreconstruction",
+      "source_key": "exercise-completeness-r01/level077/moduleh/p017-u001/modulehsixteenbareartohandmodelreconstruction"
+    },
+    {
+      "context_ref": "7b17eeeac854eba8c5411add3ed5518ebed7d2edc1bc56544624f917256a2528",
+      "contract_sha256": "eb02c8832e00a199a8c15a8a17f732e0bcb6b20e65b6573216906f578553e2de",
+      "definition": {
+        "bytes": 4448,
+        "path": "definitions/level083/moduleab/p003-t1-r1/cmaj7/definition.json",
+        "sha256": "3abc9e74dad610b354152b7364c07cd62a0c3e1eefcb2343dfd908a6fa0ddd2d"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p003-t1-r1/cmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p003-t1-r1/cmaj7"
+    },
+    {
+      "context_ref": "99c2374da4bdb5071e3026482f3185e9afb5dc140f817938a6fac3a066f52269",
+      "contract_sha256": "2cd6e27de161f97f1be1cb8c7a01e2913f6c59341b4cb99f52f59e9afb5682d0",
+      "definition": {
+        "bytes": 4436,
+        "path": "definitions/level083/moduleab/p003-t1-r2/am7/definition.json",
+        "sha256": "f6e4aa2e7f5c6720bdfa84da394aed6179b10187bcf7e65d4f3754715a5d9005"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p003-t1-r2/am7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p003-t1-r2/am7"
+    },
+    {
+      "context_ref": "35944d26d0a04c3eed1ad182f1d0ee53198dcd7bf8472bf77b8340b8f9941dbe",
+      "contract_sha256": "2b9fa8dd27bc244f915beffba325024523f7c1046c3d14af16a8e11d7d4c2458",
+      "definition": {
+        "bytes": 4448,
+        "path": "definitions/level083/moduleab/p003-t1-r3/fmaj7/definition.json",
+        "sha256": "065184f92d9ff0d36cd5aec722929288008044e3d6e4ea6dfedf261335d7958c"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p003-t1-r3/fmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p003-t1-r3/fmaj7"
+    },
+    {
+      "context_ref": "202f04c7a18f41dfa85ddcae6ac0d2530aeb6c771e8aaf722140cf108a5b4c18",
+      "contract_sha256": "c11e8a2ba68c79c2c7743ae176ab793799d1f4d19563c16a1f8c1733531ae945",
+      "definition": {
+        "bytes": 4436,
+        "path": "definitions/level083/moduleab/p003-t1-r4/dm7/definition.json",
+        "sha256": "87d2580cf5d29d36ff04cb469d49346cb5196fb5b4f4f28a90accb0203f7768c"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p003-t1-r4/dm7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p003-t1-r4/dm7"
+    },
+    {
+      "context_ref": "1d2f3b2228d6d5120e5cff1f2ac301c6241626379020f8f8e2be2186fe2ed675",
+      "contract_sha256": "0385a2e704314b3a42eedd2b1f9b9d81ba5ae43bc5c8fafbd79c5cf83d7df289",
+      "definition": {
+        "bytes": 4454,
+        "path": "definitions/level083/moduleab/p003-t1-r5/abmaj7/definition.json",
+        "sha256": "b21215536115c7bd22e5d2b9b1f21df6c619ff0b4902f6b33cb84a678a9f096f"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p003-t1-r5/abmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p003-t1-r5/abmaj7"
+    },
+    {
+      "context_ref": "9458058393b366e67b698b729685d7dfec59e3cccc5a620c3852ac9b01d10c96",
+      "contract_sha256": "d769c20a8c423f3816cb8b8446ab67f9536e224f4da4344b75346da832f2f2c2",
+      "definition": {
+        "bytes": 4432,
+        "path": "definitions/level083/moduleab/p004-t1-r1/dm7/definition.json",
+        "sha256": "964fa99addef8e80aa9098d33173beba8315481ac3c7dce09dd188006b893571"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p004-t1-r1/dm7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p004-t1-r1/dm7"
+    },
+    {
+      "context_ref": "d2afd97a2118b284949e8a6ad18854dba33d01b2f02cd56bfff6703b326c0009",
+      "contract_sha256": "80dd212bd6f99400794089d0d05c4dc80624bbedae14b4f945302fff1fad9f33",
+      "definition": {
+        "bytes": 4426,
+        "path": "definitions/level083/moduleab/p004-t1-r2/g7/definition.json",
+        "sha256": "8fbcb368c1d3254741120d8762a0d9317c7da24b1ccedfe6255044b3e7ed8fe7"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p004-t1-r2/g7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p004-t1-r2/g7"
+    },
+    {
+      "context_ref": "2d7d5edd16f585a69a1bfbd4b2f6a6152718e2c2e0bd6244dd310d7e790613bc",
+      "contract_sha256": "68902241fca65ce1821e10f5582e42b01b5a9ba88a3c2e16ce93cf448b1a93a9",
+      "definition": {
+        "bytes": 4444,
+        "path": "definitions/level083/moduleab/p004-t1-r3/bm7b5/definition.json",
+        "sha256": "cd73feb070840ae827f855db231309c9011eea88b8d36e2dfe156d6b3f4c5831"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p004-t1-r3/bm7b5",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p004-t1-r3/bm7b5"
+    },
+    {
+      "context_ref": "9c3db7dc7266a560541e9981f83169d69057dc92f5a6c1ab2b9a82a6b8989478",
+      "contract_sha256": "d4b8b4a29ed206718a1c1cc297db2964023abaea815906b71cbba05723948c9e",
+      "definition": {
+        "bytes": 4450,
+        "path": "definitions/level083/moduleab/p004-t1-r4/bbmaj7/definition.json",
+        "sha256": "39042df177aa2931051738e353e415e5e2681b528640380cd64bf55f50591101"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p004-t1-r4/bbmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p004-t1-r4/bbmaj7"
+    },
+    {
+      "context_ref": "8afc80d934f7eb5818467a7cf4ad6f011bbddce6fa908eefe224d6d7c17da4b6",
+      "contract_sha256": "85053dce37104e915bfa1d3b997982bde38c0fcb8b7fcb45d9025168d6cd718c",
+      "definition": {
+        "bytes": 4429,
+        "path": "definitions/level083/moduleab/p004-t1-r5/d7/definition.json",
+        "sha256": "bc56a934f28ca30b70d4d29b291e5f4c404f461b44d5247f6e998252e9dc266c"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p004-t1-r5/d7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p004-t1-r5/d7"
+    },
+    {
+      "context_ref": "bbd9f1ba89b0e106f5d99f95df549d21c1d35e88303dd55d234bf3993e7a40aa",
+      "contract_sha256": "4ae02eca083341f5cc13b38d9f445c6dcb8836756e827fa980c2da392e749f49",
+      "definition": {
+        "bytes": 4447,
+        "path": "definitions/level083/moduleab/p005-t1-r1/cmaj7/definition.json",
+        "sha256": "0771be2844188b9c55d2c826f189cb84ec0c96c9f9feac9e9979dce9951fe46a"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p005-t1-r1/cmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p005-t1-r1/cmaj7"
+    },
+    {
+      "context_ref": "a80e3fb888710e18bc58fb25227fb3784257c3095173dd78b736fcb37db39be7",
+      "contract_sha256": "c332947c00d0694fa9bc72c2e3552a5962d9d9f0bfa2a0ddab84d76c77b3dd8b",
+      "definition": {
+        "bytes": 4435,
+        "path": "definitions/level083/moduleab/p005-t1-r2/am7/definition.json",
+        "sha256": "c438ad2dc451026a9273cd3a41d4f41a275cd033bf6dbec77ae6dd736df0a579"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p005-t1-r2/am7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p005-t1-r2/am7"
+    },
+    {
+      "context_ref": "76f2a607345299ec5086d34b4cf1f2829f8831cb30cd49c32deba1775abe0de8",
+      "contract_sha256": "642a58b4d58f7da5a1ff74be238405fc630961053f3a92207bcd65480f49c15a",
+      "definition": {
+        "bytes": 4435,
+        "path": "definitions/level083/moduleab/p005-t1-r3/em7/definition.json",
+        "sha256": "5bb23109bbd9a9e086df7f29134730907617779ff745cd439ae33bdc5e9bb29e"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p005-t1-r3/em7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p005-t1-r3/em7"
+    },
+    {
+      "context_ref": "d01d3a4afecdbdf61807c930d4bc6ec6fd7c5f28dd3c773cf5e28e99ddf27fc0",
+      "contract_sha256": "654295b4a4bbf2d7ff89c6810a64ed09cd610dc439920a2d4061e3218310422c",
+      "definition": {
+        "bytes": 4429,
+        "path": "definitions/level083/moduleab/p005-t1-r4/a7/definition.json",
+        "sha256": "559e4b273e11fb039459c0c55dd9db3283780783f8adb40159dae9b3a3584d50"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p005-t1-r4/a7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p005-t1-r4/a7"
+    },
+    {
+      "context_ref": "0cbc9cd30a2d4538a8e68e3cacc0263e4881bef5e6fc0122435ca502f610c7b2",
+      "contract_sha256": "7b1c4bf8fc6745b017e751cf90d2c91d5d479fc5ff97841b67d5d4b7027899b5",
+      "definition": {
+        "bytes": 4447,
+        "path": "definitions/level083/moduleab/p005-t1-r5/fmaj7/definition.json",
+        "sha256": "1561bf7680ae63fbcfa88e3e900b1ae4e55f827e3e9f08720be87f04e817d9ec"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p005-t1-r5/fmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p005-t1-r5/fmaj7"
+    },
+    {
+      "context_ref": "149fcecd4836858106bc86c652532a6255839f589ef5012cf1840ec8b1ebed09",
+      "contract_sha256": "693a2d335d064d242c421e4cd1f3801feb7353f0256c66770b2052587d4e0253",
+      "definition": {
+        "bytes": 4438,
+        "path": "definitions/level083/moduleab/p006-t1-r1/dm7/definition.json",
+        "sha256": "1cb25c4340f37aff5c75080e444524b1c4c30922d0497d2ce9f69ce33d06f347"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p006-t1-r1/dm7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p006-t1-r1/dm7"
+    },
+    {
+      "context_ref": "b9e79fb398eb2e765a68da3222b4ae9647c0dbce01a6594f35bd6b38abca8cae",
+      "contract_sha256": "df330bbb2cb122f8ded4118b4fec7ecd9e27e3b8be3a5d80b9eb51438fa86ff9",
+      "definition": {
+        "bytes": 4450,
+        "path": "definitions/level083/moduleab/p006-t1-r2/fmaj7/definition.json",
+        "sha256": "515d5b9074b3f6502dbf2264def13b2fcfd48ff9119393b6608d3e7a73c81ed8"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p006-t1-r2/fmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p006-t1-r2/fmaj7"
+    },
+    {
+      "context_ref": "505611bb18431d621ffa5d957f0cf0ced6557bdd1a5e3372248b4281cbc0a61a",
+      "contract_sha256": "97c0a371195271383442f736586d61981fde59d2e9b0b62844a532fc7549232b",
+      "definition": {
+        "bytes": 4432,
+        "path": "definitions/level083/moduleab/p006-t1-r3/g7/definition.json",
+        "sha256": "28b432b8471054483ac51d984c977595b237b318b2c5843e6851fefdf3e73ea5"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p006-t1-r3/g7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p006-t1-r3/g7"
+    },
+    {
+      "context_ref": "ef6694fc487e6f97d38010899c39c0b047476c195b34218f2dc1aaca0e5793a2",
+      "contract_sha256": "16db03dfb6cde09b9ea844bc7caed95e7403f8b51eb5745a87c4895ad21f861f",
+      "definition": {
+        "bytes": 4450,
+        "path": "definitions/level083/moduleab/p006-t1-r4/bm7b5/definition.json",
+        "sha256": "5dcedac3f91f7edafe1b4e6ba37217b139800134230ccac1c664b2c8df663d27"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p006-t1-r4/bm7b5",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p006-t1-r4/bm7b5"
+    },
+    {
+      "context_ref": "da1fdc9d346f2a55e2a3602bad4a68536d29f8dc1cb5b1168b1483149e460cf2",
+      "contract_sha256": "a34fbf5d912dac09a117ea92dfab2cafca06d305f025e497830a7cf00e22a8a3",
+      "definition": {
+        "bytes": 4456,
+        "path": "definitions/level083/moduleab/p006-t1-r5/dbmaj7/definition.json",
+        "sha256": "952729cbce51821a1cfb5484775b3b55c5a6268be21cafdb4d6fe03c5fe37c3a"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p006-t1-r5/dbmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p006-t1-r5/dbmaj7"
+    },
+    {
+      "context_ref": "f0b57d74fe3f59acf04f6ba8907de7469d57860e230987319398c09de25610cc",
+      "contract_sha256": "08cb5e1204a0d8b6af8802533562e0db05042a94adf4f682b1045e99f8c76802",
+      "definition": {
+        "bytes": 4448,
+        "path": "definitions/level083/moduleab/p007-t1-r1/cmaj7/definition.json",
+        "sha256": "9d833a0216623217b1768fb74339a68bc546d0502e63e33fae73dc1c048593b1"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p007-t1-r1/cmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p007-t1-r1/cmaj7"
+    },
+    {
+      "context_ref": "18cc3875074e0182983470e758c73ddd2a72252fc64477f2daf425e9c21f584c",
+      "contract_sha256": "1459e35f02309773ee68c0855ac8e57573beea0b01449c6a2d5f2162f38aba1f",
+      "definition": {
+        "bytes": 4436,
+        "path": "definitions/level083/moduleab/p007-t1-r2/em7/definition.json",
+        "sha256": "47e84cc464aaed03911685ddd0a2a514fcc7c20e0a0c908d6b8272ffe129517a"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p007-t1-r2/em7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p007-t1-r2/em7"
+    },
+    {
+      "context_ref": "9fabfc52dfe9c567672eab6852924d3be0cdbc9842c9948109624c8a0d94de72",
+      "contract_sha256": "a823784d6e3fb2f0b381839512c693b8e31f1bb5ae4837795f77d272b9e28a49",
+      "definition": {
+        "bytes": 4430,
+        "path": "definitions/level083/moduleab/p007-t1-r3/g7/definition.json",
+        "sha256": "d87fd36ffe87e76c827867d1f6132a475e08967671d4c7db9da2da550f513ea9"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p007-t1-r3/g7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p007-t1-r3/g7"
+    },
+    {
+      "context_ref": "2c749e02b7fd6f0783c2b5875d690c633e0952e9de7ae3ece6eb24894ceb1307",
+      "contract_sha256": "6252d0b6f49ede01652882e05a19125117f115a725eb4e66292a287ae23121e6",
+      "definition": {
+        "bytes": 4436,
+        "path": "definitions/level083/moduleab/p007-t1-r4/am7/definition.json",
+        "sha256": "24204b08de4736ee567b1198bc3bc7394733c21600186d28563e94c5ec2f22d3"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p007-t1-r4/am7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p007-t1-r4/am7"
+    },
+    {
+      "context_ref": "f18114513775b9704bf06d87aff5bc920a06b8c234bb297615abbfabbf579c8e",
+      "contract_sha256": "3043e8db352dbd45f350fa7c45a645b16dba4ac45bf1d757bc7343dacd6d33d1",
+      "definition": {
+        "bytes": 4454,
+        "path": "definitions/level083/moduleab/p007-t1-r5/ebmaj7/definition.json",
+        "sha256": "38b2059737972deffb96400fff8ba971951b92ab9e166a5bdff00ad7ad3fb1bd"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p007-t1-r5/ebmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p007-t1-r5/ebmaj7"
+    },
+    {
+      "context_ref": "ca1950fa08108ef6c18b5ec2e30343c57256351a63eae59c78340114b901510f",
+      "contract_sha256": "ef7ca9170f6c6d997ec28e42051348ebf56ce61a6d54bdcb495bf0e4b7607ecd",
+      "definition": {
+        "bytes": 4432,
+        "path": "definitions/level083/moduleab/p008-t1-r1/dm7/definition.json",
+        "sha256": "c782ff7a4a001845a7c2c0bed64f0ea74620f4dc9597d438138dbc3a1eee5fff"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p008-t1-r1/dm7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p008-t1-r1/dm7"
+    },
+    {
+      "context_ref": "d969235fbe0e8333cb34c58e2ac62bf42453cea8e4153f0ed9d5994dc6271d66",
+      "contract_sha256": "2a058ea7b7c4bde98943a4cc4ca6c714cbaf22c37b8e32e932b387e16c3ed8fa",
+      "definition": {
+        "bytes": 4444,
+        "path": "definitions/level083/moduleab/p008-t1-r2/fmaj7/definition.json",
+        "sha256": "29850ebacb545543dc87a7ed96af9b22525345e9b49c7d8e46936c4d9eef6763"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p008-t1-r2/fmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p008-t1-r2/fmaj7"
+    },
+    {
+      "context_ref": "ab449e702bcd7ccd90127258ec15e275d79f4c8976c1a604ebcc7b36f79e5987",
+      "contract_sha256": "14e58bd60773466647aa7c6d5e36954e3f4ec0ab85bbd37bdec8011c05360938",
+      "definition": {
+        "bytes": 4432,
+        "path": "definitions/level083/moduleab/p008-t1-r3/am7/definition.json",
+        "sha256": "e0ff039ed5ccb47ce7e82f39fa376cdc90aeb04766c954d987649e5205738043"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p008-t1-r3/am7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p008-t1-r3/am7"
+    },
+    {
+      "context_ref": "cd1e56de4dcfc5f991bb274ed4598d3faffc174fb5e29384d6e1042bde0fe12a",
+      "contract_sha256": "bf7fe9e9ca0cd9b4b67b6804881f94188e4998219f0fccea8bae569d46fe6b17",
+      "definition": {
+        "bytes": 4426,
+        "path": "definitions/level083/moduleab/p008-t1-r4/d7/definition.json",
+        "sha256": "b0a8767ce92461852e367cf8f69b7f3aa405bf2f9f80843505785766bdbc93ed"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p008-t1-r4/d7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p008-t1-r4/d7"
+    },
+    {
+      "context_ref": "1cdacc90b1baf3ada732e40afb580ddede4dd42bd8b5ab510c6eca164aac311c",
+      "contract_sha256": "6d16f0d232b1575bca8ffbaceb74186a0d8893960e10ce8c866b3d281cc5fb1b",
+      "definition": {
+        "bytes": 4426,
+        "path": "definitions/level083/moduleab/p008-t1-r5/a7/definition.json",
+        "sha256": "48216fa0ec9a1d2080e8d234e75c05e213b95d0530b92af9098a90fade518e64"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p008-t1-r5/a7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p008-t1-r5/a7"
+    },
+    {
+      "context_ref": "2d19f75860fb251fc46a68c4a64d8e31628da18621c6d410dbcbc52f0e48dd0b",
+      "contract_sha256": "5c6194f971073e404e8f081a053435677470b6cda599b144733562f99c7f1e6c",
+      "definition": {
+        "bytes": 4446,
+        "path": "definitions/level083/moduleab/p009-t1-r1/cmaj7/definition.json",
+        "sha256": "f0a72f282d40975d67f94e5ea88728cf36732a1a7e187e282028e298ecf96899"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p009-t1-r1/cmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p009-t1-r1/cmaj7"
+    },
+    {
+      "context_ref": "b752bf8bc633f8ee6e531331d8b2d70a7aacd83980e53d33feee323bb82abed5",
+      "contract_sha256": "2776a1ab6253540c9c76e08b5152ffcd0123ac9219966c0c60e90bca34fa778a",
+      "definition": {
+        "bytes": 4434,
+        "path": "definitions/level083/moduleab/p009-t1-r2/em7/definition.json",
+        "sha256": "d36be70e38c9966742dab99ab3ea2829140f2d687f9d669a49e6a0dbb778105c"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p009-t1-r2/em7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p009-t1-r2/em7"
+    },
+    {
+      "context_ref": "7019c175dbd038f546363ca4eaaa7b768e0decdc35839abf94f276823e10a958",
+      "contract_sha256": "5e754200ddb65943e72ae09a533c19eb042ea2703ddd7860bc2f0273bd47d991",
+      "definition": {
+        "bytes": 4428,
+        "path": "definitions/level083/moduleab/p009-t1-r3/g7/definition.json",
+        "sha256": "7f0da89640213d36f7993de5579a950be128a76c05a2f4e3d92731233d651864"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p009-t1-r3/g7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p009-t1-r3/g7"
+    },
+    {
+      "context_ref": "ce66b71b0ca21fa336d7a920c0ef7bc61c54c8bfac7b7a5c51332a4b929aa6b4",
+      "contract_sha256": "a632ee8724db73a112a615c80e4c048205757145b6ed30be316fedd9ba54045d",
+      "definition": {
+        "bytes": 4428,
+        "path": "definitions/level083/moduleab/p009-t1-r4/b7/definition.json",
+        "sha256": "be76af7ad1e2850c02791d8ba13d91ab3bb13f8ffd9fa7a88dfe9b9141156560"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p009-t1-r4/b7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p009-t1-r4/b7"
+    },
+    {
+      "context_ref": "92cb01dbb75206b835bd7108681448b4a61a2021b42173573694fe3e440cb9e3",
+      "contract_sha256": "273758760c387b3b5e553e319e289771935651e8169ffd911d91bcafbdb2c7c5",
+      "definition": {
+        "bytes": 4446,
+        "path": "definitions/level083/moduleab/p009-t1-r5/gmaj7/definition.json",
+        "sha256": "12932a8235d96ecb1bb8a992fea96ab8fdadc59174900bbe255dfe6c5939c482"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/moduleab/p009-t1-r5/gmaj7",
+      "source_key": "exercise-completeness-r01/level083/moduleab/p009-t1-r5/gmaj7"
+    },
+    {
+      "context_ref": "7135af9d7855ee666ec7b41573e1296d8aac3d5cbc4a831eb1d8b77d98666179",
+      "contract_sha256": "c134c90b80e956c8b47fa3f826e01f672cbfb03cf5e6cfe08e41b4e269af4c13",
+      "definition": {
+        "bytes": 4565,
+        "path": "definitions/level083/modulec/p010-t1-r1/e/definition.json",
+        "sha256": "9289258a5c68dbc18481377c4761b6696b659e69235eb1a84e197fc67b6e2097"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/modulec/p010-t1-r1/e",
+      "source_key": "exercise-completeness-r01/level083/modulec/p010-t1-r1/e"
+    },
+    {
+      "context_ref": "f5dc2e8b2cda83298e0d585c9201d7434edfa18b47d167207d48a13c5c0966f1",
+      "contract_sha256": "84161a238d97125f82595a5757e871de575c236b70e6ef4c6881984aaa56e839",
+      "definition": {
+        "bytes": 4568,
+        "path": "definitions/level083/modulec/p010-t1-r2/g/definition.json",
+        "sha256": "fca1b82591ffbf560470d23fc03381969a98109b33966a01310e02182a117564"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/modulec/p010-t1-r2/g",
+      "source_key": "exercise-completeness-r01/level083/modulec/p010-t1-r2/g"
+    },
+    {
+      "context_ref": "0da60ec3d4059ccf273e0b43d6383213bae4e8f8bf751378b5212bcfe158ce79",
+      "contract_sha256": "834a9909908567eae471cd25e0d3fc8871998d2e300fa3a6ef9d86ba28f1913b",
+      "definition": {
+        "bytes": 4574,
+        "path": "definitions/level083/modulec/p010-t1-r3/c/definition.json",
+        "sha256": "64ce9f8a360e4f97d5ce7448b5594ec7d54dc814430b4715e50ccca4c6fb172f"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/modulec/p010-t1-r3/c",
+      "source_key": "exercise-completeness-r01/level083/modulec/p010-t1-r3/c"
+    },
+    {
+      "context_ref": "6910a393eb6f2e79db92289855ee9fe9e67a35b716abb25d987f4236d13f0aca",
+      "contract_sha256": "aaacda337c95fdaf347ca212fe30a190ca65afaea558e2d7b2a732989c21a042",
+      "definition": {
+        "bytes": 4571,
+        "path": "definitions/level083/modulec/p010-t1-r4/f/definition.json",
+        "sha256": "c2ec9ef11c9f527532d2f17d7936766b94746981e4cd60049ff68bb5befa55ed"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/modulec/p010-t1-r4/f",
+      "source_key": "exercise-completeness-r01/level083/modulec/p010-t1-r4/f"
+    },
+    {
+      "context_ref": "67af7b000d026471d78ba6f55010b91fe14d3a7f6833c9637d942fbd2675c516",
+      "contract_sha256": "76193459771128a3907e02632316d68dfaf311e575c263bdb5d79612c42bd87e",
+      "definition": {
+        "bytes": 4565,
+        "path": "definitions/level083/modulec/p010-t1-r5/b/definition.json",
+        "sha256": "67eb05bf5e820a399c079ea0f52c02d893189bb2b0a277bfc8d9823a25bfa6dd"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/modulec/p010-t1-r5/b",
+      "source_key": "exercise-completeness-r01/level083/modulec/p010-t1-r5/b"
+    },
+    {
+      "context_ref": "8c5538aa20016924391d3b3db353067d19660733fc70bcbae6d8de72fbc819e5",
+      "contract_sha256": "85b5117d77514b756594e0cf38ec5b1fc1339e6bd3db2002cc083a1d542bf8d1",
+      "definition": {
+        "bytes": 4564,
+        "path": "definitions/level083/modulec/p010-t1-r6/a/definition.json",
+        "sha256": "6246c3f5c3e640cdbce4880303035709983adbc7f2a71215721eff3c488d4577"
+      },
+      "recipe": "fixed_top_reduction",
+      "source_identity": "level083/modulec/p010-t1-r6/a",
+      "source_key": "exercise-completeness-r01/level083/modulec/p010-t1-r6/a"
+    }
+  ],
+  "family": "advanced",
+  "grants_credit": false,
+  "official_accepted": false,
+  "practice_admitted": false,
+  "recipe_counts": {
+    "chord_tone_transfer": 14,
+    "fixed_top_reduction": 41,
+    "full_reconstruction": 1
+  },
+  "runtime_admitted": false,
+  "runtime_candidate": true,
+  "schema": "fathom.compiled-recipe-family-package.1",
+  "scope": "manual-guidance-candidate",
+  "source_clock": null,
+  "source_closure": {
+    "bytes": 325110,
+    "path": "family-closure.json",
+    "sha256": "377abfe77580ecb3d7a60ea2cede09253989eb651a9d341bab4bf58ad581154d"
+  },
+  "source_files": [
+    {
+      "bytes": 54683,
+      "original_path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_77_Interval_Recognition_Chord_Function_Hearing_Sung_Guide_Tones_Melodic_Dictation_Call_and_Response_and_Immediate_Fretboard_Realization.pdf",
+      "path": "assets/Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_77_Interval_Recognition_Chord_Function_Hearing_Sung_Guide_Tones_Melodic_Dictation_Call_and_Response_and_Immediate_Fretboard_Realization.pdf",
+      "sha256": "bfeaab5b0ddd52ac55063e0552b8c451d8a8029ddb073b744d8f0e76186aedce"
+    },
+    {
+      "bytes": 3011,
+      "original_path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_77_Interval_Recognition_Chord_Function_Hearing_Sung_Guide_Tones_Melodic_Dictation_Call_and_Response_and_Immediate_Fretboard_Realization.txt",
+      "path": "assets/Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_77_Interval_Recognition_Chord_Function_Hearing_Sung_Guide_Tones_Melodic_Dictation_Call_and_Response_and_Immediate_Fretboard_Realization.txt",
+      "sha256": "54ab2490448e1fa6391ead275fe22e2fbec9be23d6e83c88001293b4be7e7236"
+    },
+    {
+      "bytes": 48628,
+      "original_path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.pdf",
+      "path": "assets/Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.pdf",
+      "sha256": "3571f063bdafa8a3acb9a52f542d6f490516d75e325f55ea29915111659e5c5c"
+    },
+    {
+      "bytes": 1908,
+      "original_path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.txt",
+      "path": "assets/Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.txt",
+      "sha256": "12561dfc8c1d81b710cb2d429b52e2d9574ea5fd7bfa65d0bf1f1b575682bb85"
+    }
+  ],
+  "source_keys": [
+    "exercise-completeness-r01/level077/modulef/p014-t1-r1/cmaj7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r2/cmaj7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r3/dm7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r4/dm7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r5/g7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r6/g7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r7/am7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r8/am7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r9/bm7b5",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r10/e7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r11/e7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r12/ammaj7",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r13/d7#11",
+    "exercise-completeness-r01/level077/modulef/p014-t1-r15/g#7alt",
+    "exercise-completeness-r01/level077/moduleh/p017-u001/modulehsixteenbareartohandmodelreconstruction",
+    "exercise-completeness-r01/level083/moduleab/p003-t1-r1/cmaj7",
+    "exercise-completeness-r01/level083/moduleab/p003-t1-r2/am7",
+    "exercise-completeness-r01/level083/moduleab/p003-t1-r3/fmaj7",
+    "exercise-completeness-r01/level083/moduleab/p003-t1-r4/dm7",
+    "exercise-completeness-r01/level083/moduleab/p003-t1-r5/abmaj7",
+    "exercise-completeness-r01/level083/moduleab/p004-t1-r1/dm7",
+    "exercise-completeness-r01/level083/moduleab/p004-t1-r2/g7",
+    "exercise-completeness-r01/level083/moduleab/p004-t1-r3/bm7b5",
+    "exercise-completeness-r01/level083/moduleab/p004-t1-r4/bbmaj7",
+    "exercise-completeness-r01/level083/moduleab/p004-t1-r5/d7",
+    "exercise-completeness-r01/level083/moduleab/p005-t1-r1/cmaj7",
+    "exercise-completeness-r01/level083/moduleab/p005-t1-r2/am7",
+    "exercise-completeness-r01/level083/moduleab/p005-t1-r3/em7",
+    "exercise-completeness-r01/level083/moduleab/p005-t1-r4/a7",
+    "exercise-completeness-r01/level083/moduleab/p005-t1-r5/fmaj7",
+    "exercise-completeness-r01/level083/moduleab/p006-t1-r1/dm7",
+    "exercise-completeness-r01/level083/moduleab/p006-t1-r2/fmaj7",
+    "exercise-completeness-r01/level083/moduleab/p006-t1-r3/g7",
+    "exercise-completeness-r01/level083/moduleab/p006-t1-r4/bm7b5",
+    "exercise-completeness-r01/level083/moduleab/p006-t1-r5/dbmaj7",
+    "exercise-completeness-r01/level083/moduleab/p007-t1-r1/cmaj7",
+    "exercise-completeness-r01/level083/moduleab/p007-t1-r2/em7",
+    "exercise-completeness-r01/level083/moduleab/p007-t1-r3/g7",
+    "exercise-completeness-r01/level083/moduleab/p007-t1-r4/am7",
+    "exercise-completeness-r01/level083/moduleab/p007-t1-r5/ebmaj7",
+    "exercise-completeness-r01/level083/moduleab/p008-t1-r1/dm7",
+    "exercise-completeness-r01/level083/moduleab/p008-t1-r2/fmaj7",
+    "exercise-completeness-r01/level083/moduleab/p008-t1-r3/am7",
+    "exercise-completeness-r01/level083/moduleab/p008-t1-r4/d7",
+    "exercise-completeness-r01/level083/moduleab/p008-t1-r5/a7",
+    "exercise-completeness-r01/level083/moduleab/p009-t1-r1/cmaj7",
+    "exercise-completeness-r01/level083/moduleab/p009-t1-r2/em7",
+    "exercise-completeness-r01/level083/moduleab/p009-t1-r3/g7",
+    "exercise-completeness-r01/level083/moduleab/p009-t1-r4/b7",
+    "exercise-completeness-r01/level083/moduleab/p009-t1-r5/gmaj7",
+    "exercise-completeness-r01/level083/modulec/p010-t1-r1/e",
+    "exercise-completeness-r01/level083/modulec/p010-t1-r2/g",
+    "exercise-completeness-r01/level083/modulec/p010-t1-r3/c",
+    "exercise-completeness-r01/level083/modulec/p010-t1-r4/f",
+    "exercise-completeness-r01/level083/modulec/p010-t1-r5/b",
+    "exercise-completeness-r01/level083/modulec/p010-t1-r6/a"
+  ],
+  "source_tempo": null,
+  "version_bindings": {
+    "canonical_cpp_sha256": "e87a1541faf58b886469cc24bba8afa8947267f40e736557ebbb69255493355d",
+    "canonical_hpp_sha256": "c5e44525f56a37bc6f151fdf8bcf4d9ba514f4c122c3589c569b3b06f78eeeca",
+    "closure_sha256": "377abfe77580ecb3d7a60ea2cede09253989eb651a9d341bab4bf58ad581154d",
+    "compiler_sha256": "60114f5bf5bddb920c2dbb7a7bc017047d12d7fa11674ff40f161f487528e5ed",
+    "definitions_sha256": "2c289af865a37ff93a93414b9ecba1e630e5bbc24a1668f059a2b020130fa927",
+    "native_engine_cpp_sha256": "cb9e13edda2edc802e7fd32b58b1de6262d15769af2600bb0c6be4ba98126e73",
+    "native_engine_hpp_sha256": "b268dd9ada39de84db6b10023fc9d19261e35e8a8b80c12a2e0d3e1e06299aae",
+    "native_registry_cpp_sha256": "078414771006776de02dd2ad4ff35586a191a39a6799b14618ff69c622c73d96",
+    "native_registry_hpp_sha256": "9069d5876755c62f2ba94227518b19b9533de7e6b025741774ac9f52b924c044",
+    "native_remaining_family_context_header_sha256": "6343c9b4350f40c25b9a1b9bac9450235e599b84180526bf8e0c143f096fe839",
+    "native_transfer_context_header_sha256": "1b765774e3b841e2ae9f3afcfcb05dddca5af1cdbca254ead74db77f617d4b71",
+    "native_transfer_family_header_sha256": "949efb488c785fdf81de4a11de653b971e0a229a9c626d2caa3e4d0808843eb0",
+    "recipe_helper_context_header_sha256": "64f7ea51572fa69d42f7b78f9f848dcb8167520fcf8f200f5685ad7af3f12abc",
+    "recipe_helper_cpp_sha256": "9120fb27756254cfe8914780aeb17d11c8f2c3ff14103879c2d71c6e05c647bb",
+    "recipe_helper_family_header_sha256": "def38b7c3ef4a0d1886f40c471cb68fc7dc5cbd00749216ca07a01dee31890a6",
+    "recipe_helper_hpp_sha256": "a188481ce1c08701bf07f84be9eb99991fd60e2c42a2b564c34bd97caa5b35bc",
+    "remaining_native_compiler_sha256": "78c549b991bd2661fb652efe5745a699f1864120c10e784d602d54c05f3e942a",
+    "strict_json_cpp_sha256": "7e687f6f13dc1e39d68e31947a9fe22d8c9b07630f77f22610e3fef714208b70",
+    "strict_json_hpp_sha256": "92b8ae3ba0827cd7099fb5af3ed4ca6ee83f3c12b34e6580b0e9d1c4f561d173",
+    "transfer_native_compiler_sha256": "a03834da1cf7932eaac14ebbde244544ecb1456f201f5f5be5113b73c9ff16e6"
+  }
+}

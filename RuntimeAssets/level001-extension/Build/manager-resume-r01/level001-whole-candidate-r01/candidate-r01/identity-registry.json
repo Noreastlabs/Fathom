@@ -1,0 +1,5202 @@
+{
+  "entities": [
+    {
+      "id": "fg:course:000001",
+      "kind": "course",
+      "label": "Fathom Guitar105",
+      "parent": null
+    },
+    {
+      "id": "fg:workbook:000001",
+      "kind": "workbook",
+      "label": "Legacy Level1",
+      "parent": "fg:course:000001"
+    },
+    {
+      "id": "fg:module:000001",
+      "kind": "module",
+      "label": "Exercise0011212 ascending opening",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000001",
+      "kind": "item",
+      "label": "Exercise0011212 full selected directions",
+      "parent": "fg:module:000001"
+    },
+    {
+      "id": "fg:variant:000001",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000001"
+    },
+    {
+      "id": "fg:variant:000002",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000001"
+    },
+    {
+      "id": "fg:variant:000003",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000001"
+    },
+    {
+      "id": "fg:variant:000004",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000001"
+    },
+    {
+      "id": "fg:module:000014",
+      "kind": "module",
+      "label": "Exercise0021213 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000014",
+      "kind": "item",
+      "label": "Exercise0021213 full selected directions",
+      "parent": "fg:module:000014"
+    },
+    {
+      "id": "fg:variant:000050",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000014"
+    },
+    {
+      "id": "fg:variant:000051",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000014"
+    },
+    {
+      "id": "fg:variant:000052",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000014"
+    },
+    {
+      "id": "fg:variant:000053",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000014"
+    },
+    {
+      "id": "fg:module:000015",
+      "kind": "module",
+      "label": "Exercise0031214 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000015",
+      "kind": "item",
+      "label": "Exercise0031214 full selected directions",
+      "parent": "fg:module:000015"
+    },
+    {
+      "id": "fg:variant:000054",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000015"
+    },
+    {
+      "id": "fg:variant:000055",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000015"
+    },
+    {
+      "id": "fg:variant:000056",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000015"
+    },
+    {
+      "id": "fg:variant:000057",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000015"
+    },
+    {
+      "id": "fg:module:000016",
+      "kind": "module",
+      "label": "Exercise0041231 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000016",
+      "kind": "item",
+      "label": "Exercise0041231 full selected directions",
+      "parent": "fg:module:000016"
+    },
+    {
+      "id": "fg:variant:000058",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000016"
+    },
+    {
+      "id": "fg:variant:000059",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000016"
+    },
+    {
+      "id": "fg:variant:000060",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000016"
+    },
+    {
+      "id": "fg:variant:000061",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000016"
+    },
+    {
+      "id": "fg:module:000017",
+      "kind": "module",
+      "label": "Exercise0051232 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000017",
+      "kind": "item",
+      "label": "Exercise0051232 full selected directions",
+      "parent": "fg:module:000017"
+    },
+    {
+      "id": "fg:variant:000062",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000017"
+    },
+    {
+      "id": "fg:variant:000063",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000017"
+    },
+    {
+      "id": "fg:variant:000064",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000017"
+    },
+    {
+      "id": "fg:variant:000065",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000017"
+    },
+    {
+      "id": "fg:module:000018",
+      "kind": "module",
+      "label": "Exercise0061234 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000018",
+      "kind": "item",
+      "label": "Exercise0061234 full selected directions",
+      "parent": "fg:module:000018"
+    },
+    {
+      "id": "fg:variant:000066",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000018"
+    },
+    {
+      "id": "fg:variant:000067",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000018"
+    },
+    {
+      "id": "fg:variant:000068",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000018"
+    },
+    {
+      "id": "fg:variant:000069",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000018"
+    },
+    {
+      "id": "fg:module:000019",
+      "kind": "module",
+      "label": "Exercise0071241 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000019",
+      "kind": "item",
+      "label": "Exercise0071241 full selected directions",
+      "parent": "fg:module:000019"
+    },
+    {
+      "id": "fg:variant:000070",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000019"
+    },
+    {
+      "id": "fg:variant:000071",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000019"
+    },
+    {
+      "id": "fg:variant:000072",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000019"
+    },
+    {
+      "id": "fg:variant:000073",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000019"
+    },
+    {
+      "id": "fg:module:000020",
+      "kind": "module",
+      "label": "Exercise0081242 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000020",
+      "kind": "item",
+      "label": "Exercise0081242 full selected directions",
+      "parent": "fg:module:000020"
+    },
+    {
+      "id": "fg:variant:000074",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000020"
+    },
+    {
+      "id": "fg:variant:000075",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000020"
+    },
+    {
+      "id": "fg:variant:000076",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000020"
+    },
+    {
+      "id": "fg:variant:000077",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000020"
+    },
+    {
+      "id": "fg:module:000021",
+      "kind": "module",
+      "label": "Exercise0091243 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000021",
+      "kind": "item",
+      "label": "Exercise0091243 full selected directions",
+      "parent": "fg:module:000021"
+    },
+    {
+      "id": "fg:variant:000078",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000021"
+    },
+    {
+      "id": "fg:variant:000079",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000021"
+    },
+    {
+      "id": "fg:variant:000080",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000021"
+    },
+    {
+      "id": "fg:variant:000081",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000021"
+    },
+    {
+      "id": "fg:module:000022",
+      "kind": "module",
+      "label": "Exercise0101312 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000022",
+      "kind": "item",
+      "label": "Exercise0101312 full selected directions",
+      "parent": "fg:module:000022"
+    },
+    {
+      "id": "fg:variant:000082",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000022"
+    },
+    {
+      "id": "fg:variant:000083",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000022"
+    },
+    {
+      "id": "fg:variant:000084",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000022"
+    },
+    {
+      "id": "fg:variant:000085",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000022"
+    },
+    {
+      "id": "fg:module:000023",
+      "kind": "module",
+      "label": "Exercise0111313 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000023",
+      "kind": "item",
+      "label": "Exercise0111313 full selected directions",
+      "parent": "fg:module:000023"
+    },
+    {
+      "id": "fg:variant:000086",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000023"
+    },
+    {
+      "id": "fg:variant:000087",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000023"
+    },
+    {
+      "id": "fg:variant:000088",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000023"
+    },
+    {
+      "id": "fg:variant:000089",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000023"
+    },
+    {
+      "id": "fg:module:000024",
+      "kind": "module",
+      "label": "Exercise0121314 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000024",
+      "kind": "item",
+      "label": "Exercise0121314 full selected directions",
+      "parent": "fg:module:000024"
+    },
+    {
+      "id": "fg:variant:000090",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000024"
+    },
+    {
+      "id": "fg:variant:000091",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000024"
+    },
+    {
+      "id": "fg:variant:000092",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000024"
+    },
+    {
+      "id": "fg:variant:000093",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000024"
+    },
+    {
+      "id": "fg:module:000025",
+      "kind": "module",
+      "label": "Exercise0131321 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000025",
+      "kind": "item",
+      "label": "Exercise0131321 full selected directions",
+      "parent": "fg:module:000025"
+    },
+    {
+      "id": "fg:variant:000094",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000025"
+    },
+    {
+      "id": "fg:variant:000095",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000025"
+    },
+    {
+      "id": "fg:variant:000096",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000025"
+    },
+    {
+      "id": "fg:variant:000097",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000025"
+    },
+    {
+      "id": "fg:module:000026",
+      "kind": "module",
+      "label": "Exercise0141323 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000026",
+      "kind": "item",
+      "label": "Exercise0141323 full selected directions",
+      "parent": "fg:module:000026"
+    },
+    {
+      "id": "fg:variant:000098",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000026"
+    },
+    {
+      "id": "fg:variant:000099",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000026"
+    },
+    {
+      "id": "fg:variant:000100",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000026"
+    },
+    {
+      "id": "fg:variant:000101",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000026"
+    },
+    {
+      "id": "fg:module:000027",
+      "kind": "module",
+      "label": "Exercise0151324 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000027",
+      "kind": "item",
+      "label": "Exercise0151324 full selected directions",
+      "parent": "fg:module:000027"
+    },
+    {
+      "id": "fg:variant:000102",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000027"
+    },
+    {
+      "id": "fg:variant:000103",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000027"
+    },
+    {
+      "id": "fg:variant:000104",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000027"
+    },
+    {
+      "id": "fg:variant:000105",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000027"
+    },
+    {
+      "id": "fg:module:000028",
+      "kind": "module",
+      "label": "Exercise0161341 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000028",
+      "kind": "item",
+      "label": "Exercise0161341 full selected directions",
+      "parent": "fg:module:000028"
+    },
+    {
+      "id": "fg:variant:000106",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000028"
+    },
+    {
+      "id": "fg:variant:000107",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000028"
+    },
+    {
+      "id": "fg:variant:000108",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000028"
+    },
+    {
+      "id": "fg:variant:000109",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000028"
+    },
+    {
+      "id": "fg:module:000029",
+      "kind": "module",
+      "label": "Exercise0171342 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000029",
+      "kind": "item",
+      "label": "Exercise0171342 full selected directions",
+      "parent": "fg:module:000029"
+    },
+    {
+      "id": "fg:variant:000110",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000029"
+    },
+    {
+      "id": "fg:variant:000111",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000029"
+    },
+    {
+      "id": "fg:variant:000112",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000029"
+    },
+    {
+      "id": "fg:variant:000113",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000029"
+    },
+    {
+      "id": "fg:module:000030",
+      "kind": "module",
+      "label": "Exercise0181343 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000030",
+      "kind": "item",
+      "label": "Exercise0181343 full selected directions",
+      "parent": "fg:module:000030"
+    },
+    {
+      "id": "fg:variant:000114",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000030"
+    },
+    {
+      "id": "fg:variant:000115",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000030"
+    },
+    {
+      "id": "fg:variant:000116",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000030"
+    },
+    {
+      "id": "fg:variant:000117",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000030"
+    },
+    {
+      "id": "fg:module:000031",
+      "kind": "module",
+      "label": "Exercise0191412 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000031",
+      "kind": "item",
+      "label": "Exercise0191412 full selected directions",
+      "parent": "fg:module:000031"
+    },
+    {
+      "id": "fg:variant:000118",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000031"
+    },
+    {
+      "id": "fg:variant:000119",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000031"
+    },
+    {
+      "id": "fg:variant:000120",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000031"
+    },
+    {
+      "id": "fg:variant:000121",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000031"
+    },
+    {
+      "id": "fg:module:000032",
+      "kind": "module",
+      "label": "Exercise0201413 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000032",
+      "kind": "item",
+      "label": "Exercise0201413 full selected directions",
+      "parent": "fg:module:000032"
+    },
+    {
+      "id": "fg:variant:000122",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000032"
+    },
+    {
+      "id": "fg:variant:000123",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000032"
+    },
+    {
+      "id": "fg:variant:000124",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000032"
+    },
+    {
+      "id": "fg:variant:000125",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000032"
+    },
+    {
+      "id": "fg:module:000033",
+      "kind": "module",
+      "label": "Exercise0211414 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000033",
+      "kind": "item",
+      "label": "Exercise0211414 full selected directions",
+      "parent": "fg:module:000033"
+    },
+    {
+      "id": "fg:variant:000126",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000033"
+    },
+    {
+      "id": "fg:variant:000127",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000033"
+    },
+    {
+      "id": "fg:variant:000128",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000033"
+    },
+    {
+      "id": "fg:variant:000129",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000033"
+    },
+    {
+      "id": "fg:module:000034",
+      "kind": "module",
+      "label": "Exercise0221421 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000034",
+      "kind": "item",
+      "label": "Exercise0221421 full selected directions",
+      "parent": "fg:module:000034"
+    },
+    {
+      "id": "fg:variant:000130",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000034"
+    },
+    {
+      "id": "fg:variant:000131",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000034"
+    },
+    {
+      "id": "fg:variant:000132",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000034"
+    },
+    {
+      "id": "fg:variant:000133",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000034"
+    },
+    {
+      "id": "fg:module:000035",
+      "kind": "module",
+      "label": "Exercise0231423 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000035",
+      "kind": "item",
+      "label": "Exercise0231423 full selected directions",
+      "parent": "fg:module:000035"
+    },
+    {
+      "id": "fg:variant:000134",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000035"
+    },
+    {
+      "id": "fg:variant:000135",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000035"
+    },
+    {
+      "id": "fg:variant:000136",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000035"
+    },
+    {
+      "id": "fg:variant:000137",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000035"
+    },
+    {
+      "id": "fg:module:000036",
+      "kind": "module",
+      "label": "Exercise0241424 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000036",
+      "kind": "item",
+      "label": "Exercise0241424 full selected directions",
+      "parent": "fg:module:000036"
+    },
+    {
+      "id": "fg:variant:000138",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000036"
+    },
+    {
+      "id": "fg:variant:000139",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000036"
+    },
+    {
+      "id": "fg:variant:000140",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000036"
+    },
+    {
+      "id": "fg:variant:000141",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000036"
+    },
+    {
+      "id": "fg:module:000037",
+      "kind": "module",
+      "label": "Exercise0251431 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000037",
+      "kind": "item",
+      "label": "Exercise0251431 full selected directions",
+      "parent": "fg:module:000037"
+    },
+    {
+      "id": "fg:variant:000142",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000037"
+    },
+    {
+      "id": "fg:variant:000143",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000037"
+    },
+    {
+      "id": "fg:variant:000144",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000037"
+    },
+    {
+      "id": "fg:variant:000145",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000037"
+    },
+    {
+      "id": "fg:module:000038",
+      "kind": "module",
+      "label": "Exercise0261432 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000038",
+      "kind": "item",
+      "label": "Exercise0261432 full selected directions",
+      "parent": "fg:module:000038"
+    },
+    {
+      "id": "fg:variant:000146",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000038"
+    },
+    {
+      "id": "fg:variant:000147",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000038"
+    },
+    {
+      "id": "fg:variant:000148",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000038"
+    },
+    {
+      "id": "fg:variant:000149",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000038"
+    },
+    {
+      "id": "fg:module:000039",
+      "kind": "module",
+      "label": "Exercise0271434 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000039",
+      "kind": "item",
+      "label": "Exercise0271434 full selected directions",
+      "parent": "fg:module:000039"
+    },
+    {
+      "id": "fg:variant:000150",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000039"
+    },
+    {
+      "id": "fg:variant:000151",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000039"
+    },
+    {
+      "id": "fg:variant:000152",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000039"
+    },
+    {
+      "id": "fg:variant:000153",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000039"
+    },
+    {
+      "id": "fg:module:000040",
+      "kind": "module",
+      "label": "Exercise0282121 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000040",
+      "kind": "item",
+      "label": "Exercise0282121 full selected directions",
+      "parent": "fg:module:000040"
+    },
+    {
+      "id": "fg:variant:000154",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000040"
+    },
+    {
+      "id": "fg:variant:000155",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000040"
+    },
+    {
+      "id": "fg:variant:000156",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000040"
+    },
+    {
+      "id": "fg:variant:000157",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000040"
+    },
+    {
+      "id": "fg:module:000041",
+      "kind": "module",
+      "label": "Exercise0292123 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000041",
+      "kind": "item",
+      "label": "Exercise0292123 full selected directions",
+      "parent": "fg:module:000041"
+    },
+    {
+      "id": "fg:variant:000158",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000041"
+    },
+    {
+      "id": "fg:variant:000159",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000041"
+    },
+    {
+      "id": "fg:variant:000160",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000041"
+    },
+    {
+      "id": "fg:variant:000161",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000041"
+    },
+    {
+      "id": "fg:module:000042",
+      "kind": "module",
+      "label": "Exercise0302124 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000042",
+      "kind": "item",
+      "label": "Exercise0302124 full selected directions",
+      "parent": "fg:module:000042"
+    },
+    {
+      "id": "fg:variant:000162",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000042"
+    },
+    {
+      "id": "fg:variant:000163",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000042"
+    },
+    {
+      "id": "fg:variant:000164",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000042"
+    },
+    {
+      "id": "fg:variant:000165",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000042"
+    },
+    {
+      "id": "fg:module:000043",
+      "kind": "module",
+      "label": "Exercise0312131 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000043",
+      "kind": "item",
+      "label": "Exercise0312131 full selected directions",
+      "parent": "fg:module:000043"
+    },
+    {
+      "id": "fg:variant:000166",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000043"
+    },
+    {
+      "id": "fg:variant:000167",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000043"
+    },
+    {
+      "id": "fg:variant:000168",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000043"
+    },
+    {
+      "id": "fg:variant:000169",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000043"
+    },
+    {
+      "id": "fg:module:000044",
+      "kind": "module",
+      "label": "Exercise0322132 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000044",
+      "kind": "item",
+      "label": "Exercise0322132 full selected directions",
+      "parent": "fg:module:000044"
+    },
+    {
+      "id": "fg:variant:000170",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000044"
+    },
+    {
+      "id": "fg:variant:000171",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000044"
+    },
+    {
+      "id": "fg:variant:000172",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000044"
+    },
+    {
+      "id": "fg:variant:000173",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000044"
+    },
+    {
+      "id": "fg:module:000045",
+      "kind": "module",
+      "label": "Exercise0332134 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000045",
+      "kind": "item",
+      "label": "Exercise0332134 full selected directions",
+      "parent": "fg:module:000045"
+    },
+    {
+      "id": "fg:variant:000174",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000045"
+    },
+    {
+      "id": "fg:variant:000175",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000045"
+    },
+    {
+      "id": "fg:variant:000176",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000045"
+    },
+    {
+      "id": "fg:variant:000177",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000045"
+    },
+    {
+      "id": "fg:module:000046",
+      "kind": "module",
+      "label": "Exercise0342141 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000046",
+      "kind": "item",
+      "label": "Exercise0342141 full selected directions",
+      "parent": "fg:module:000046"
+    },
+    {
+      "id": "fg:variant:000178",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000046"
+    },
+    {
+      "id": "fg:variant:000179",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000046"
+    },
+    {
+      "id": "fg:variant:000180",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000046"
+    },
+    {
+      "id": "fg:variant:000181",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000046"
+    },
+    {
+      "id": "fg:module:000047",
+      "kind": "module",
+      "label": "Exercise0352142 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000047",
+      "kind": "item",
+      "label": "Exercise0352142 full selected directions",
+      "parent": "fg:module:000047"
+    },
+    {
+      "id": "fg:variant:000182",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000047"
+    },
+    {
+      "id": "fg:variant:000183",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000047"
+    },
+    {
+      "id": "fg:variant:000184",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000047"
+    },
+    {
+      "id": "fg:variant:000185",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000047"
+    },
+    {
+      "id": "fg:module:000048",
+      "kind": "module",
+      "label": "Exercise0362143 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000048",
+      "kind": "item",
+      "label": "Exercise0362143 full selected directions",
+      "parent": "fg:module:000048"
+    },
+    {
+      "id": "fg:variant:000186",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000048"
+    },
+    {
+      "id": "fg:variant:000187",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000048"
+    },
+    {
+      "id": "fg:variant:000188",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000048"
+    },
+    {
+      "id": "fg:variant:000189",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000048"
+    },
+    {
+      "id": "fg:module:000049",
+      "kind": "module",
+      "label": "Exercise0372312 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000049",
+      "kind": "item",
+      "label": "Exercise0372312 full selected directions",
+      "parent": "fg:module:000049"
+    },
+    {
+      "id": "fg:variant:000190",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000049"
+    },
+    {
+      "id": "fg:variant:000191",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000049"
+    },
+    {
+      "id": "fg:variant:000192",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000049"
+    },
+    {
+      "id": "fg:variant:000193",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000049"
+    },
+    {
+      "id": "fg:module:000050",
+      "kind": "module",
+      "label": "Exercise0382313 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000050",
+      "kind": "item",
+      "label": "Exercise0382313 full selected directions",
+      "parent": "fg:module:000050"
+    },
+    {
+      "id": "fg:variant:000194",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000050"
+    },
+    {
+      "id": "fg:variant:000195",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000050"
+    },
+    {
+      "id": "fg:variant:000196",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000050"
+    },
+    {
+      "id": "fg:variant:000197",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000050"
+    },
+    {
+      "id": "fg:module:000051",
+      "kind": "module",
+      "label": "Exercise0392314 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000051",
+      "kind": "item",
+      "label": "Exercise0392314 full selected directions",
+      "parent": "fg:module:000051"
+    },
+    {
+      "id": "fg:variant:000198",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000051"
+    },
+    {
+      "id": "fg:variant:000199",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000051"
+    },
+    {
+      "id": "fg:variant:000200",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000051"
+    },
+    {
+      "id": "fg:variant:000201",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000051"
+    },
+    {
+      "id": "fg:module:000052",
+      "kind": "module",
+      "label": "Exercise0402321 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000052",
+      "kind": "item",
+      "label": "Exercise0402321 full selected directions",
+      "parent": "fg:module:000052"
+    },
+    {
+      "id": "fg:variant:000202",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000052"
+    },
+    {
+      "id": "fg:variant:000203",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000052"
+    },
+    {
+      "id": "fg:variant:000204",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000052"
+    },
+    {
+      "id": "fg:variant:000205",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000052"
+    },
+    {
+      "id": "fg:module:000053",
+      "kind": "module",
+      "label": "Exercise0412323 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000053",
+      "kind": "item",
+      "label": "Exercise0412323 full selected directions",
+      "parent": "fg:module:000053"
+    },
+    {
+      "id": "fg:variant:000206",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000053"
+    },
+    {
+      "id": "fg:variant:000207",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000053"
+    },
+    {
+      "id": "fg:variant:000208",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000053"
+    },
+    {
+      "id": "fg:variant:000209",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000053"
+    },
+    {
+      "id": "fg:module:000054",
+      "kind": "module",
+      "label": "Exercise0422324 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000054",
+      "kind": "item",
+      "label": "Exercise0422324 full selected directions",
+      "parent": "fg:module:000054"
+    },
+    {
+      "id": "fg:variant:000210",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000054"
+    },
+    {
+      "id": "fg:variant:000211",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000054"
+    },
+    {
+      "id": "fg:variant:000212",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000054"
+    },
+    {
+      "id": "fg:variant:000213",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000054"
+    },
+    {
+      "id": "fg:module:000055",
+      "kind": "module",
+      "label": "Exercise0432341 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000055",
+      "kind": "item",
+      "label": "Exercise0432341 full selected directions",
+      "parent": "fg:module:000055"
+    },
+    {
+      "id": "fg:variant:000214",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000055"
+    },
+    {
+      "id": "fg:variant:000215",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000055"
+    },
+    {
+      "id": "fg:variant:000216",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000055"
+    },
+    {
+      "id": "fg:variant:000217",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000055"
+    },
+    {
+      "id": "fg:module:000056",
+      "kind": "module",
+      "label": "Exercise0442342 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000056",
+      "kind": "item",
+      "label": "Exercise0442342 full selected directions",
+      "parent": "fg:module:000056"
+    },
+    {
+      "id": "fg:variant:000218",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000056"
+    },
+    {
+      "id": "fg:variant:000219",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000056"
+    },
+    {
+      "id": "fg:variant:000220",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000056"
+    },
+    {
+      "id": "fg:variant:000221",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000056"
+    },
+    {
+      "id": "fg:module:000057",
+      "kind": "module",
+      "label": "Exercise0452343 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000057",
+      "kind": "item",
+      "label": "Exercise0452343 full selected directions",
+      "parent": "fg:module:000057"
+    },
+    {
+      "id": "fg:variant:000222",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000057"
+    },
+    {
+      "id": "fg:variant:000223",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000057"
+    },
+    {
+      "id": "fg:variant:000224",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000057"
+    },
+    {
+      "id": "fg:variant:000225",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000057"
+    },
+    {
+      "id": "fg:module:000058",
+      "kind": "module",
+      "label": "Exercise0462412 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000058",
+      "kind": "item",
+      "label": "Exercise0462412 full selected directions",
+      "parent": "fg:module:000058"
+    },
+    {
+      "id": "fg:variant:000226",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000058"
+    },
+    {
+      "id": "fg:variant:000227",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000058"
+    },
+    {
+      "id": "fg:variant:000228",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000058"
+    },
+    {
+      "id": "fg:variant:000229",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000058"
+    },
+    {
+      "id": "fg:module:000059",
+      "kind": "module",
+      "label": "Exercise0472413 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000059",
+      "kind": "item",
+      "label": "Exercise0472413 full selected directions",
+      "parent": "fg:module:000059"
+    },
+    {
+      "id": "fg:variant:000230",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000059"
+    },
+    {
+      "id": "fg:variant:000231",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000059"
+    },
+    {
+      "id": "fg:variant:000232",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000059"
+    },
+    {
+      "id": "fg:variant:000233",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000059"
+    },
+    {
+      "id": "fg:module:000060",
+      "kind": "module",
+      "label": "Exercise0482414 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000060",
+      "kind": "item",
+      "label": "Exercise0482414 full selected directions",
+      "parent": "fg:module:000060"
+    },
+    {
+      "id": "fg:variant:000234",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000060"
+    },
+    {
+      "id": "fg:variant:000235",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000060"
+    },
+    {
+      "id": "fg:variant:000236",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000060"
+    },
+    {
+      "id": "fg:variant:000237",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000060"
+    },
+    {
+      "id": "fg:module:000061",
+      "kind": "module",
+      "label": "Exercise0492421 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000061",
+      "kind": "item",
+      "label": "Exercise0492421 full selected directions",
+      "parent": "fg:module:000061"
+    },
+    {
+      "id": "fg:variant:000238",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000061"
+    },
+    {
+      "id": "fg:variant:000239",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000061"
+    },
+    {
+      "id": "fg:variant:000240",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000061"
+    },
+    {
+      "id": "fg:variant:000241",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000061"
+    },
+    {
+      "id": "fg:module:000062",
+      "kind": "module",
+      "label": "Exercise0502423 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000062",
+      "kind": "item",
+      "label": "Exercise0502423 full selected directions",
+      "parent": "fg:module:000062"
+    },
+    {
+      "id": "fg:variant:000242",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000062"
+    },
+    {
+      "id": "fg:variant:000243",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000062"
+    },
+    {
+      "id": "fg:variant:000244",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000062"
+    },
+    {
+      "id": "fg:variant:000245",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000062"
+    },
+    {
+      "id": "fg:module:000063",
+      "kind": "module",
+      "label": "Exercise0512424 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000063",
+      "kind": "item",
+      "label": "Exercise0512424 full selected directions",
+      "parent": "fg:module:000063"
+    },
+    {
+      "id": "fg:variant:000246",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000063"
+    },
+    {
+      "id": "fg:variant:000247",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000063"
+    },
+    {
+      "id": "fg:variant:000248",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000063"
+    },
+    {
+      "id": "fg:variant:000249",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000063"
+    },
+    {
+      "id": "fg:module:000064",
+      "kind": "module",
+      "label": "Exercise0522431 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000064",
+      "kind": "item",
+      "label": "Exercise0522431 full selected directions",
+      "parent": "fg:module:000064"
+    },
+    {
+      "id": "fg:variant:000250",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000064"
+    },
+    {
+      "id": "fg:variant:000251",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000064"
+    },
+    {
+      "id": "fg:variant:000252",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000064"
+    },
+    {
+      "id": "fg:variant:000253",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000064"
+    },
+    {
+      "id": "fg:module:000065",
+      "kind": "module",
+      "label": "Exercise0532432 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000065",
+      "kind": "item",
+      "label": "Exercise0532432 full selected directions",
+      "parent": "fg:module:000065"
+    },
+    {
+      "id": "fg:variant:000254",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000065"
+    },
+    {
+      "id": "fg:variant:000255",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000065"
+    },
+    {
+      "id": "fg:variant:000256",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000065"
+    },
+    {
+      "id": "fg:variant:000257",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000065"
+    },
+    {
+      "id": "fg:module:000066",
+      "kind": "module",
+      "label": "Exercise0542434 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000066",
+      "kind": "item",
+      "label": "Exercise0542434 full selected directions",
+      "parent": "fg:module:000066"
+    },
+    {
+      "id": "fg:variant:000258",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000066"
+    },
+    {
+      "id": "fg:variant:000259",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000066"
+    },
+    {
+      "id": "fg:variant:000260",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000066"
+    },
+    {
+      "id": "fg:variant:000261",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000066"
+    },
+    {
+      "id": "fg:module:000067",
+      "kind": "module",
+      "label": "Exercise0553121 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000067",
+      "kind": "item",
+      "label": "Exercise0553121 full selected directions",
+      "parent": "fg:module:000067"
+    },
+    {
+      "id": "fg:variant:000262",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000067"
+    },
+    {
+      "id": "fg:variant:000263",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000067"
+    },
+    {
+      "id": "fg:variant:000264",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000067"
+    },
+    {
+      "id": "fg:variant:000265",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000067"
+    },
+    {
+      "id": "fg:module:000068",
+      "kind": "module",
+      "label": "Exercise0563123 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000068",
+      "kind": "item",
+      "label": "Exercise0563123 full selected directions",
+      "parent": "fg:module:000068"
+    },
+    {
+      "id": "fg:variant:000266",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000068"
+    },
+    {
+      "id": "fg:variant:000267",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000068"
+    },
+    {
+      "id": "fg:variant:000268",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000068"
+    },
+    {
+      "id": "fg:variant:000269",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000068"
+    },
+    {
+      "id": "fg:module:000069",
+      "kind": "module",
+      "label": "Exercise0573124 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000069",
+      "kind": "item",
+      "label": "Exercise0573124 full selected directions",
+      "parent": "fg:module:000069"
+    },
+    {
+      "id": "fg:variant:000270",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000069"
+    },
+    {
+      "id": "fg:variant:000271",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000069"
+    },
+    {
+      "id": "fg:variant:000272",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000069"
+    },
+    {
+      "id": "fg:variant:000273",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000069"
+    },
+    {
+      "id": "fg:module:000070",
+      "kind": "module",
+      "label": "Exercise0583131 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000070",
+      "kind": "item",
+      "label": "Exercise0583131 full selected directions",
+      "parent": "fg:module:000070"
+    },
+    {
+      "id": "fg:variant:000274",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000070"
+    },
+    {
+      "id": "fg:variant:000275",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000070"
+    },
+    {
+      "id": "fg:variant:000276",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000070"
+    },
+    {
+      "id": "fg:variant:000277",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000070"
+    },
+    {
+      "id": "fg:module:000071",
+      "kind": "module",
+      "label": "Exercise0593132 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000071",
+      "kind": "item",
+      "label": "Exercise0593132 full selected directions",
+      "parent": "fg:module:000071"
+    },
+    {
+      "id": "fg:variant:000278",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000071"
+    },
+    {
+      "id": "fg:variant:000279",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000071"
+    },
+    {
+      "id": "fg:variant:000280",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000071"
+    },
+    {
+      "id": "fg:variant:000281",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000071"
+    },
+    {
+      "id": "fg:module:000072",
+      "kind": "module",
+      "label": "Exercise0603134 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000072",
+      "kind": "item",
+      "label": "Exercise0603134 full selected directions",
+      "parent": "fg:module:000072"
+    },
+    {
+      "id": "fg:variant:000282",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000072"
+    },
+    {
+      "id": "fg:variant:000283",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000072"
+    },
+    {
+      "id": "fg:variant:000284",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000072"
+    },
+    {
+      "id": "fg:variant:000285",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000072"
+    },
+    {
+      "id": "fg:module:000073",
+      "kind": "module",
+      "label": "Exercise0613141 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000073",
+      "kind": "item",
+      "label": "Exercise0613141 full selected directions",
+      "parent": "fg:module:000073"
+    },
+    {
+      "id": "fg:variant:000286",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000073"
+    },
+    {
+      "id": "fg:variant:000287",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000073"
+    },
+    {
+      "id": "fg:variant:000288",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000073"
+    },
+    {
+      "id": "fg:variant:000289",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000073"
+    },
+    {
+      "id": "fg:module:000074",
+      "kind": "module",
+      "label": "Exercise0623142 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000074",
+      "kind": "item",
+      "label": "Exercise0623142 full selected directions",
+      "parent": "fg:module:000074"
+    },
+    {
+      "id": "fg:variant:000290",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000074"
+    },
+    {
+      "id": "fg:variant:000291",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000074"
+    },
+    {
+      "id": "fg:variant:000292",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000074"
+    },
+    {
+      "id": "fg:variant:000293",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000074"
+    },
+    {
+      "id": "fg:module:000075",
+      "kind": "module",
+      "label": "Exercise0633143 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000075",
+      "kind": "item",
+      "label": "Exercise0633143 full selected directions",
+      "parent": "fg:module:000075"
+    },
+    {
+      "id": "fg:variant:000294",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000075"
+    },
+    {
+      "id": "fg:variant:000295",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000075"
+    },
+    {
+      "id": "fg:variant:000296",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000075"
+    },
+    {
+      "id": "fg:variant:000297",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000075"
+    },
+    {
+      "id": "fg:module:000076",
+      "kind": "module",
+      "label": "Exercise0643212 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000076",
+      "kind": "item",
+      "label": "Exercise0643212 full selected directions",
+      "parent": "fg:module:000076"
+    },
+    {
+      "id": "fg:variant:000298",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000076"
+    },
+    {
+      "id": "fg:variant:000299",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000076"
+    },
+    {
+      "id": "fg:variant:000300",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000076"
+    },
+    {
+      "id": "fg:variant:000301",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000076"
+    },
+    {
+      "id": "fg:module:000077",
+      "kind": "module",
+      "label": "Exercise0653213 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000077",
+      "kind": "item",
+      "label": "Exercise0653213 full selected directions",
+      "parent": "fg:module:000077"
+    },
+    {
+      "id": "fg:variant:000302",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000077"
+    },
+    {
+      "id": "fg:variant:000303",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000077"
+    },
+    {
+      "id": "fg:variant:000304",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000077"
+    },
+    {
+      "id": "fg:variant:000305",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000077"
+    },
+    {
+      "id": "fg:module:000078",
+      "kind": "module",
+      "label": "Exercise0663214 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000078",
+      "kind": "item",
+      "label": "Exercise0663214 full selected directions",
+      "parent": "fg:module:000078"
+    },
+    {
+      "id": "fg:variant:000306",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000078"
+    },
+    {
+      "id": "fg:variant:000307",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000078"
+    },
+    {
+      "id": "fg:variant:000308",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000078"
+    },
+    {
+      "id": "fg:variant:000309",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000078"
+    },
+    {
+      "id": "fg:module:000079",
+      "kind": "module",
+      "label": "Exercise0673231 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000079",
+      "kind": "item",
+      "label": "Exercise0673231 full selected directions",
+      "parent": "fg:module:000079"
+    },
+    {
+      "id": "fg:variant:000310",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000079"
+    },
+    {
+      "id": "fg:variant:000311",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000079"
+    },
+    {
+      "id": "fg:variant:000312",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000079"
+    },
+    {
+      "id": "fg:variant:000313",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000079"
+    },
+    {
+      "id": "fg:module:000080",
+      "kind": "module",
+      "label": "Exercise0683232 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000080",
+      "kind": "item",
+      "label": "Exercise0683232 full selected directions",
+      "parent": "fg:module:000080"
+    },
+    {
+      "id": "fg:variant:000314",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000080"
+    },
+    {
+      "id": "fg:variant:000315",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000080"
+    },
+    {
+      "id": "fg:variant:000316",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000080"
+    },
+    {
+      "id": "fg:variant:000317",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000080"
+    },
+    {
+      "id": "fg:module:000081",
+      "kind": "module",
+      "label": "Exercise0693234 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000081",
+      "kind": "item",
+      "label": "Exercise0693234 full selected directions",
+      "parent": "fg:module:000081"
+    },
+    {
+      "id": "fg:variant:000318",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000081"
+    },
+    {
+      "id": "fg:variant:000319",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000081"
+    },
+    {
+      "id": "fg:variant:000320",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000081"
+    },
+    {
+      "id": "fg:variant:000321",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000081"
+    },
+    {
+      "id": "fg:module:000082",
+      "kind": "module",
+      "label": "Exercise0703241 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000082",
+      "kind": "item",
+      "label": "Exercise0703241 full selected directions",
+      "parent": "fg:module:000082"
+    },
+    {
+      "id": "fg:variant:000322",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000082"
+    },
+    {
+      "id": "fg:variant:000323",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000082"
+    },
+    {
+      "id": "fg:variant:000324",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000082"
+    },
+    {
+      "id": "fg:variant:000325",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000082"
+    },
+    {
+      "id": "fg:module:000083",
+      "kind": "module",
+      "label": "Exercise0713242 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000083",
+      "kind": "item",
+      "label": "Exercise0713242 full selected directions",
+      "parent": "fg:module:000083"
+    },
+    {
+      "id": "fg:variant:000326",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000083"
+    },
+    {
+      "id": "fg:variant:000327",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000083"
+    },
+    {
+      "id": "fg:variant:000328",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000083"
+    },
+    {
+      "id": "fg:variant:000329",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000083"
+    },
+    {
+      "id": "fg:module:000084",
+      "kind": "module",
+      "label": "Exercise0723243 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000084",
+      "kind": "item",
+      "label": "Exercise0723243 full selected directions",
+      "parent": "fg:module:000084"
+    },
+    {
+      "id": "fg:variant:000330",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000084"
+    },
+    {
+      "id": "fg:variant:000331",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000084"
+    },
+    {
+      "id": "fg:variant:000332",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000084"
+    },
+    {
+      "id": "fg:variant:000333",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000084"
+    },
+    {
+      "id": "fg:module:000085",
+      "kind": "module",
+      "label": "Exercise0733412 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000085",
+      "kind": "item",
+      "label": "Exercise0733412 full selected directions",
+      "parent": "fg:module:000085"
+    },
+    {
+      "id": "fg:variant:000334",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000085"
+    },
+    {
+      "id": "fg:variant:000335",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000085"
+    },
+    {
+      "id": "fg:variant:000336",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000085"
+    },
+    {
+      "id": "fg:variant:000337",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000085"
+    },
+    {
+      "id": "fg:module:000086",
+      "kind": "module",
+      "label": "Exercise0743413 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000086",
+      "kind": "item",
+      "label": "Exercise0743413 full selected directions",
+      "parent": "fg:module:000086"
+    },
+    {
+      "id": "fg:variant:000338",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000086"
+    },
+    {
+      "id": "fg:variant:000339",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000086"
+    },
+    {
+      "id": "fg:variant:000340",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000086"
+    },
+    {
+      "id": "fg:variant:000341",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000086"
+    },
+    {
+      "id": "fg:module:000087",
+      "kind": "module",
+      "label": "Exercise0753414 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000087",
+      "kind": "item",
+      "label": "Exercise0753414 full selected directions",
+      "parent": "fg:module:000087"
+    },
+    {
+      "id": "fg:variant:000342",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000087"
+    },
+    {
+      "id": "fg:variant:000343",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000087"
+    },
+    {
+      "id": "fg:variant:000344",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000087"
+    },
+    {
+      "id": "fg:variant:000345",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000087"
+    },
+    {
+      "id": "fg:module:000088",
+      "kind": "module",
+      "label": "Exercise0763421 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000088",
+      "kind": "item",
+      "label": "Exercise0763421 full selected directions",
+      "parent": "fg:module:000088"
+    },
+    {
+      "id": "fg:variant:000346",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000088"
+    },
+    {
+      "id": "fg:variant:000347",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000088"
+    },
+    {
+      "id": "fg:variant:000348",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000088"
+    },
+    {
+      "id": "fg:variant:000349",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000088"
+    },
+    {
+      "id": "fg:module:000089",
+      "kind": "module",
+      "label": "Exercise0773423 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000089",
+      "kind": "item",
+      "label": "Exercise0773423 full selected directions",
+      "parent": "fg:module:000089"
+    },
+    {
+      "id": "fg:variant:000350",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000089"
+    },
+    {
+      "id": "fg:variant:000351",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000089"
+    },
+    {
+      "id": "fg:variant:000352",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000089"
+    },
+    {
+      "id": "fg:variant:000353",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000089"
+    },
+    {
+      "id": "fg:module:000090",
+      "kind": "module",
+      "label": "Exercise0783424 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000090",
+      "kind": "item",
+      "label": "Exercise0783424 full selected directions",
+      "parent": "fg:module:000090"
+    },
+    {
+      "id": "fg:variant:000354",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000090"
+    },
+    {
+      "id": "fg:variant:000355",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000090"
+    },
+    {
+      "id": "fg:variant:000356",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000090"
+    },
+    {
+      "id": "fg:variant:000357",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000090"
+    },
+    {
+      "id": "fg:module:000091",
+      "kind": "module",
+      "label": "Exercise0793431 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000091",
+      "kind": "item",
+      "label": "Exercise0793431 full selected directions",
+      "parent": "fg:module:000091"
+    },
+    {
+      "id": "fg:variant:000358",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000091"
+    },
+    {
+      "id": "fg:variant:000359",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000091"
+    },
+    {
+      "id": "fg:variant:000360",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000091"
+    },
+    {
+      "id": "fg:variant:000361",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000091"
+    },
+    {
+      "id": "fg:module:000092",
+      "kind": "module",
+      "label": "Exercise0803432 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000092",
+      "kind": "item",
+      "label": "Exercise0803432 full selected directions",
+      "parent": "fg:module:000092"
+    },
+    {
+      "id": "fg:variant:000362",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000092"
+    },
+    {
+      "id": "fg:variant:000363",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000092"
+    },
+    {
+      "id": "fg:variant:000364",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000092"
+    },
+    {
+      "id": "fg:variant:000365",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000092"
+    },
+    {
+      "id": "fg:module:000093",
+      "kind": "module",
+      "label": "Exercise0813434 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000093",
+      "kind": "item",
+      "label": "Exercise0813434 full selected directions",
+      "parent": "fg:module:000093"
+    },
+    {
+      "id": "fg:variant:000366",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000093"
+    },
+    {
+      "id": "fg:variant:000367",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000093"
+    },
+    {
+      "id": "fg:variant:000368",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000093"
+    },
+    {
+      "id": "fg:variant:000369",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000093"
+    },
+    {
+      "id": "fg:module:000094",
+      "kind": "module",
+      "label": "Exercise0824121 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000094",
+      "kind": "item",
+      "label": "Exercise0824121 full selected directions",
+      "parent": "fg:module:000094"
+    },
+    {
+      "id": "fg:variant:000370",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000094"
+    },
+    {
+      "id": "fg:variant:000371",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000094"
+    },
+    {
+      "id": "fg:variant:000372",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000094"
+    },
+    {
+      "id": "fg:variant:000373",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000094"
+    },
+    {
+      "id": "fg:module:000095",
+      "kind": "module",
+      "label": "Exercise0834123 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000095",
+      "kind": "item",
+      "label": "Exercise0834123 full selected directions",
+      "parent": "fg:module:000095"
+    },
+    {
+      "id": "fg:variant:000374",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000095"
+    },
+    {
+      "id": "fg:variant:000375",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000095"
+    },
+    {
+      "id": "fg:variant:000376",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000095"
+    },
+    {
+      "id": "fg:variant:000377",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000095"
+    },
+    {
+      "id": "fg:module:000096",
+      "kind": "module",
+      "label": "Exercise0844124 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000096",
+      "kind": "item",
+      "label": "Exercise0844124 full selected directions",
+      "parent": "fg:module:000096"
+    },
+    {
+      "id": "fg:variant:000378",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000096"
+    },
+    {
+      "id": "fg:variant:000379",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000096"
+    },
+    {
+      "id": "fg:variant:000380",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000096"
+    },
+    {
+      "id": "fg:variant:000381",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000096"
+    },
+    {
+      "id": "fg:module:000097",
+      "kind": "module",
+      "label": "Exercise0854131 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000097",
+      "kind": "item",
+      "label": "Exercise0854131 full selected directions",
+      "parent": "fg:module:000097"
+    },
+    {
+      "id": "fg:variant:000382",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000097"
+    },
+    {
+      "id": "fg:variant:000383",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000097"
+    },
+    {
+      "id": "fg:variant:000384",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000097"
+    },
+    {
+      "id": "fg:variant:000385",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000097"
+    },
+    {
+      "id": "fg:module:000098",
+      "kind": "module",
+      "label": "Exercise0864132 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000098",
+      "kind": "item",
+      "label": "Exercise0864132 full selected directions",
+      "parent": "fg:module:000098"
+    },
+    {
+      "id": "fg:variant:000386",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000098"
+    },
+    {
+      "id": "fg:variant:000387",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000098"
+    },
+    {
+      "id": "fg:variant:000388",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000098"
+    },
+    {
+      "id": "fg:variant:000389",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000098"
+    },
+    {
+      "id": "fg:module:000099",
+      "kind": "module",
+      "label": "Exercise0874134 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000099",
+      "kind": "item",
+      "label": "Exercise0874134 full selected directions",
+      "parent": "fg:module:000099"
+    },
+    {
+      "id": "fg:variant:000390",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000099"
+    },
+    {
+      "id": "fg:variant:000391",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000099"
+    },
+    {
+      "id": "fg:variant:000392",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000099"
+    },
+    {
+      "id": "fg:variant:000393",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000099"
+    },
+    {
+      "id": "fg:module:000100",
+      "kind": "module",
+      "label": "Exercise0884141 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000100",
+      "kind": "item",
+      "label": "Exercise0884141 full selected directions",
+      "parent": "fg:module:000100"
+    },
+    {
+      "id": "fg:variant:000394",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000100"
+    },
+    {
+      "id": "fg:variant:000395",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000100"
+    },
+    {
+      "id": "fg:variant:000396",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000100"
+    },
+    {
+      "id": "fg:variant:000397",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000100"
+    },
+    {
+      "id": "fg:module:000101",
+      "kind": "module",
+      "label": "Exercise0894142 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000101",
+      "kind": "item",
+      "label": "Exercise0894142 full selected directions",
+      "parent": "fg:module:000101"
+    },
+    {
+      "id": "fg:variant:000398",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000101"
+    },
+    {
+      "id": "fg:variant:000399",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000101"
+    },
+    {
+      "id": "fg:variant:000400",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000101"
+    },
+    {
+      "id": "fg:variant:000401",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000101"
+    },
+    {
+      "id": "fg:module:000102",
+      "kind": "module",
+      "label": "Exercise0904143 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000102",
+      "kind": "item",
+      "label": "Exercise0904143 full selected directions",
+      "parent": "fg:module:000102"
+    },
+    {
+      "id": "fg:variant:000402",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000102"
+    },
+    {
+      "id": "fg:variant:000403",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000102"
+    },
+    {
+      "id": "fg:variant:000404",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000102"
+    },
+    {
+      "id": "fg:variant:000405",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000102"
+    },
+    {
+      "id": "fg:module:000103",
+      "kind": "module",
+      "label": "Exercise0914212 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000103",
+      "kind": "item",
+      "label": "Exercise0914212 full selected directions",
+      "parent": "fg:module:000103"
+    },
+    {
+      "id": "fg:variant:000406",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000103"
+    },
+    {
+      "id": "fg:variant:000407",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000103"
+    },
+    {
+      "id": "fg:variant:000408",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000103"
+    },
+    {
+      "id": "fg:variant:000409",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000103"
+    },
+    {
+      "id": "fg:module:000104",
+      "kind": "module",
+      "label": "Exercise0924213 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000104",
+      "kind": "item",
+      "label": "Exercise0924213 full selected directions",
+      "parent": "fg:module:000104"
+    },
+    {
+      "id": "fg:variant:000410",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000104"
+    },
+    {
+      "id": "fg:variant:000411",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000104"
+    },
+    {
+      "id": "fg:variant:000412",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000104"
+    },
+    {
+      "id": "fg:variant:000413",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000104"
+    },
+    {
+      "id": "fg:module:000105",
+      "kind": "module",
+      "label": "Exercise0934214 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000105",
+      "kind": "item",
+      "label": "Exercise0934214 full selected directions",
+      "parent": "fg:module:000105"
+    },
+    {
+      "id": "fg:variant:000414",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000105"
+    },
+    {
+      "id": "fg:variant:000415",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000105"
+    },
+    {
+      "id": "fg:variant:000416",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000105"
+    },
+    {
+      "id": "fg:variant:000417",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000105"
+    },
+    {
+      "id": "fg:module:000106",
+      "kind": "module",
+      "label": "Exercise0944231 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000106",
+      "kind": "item",
+      "label": "Exercise0944231 full selected directions",
+      "parent": "fg:module:000106"
+    },
+    {
+      "id": "fg:variant:000418",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000106"
+    },
+    {
+      "id": "fg:variant:000419",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000106"
+    },
+    {
+      "id": "fg:variant:000420",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000106"
+    },
+    {
+      "id": "fg:variant:000421",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000106"
+    },
+    {
+      "id": "fg:module:000107",
+      "kind": "module",
+      "label": "Exercise0954232 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000107",
+      "kind": "item",
+      "label": "Exercise0954232 full selected directions",
+      "parent": "fg:module:000107"
+    },
+    {
+      "id": "fg:variant:000422",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000107"
+    },
+    {
+      "id": "fg:variant:000423",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000107"
+    },
+    {
+      "id": "fg:variant:000424",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000107"
+    },
+    {
+      "id": "fg:variant:000425",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000107"
+    },
+    {
+      "id": "fg:module:000108",
+      "kind": "module",
+      "label": "Exercise0964234 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000108",
+      "kind": "item",
+      "label": "Exercise0964234 full selected directions",
+      "parent": "fg:module:000108"
+    },
+    {
+      "id": "fg:variant:000426",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000108"
+    },
+    {
+      "id": "fg:variant:000427",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000108"
+    },
+    {
+      "id": "fg:variant:000428",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000108"
+    },
+    {
+      "id": "fg:variant:000429",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000108"
+    },
+    {
+      "id": "fg:module:000109",
+      "kind": "module",
+      "label": "Exercise0974241 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000109",
+      "kind": "item",
+      "label": "Exercise0974241 full selected directions",
+      "parent": "fg:module:000109"
+    },
+    {
+      "id": "fg:variant:000430",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000109"
+    },
+    {
+      "id": "fg:variant:000431",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000109"
+    },
+    {
+      "id": "fg:variant:000432",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000109"
+    },
+    {
+      "id": "fg:variant:000433",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000109"
+    },
+    {
+      "id": "fg:module:000110",
+      "kind": "module",
+      "label": "Exercise0984242 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000110",
+      "kind": "item",
+      "label": "Exercise0984242 full selected directions",
+      "parent": "fg:module:000110"
+    },
+    {
+      "id": "fg:variant:000434",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000110"
+    },
+    {
+      "id": "fg:variant:000435",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000110"
+    },
+    {
+      "id": "fg:variant:000436",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000110"
+    },
+    {
+      "id": "fg:variant:000437",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000110"
+    },
+    {
+      "id": "fg:module:000111",
+      "kind": "module",
+      "label": "Exercise0994243 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000111",
+      "kind": "item",
+      "label": "Exercise0994243 full selected directions",
+      "parent": "fg:module:000111"
+    },
+    {
+      "id": "fg:variant:000438",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000111"
+    },
+    {
+      "id": "fg:variant:000439",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000111"
+    },
+    {
+      "id": "fg:variant:000440",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000111"
+    },
+    {
+      "id": "fg:variant:000441",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000111"
+    },
+    {
+      "id": "fg:module:000112",
+      "kind": "module",
+      "label": "Exercise1004312 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000112",
+      "kind": "item",
+      "label": "Exercise1004312 full selected directions",
+      "parent": "fg:module:000112"
+    },
+    {
+      "id": "fg:variant:000442",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000112"
+    },
+    {
+      "id": "fg:variant:000443",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000112"
+    },
+    {
+      "id": "fg:variant:000444",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000112"
+    },
+    {
+      "id": "fg:variant:000445",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000112"
+    },
+    {
+      "id": "fg:module:000113",
+      "kind": "module",
+      "label": "Exercise1014313 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000113",
+      "kind": "item",
+      "label": "Exercise1014313 full selected directions",
+      "parent": "fg:module:000113"
+    },
+    {
+      "id": "fg:variant:000446",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000113"
+    },
+    {
+      "id": "fg:variant:000447",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000113"
+    },
+    {
+      "id": "fg:variant:000448",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000113"
+    },
+    {
+      "id": "fg:variant:000449",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000113"
+    },
+    {
+      "id": "fg:module:000114",
+      "kind": "module",
+      "label": "Exercise1024314 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000114",
+      "kind": "item",
+      "label": "Exercise1024314 full selected directions",
+      "parent": "fg:module:000114"
+    },
+    {
+      "id": "fg:variant:000450",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000114"
+    },
+    {
+      "id": "fg:variant:000451",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000114"
+    },
+    {
+      "id": "fg:variant:000452",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000114"
+    },
+    {
+      "id": "fg:variant:000453",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000114"
+    },
+    {
+      "id": "fg:module:000115",
+      "kind": "module",
+      "label": "Exercise1034321 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000115",
+      "kind": "item",
+      "label": "Exercise1034321 full selected directions",
+      "parent": "fg:module:000115"
+    },
+    {
+      "id": "fg:variant:000454",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000115"
+    },
+    {
+      "id": "fg:variant:000455",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000115"
+    },
+    {
+      "id": "fg:variant:000456",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000115"
+    },
+    {
+      "id": "fg:variant:000457",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000115"
+    },
+    {
+      "id": "fg:module:000116",
+      "kind": "module",
+      "label": "Exercise1044323 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000116",
+      "kind": "item",
+      "label": "Exercise1044323 full selected directions",
+      "parent": "fg:module:000116"
+    },
+    {
+      "id": "fg:variant:000458",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000116"
+    },
+    {
+      "id": "fg:variant:000459",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000116"
+    },
+    {
+      "id": "fg:variant:000460",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000116"
+    },
+    {
+      "id": "fg:variant:000461",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000116"
+    },
+    {
+      "id": "fg:module:000117",
+      "kind": "module",
+      "label": "Exercise1054324 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000117",
+      "kind": "item",
+      "label": "Exercise1054324 full selected directions",
+      "parent": "fg:module:000117"
+    },
+    {
+      "id": "fg:variant:000462",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000117"
+    },
+    {
+      "id": "fg:variant:000463",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000117"
+    },
+    {
+      "id": "fg:variant:000464",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000117"
+    },
+    {
+      "id": "fg:variant:000465",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000117"
+    },
+    {
+      "id": "fg:module:000118",
+      "kind": "module",
+      "label": "Exercise1064341 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000118",
+      "kind": "item",
+      "label": "Exercise1064341 full selected directions",
+      "parent": "fg:module:000118"
+    },
+    {
+      "id": "fg:variant:000466",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000118"
+    },
+    {
+      "id": "fg:variant:000467",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000118"
+    },
+    {
+      "id": "fg:variant:000468",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000118"
+    },
+    {
+      "id": "fg:variant:000469",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000118"
+    },
+    {
+      "id": "fg:module:000119",
+      "kind": "module",
+      "label": "Exercise1074342 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000119",
+      "kind": "item",
+      "label": "Exercise1074342 full selected directions",
+      "parent": "fg:module:000119"
+    },
+    {
+      "id": "fg:variant:000470",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000119"
+    },
+    {
+      "id": "fg:variant:000471",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000119"
+    },
+    {
+      "id": "fg:variant:000472",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000119"
+    },
+    {
+      "id": "fg:variant:000473",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000119"
+    },
+    {
+      "id": "fg:module:000120",
+      "kind": "module",
+      "label": "Exercise1084343 source directions",
+      "parent": "fg:workbook:000001"
+    },
+    {
+      "id": "fg:item:000120",
+      "kind": "item",
+      "label": "Exercise1084343 full selected directions",
+      "parent": "fg:module:000120"
+    },
+    {
+      "id": "fg:variant:000474",
+      "kind": "variant",
+      "label": "ascending-D",
+      "parent": "fg:item:000120"
+    },
+    {
+      "id": "fg:variant:000475",
+      "kind": "variant",
+      "label": "ascending-U",
+      "parent": "fg:item:000120"
+    },
+    {
+      "id": "fg:variant:000476",
+      "kind": "variant",
+      "label": "descending-D",
+      "parent": "fg:item:000120"
+    },
+    {
+      "id": "fg:variant:000477",
+      "kind": "variant",
+      "label": "descending-U",
+      "parent": "fg:item:000120"
+    },
+    {
+      "id": "fg:variant:007478",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000001"
+    },
+    {
+      "id": "fg:variant:007479",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000001"
+    },
+    {
+      "id": "fg:variant:007480",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000014"
+    },
+    {
+      "id": "fg:variant:007481",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000014"
+    },
+    {
+      "id": "fg:variant:007482",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000015"
+    },
+    {
+      "id": "fg:variant:007483",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000015"
+    },
+    {
+      "id": "fg:variant:007484",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000016"
+    },
+    {
+      "id": "fg:variant:007485",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000016"
+    },
+    {
+      "id": "fg:variant:007486",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000017"
+    },
+    {
+      "id": "fg:variant:007487",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000017"
+    },
+    {
+      "id": "fg:variant:007488",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000018"
+    },
+    {
+      "id": "fg:variant:007489",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000018"
+    },
+    {
+      "id": "fg:variant:007490",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000019"
+    },
+    {
+      "id": "fg:variant:007491",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000019"
+    },
+    {
+      "id": "fg:variant:007492",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000020"
+    },
+    {
+      "id": "fg:variant:007493",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000020"
+    },
+    {
+      "id": "fg:variant:007494",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000021"
+    },
+    {
+      "id": "fg:variant:007495",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000021"
+    },
+    {
+      "id": "fg:variant:007496",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000022"
+    },
+    {
+      "id": "fg:variant:007497",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000022"
+    },
+    {
+      "id": "fg:variant:007498",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000023"
+    },
+    {
+      "id": "fg:variant:007499",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000023"
+    },
+    {
+      "id": "fg:variant:007500",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000024"
+    },
+    {
+      "id": "fg:variant:007501",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000024"
+    },
+    {
+      "id": "fg:variant:007502",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000025"
+    },
+    {
+      "id": "fg:variant:007503",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000025"
+    },
+    {
+      "id": "fg:variant:007504",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000026"
+    },
+    {
+      "id": "fg:variant:007505",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000026"
+    },
+    {
+      "id": "fg:variant:007506",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000027"
+    },
+    {
+      "id": "fg:variant:007507",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000027"
+    },
+    {
+      "id": "fg:variant:007508",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000028"
+    },
+    {
+      "id": "fg:variant:007509",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000028"
+    },
+    {
+      "id": "fg:variant:007510",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000029"
+    },
+    {
+      "id": "fg:variant:007511",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000029"
+    },
+    {
+      "id": "fg:variant:007512",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000030"
+    },
+    {
+      "id": "fg:variant:007513",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000030"
+    },
+    {
+      "id": "fg:variant:007514",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000031"
+    },
+    {
+      "id": "fg:variant:007515",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000031"
+    },
+    {
+      "id": "fg:variant:007516",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000032"
+    },
+    {
+      "id": "fg:variant:007517",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000032"
+    },
+    {
+      "id": "fg:variant:007518",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000033"
+    },
+    {
+      "id": "fg:variant:007519",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000033"
+    },
+    {
+      "id": "fg:variant:007520",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000034"
+    },
+    {
+      "id": "fg:variant:007521",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000034"
+    },
+    {
+      "id": "fg:variant:007522",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000035"
+    },
+    {
+      "id": "fg:variant:007523",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000035"
+    },
+    {
+      "id": "fg:variant:007524",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000036"
+    },
+    {
+      "id": "fg:variant:007525",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000036"
+    },
+    {
+      "id": "fg:variant:007526",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000037"
+    },
+    {
+      "id": "fg:variant:007527",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000037"
+    },
+    {
+      "id": "fg:variant:007528",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000038"
+    },
+    {
+      "id": "fg:variant:007529",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000038"
+    },
+    {
+      "id": "fg:variant:007530",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000039"
+    },
+    {
+      "id": "fg:variant:007531",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000039"
+    },
+    {
+      "id": "fg:variant:007532",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000040"
+    },
+    {
+      "id": "fg:variant:007533",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000040"
+    },
+    {
+      "id": "fg:variant:007534",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000041"
+    },
+    {
+      "id": "fg:variant:007535",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000041"
+    },
+    {
+      "id": "fg:variant:007536",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000042"
+    },
+    {
+      "id": "fg:variant:007537",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000042"
+    },
+    {
+      "id": "fg:variant:007538",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000043"
+    },
+    {
+      "id": "fg:variant:007539",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000043"
+    },
+    {
+      "id": "fg:variant:007540",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000044"
+    },
+    {
+      "id": "fg:variant:007541",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000044"
+    },
+    {
+      "id": "fg:variant:007542",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000045"
+    },
+    {
+      "id": "fg:variant:007543",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000045"
+    },
+    {
+      "id": "fg:variant:007544",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000046"
+    },
+    {
+      "id": "fg:variant:007545",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000046"
+    },
+    {
+      "id": "fg:variant:007546",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000047"
+    },
+    {
+      "id": "fg:variant:007547",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000047"
+    },
+    {
+      "id": "fg:variant:007548",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000048"
+    },
+    {
+      "id": "fg:variant:007549",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000048"
+    },
+    {
+      "id": "fg:variant:007550",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000049"
+    },
+    {
+      "id": "fg:variant:007551",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000049"
+    },
+    {
+      "id": "fg:variant:007552",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000050"
+    },
+    {
+      "id": "fg:variant:007553",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000050"
+    },
+    {
+      "id": "fg:variant:007554",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000051"
+    },
+    {
+      "id": "fg:variant:007555",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000051"
+    },
+    {
+      "id": "fg:variant:007556",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000052"
+    },
+    {
+      "id": "fg:variant:007557",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000052"
+    },
+    {
+      "id": "fg:variant:007558",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000053"
+    },
+    {
+      "id": "fg:variant:007559",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000053"
+    },
+    {
+      "id": "fg:variant:007560",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000054"
+    },
+    {
+      "id": "fg:variant:007561",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000054"
+    },
+    {
+      "id": "fg:variant:007562",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000055"
+    },
+    {
+      "id": "fg:variant:007563",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000055"
+    },
+    {
+      "id": "fg:variant:007564",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000056"
+    },
+    {
+      "id": "fg:variant:007565",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000056"
+    },
+    {
+      "id": "fg:variant:007566",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000057"
+    },
+    {
+      "id": "fg:variant:007567",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000057"
+    },
+    {
+      "id": "fg:variant:007568",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000058"
+    },
+    {
+      "id": "fg:variant:007569",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000058"
+    },
+    {
+      "id": "fg:variant:007570",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000059"
+    },
+    {
+      "id": "fg:variant:007571",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000059"
+    },
+    {
+      "id": "fg:variant:007572",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000060"
+    },
+    {
+      "id": "fg:variant:007573",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000060"
+    },
+    {
+      "id": "fg:variant:007574",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000061"
+    },
+    {
+      "id": "fg:variant:007575",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000061"
+    },
+    {
+      "id": "fg:variant:007576",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000062"
+    },
+    {
+      "id": "fg:variant:007577",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000062"
+    },
+    {
+      "id": "fg:variant:007578",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000063"
+    },
+    {
+      "id": "fg:variant:007579",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000063"
+    },
+    {
+      "id": "fg:variant:007580",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000064"
+    },
+    {
+      "id": "fg:variant:007581",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000064"
+    },
+    {
+      "id": "fg:variant:007582",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000065"
+    },
+    {
+      "id": "fg:variant:007583",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000065"
+    },
+    {
+      "id": "fg:variant:007584",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000066"
+    },
+    {
+      "id": "fg:variant:007585",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000066"
+    },
+    {
+      "id": "fg:variant:007586",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000067"
+    },
+    {
+      "id": "fg:variant:007587",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000067"
+    },
+    {
+      "id": "fg:variant:007588",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000068"
+    },
+    {
+      "id": "fg:variant:007589",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000068"
+    },
+    {
+      "id": "fg:variant:007590",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000069"
+    },
+    {
+      "id": "fg:variant:007591",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000069"
+    },
+    {
+      "id": "fg:variant:007592",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000070"
+    },
+    {
+      "id": "fg:variant:007593",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000070"
+    },
+    {
+      "id": "fg:variant:007594",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000071"
+    },
+    {
+      "id": "fg:variant:007595",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000071"
+    },
+    {
+      "id": "fg:variant:007596",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000072"
+    },
+    {
+      "id": "fg:variant:007597",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000072"
+    },
+    {
+      "id": "fg:variant:007598",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000073"
+    },
+    {
+      "id": "fg:variant:007599",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000073"
+    },
+    {
+      "id": "fg:variant:007600",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000074"
+    },
+    {
+      "id": "fg:variant:007601",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000074"
+    },
+    {
+      "id": "fg:variant:007602",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000075"
+    },
+    {
+      "id": "fg:variant:007603",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000075"
+    },
+    {
+      "id": "fg:variant:007604",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000076"
+    },
+    {
+      "id": "fg:variant:007605",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000076"
+    },
+    {
+      "id": "fg:variant:007606",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000077"
+    },
+    {
+      "id": "fg:variant:007607",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000077"
+    },
+    {
+      "id": "fg:variant:007608",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000078"
+    },
+    {
+      "id": "fg:variant:007609",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000078"
+    },
+    {
+      "id": "fg:variant:007610",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000079"
+    },
+    {
+      "id": "fg:variant:007611",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000079"
+    },
+    {
+      "id": "fg:variant:007612",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000080"
+    },
+    {
+      "id": "fg:variant:007613",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000080"
+    },
+    {
+      "id": "fg:variant:007614",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000081"
+    },
+    {
+      "id": "fg:variant:007615",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000081"
+    },
+    {
+      "id": "fg:variant:007616",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000082"
+    },
+    {
+      "id": "fg:variant:007617",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000082"
+    },
+    {
+      "id": "fg:variant:007618",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000083"
+    },
+    {
+      "id": "fg:variant:007619",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000083"
+    },
+    {
+      "id": "fg:variant:007620",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000084"
+    },
+    {
+      "id": "fg:variant:007621",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000084"
+    },
+    {
+      "id": "fg:variant:007622",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000085"
+    },
+    {
+      "id": "fg:variant:007623",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000085"
+    },
+    {
+      "id": "fg:variant:007624",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000086"
+    },
+    {
+      "id": "fg:variant:007625",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000086"
+    },
+    {
+      "id": "fg:variant:007626",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000087"
+    },
+    {
+      "id": "fg:variant:007627",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000087"
+    },
+    {
+      "id": "fg:variant:007628",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000088"
+    },
+    {
+      "id": "fg:variant:007629",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000088"
+    },
+    {
+      "id": "fg:variant:007630",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000089"
+    },
+    {
+      "id": "fg:variant:007631",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000089"
+    },
+    {
+      "id": "fg:variant:007632",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000090"
+    },
+    {
+      "id": "fg:variant:007633",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000090"
+    },
+    {
+      "id": "fg:variant:007634",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000091"
+    },
+    {
+      "id": "fg:variant:007635",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000091"
+    },
+    {
+      "id": "fg:variant:007636",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000092"
+    },
+    {
+      "id": "fg:variant:007637",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000092"
+    },
+    {
+      "id": "fg:variant:007638",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000093"
+    },
+    {
+      "id": "fg:variant:007639",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000093"
+    },
+    {
+      "id": "fg:variant:007640",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000094"
+    },
+    {
+      "id": "fg:variant:007641",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000094"
+    },
+    {
+      "id": "fg:variant:007642",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000095"
+    },
+    {
+      "id": "fg:variant:007643",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000095"
+    },
+    {
+      "id": "fg:variant:007644",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000096"
+    },
+    {
+      "id": "fg:variant:007645",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000096"
+    },
+    {
+      "id": "fg:variant:007646",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000097"
+    },
+    {
+      "id": "fg:variant:007647",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000097"
+    },
+    {
+      "id": "fg:variant:007648",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000098"
+    },
+    {
+      "id": "fg:variant:007649",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000098"
+    },
+    {
+      "id": "fg:variant:007650",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000099"
+    },
+    {
+      "id": "fg:variant:007651",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000099"
+    },
+    {
+      "id": "fg:variant:007652",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000100"
+    },
+    {
+      "id": "fg:variant:007653",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000100"
+    },
+    {
+      "id": "fg:variant:007654",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000101"
+    },
+    {
+      "id": "fg:variant:007655",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000101"
+    },
+    {
+      "id": "fg:variant:007656",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000102"
+    },
+    {
+      "id": "fg:variant:007657",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000102"
+    },
+    {
+      "id": "fg:variant:007658",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000103"
+    },
+    {
+      "id": "fg:variant:007659",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000103"
+    },
+    {
+      "id": "fg:variant:007660",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000104"
+    },
+    {
+      "id": "fg:variant:007661",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000104"
+    },
+    {
+      "id": "fg:variant:007662",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000105"
+    },
+    {
+      "id": "fg:variant:007663",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000105"
+    },
+    {
+      "id": "fg:variant:007664",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000106"
+    },
+    {
+      "id": "fg:variant:007665",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000106"
+    },
+    {
+      "id": "fg:variant:007666",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000107"
+    },
+    {
+      "id": "fg:variant:007667",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000107"
+    },
+    {
+      "id": "fg:variant:007668",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000108"
+    },
+    {
+      "id": "fg:variant:007669",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000108"
+    },
+    {
+      "id": "fg:variant:007670",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000109"
+    },
+    {
+      "id": "fg:variant:007671",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000109"
+    },
+    {
+      "id": "fg:variant:007672",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000110"
+    },
+    {
+      "id": "fg:variant:007673",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000110"
+    },
+    {
+      "id": "fg:variant:007674",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000111"
+    },
+    {
+      "id": "fg:variant:007675",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000111"
+    },
+    {
+      "id": "fg:variant:007676",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000112"
+    },
+    {
+      "id": "fg:variant:007677",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000112"
+    },
+    {
+      "id": "fg:variant:007678",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000113"
+    },
+    {
+      "id": "fg:variant:007679",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000113"
+    },
+    {
+      "id": "fg:variant:007680",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000114"
+    },
+    {
+      "id": "fg:variant:007681",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000114"
+    },
+    {
+      "id": "fg:variant:007682",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000115"
+    },
+    {
+      "id": "fg:variant:007683",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000115"
+    },
+    {
+      "id": "fg:variant:007684",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000116"
+    },
+    {
+      "id": "fg:variant:007685",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000116"
+    },
+    {
+      "id": "fg:variant:007686",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000117"
+    },
+    {
+      "id": "fg:variant:007687",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000117"
+    },
+    {
+      "id": "fg:variant:007688",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000118"
+    },
+    {
+      "id": "fg:variant:007689",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000118"
+    },
+    {
+      "id": "fg:variant:007690",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000119"
+    },
+    {
+      "id": "fg:variant:007691",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000119"
+    },
+    {
+      "id": "fg:variant:007692",
+      "kind": "variant",
+      "label": "Full ascent + descent — downstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000120"
+    },
+    {
+      "id": "fg:variant:007693",
+      "kind": "variant",
+      "label": "Full ascent + descent — upstroke start (Fathom quarter pulse)",
+      "parent": "fg:item:000120"
+    }
+  ],
+  "identity_version": 1,
+  "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber."
+}

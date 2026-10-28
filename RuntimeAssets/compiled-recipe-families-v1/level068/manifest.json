@@ -1,0 +1,276 @@
+{
+  "bulk_definitions": {
+    "bytes": 93356,
+    "path": "definitions.jsonl",
+    "sha256": "0dee1bf5ebebf361eafc9ad7b79e56ca6e7d3c4ad58a4fd6c53ab986d2d4efdf"
+  },
+  "definitions": [
+    {
+      "context_ref": "58b8888d0ccac776c4068740824f0c6b60e55ade5f57bf16b734e4e0ea998901",
+      "contract_sha256": "56e6b8b9c03205684807a5af52a05714ff54fbc650b8aeb609aa1ecf1e5dd560",
+      "definition": {
+        "bytes": 6916,
+        "path": "definitions/level068/modulei/p015-card01/p1/definition.json",
+        "sha256": "29a43b693f2105594b04f211ad65a1dede1773d0c76944930d3faf3f31ae0f68"
+      },
+      "recipe": "call_answer",
+      "source_identity": "level068/modulei/p015-card01/p1",
+      "source_key": "exercise-completeness-r01/level068/modulei/p015-card01/p1"
+    },
+    {
+      "context_ref": "58b8888d0ccac776c4068740824f0c6b60e55ade5f57bf16b734e4e0ea998901",
+      "contract_sha256": "6c3fe99ed2587e067ec1fad6f16df09a3a6d208314ff3bae7ac0c3c48e7f7768",
+      "definition": {
+        "bytes": 6923,
+        "path": "definitions/level068/modulei/p015-card02/p2/definition.json",
+        "sha256": "ded28a90fc4e35166be85a7351007578d0949307dbd0108a684b6cd376cc8d76"
+      },
+      "recipe": "call_answer",
+      "source_identity": "level068/modulei/p015-card02/p2",
+      "source_key": "exercise-completeness-r01/level068/modulei/p015-card02/p2"
+    },
+    {
+      "context_ref": "58b8888d0ccac776c4068740824f0c6b60e55ade5f57bf16b734e4e0ea998901",
+      "contract_sha256": "fffbc84645bbd067a0bbfb7e413413d29f3880d0bb2adc87345a01b06f1e7c8e",
+      "definition": {
+        "bytes": 6933,
+        "path": "definitions/level068/modulei/p015-card03/p3/definition.json",
+        "sha256": "e05421a5d7713ae2ca061eb07ea59f06b26af825f520099036a9ca0d06484f4f"
+      },
+      "recipe": "call_answer",
+      "source_identity": "level068/modulei/p015-card03/p3",
+      "source_key": "exercise-completeness-r01/level068/modulei/p015-card03/p3"
+    },
+    {
+      "context_ref": "58b8888d0ccac776c4068740824f0c6b60e55ade5f57bf16b734e4e0ea998901",
+      "contract_sha256": "3b38db889ee4b04b286d311a8bf3c850f41b91ea501120df7a639fbc577446a7",
+      "definition": {
+        "bytes": 6934,
+        "path": "definitions/level068/modulei/p015-card04/p4/definition.json",
+        "sha256": "21e5b8434e5083202d3c659f56d69e3cba83c5b76b979e52ba69016e6d57f7b9"
+      },
+      "recipe": "call_answer",
+      "source_identity": "level068/modulei/p015-card04/p4",
+      "source_key": "exercise-completeness-r01/level068/modulei/p015-card04/p4"
+    },
+    {
+      "context_ref": "58b8888d0ccac776c4068740824f0c6b60e55ade5f57bf16b734e4e0ea998901",
+      "contract_sha256": "3c1ed263841832a145ede6941f3958deda3461a47515b7b0c4263b5c775e2617",
+      "definition": {
+        "bytes": 6934,
+        "path": "definitions/level068/modulei/p015-card05/p5/definition.json",
+        "sha256": "a7af8a88b446f71ac43000d9cadad1497768fef132352f77d78ad750d53344c0"
+      },
+      "recipe": "call_answer",
+      "source_identity": "level068/modulei/p015-card05/p5",
+      "source_key": "exercise-completeness-r01/level068/modulei/p015-card05/p5"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "630477927e5b9b1658bc88524a1d0e57b77b741fa8bd0f248457184bfa40fb28",
+      "definition": {
+        "bytes": 4873,
+        "path": "definitions/level068/modulek/p019-card01/e7fe/definition.json",
+        "sha256": "93e33c00b4b54b59edccbea6f01dca69e04365bc4fab5172faf4206b5ab57d52"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card01/e7fe",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card01/e7fe"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "e86083b0992e3f8cb8a0065aafa5b5efa47abcb9e851e34da90e70aca26bcf62",
+      "definition": {
+        "bytes": 4880,
+        "path": "definitions/level068/modulek/p019-card02/e7fg#/definition.json",
+        "sha256": "0672334cf6931e168b2356e3ec0406a435a1efb4b11abcd3b5538dff6fc91d03"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card02/e7fg#",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card02/e7fg#"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "bbd2bd8820ead6e9872bd614bc4b91aa9adaf248070bf7225ba15398e242d621",
+      "definition": {
+        "bytes": 4954,
+        "path": "definitions/level068/modulek/p019-card03/e7gg#/definition.json",
+        "sha256": "fef18295207d01b1fdb7faea281d0c204c317586abd2efedd45ff0f4846939a4"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card03/e7gg#",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card03/e7gg#"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "c7b6720695b86c2ec818debebe7e37ac1531731321988e0d5268e426eb42c0ab",
+      "definition": {
+        "bytes": 4901,
+        "path": "definitions/level068/modulek/p019-card04/e7ag#/definition.json",
+        "sha256": "ea63c2734179dfd90d3cb893ebbcead0299a375c99a80b8b8ca102c6747501ab"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card04/e7ag#",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card04/e7ag#"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "fa5db33cd4d4d93ecec97ff9a922e3a93548c4404a7ab86b8905f70d77a65057",
+      "definition": {
+        "bytes": 4895,
+        "path": "definitions/level068/modulek/p019-card05/e7ab/definition.json",
+        "sha256": "f393c925205467f10fddc9e877468a4bfe9a94e833b71b4745a057c759ce46c1"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card05/e7ab",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card05/e7ab"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "b5b5342aa8f338ffe0817f428d405b01bd0f67ff1383d73b905aa8aa5c897efb",
+      "definition": {
+        "bytes": 4873,
+        "path": "definitions/level068/modulek/p019-card06/e7cb/definition.json",
+        "sha256": "1a1d64a4793c5a48569c229d7a21c01aa5b0e467cbd0901de7b86bde61c04fd5"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card06/e7cb",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card06/e7cb"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "72e132be79541566bd66226c3f365cbc95e7fe73c35cf60f090d043fde43dd5d",
+      "definition": {
+        "bytes": 4897,
+        "path": "definitions/level068/modulek/p019-card07/e7de/definition.json",
+        "sha256": "bb65d294c6974416264caf0e2860498de621bac62318cc7601f2e43283ec2a48"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card07/e7de",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card07/e7de"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "c88eeb6ca00b1667e3444be1d95ec30a9c36c493f2c2c3e0a044cb1aba382f9f",
+      "definition": {
+        "bytes": 4879,
+        "path": "definitions/level068/modulek/p019-card08/amg#a/definition.json",
+        "sha256": "604f819adfbf44dc1c8da19c7b265cd899508726d1172efc3cf5ec0dcb9906d3"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card08/amg#a",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card08/amg#a"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "dfe541b5b73d8c9ffb87531241b99037aa55fef674ca5ca74e464772d5ddc20e",
+      "definition": {
+        "bytes": 4893,
+        "path": "definitions/level068/modulek/p019-card09/ambc/definition.json",
+        "sha256": "229ca69c409521c477bff79b4b6a968e5c56ff89766e5a309007b24d4ea2f28a"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card09/ambc",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card09/ambc"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "0cccd6c9c51228813b92ec994e47592295d03942161c89e0a44c23c00b73475f",
+      "definition": {
+        "bytes": 4871,
+        "path": "definitions/level068/modulek/p019-card10/amfe/definition.json",
+        "sha256": "43b310befecbfc83d054346a581548e348f6678a31b690b70f9cc6ad68544fc8"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card10/amfe",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card10/amfe"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "73e187d25f38631a0bec34188ccdfac69067d788e58ab8fe9bc74205fbb66ec8",
+      "definition": {
+        "bytes": 4881,
+        "path": "definitions/level068/modulek/p019-card11/dmg#a/definition.json",
+        "sha256": "f63d61d56846e562944aadd76884552c493ab8d5d37233023e989d29cc9ad154"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card11/dmg#a",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card11/dmg#a"
+    },
+    {
+      "context_ref": "85d9f0c928c8606e54c84b72859b922281e5f6a4676b7361ca574d9b0879bf3f",
+      "contract_sha256": "9b43edfe8f08ef1c1d6d138644ad7deadb1279d910b3bab2127c4996dd705243",
+      "definition": {
+        "bytes": 4919,
+        "path": "definitions/level068/modulek/p019-card12/g#dim7fe/definition.json",
+        "sha256": "75bbc9e6f6d760ea4ddca6f8a8da147b08b0b017b40750b4acff07bae2b57c2c"
+      },
+      "recipe": "recovery_pair",
+      "source_identity": "level068/modulek/p019-card12/g#dim7fe",
+      "source_key": "exercise-completeness-r01/level068/modulek/p019-card12/g#dim7fe"
+    }
+  ],
+  "family": "level068",
+  "grants_credit": false,
+  "official_accepted": false,
+  "practice_admitted": false,
+  "recipe_counts": {
+    "call_answer": 5,
+    "recovery_pair": 12
+  },
+  "runtime_admitted": false,
+  "runtime_candidate": true,
+  "schema": "fathom.compiled-recipe-family-package.1",
+  "scope": "manual-guidance-candidate",
+  "source_clock": null,
+  "source_closure": {
+    "bytes": 7862,
+    "path": "family-closure.json",
+    "sha256": "e1ec9a40e149cb58c60af53b9f5bf63e0e23ecb9a6359046bdf93a2798dfb511"
+  },
+  "source_files": [
+    {
+      "bytes": 34071,
+      "original_path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VIII_Level_68_E_Phrygian_Dominant_Diminished_Seventh_Symmetry_Altered_Dominant_Colors_and_Harmonic_Minor_Improvisation_Synthesis.txt",
+      "path": "assets/Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VIII_Level_68_E_Phrygian_Dominant_Diminished_Seventh_Symmetry_Altered_Dominant_Colors_and_Harmonic_Minor_Improvisation_Synthesis.txt",
+      "sha256": "e270fa9365dfd6e061ce4fd7807df1ba0d82fc52b867dc1b29ec180cb7923f2b"
+    },
+    {
+      "bytes": 53385,
+      "original_path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VIII_Level_68_E_Phrygian_Dominant_Diminished_Seventh_Symmetry_Altered_Dominant_Colors_and_Harmonic_Minor_Improvisation_Synthesis.pdf",
+      "path": "assets/Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VIII_Level_68_E_Phrygian_Dominant_Diminished_Seventh_Symmetry_Altered_Dominant_Colors_and_Harmonic_Minor_Improvisation_Synthesis.pdf",
+      "sha256": "4db7d55cd64c1b038dfce68dfc3eda60fc82077fcf21532d96ad79457031a378"
+    }
+  ],
+  "source_keys": [
+    "exercise-completeness-r01/level068/modulei/p015-card01/p1",
+    "exercise-completeness-r01/level068/modulei/p015-card02/p2",
+    "exercise-completeness-r01/level068/modulei/p015-card03/p3",
+    "exercise-completeness-r01/level068/modulei/p015-card04/p4",
+    "exercise-completeness-r01/level068/modulei/p015-card05/p5",
+    "exercise-completeness-r01/level068/modulek/p019-card01/e7fe",
+    "exercise-completeness-r01/level068/modulek/p019-card02/e7fg#",
+    "exercise-completeness-r01/level068/modulek/p019-card03/e7gg#",
+    "exercise-completeness-r01/level068/modulek/p019-card04/e7ag#",
+    "exercise-completeness-r01/level068/modulek/p019-card05/e7ab",
+    "exercise-completeness-r01/level068/modulek/p019-card06/e7cb",
+    "exercise-completeness-r01/level068/modulek/p019-card07/e7de",
+    "exercise-completeness-r01/level068/modulek/p019-card08/amg#a",
+    "exercise-completeness-r01/level068/modulek/p019-card09/ambc",
+    "exercise-completeness-r01/level068/modulek/p019-card10/amfe",
+    "exercise-completeness-r01/level068/modulek/p019-card11/dmg#a",
+    "exercise-completeness-r01/level068/modulek/p019-card12/g#dim7fe"
+  ],
+  "source_tempo": null,
+  "version_bindings": {
+    "closure_sha256": "e1ec9a40e149cb58c60af53b9f5bf63e0e23ecb9a6359046bdf93a2798dfb511",
+    "compiler_sha256": "b266b1aec875052116397688dcd29d54ad3cc68ad1dc27f817530714ac9b8b1a",
+    "definitions_sha256": "0dee1bf5ebebf361eafc9ad7b79e56ca6e7d3c4ad58a4fd6c53ab986d2d4efdf",
+    "native_context_header_sha256": "64f7ea51572fa69d42f7b78f9f848dcb8167520fcf8f200f5685ad7af3f12abc",
+    "native_engine_cpp_sha256": "9120fb27756254cfe8914780aeb17d11c8f2c3ff14103879c2d71c6e05c647bb",
+    "native_engine_hpp_sha256": "a188481ce1c08701bf07f84be9eb99991fd60e2c42a2b564c34bd97caa5b35bc",
+    "native_family_header_sha256": "def38b7c3ef4a0d1886f40c471cb68fc7dc5cbd00749216ca07a01dee31890a6",
+    "native_view_cpp_sha256": "389fcc7c97909dec1a8df188c97852bcda29abc081147d6acf604a04af954fe1",
+    "native_view_hpp_sha256": "cbf79c03b3e8601f780be3dc9bf21fc214ed2d483c571c3a590090ac83fe2307"
+  }
+}

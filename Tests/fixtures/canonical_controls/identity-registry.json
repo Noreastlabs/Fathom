@@ -1,0 +1,246 @@
+{
+  "identity_version": 1,
+  "entities": [
+    {
+      "id": "fg:course:000001",
+      "kind": "course",
+      "parent": null,
+      "label": "Fathom Guitar105"
+    },
+    {
+      "id": "fg:workbook:000001",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level1"
+    },
+    {
+      "id": "fg:module:000001",
+      "kind": "module",
+      "parent": "fg:workbook:000001",
+      "label": "Exercise0011212 ascending opening"
+    },
+    {
+      "id": "fg:item:000001",
+      "kind": "item",
+      "parent": "fg:module:000001",
+      "label": "Exercise0011212 ascending opening"
+    },
+    {
+      "id": "fg:workbook:000003",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level3"
+    },
+    {
+      "id": "fg:module:000002",
+      "kind": "module",
+      "parent": "fg:workbook:000003",
+      "label": "ModeA Exercise001 first transfer"
+    },
+    {
+      "id": "fg:item:000002",
+      "kind": "item",
+      "parent": "fg:module:000002",
+      "label": "ModeA Exercise001 first transfer"
+    },
+    {
+      "id": "fg:workbook:000012",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level12"
+    },
+    {
+      "id": "fg:module:000003",
+      "kind": "module",
+      "parent": "fg:workbook:000012",
+      "label": "Rung01 A major16-note cell"
+    },
+    {
+      "id": "fg:item:000003",
+      "kind": "item",
+      "parent": "fg:module:000003",
+      "label": "Rung01 A major16-note cell"
+    },
+    {
+      "id": "fg:workbook:000015",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level15"
+    },
+    {
+      "id": "fg:module:000004",
+      "kind": "module",
+      "parent": "fg:workbook:000015",
+      "label": "First rolling triplet / upper-octave context"
+    },
+    {
+      "id": "fg:item:000004",
+      "kind": "item",
+      "parent": "fg:module:000004",
+      "label": "First rolling triplet / upper-octave context"
+    },
+    {
+      "id": "fg:workbook:000029",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level29"
+    },
+    {
+      "id": "fg:module:000005",
+      "kind": "module",
+      "parent": "fg:workbook:000029",
+      "label": "Source-authored continuation correction"
+    },
+    {
+      "id": "fg:item:000005",
+      "kind": "item",
+      "parent": "fg:module:000005",
+      "label": "Source-authored continuation correction"
+    },
+    {
+      "id": "fg:workbook:000039",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level39"
+    },
+    {
+      "id": "fg:module:000006",
+      "kind": "module",
+      "parent": "fg:workbook:000039",
+      "label": "P1 drone comparison / dual degree contexts"
+    },
+    {
+      "id": "fg:item:000006",
+      "kind": "item",
+      "parent": "fg:module:000006",
+      "label": "P1 drone comparison / dual degree contexts"
+    },
+    {
+      "id": "fg:workbook:000048",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level48"
+    },
+    {
+      "id": "fg:module:000007",
+      "kind": "module",
+      "parent": "fg:workbook:000048",
+      "label": "P1 call/response excerpt and full assessment"
+    },
+    {
+      "id": "fg:item:000007",
+      "kind": "item",
+      "parent": "fg:module:000007",
+      "label": "P1 call/response excerpt and full assessment"
+    },
+    {
+      "id": "fg:workbook:000049",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level49"
+    },
+    {
+      "id": "fg:module:000008",
+      "kind": "module",
+      "parent": "fg:workbook:000049",
+      "label": "E and Em simultaneous six-string voicings"
+    },
+    {
+      "id": "fg:item:000008",
+      "kind": "item",
+      "parent": "fg:module:000008",
+      "label": "E and Em simultaneous six-string voicings"
+    },
+    {
+      "id": "fg:workbook:000058",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level58"
+    },
+    {
+      "id": "fg:module:000009",
+      "kind": "module",
+      "parent": "fg:workbook:000058",
+      "label": "A1 beat-only contact mask"
+    },
+    {
+      "id": "fg:item:000009",
+      "kind": "item",
+      "parent": "fg:module:000009",
+      "label": "A1 beat-only contact mask"
+    },
+    {
+      "id": "fg:workbook:000074",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level74"
+    },
+    {
+      "id": "fg:module:000010",
+      "kind": "module",
+      "parent": "fg:workbook:000074",
+      "label": "Source3:2 and4:3 phrases"
+    },
+    {
+      "id": "fg:item:000010",
+      "kind": "item",
+      "parent": "fg:module:000010",
+      "label": "Source3:2 and4:3 phrases"
+    },
+    {
+      "id": "fg:workbook:000083",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level83"
+    },
+    {
+      "id": "fg:module:000011",
+      "kind": "module",
+      "parent": "fg:workbook:000083",
+      "label": "ModulesI–J fixed melody/table and rubric"
+    },
+    {
+      "id": "fg:item:000011",
+      "kind": "item",
+      "parent": "fg:module:000011",
+      "label": "ModulesI–J fixed melody/table and rubric"
+    },
+    {
+      "id": "fg:workbook:000097",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level97"
+    },
+    {
+      "id": "fg:module:000012",
+      "kind": "module",
+      "parent": "fg:workbook:000097",
+      "label": "Unfamiliar recording capstone / full rubric"
+    },
+    {
+      "id": "fg:item:000012",
+      "kind": "item",
+      "parent": "fg:module:000012",
+      "label": "Unfamiliar recording capstone / full rubric"
+    },
+    {
+      "id": "fg:workbook:000105",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level105"
+    },
+    {
+      "id": "fg:module:000013",
+      "kind": "module",
+      "parent": "fg:workbook:000105",
+      "label": "Final examination / graduation rubric"
+    },
+    {
+      "id": "fg:item:000013",
+      "kind": "item",
+      "parent": "fg:module:000013",
+      "label": "Final examination / graduation rubric"
+    }
+  ],
+  "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber."
+}

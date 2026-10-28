@@ -1,0 +1,114 @@
+{
+  "accepted_counts_changed": false,
+  "allowlist": {
+    "present_now": false,
+    "required_binding_fields": [
+      "original_txt_sha256",
+      "original_pdf_sha256",
+      "git_head",
+      "workbook_id",
+      "module_id",
+      "item_id",
+      "content_revision",
+      "canonical_body_sha256",
+      "curriculum_decision_sha256",
+      "manager_curriculum_adoption_sha256",
+      "this_runtime_decision_sha256",
+      "selected_variant_ids",
+      "installed_content_version",
+      "installed_resource_hashes"
+    ],
+    "required_later": "separate P02-produced typed version/hash-bound installed allowlist for selected D/U pair only"
+  },
+  "canonical_body_sha256": "44cfc25fbd9e3922dfd52265bd3e7e66693a852bdee71635bf933b8cd998bf59",
+  "content_revision": 1,
+  "curriculum_decision_sha256": "73a9b79752926bc53630943a7de029582d6125d39dfd0c6570e6d7ade60cc18c",
+  "decided_at_utc": "2026-09-30T08:35:11.883934+00:00",
+  "decision": "PRODUCT_RUNTIME_ACCEPT_PROSPECTIVE_CONDITIONAL_ONLY",
+  "decision_owner": "manager-assigned Product/runtime agent, distinct from GV source producer, P02 native producer and different source/native reviewers; same agent as separate Curriculum decision",
+  "excluded": [
+    "first accented pass and automatic whole opposite-start repetition",
+    "triplet/quintuplet or other rhythms, fixed BPM, acoustic sustain/note-off or numeric accent",
+    "whole Exercise009/workbook, clean-loop/two-day mastery, learner correctness/progression/credit",
+    "official child and WBS-parent acceptance"
+  ],
+  "independent_native_review_sha256": "6723c7cec6afae12ef8efcca0430e344bcd527c92ac07555385a966e69b887ae",
+  "independent_source_review_sha256": "872c696c1e70eebf833a02d4ad5ff23ecec7bd157f2055d664b35649a4615761",
+  "installed_admission": false,
+  "item_id": "fg:item:000452",
+  "later_installed_gates": [
+    "P02 fresh exact prewrite guard after serialized EX008 shared work",
+    "separate typed hash-bound allowlist and Content/app loader integration for only selected D/U",
+    "installed Learn to Practice with exact Session/Attempt item, variant and content version",
+    "all ten sibling variants and neighbor refusal; original thirteen preserved",
+    "no navigation credit, local learner data unchanged and fourteen-table equality over two read-only restarts",
+    "different frozen installed reviewer"
+  ],
+  "learn_row": 441,
+  "metric_contract": {
+    "acoustic_note_off": null,
+    "end_q": "8",
+    "fixed_bpm": null,
+    "kind": "Fathom-authored quarter-relative straight-sixteenth second equal-volume pass",
+    "learner_credit": false,
+    "onset_q": "(ordinal-1)/4 for ordinal 1..32",
+    "slot_width_q": "1/4",
+    "source_onset_duration": null
+  },
+  "module_id": "fg:module:000452",
+  "native_adoption_sha256": "9d4f45b208114c49218f904c850971d157245f1c69e340451dc74d2f3af41976",
+  "native_curriculum_playback_authorized": false,
+  "native_exit_code": 2,
+  "native_negative_refusals": 8,
+  "native_producer_manifest_current_rehash": {
+    "historical_manifest_total": 84,
+    "mutable_later_prepended_controller_entries": 2,
+    "stable_entries_match": 82
+  },
+  "native_producer_manifest_sha256": "0b50cc2fd44e9c551b940dd1073012d37e957ac53a6dd352446abf2cb20b0043",
+  "native_producer_report_sha256": "832867e40cee68e289505a341121b0d86d5d7dd7d81b042dc4bdb796e63676c8",
+  "native_review_manifest_sha256": "24d7db6e5b745edc25c67c3f77f26c445b31c6462acf66e2c39bf99ebaa7c2dc",
+  "native_valid_reference": true,
+  "original_pdf_sha256": "b24cad79148b8165b74cbd3662031c2ad0227f0e856aa955d03c88db31dbafb1",
+  "original_txt_sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a",
+  "physical_a02": "NOT RUN - deferred/nonblocking",
+  "private_content_version": "level004-ex009-rev1-reference.1",
+  "private_package_sha256": "8c8a7f36627ba50ec0f0814479f8c8f82219a9a034e9265d600cd8ceebb8c281",
+  "prospective_eligible_memberships": 64,
+  "prospective_eligible_variant_ids": [
+    "fg:variant:003371",
+    "fg:variant:003373"
+  ],
+  "refuse_if": [
+    "source TXT/PDF or source-specific EX009 e/7 to e/5 turn and low E/7 ending absent/changed/stale, including copied EX008 e/6 or E/6",
+    "Git HEAD, item/module/workbook identity, revision/body, private package or selected projection absent/changed/stale",
+    "source/native/Curriculum/runtime decision or manager adoption absent/changed/stale/forged",
+    "selected variant membership, D/U start, quarter-relative grid, or all-ten-sibling refusal differs",
+    "typed allowlist absent/changed/stale/forged or installed bundle/resources do not match exact hashes",
+    "EX009 queue/identity reservation displaced or conflicts with separate EX008 shared work"
+  ],
+  "required_git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "required_manager_curriculum_adoption": {
+    "curriculum_decision_sha256": "73a9b79752926bc53630943a7de029582d6125d39dfd0c6570e6d7ade60cc18c",
+    "manager_adoption_artifact_sha256": null,
+    "status": "REQUIRED_BEFORE_P02_SHARED_WRITE"
+  },
+  "retained_event_ids": "fg:item:000452:event:0001..0032",
+  "retained_memberships": 384,
+  "retained_variant_count": 12,
+  "retained_variant_ids": "fg:variant:003370..003381",
+  "schema": "fathom-prospective-runtime-admission-decision.1",
+  "selected_projection_sha256": "cea95c3c309dd1f883476b3d01e4e200f740c549c2e3b1709f25480629e21952",
+  "source_adoption_sha256": "ac2af156d100c0cdea42b8e0db672704339cb781420c4aafdcdb264f675f3890",
+  "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-009-1243",
+  "source_manifest_sha256": "f051ddfedb08ae35621f834c28ce0cbac75bed93e479000ac645c5804d81924c",
+  "source_producer_report_sha256": "cb21fcef1c9eb9bc9009c2907b8be8f81c396a40a8a85e402316dc3f5e39259e",
+  "source_review_manifest_sha256": "8539aa83fdf3a6461cef2f5c3e19d4354acf2ee596b4ff9184ca2ff1be6d0b4b",
+  "source_specific_contacts": {
+    "ordinal_16": "high e fret7 finger3",
+    "ordinal_17": "high e fret5 finger1",
+    "ordinal_32": "low E fret7 finger3"
+  },
+  "wbs_slice": "2.3.1.1.1; parent Pending",
+  "workbook_id": "fg:workbook:000004"
+}

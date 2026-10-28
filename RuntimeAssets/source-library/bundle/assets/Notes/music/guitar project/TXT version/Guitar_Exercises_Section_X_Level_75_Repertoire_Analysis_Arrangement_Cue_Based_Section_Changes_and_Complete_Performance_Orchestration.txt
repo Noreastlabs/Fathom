@@ -1,0 +1,85 @@
+GUITAR EXERCISES - SECTION X, LEVEL 75
+REPERTOIRE ANALYSIS, ARRANGEMENT, CUE-BASED SECTION CHANGES, AND COMPLETE-PERFORMANCE ORCHESTRATION
+
+COMPLETE WRITTEN WORKLOAD: 1368 notated contacts plus one complete 60-bar performance.
+
+PURPOSE
+Move from exercise execution to complete-performance behavior: analyze form, assign roles and textures, respond to cues, place fills inside available space, change register and dynamics by section, recover locally, and finish the full form without restarting.
+
+MASTER 60-BAR FICTIONAL REPERTOIRE STUDY
+Intro: bars 1-4
+Chords: Cmaj7 | Am7 | Dm7 | G7
+Rhythm: whole-note swells; Dynamic: mp; Texture: clean high triads.
+
+Verse A: bars 5-12
+Chords: Cmaj7 | G/B | Am7 | Em7 | Fmaj7 | C/E | Dm7 | G7
+Rhythm: 8th-note partials; Dynamic: p; Texture: palm-muted low register.
+
+Pre-Chorus: bars 13-16
+Chords: Am7 | Em7 | Fmaj7 | G7
+Rhythm: quarters -> 8ths; Dynamic: mp -> mf; Texture: rising register.
+
+Chorus: bars 17-24
+Chords: Cmaj7 | G7 | Am7 | Fmaj7 | Cmaj7 | G7 | Fmaj7 | G7
+Rhythm: 16th comping; Dynamic: f; Texture: open attack / upper triads.
+
+Verse B: bars 25-32
+Chords: Cmaj7 | G/B | Am7 | Em7 | Fmaj7 | C/E | Dm7 | G7
+Rhythm: 8th-note partials; Dynamic: mp; Texture: variation + fills.
+
+Bridge: bars 33-40
+Chords: Am7 | Fmaj7 | Cmaj7 | G7 | Am7 | Fmaj7 | D7 | G7
+Rhythm: 3+3+2 accents; Dynamic: mf; Texture: wide register / modulation cue.
+
+Solo: bars 41-48
+Chords: Dm7 | G7 | Cmaj7 | Cmaj7 | Am7 | D7 | Gmaj7 | G7
+Rhythm: motif + chord targets; Dynamic: mf -> f; Texture: lead; rhythm reduced.
+
+Final Chorus: bars 49-56
+Chords: Cmaj7 | G7 | Am7 | Fmaj7 | Cmaj7 | G7 | Fmaj7 | G7
+Rhythm: 16th comping; Dynamic: f; Texture: full texture.
+
+Outro: bars 57-60
+Chords: Cmaj7 | Am7 | Dm7 | Cmaj7
+Rhythm: quarters -> whole; Dynamic: f -> pp; Texture: decelerating density.
+
+MODULE A - FORM AND HARMONIC ANALYSIS
+96 contacts. Reduce sections to roots, guide tones, then complete voicings. Mark dominants, repeated sections, and high-risk transitions.
+
+MODULE B - ARRANGEMENT ROLES AND TEXTURE
+128 contacts. Practice foundation, comping, counterline, lead, and silence roles. Change density and register without changing tempo.
+
+MODULE C - CUE MECHANICS
+96 contacts. Visual, spoken-count, musical, and chart cues. Receive the cue while continuing to play; change exactly at the destination barline.
+
+MODULE D - FILL PLACEMENT AND SECTION CONTRAST
+128 contacts. Begin fills on beats 1, 2, 3, 4, & of 3, and & of 4. Every fill must end before the next structural attack.
+
+MODULE E - DYNAMIC AND REGISTER ORCHESTRATION
+160 contacts. Practice p-mp-mf-f contours, register ladders, and the complete arrangement map.
+
+MODULE F - TRANSITION RISK AND INTERNAL TIME
+120 contacts. Loop the last bar of the old section and first bar of the new section. Reduce click support from every quarter to section starts only.
+
+MODULE G - REHEARSAL LADDER AND ROLE HANDOFFS
+240 contacts. Speak chart, roots, shells, written textures, cues/fills, dynamics/register, role changes, then one uninterrupted take.
+
+MODULE H - MASTER FORM PERFORMANCE MAP
+160 contacts. Perform the complete 60-bar arrangement in section-sized blocks before the uninterrupted take.
+
+MODULE I - RECOVERY AND CAPSTONE
+240 contacts. Inject wrong notes, wrong chords, missed cues, lost subdivisions, and fill overruns. Preserve pulse and rejoin at the earliest safe landmark.
+
+RECOVERY ORDER
+1. Keep pulse.
+2. Find active bar.
+3. Play root or shell.
+4. Find next section landmark.
+5. Restore texture.
+6. Review only after the take ends.
+
+CAPSTONE STANDARD
+One count-in. One complete 60-bar take. Score 0-2 for form/bar count, chord function, rhythmic continuity, cue response, texture contrast, dynamic shape, role handoff, recovery, and ending/release. Pass at 15/18 or better on two separate days, with no zero in form, cue response, rhythmic continuity, or recovery.
+
+NEXT LEVEL
+Level 76: transcription and ear-led repertoire reconstruction - form, bass motion, chord quality, rhythmic cells, melodic targets, and rebuilding an arrangement from audio.

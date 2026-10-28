@@ -1,0 +1,741 @@
+GUITAR EXERCISES - SECTION VI, LEVEL 57
+SEVENTH CHORDS, SHELL VOICINGS, MAJOR AND MINOR ii-V-I, AND FUNCTIONAL VOICE LEADING
+
+PURPOSE
+Add the seventh to major, dominant, minor, and half-diminished chords; learn practical E-root and A-root voicings; reduce those voicings to shells; move thirds and sevenths through major ii-V-I and minor iiø-V-i cadences; apply shells to A blues; and arpeggiate the full chord spellings.
+
+FORMULAS
+maj7 = 1-3-5-7
+7 = 1-3-5-b7
+m7 = 1-b3-5-b7
+m7b5 = 1-b3-b5-b7
+
+SHELL LIMITATION
+m7 and m7b5 have the same root-b3-b7 shell. The b5 must be added or heard elsewhere to identify half-diminished quality.
+
+WORKLOAD
+Module A: 56 silent formations.
+Module B: 112 E-root attacks.
+Module C: 112 A-root attacks.
+Module D: 56 quality-ladder attacks.
+Module E: 108 major ii-V-I attacks.
+Module F: 108 minor iiø-V-i attacks.
+Module G: 108 A-blues shell-comping attacks.
+Module H: 64 arpeggio attacks.
+Module I: 128 capstone attacks.
+COMPLETE SOUNDED WORKOUT: 796 attacks.
+
+========================================================================================================================
+MOVABLE VOICING FORMULAS
+========================================================================================================================
+E-root maj7: r x r+1 r+1 r x
+E-root 7: r x r r+1 r x
+E-root m7: r x r r r x
+E-root m7b5: r x r r r-1 x
+A-root maj7: x r r+2 r+1 r+2 x
+A-root 7: x r r+2 r r+2 x
+A-root m7: x r r+2 r r+1 x
+A-root m7b5: x r r+1 r r+1 x
+
+========================================================================================================================
+MODULE A - SPELLING AND SILENT FORMATION
+========================================================================================================================
+E-root natural roots: F1 G3 A5 B7 C8 D10 E12.
+A-root natural roots: B2 C3 D5 E7 F8 G10 A12.
+For every root: spell maj7, 7, m7, and m7b5; identify root, third, fifth, and seventh; form silently; audit muted strings.
+
+========================================================================================================================
+MODULES B-C - E-ROOT AND A-ROOT FAMILIES
+========================================================================================================================
+
+E-ROOT MAJOR 7 FAMILY - 1-3-5-7
+Fmaj7: 1 x 2 2 1 x | spelling F-A-C-E | fingering 1 x 2 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|1   x   2   2   1   x   |
+Nte|F   x   E   A   C   x   |
+Rol|R   x   7   3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Gmaj7: 3 x 4 4 3 x | spelling G-B-D-F# | fingering 1 x 2 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|3   x   4   4   3   x   |
+Nte|G   x   F#  B   D   x   |
+Rol|R   x   7   3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Amaj7: 5 x 6 6 5 x | spelling A-C#-E-G# | fingering 1 x 2 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|5   x   6   6   5   x   |
+Nte|A   x   G#  C#  E   x   |
+Rol|R   x   7   3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Bmaj7: 7 x 8 8 7 x | spelling B-D#-F#-A# | fingering 1 x 2 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|7   x   8   8   7   x   |
+Nte|B   x   A#  D#  F#  x   |
+Rol|R   x   7   3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Cmaj7: 8 x 9 9 8 x | spelling C-E-G-B | fingering 1 x 2 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|8   x   9   9   8   x   |
+Nte|C   x   B   E   G   x   |
+Rol|R   x   7   3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Dmaj7: 10 x 11 11 10 x | spelling D-F#-A-C# | fingering 1 x 2 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|10  x   11  11  10  x   |
+Nte|D   x   C#  F#  A   x   |
+Rol|R   x   7   3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Emaj7: 12 x 13 13 12 x | spelling E-G#-B-D# | fingering 1 x 2 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|12  x   13  13  12  x   |
+Nte|E   x   D#  G#  B   x   |
+Rol|R   x   7   3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+
+E-ROOT DOMINANT 7 FAMILY - 1-3-5-b7
+F7: 1 x 1 2 1 x | spelling F-A-C-Eb | fingering 1 x 1 2 1 x
+Str|E---A---D---G---B---e---|
+Fre|1   x   1   2   1   x   |
+Nte|F   x   Eb  A   C   x   |
+Rol|R   x   b7  3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+G7: 3 x 3 4 3 x | spelling G-B-D-F | fingering 1 x 1 2 1 x
+Str|E---A---D---G---B---e---|
+Fre|3   x   3   4   3   x   |
+Nte|G   x   F   B   D   x   |
+Rol|R   x   b7  3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+A7: 5 x 5 6 5 x | spelling A-C#-E-G | fingering 1 x 1 2 1 x
+Str|E---A---D---G---B---e---|
+Fre|5   x   5   6   5   x   |
+Nte|A   x   G   C#  E   x   |
+Rol|R   x   b7  3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+B7: 7 x 7 8 7 x | spelling B-D#-F#-A | fingering 1 x 1 2 1 x
+Str|E---A---D---G---B---e---|
+Fre|7   x   7   8   7   x   |
+Nte|B   x   A   D#  F#  x   |
+Rol|R   x   b7  3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+C7: 8 x 8 9 8 x | spelling C-E-G-Bb | fingering 1 x 1 2 1 x
+Str|E---A---D---G---B---e---|
+Fre|8   x   8   9   8   x   |
+Nte|C   x   Bb  E   G   x   |
+Rol|R   x   b7  3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+D7: 10 x 10 11 10 x | spelling D-F#-A-C | fingering 1 x 1 2 1 x
+Str|E---A---D---G---B---e---|
+Fre|10  x   10  11  10  x   |
+Nte|D   x   C   F#  A   x   |
+Rol|R   x   b7  3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+E7: 12 x 12 13 12 x | spelling E-G#-B-D | fingering 1 x 1 2 1 x
+Str|E---A---D---G---B---e---|
+Fre|12  x   12  13  12  x   |
+Nte|E   x   D   G#  B   x   |
+Rol|R   x   b7  3   5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+
+E-ROOT MINOR 7 FAMILY - 1-b3-5-b7
+Fm7: 1 x 1 1 1 x | spelling F-Ab-C-Eb | fingering 1 x 1 1 1 x
+Str|E---A---D---G---B---e---|
+Fre|1   x   1   1   1   x   |
+Nte|F   x   Eb  Ab  C   x   |
+Rol|R   x   b7  b3  5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Gm7: 3 x 3 3 3 x | spelling G-Bb-D-F | fingering 1 x 1 1 1 x
+Str|E---A---D---G---B---e---|
+Fre|3   x   3   3   3   x   |
+Nte|G   x   F   Bb  D   x   |
+Rol|R   x   b7  b3  5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Am7: 5 x 5 5 5 x | spelling A-C-E-G | fingering 1 x 1 1 1 x
+Str|E---A---D---G---B---e---|
+Fre|5   x   5   5   5   x   |
+Nte|A   x   G   C   E   x   |
+Rol|R   x   b7  b3  5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Bm7: 7 x 7 7 7 x | spelling B-D-F#-A | fingering 1 x 1 1 1 x
+Str|E---A---D---G---B---e---|
+Fre|7   x   7   7   7   x   |
+Nte|B   x   A   D   F#  x   |
+Rol|R   x   b7  b3  5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Cm7: 8 x 8 8 8 x | spelling C-Eb-G-Bb | fingering 1 x 1 1 1 x
+Str|E---A---D---G---B---e---|
+Fre|8   x   8   8   8   x   |
+Nte|C   x   Bb  Eb  G   x   |
+Rol|R   x   b7  b3  5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Dm7: 10 x 10 10 10 x | spelling D-F-A-C | fingering 1 x 1 1 1 x
+Str|E---A---D---G---B---e---|
+Fre|10  x   10  10  10  x   |
+Nte|D   x   C   F   A   x   |
+Rol|R   x   b7  b3  5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Em7: 12 x 12 12 12 x | spelling E-G-B-D | fingering 1 x 1 1 1 x
+Str|E---A---D---G---B---e---|
+Fre|12  x   12  12  12  x   |
+Nte|E   x   D   G   B   x   |
+Rol|R   x   b7  b3  5   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+
+E-ROOT MINOR 7 FLAT 5 / HALF-DIMINISHED FAMILY - 1-b3-b5-b7
+Fm7b5: 1 x 1 1 0 x | spelling F-Ab-Cb-Eb | fingering 2 x 3 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|1   x   1   1   0   x   |
+Nte|F   x   Eb  Ab  Cb  x   |
+Rol|R   x   b7  b3  b5  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Gm7b5: 3 x 3 3 2 x | spelling G-Bb-Db-F | fingering 2 x 3 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|3   x   3   3   2   x   |
+Nte|G   x   F   Bb  Db  x   |
+Rol|R   x   b7  b3  b5  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Am7b5: 5 x 5 5 4 x | spelling A-C-Eb-G | fingering 2 x 3 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|5   x   5   5   4   x   |
+Nte|A   x   G   C   Eb  x   |
+Rol|R   x   b7  b3  b5  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Bm7b5: 7 x 7 7 6 x | spelling B-D-F-A | fingering 2 x 3 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|7   x   7   7   6   x   |
+Nte|B   x   A   D   F   x   |
+Rol|R   x   b7  b3  b5  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Cm7b5: 8 x 8 8 7 x | spelling C-Eb-Gb-Bb | fingering 2 x 3 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|8   x   8   8   7   x   |
+Nte|C   x   Bb  Eb  Gb  x   |
+Rol|R   x   b7  b3  b5  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Dm7b5: 10 x 10 10 9 x | spelling D-F-Ab-C | fingering 2 x 3 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|10  x   10  10  9   x   |
+Nte|D   x   C   F   Ab  x   |
+Rol|R   x   b7  b3  b5  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Em7b5: 12 x 12 12 11 x | spelling E-G-Bb-D | fingering 2 x 3 3 1 x
+Str|E---A---D---G---B---e---|
+Fre|12  x   12  12  11  x   |
+Nte|E   x   D   G   Bb  x   |
+Rol|R   x   b7  b3  b5  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+
+A-ROOT MAJOR 7 FAMILY - 1-3-5-7
+Bmaj7: x 2 4 3 4 x | spelling B-D#-F#-A# | fingering x 1 3 2 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   2   4   3   4   x   |
+Nte|x   B   F#  A#  D#  x   |
+Rol|x   R   5   7   3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Cmaj7: x 3 5 4 5 x | spelling C-E-G-B | fingering x 1 3 2 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   3   5   4   5   x   |
+Nte|x   C   G   B   E   x   |
+Rol|x   R   5   7   3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Dmaj7: x 5 7 6 7 x | spelling D-F#-A-C# | fingering x 1 3 2 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   5   7   6   7   x   |
+Nte|x   D   A   C#  F#  x   |
+Rol|x   R   5   7   3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Emaj7: x 7 9 8 9 x | spelling E-G#-B-D# | fingering x 1 3 2 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   7   9   8   9   x   |
+Nte|x   E   B   D#  G#  x   |
+Rol|x   R   5   7   3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Fmaj7: x 8 10 9 10 x | spelling F-A-C-E | fingering x 1 3 2 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   8   10  9   10  x   |
+Nte|x   F   C   E   A   x   |
+Rol|x   R   5   7   3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Gmaj7: x 10 12 11 12 x | spelling G-B-D-F# | fingering x 1 3 2 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   10  12  11  12  x   |
+Nte|x   G   D   F#  B   x   |
+Rol|x   R   5   7   3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Amaj7: x 12 14 13 14 x | spelling A-C#-E-G# | fingering x 1 3 2 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   12  14  13  14  x   |
+Nte|x   A   E   G#  C#  x   |
+Rol|x   R   5   7   3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+
+A-ROOT DOMINANT 7 FAMILY - 1-3-5-b7
+B7: x 2 4 2 4 x | spelling B-D#-F#-A | fingering x 1 3 1 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   2   4   2   4   x   |
+Nte|x   B   F#  A   D#  x   |
+Rol|x   R   5   b7  3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+C7: x 3 5 3 5 x | spelling C-E-G-Bb | fingering x 1 3 1 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   3   5   3   5   x   |
+Nte|x   C   G   Bb  E   x   |
+Rol|x   R   5   b7  3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+D7: x 5 7 5 7 x | spelling D-F#-A-C | fingering x 1 3 1 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   5   7   5   7   x   |
+Nte|x   D   A   C   F#  x   |
+Rol|x   R   5   b7  3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+E7: x 7 9 7 9 x | spelling E-G#-B-D | fingering x 1 3 1 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   7   9   7   9   x   |
+Nte|x   E   B   D   G#  x   |
+Rol|x   R   5   b7  3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+F7: x 8 10 8 10 x | spelling F-A-C-Eb | fingering x 1 3 1 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   8   10  8   10  x   |
+Nte|x   F   C   Eb  A   x   |
+Rol|x   R   5   b7  3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+G7: x 10 12 10 12 x | spelling G-B-D-F | fingering x 1 3 1 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   10  12  10  12  x   |
+Nte|x   G   D   F   B   x   |
+Rol|x   R   5   b7  3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+A7: x 12 14 12 14 x | spelling A-C#-E-G | fingering x 1 3 1 4 x
+Str|E---A---D---G---B---e---|
+Fre|x   12  14  12  14  x   |
+Nte|x   A   E   G   C#  x   |
+Rol|x   R   5   b7  3   x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+
+A-ROOT MINOR 7 FAMILY - 1-b3-5-b7
+Bm7: x 2 4 2 3 x | spelling B-D-F#-A | fingering x 1 3 1 2 x
+Str|E---A---D---G---B---e---|
+Fre|x   2   4   2   3   x   |
+Nte|x   B   F#  A   D   x   |
+Rol|x   R   5   b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Cm7: x 3 5 3 4 x | spelling C-Eb-G-Bb | fingering x 1 3 1 2 x
+Str|E---A---D---G---B---e---|
+Fre|x   3   5   3   4   x   |
+Nte|x   C   G   Bb  Eb  x   |
+Rol|x   R   5   b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Dm7: x 5 7 5 6 x | spelling D-F-A-C | fingering x 1 3 1 2 x
+Str|E---A---D---G---B---e---|
+Fre|x   5   7   5   6   x   |
+Nte|x   D   A   C   F   x   |
+Rol|x   R   5   b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Em7: x 7 9 7 8 x | spelling E-G-B-D | fingering x 1 3 1 2 x
+Str|E---A---D---G---B---e---|
+Fre|x   7   9   7   8   x   |
+Nte|x   E   B   D   G   x   |
+Rol|x   R   5   b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Fm7: x 8 10 8 9 x | spelling F-Ab-C-Eb | fingering x 1 3 1 2 x
+Str|E---A---D---G---B---e---|
+Fre|x   8   10  8   9   x   |
+Nte|x   F   C   Eb  Ab  x   |
+Rol|x   R   5   b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Gm7: x 10 12 10 11 x | spelling G-Bb-D-F | fingering x 1 3 1 2 x
+Str|E---A---D---G---B---e---|
+Fre|x   10  12  10  11  x   |
+Nte|x   G   D   F   Bb  x   |
+Rol|x   R   5   b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Am7: x 12 14 12 13 x | spelling A-C-E-G | fingering x 1 3 1 2 x
+Str|E---A---D---G---B---e---|
+Fre|x   12  14  12  13  x   |
+Nte|x   A   E   G   C   x   |
+Rol|x   R   5   b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+
+A-ROOT MINOR 7 FLAT 5 / HALF-DIMINISHED FAMILY - 1-b3-b5-b7
+Bm7b5: x 2 3 2 3 x | spelling B-D-F-A | fingering x 1 2 1 3 x
+Str|E---A---D---G---B---e---|
+Fre|x   2   3   2   3   x   |
+Nte|x   B   F   A   D   x   |
+Rol|x   R   b5  b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Cm7b5: x 3 4 3 4 x | spelling C-Eb-Gb-Bb | fingering x 1 2 1 3 x
+Str|E---A---D---G---B---e---|
+Fre|x   3   4   3   4   x   |
+Nte|x   C   Gb  Bb  Eb  x   |
+Rol|x   R   b5  b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Dm7b5: x 5 6 5 6 x | spelling D-F-Ab-C | fingering x 1 2 1 3 x
+Str|E---A---D---G---B---e---|
+Fre|x   5   6   5   6   x   |
+Nte|x   D   Ab  C   F   x   |
+Rol|x   R   b5  b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Em7b5: x 7 8 7 8 x | spelling E-G-Bb-D | fingering x 1 2 1 3 x
+Str|E---A---D---G---B---e---|
+Fre|x   7   8   7   8   x   |
+Nte|x   E   Bb  D   G   x   |
+Rol|x   R   b5  b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Fm7b5: x 8 9 8 9 x | spelling F-Ab-Cb-Eb | fingering x 1 2 1 3 x
+Str|E---A---D---G---B---e---|
+Fre|x   8   9   8   9   x   |
+Nte|x   F   Cb  Eb  Ab  x   |
+Rol|x   R   b5  b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Gm7b5: x 10 11 10 11 x | spelling G-Bb-Db-F | fingering x 1 2 1 3 x
+Str|E---A---D---G---B---e---|
+Fre|x   10  11  10  11  x   |
+Nte|x   G   Db  F   Bb  x   |
+Rol|x   R   b5  b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+Am7b5: x 12 13 12 13 x | spelling A-C-Eb-G | fingering x 1 2 1 3 x
+Str|E---A---D---G---B---e---|
+Fre|x   12  13  12  13  x   |
+Nte|x   A   Eb  G   C   x   |
+Rol|x   R   b5  b7  b3  x   |
+Exercise: four quarter-note attacks; release before moving to the next root.
+
+========================================================================================================================
+MODULE D - SHELL VOICINGS AND QUALITY LADDERS
+========================================================================================================================
+E-root shells on E-D-G:
+maj7 r-x-r+1-r+1 = R-7-3
+7 r-x-r-r+1 = R-b7-3
+m7 r-x-r-r = R-b7-b3
+m7b5 uses the same shell; add B-string r-1 for b5.
+
+A-root shells on A-G-B:
+maj7 x-r-x-r+1-r+2 = R-7-3
+7 x-r-x-r-r+2 = R-b7-3
+m7 x-r-x-r-r+1 = R-b7-b3
+m7b5 uses the same shell; add D-string r+1 for b5.
+
+A E-root ladder: Amaj7 -> A7 -> Am7 -> Am7b5 -> Am7 -> A7 -> Amaj7. Repeat four times.
+D A-root ladder: Dmaj7 -> D7 -> Dm7 -> Dm7b5 -> Dm7 -> D7 -> Dmaj7. Repeat four times.
+
+========================================================================================================================
+MODULE E - MAJOR ii-V-I SHELLS AND GUIDE-TONE LINES
+========================================================================================================================
+
+C major: Dm7 -> G7 -> Cmaj7
+Chd|Dm7-------G7--------Cmaj7-----|
+Rol|b3/b7-----b7/3------3/7-------|
+  G|5---------4---------4---------|
+  D|3---------3---------2---------|
+LOWER VOICE
+D|3--3--2--|
+Role|b3--b7--3---|
+UPPER VOICE
+G|5--4--4--|
+Role|b7--3---7---|
+Exercise: four shell attacks per chord plus both three-note voice lines = 18 attacks.
+
+G major: Am7 -> D7 -> Gmaj7
+Chd|Am7-------D7--------Gmaj7-----|
+Rol|b3/b7-----b7/3------3/7-------|
+  G|12--------11--------11--------|
+  D|10--------10--------9---------|
+LOWER VOICE
+D|10--10--9--|
+Role|b3--b7--3---|
+UPPER VOICE
+G|12--11--11--|
+Role|b7--3---7---|
+Exercise: four shell attacks per chord plus both three-note voice lines = 18 attacks.
+
+D major: Em7 -> A7 -> Dmaj7
+Chd|Em7-------A7--------Dmaj7-----|
+Rol|b3/b7-----b7/3------3/7-------|
+  G|7---------6---------6---------|
+  D|5---------5---------4---------|
+LOWER VOICE
+D|5--5--4--|
+Role|b3--b7--3---|
+UPPER VOICE
+G|7--6--6--|
+Role|b7--3---7---|
+Exercise: four shell attacks per chord plus both three-note voice lines = 18 attacks.
+
+A major: Bm7 -> E7 -> Amaj7
+Chd|Bm7-------E7--------Amaj7-----|
+Rol|b3/b7-----b7/3------3/7-------|
+  G|14--------13--------13--------|
+  D|12--------12--------11--------|
+LOWER VOICE
+D|12--12--11--|
+Role|b3--b7--3---|
+UPPER VOICE
+G|14--13--13--|
+Role|b7--3---7---|
+Exercise: four shell attacks per chord plus both three-note voice lines = 18 attacks.
+
+E major: F#m7 -> B7 -> Emaj7
+Chd|F#m7------B7--------Emaj7-----|
+Rol|b3/b7-----b7/3------3/7-------|
+  G|9---------8---------8---------|
+  D|7---------7---------6---------|
+LOWER VOICE
+D|7--7--6--|
+Role|b3--b7--3---|
+UPPER VOICE
+G|9--8--8--|
+Role|b7--3---7---|
+Exercise: four shell attacks per chord plus both three-note voice lines = 18 attacks.
+
+F major: Gm7 -> C7 -> Fmaj7
+Chd|Gm7-------C7--------Fmaj7-----|
+Rol|b3/b7-----b7/3------3/7-------|
+  G|10--------9---------9---------|
+  D|8---------8---------7---------|
+LOWER VOICE
+D|8--8--7--|
+Role|b3--b7--3---|
+UPPER VOICE
+G|10--9--9--|
+Role|b7--3---7---|
+Exercise: four shell attacks per chord plus both three-note voice lines = 18 attacks.
+
+========================================================================================================================
+MODULE F - MINOR iiø-V-i SHELLS AND GUIDE-TONE LINES
+========================================================================================================================
+
+A minor: Bm7b5 -> E7 -> Am7
+Full iiø quality check: x 2 3 2 3 x
+Chd|Bm7b5-----E7--------Am7-------|
+Rol|b3/b7-----b7/3------b3/b7-----|
+  G|14--------13--------12--------|
+  D|12--------12--------10--------|
+LOWER VOICE
+D|12--12--10--|
+Role|b3--b7--b3--|
+UPPER VOICE
+G|14--13--12--|
+Role|b7--3---b7--|
+Exercise: play full iiø once; four shell attacks per chord; both voice lines = 18 attacks.
+
+E minor: F#m7b5 -> B7 -> Em7
+Full iiø quality check: x 9 10 9 10 x
+Chd|F#m7b5----B7--------Em7-------|
+Rol|b3/b7-----b7/3------b3/b7-----|
+  G|9---------8---------7---------|
+  D|7---------7---------5---------|
+LOWER VOICE
+D|7--7--5--|
+Role|b3--b7--b3--|
+UPPER VOICE
+G|9--8--7--|
+Role|b7--3---b7--|
+Exercise: play full iiø once; four shell attacks per chord; both voice lines = 18 attacks.
+
+B minor: C#m7b5 -> F#7 -> Bm7
+Full iiø quality check: x 4 5 4 5 x
+Chd|C#m7b5----F#7-------Bm7-------|
+Rol|b3/b7-----b7/3------b3/b7-----|
+  G|16--------15--------14--------|
+  D|14--------14--------12--------|
+LOWER VOICE
+D|14--14--12--|
+Role|b3--b7--b3--|
+UPPER VOICE
+G|16--15--14--|
+Role|b7--3---b7--|
+Exercise: play full iiø once; four shell attacks per chord; both voice lines = 18 attacks.
+
+F# minor: G#m7b5 -> C#7 -> F#m7
+Full iiø quality check: x 11 12 11 12 x
+Chd|G#m7b5----C#7-------F#m7------|
+Rol|b3/b7-----b7/3------b3/b7-----|
+  G|11--------10--------9---------|
+  D|9---------9---------7---------|
+LOWER VOICE
+D|9--9--7--|
+Role|b3--b7--b3--|
+UPPER VOICE
+G|11--10--9--|
+Role|b7--3---b7--|
+Exercise: play full iiø once; four shell attacks per chord; both voice lines = 18 attacks.
+
+C# minor: D#m7b5 -> G#7 -> C#m7
+Full iiø quality check: x 6 7 6 7 x
+Chd|D#m7b5----G#7-------C#m7------|
+Rol|b3/b7-----b7/3------b3/b7-----|
+  G|18--------17--------16--------|
+  D|16--------16--------14--------|
+LOWER VOICE
+D|16--16--14--|
+Role|b3--b7--b3--|
+UPPER VOICE
+G|18--17--16--|
+Role|b7--3---b7--|
+Exercise: play full iiø once; four shell attacks per chord; both voice lines = 18 attacks.
+
+D minor: Em7b5 -> A7 -> Dm7
+Full iiø quality check: x 7 8 7 8 x
+Chd|Em7b5-----A7--------Dm7-------|
+Rol|b3/b7-----b7/3------b3/b7-----|
+  G|19--------18--------17--------|
+  D|17--------17--------15--------|
+LOWER VOICE
+D|17--17--15--|
+Role|b3--b7--b3--|
+UPPER VOICE
+G|19--18--17--|
+Role|b7--3---b7--|
+Exercise: play full iiø once; four shell attacks per chord; both voice lines = 18 attacks.
+
+========================================================================================================================
+MODULE G - A-BLUES SHELL COMPING
+========================================================================================================================
+FORM: | A7 | A7 | A7 | A7 | D7 | D7 | A7 | A7 | E7 | D7 | A7 | E7 |
+
+LOW ROOT-INCLUSIVE SHELLS
+A7: 5 x 5 6 x x
+D7: x 5 x 5 7 x
+E7: x 7 x 7 9 x
+
+MIDDLE ROOTLESS DYADS
+A7: D11 + G12
+D7: D10 + G11
+E7: D12 + G13
+
+HIGH ROOTLESS DYADS
+A7: B14 + e15
+D7: B13 + e14
+E7: B15 + e16
+
+Pass 1: low sustained, 12 attacks.
+Pass 2: middle beats 2 and 4, 24 attacks.
+Pass 3: high shuffle chops on beats 2 and 4, 24 attacks.
+Pass 4: register-cycle blocked shell plus arpeggio, 48 attacks.
+
+========================================================================================================================
+MODULE H - SEVENTH-CHORD ARPEGGIO SCANS
+========================================================================================================================
+
+Amaj7 - E-root
+Nte|A---G#--C#--E---E---C#--G#--A---|
+Rol|R---7---3---5---5---3---7---R---|
+  e|--------------------------------|
+  B|------------5---5---------------|
+  G|--------6-----------6-----------|
+  D|----6-------------------6-------|
+  A|--------------------------------|
+  E|5---------------------------5---|
+Eight attacks: low to high, then high to low.
+
+A7 - E-root
+Nte|A---G---C#--E---E---C#--G---A---|
+Rol|R---b7--3---5---5---3---b7--R---|
+  e|--------------------------------|
+  B|------------5---5---------------|
+  G|--------6-----------6-----------|
+  D|----5-------------------5-------|
+  A|--------------------------------|
+  E|5---------------------------5---|
+Eight attacks: low to high, then high to low.
+
+Am7 - E-root
+Nte|A---G---C---E---E---C---G---A---|
+Rol|R---b7--b3--5---5---b3--b7--R---|
+  e|--------------------------------|
+  B|------------5---5---------------|
+  G|--------5-----------5-----------|
+  D|----5-------------------5-------|
+  A|--------------------------------|
+  E|5---------------------------5---|
+Eight attacks: low to high, then high to low.
+
+Am7b5 - E-root
+Nte|A---G---C---Eb--Eb--C---G---A---|
+Rol|R---b7--b3--b5--b5--b3--b7--R---|
+  e|--------------------------------|
+  B|------------4---4---------------|
+  G|--------5-----------5-----------|
+  D|----5-------------------5-------|
+  A|--------------------------------|
+  E|5---------------------------5---|
+Eight attacks: low to high, then high to low.
+
+Dmaj7 - A-root
+Nte|D---A---C#--F#--F#--C#--A---D---|
+Rol|R---5---7---3---3---7---5---R---|
+  e|--------------------------------|
+  B|------------7---7---------------|
+  G|--------6-----------6-----------|
+  D|----7-------------------7-------|
+  A|5---------------------------5---|
+  E|--------------------------------|
+Eight attacks: low to high, then high to low.
+
+D7 - A-root
+Nte|D---A---C---F#--F#--C---A---D---|
+Rol|R---5---b7--3---3---b7--5---R---|
+  e|--------------------------------|
+  B|------------7---7---------------|
+  G|--------5-----------5-----------|
+  D|----7-------------------7-------|
+  A|5---------------------------5---|
+  E|--------------------------------|
+Eight attacks: low to high, then high to low.
+
+Dm7 - A-root
+Nte|D---A---C---F---F---C---A---D---|
+Rol|R---5---b7--b3--b3--b7--5---R---|
+  e|--------------------------------|
+  B|------------6---6---------------|
+  G|--------5-----------5-----------|
+  D|----7-------------------7-------|
+  A|5---------------------------5---|
+  E|--------------------------------|
+Eight attacks: low to high, then high to low.
+
+Dm7b5 - A-root
+Nte|D---Ab--C---F---F---C---Ab--D---|
+Rol|R---b5--b7--b3--b3--b7--b5--R---|
+  e|--------------------------------|
+  B|------------6---6---------------|
+  G|--------5-----------5-----------|
+  D|----6-------------------6-------|
+  A|5---------------------------5---|
+  E|--------------------------------|
+Eight attacks: low to high, then high to low.
+
+========================================================================================================================
+MODULE I - SIXTEEN-BAR CAPSTONES
+========================================================================================================================
+MAJOR CAPSTONE: C, G, D, A major. Each block = ii-V-I-I. Four quarter-note shell attacks per bar. 64 attacks.
+C: Dm7 | G7 | Cmaj7 | Cmaj7 ; D/G (3, 5) (3, 4) (2, 4) (2, 4)
+G: Am7 | D7 | Gmaj7 | Gmaj7 ; D/G (10, 12) (10, 11) (9, 11) (9, 11)
+D: Em7 | A7 | Dmaj7 | Dmaj7 ; D/G (5, 7) (5, 6) (4, 6) (4, 6)
+A: Bm7 | E7 | Amaj7 | Amaj7 ; D/G (12, 14) (12, 13) (11, 13) (11, 13)
+
+MINOR CAPSTONE: A, E, B, D minor. Each block = iiø-V-i-i. Play full iiø once before the shell block. 64 attacks.
+A: Bm7b5 | E7 | Am7 | Am7 ; D/G (12, 14) (12, 13) (10, 12) (10, 12) ; iiø x 2 3 2 3 x
+E: F#m7b5 | B7 | Em7 | Em7 ; D/G (7, 9) (7, 8) (5, 7) (5, 7) ; iiø x 9 10 9 10 x
+B: C#m7b5 | F#7 | Bm7 | Bm7 ; D/G (14, 16) (14, 15) (12, 14) (12, 14) ; iiø x 4 5 4 5 x
+D: Em7b5 | A7 | Dm7 | Dm7 ; D/G (17, 19) (17, 18) (15, 17) (15, 17) ; iiø x 7 8 7 8 x
+
+========================================================================================================================
+PRACTICE PROGRESSION AND MASTERY
+========================================================================================================================
+1. Spell the four seventh qualities.
+2. Form all E-root families silently.
+3. Form all A-root families silently.
+4. Play both quality ladders.
+5. Reduce full voicings to shells.
+6. Play major ii-V-I in six keys.
+7. Play minor iiø-V-i in six keys.
+8. Complete the A-blues shell comping passes.
+9. Play all eight arpeggio scans.
+10. Perform the major and minor capstones.
+
+MASTERY GATE
+Name formulas and spellings; complete 56 silent formations; change quality at one root; play six major and six minor cadences; distinguish m7 from m7b5 by restoring the flat fifth; perform A7-D7-E7 shell comping; play all arpeggio scans; and complete both capstones on two clean days.
+
+NEXT LEVEL
+Level 58: sixteenth-note rhythm guitar, syncopation, dead strokes, ties, chord releases, and a full-song comping capstone.

@@ -1,0 +1,55 @@
+{
+  "authority": "Manager exact Level2 Exercise002 release SHA 93b37cefc6dcf31871e2a0d36d157ea3873204784dac229eedb7f094636a47c7; P02 case-bound native slot and ID reservation in live controller; private nonadmitted reference only",
+  "records": {
+    "fg:item:001188": {
+      "legacy_level": 2,
+      "occurrences": {
+        "L2-ex002:01": "fg:item:001188:event:0001",
+        "L2-ex002:02": "fg:item:001188:event:0002",
+        "L2-ex002:03": "fg:item:001188:event:0003",
+        "L2-ex002:04": "fg:item:001188:event:0004",
+        "L2-ex002:05": "fg:item:001188:event:0005",
+        "L2-ex002:06": "fg:item:001188:event:0006",
+        "L2-ex002:07": "fg:item:001188:event:0007",
+        "L2-ex002:08": "fg:item:001188:event:0008",
+        "L2-ex002:09": "fg:item:001188:event:0009",
+        "L2-ex002:10": "fg:item:001188:event:0010",
+        "L2-ex002:11": "fg:item:001188:event:0011",
+        "L2-ex002:12": "fg:item:001188:event:0012",
+        "L2-ex002:13": "fg:item:001188:event:0013",
+        "L2-ex002:14": "fg:item:001188:event:0014",
+        "L2-ex002:15": "fg:item:001188:event:0015",
+        "L2-ex002:16": "fg:item:001188:event:0016",
+        "L2-ex002:17": "fg:item:001188:event:0017",
+        "L2-ex002:18": "fg:item:001188:event:0018",
+        "L2-ex002:19": "fg:item:001188:event:0019",
+        "L2-ex002:20": "fg:item:001188:event:0020",
+        "L2-ex002:21": "fg:item:001188:event:0021",
+        "L2-ex002:22": "fg:item:001188:event:0022",
+        "L2-ex002:23": "fg:item:001188:event:0023",
+        "L2-ex002:24": "fg:item:001188:event:0024",
+        "L2-ex002:25": "fg:item:001188:event:0025",
+        "L2-ex002:26": "fg:item:001188:event:0026",
+        "L2-ex002:27": "fg:item:001188:event:0027",
+        "L2-ex002:28": "fg:item:001188:event:0028",
+        "L2-ex002:29": "fg:item:001188:event:0029",
+        "L2-ex002:30": "fg:item:001188:event:0030",
+        "L2-ex002:31": "fg:item:001188:event:0031",
+        "L2-ex002:32": "fg:item:001188:event:0032",
+        "L2-ex002:33": "fg:item:001188:event:0033",
+        "L2-ex002:34": "fg:item:001188:event:0034",
+        "L2-ex002:35": "fg:item:001188:event:0035",
+        "L2-ex002:36": "fg:item:001188:event:0036",
+        "L2-ex002:37": "fg:item:001188:event:0037",
+        "L2-ex002:38": "fg:item:001188:event:0038",
+        "L2-ex002:39": "fg:item:001188:event:0039",
+        "L2-ex002:40": "fg:item:001188:event:0040"
+      },
+      "variants": {
+        "L2-ex002-1213-D-start": "fg:variant:007716",
+        "L2-ex002-1213-U-start": "fg:variant:007717"
+      }
+    }
+  },
+  "version": "control-allocation.1"
+}

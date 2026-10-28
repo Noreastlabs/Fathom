@@ -1,0 +1,51 @@
+{
+  "schema": "fathom-prospective-runtime-admission-decision.1",
+  "decision": "ADMISSION_ACCEPT_PROSPECTIVE_ONLY",
+  "decision_owner": "independent agent Product/Curriculum/runtime-admission owner",
+  "decided_at_utc": "2026-09-27T18:44:49Z",
+  "wbs_slice": "2.3.1.1.1",
+  "source_identity": "printed:l004:set-1-of-9-exercises-001-012:exercise-002-1213",
+  "learn_row": 434,
+  "workbook_id": "fg:workbook:000004",
+  "module_id": "fg:module:000445",
+  "item_id": "fg:item:000445",
+  "content_revision": 1,
+  "canonical_body_sha256": "e4f5ddd0ec287d82a0f332da8b7dcb3e83aef85aaa1f67ae87d4b1a592037fb8",
+  "private_package_sha256": "235ec4b3cbfd850578f6c64c7a8256248a6b998c19531f63d2b2bb88385768a2",
+  "original_txt_sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a",
+  "original_pdf_sha256": "b24cad79148b8165b74cbd3662031c2ad0227f0e856aa955d03c88db31dbafb1",
+  "producer_report_sha256": "50f8f9f97268f6bf77a5b119326fc7286d26014f7f9ac95c03d41b5233c9e083",
+  "independent_native_review_sha256": "21733b32a58e0e9cc262ea1e2f900b955dda277e1397bf721289292a190bd238",
+  "curriculum_decision_sha256": "cdd03297207b37189fee18e8cf0917e44a357e752f4b69ad74d6ba31d5ec1409",
+  "selected_projection_sha256": "7e982f8e60a2d2c9e5c8760ca4f295fb93496be8ebd881f73a5c2d425ccc1e92",
+  "retained_event_ids": "fg:item:000445:event:0001..0032",
+  "retained_variant_ids": "fg:variant:003286..003297",
+  "retained_variant_count": 12,
+  "retained_memberships": 384,
+  "prospective_eligible_variant_ids": ["fg:variant:003287", "fg:variant:003289"],
+  "prospective_eligible_memberships": 64,
+  "metric_contract": {
+    "type": "relative_practice_attack_slots",
+    "onset_q": "(ordinal-1)/4 for ordinal 1..32",
+    "slot_width_q": "1/4",
+    "end_q": "8",
+    "source_onset_duration": null,
+    "fixed_bpm": null,
+    "acoustic_note_off": null,
+    "credit": false
+  },
+  "install_condition": "P02 fresh prewrite guard and separate typed hash-bound allowlist; unchanged source, item revision/body, selected variants and decision; installed Learn-to-Practice, Session/Attempt, refusal, no-credit and two-restart proof; independent installed review",
+  "refuse_if": [
+    "source, private package, canonical body or content revision absent, changed or stale",
+    "decision or typed allowlist absent, changed, stale or forged",
+    "variant not one of the two selected IDs, or event/variant membership changed",
+    "another candidate reuses these allocated identities or breaches the held queue reservation"
+  ],
+  "excluded": [
+    "the first accented pass, the required opposite-start repetition as completed exercise, triplet/quintuplet alternatives",
+    "absolute tempo, numeric accent, acoustic gate length, assessment, mastery, progression or learner credit",
+    "whole Exercise002, workbook, official child or WBS parent acceptance"
+  ],
+  "installed_admission": false,
+  "physical_a02": "NOT RUN - deferred/nonblocking"
+}

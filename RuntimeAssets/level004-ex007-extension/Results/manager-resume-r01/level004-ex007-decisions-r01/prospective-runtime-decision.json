@@ -1,0 +1,71 @@
+{
+  "schema": "fathom-prospective-runtime-decision.1",
+  "case": "printed:l004:set-1-of-9-exercises-001-012:exercise-007-1241",
+  "decided_utc": "2026-09-30T05:07:00Z",
+  "decision": "CONDITIONAL_PROSPECTIVE_ONLY",
+  "decision_owner": "manager-assigned distinct Level4 EX007 Curriculum/prospective runtime agent",
+  "wbs": "2.3.1.1.1; downstream 2.5.1.1.1",
+  "git_head_at_decision": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "curriculum_decision_sha256": "d1da7685bfb4346ef6b56042cb610cfeb0db88f175e1e7167b07fea38a65ecfa",
+  "frozen_inputs_sha256": {
+    "original_txt": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a",
+    "original_pdf": "b24cad79148b8165b74cbd3662031c2ad0227f0e856aa955d03c88db31dbafb1",
+    "source_adoption": "44470dde04cf19df228ea145cf409d1bde0f25f57ce3afd8e0b80e2534472169",
+    "private_native_producer": "698b7aee41d735d96c4a57e8f293f796839292c929d971fea7c2059ff65d0253",
+    "private_native_producer_manifest": "da8323e5690e61b4f07a8376953ae01cea805b3c5dfc9f81d02a468bff5263f2",
+    "private_native_review": "90b2a50e7b636c14058f60a3b49249593d0dab23ef090f21da2c0a837a834cb3",
+    "private_native_review_manifest": "e6476a039429c8cd7415b0c1be07f7afc5353b2e133f9daeb536bcde68d33ab3",
+    "private_native_adoption": "d129506dec08983c9d5e8d5ba9f173dc9d48e6c640473d7167d93459014c82ec",
+    "selected_projection": "842589d7791ad64b01b4722483dc3ba7ec47ed1d7c048d88f94fae8eef5da0a0"
+  },
+  "record": {
+    "workbook_id": "fg:workbook:000004",
+    "module_id": "fg:module:000450",
+    "item_id": "fg:item:000450",
+    "revision": 1,
+    "body_sha256": "32df144932bf5f2ec166c543a88920640e1b4e0684462efc87fe1525896e7fe8",
+    "source_events": 32,
+    "source_events_null_timed": true,
+    "retained_variant_count": 12,
+    "retained_variant_range": "fg:variant:003346–003357",
+    "retained_memberships": 384
+  },
+  "selection": {
+    "pass": "second equal-volume straight-sixteenth",
+    "variants": ["fg:variant:003347", "fg:variant:003349"],
+    "selected_memberships": 64,
+    "authored_onset_q": "(ordinal-1)/4",
+    "authored_duration_q": "1/4",
+    "end_q": 8,
+    "fixed_bpm": null,
+    "acoustic_note_off": null,
+    "learner_credit": false
+  },
+  "current_native_reference": {
+    "validator_exit": 2,
+    "valid_reference": true,
+    "curriculum_playback_authorized": false,
+    "runtime_admitted": false
+  },
+  "future_permission_if_all_pass": [
+    "Root manager adopts the exact Curriculum and prospective runtime records and separately releases P02 for this case only after the active shared metadata turn closes.",
+    "P02 fresh-guards original sources, retained rev1 body and all historical identities, selected pair, decision hashes, case-bound queue hold, current EX007 Learn row and current shared preimages; drift or absent binding refuses.",
+    "P02 installs a new version-bound allowlist and application loader/resource mapping limited to selected D003347/U003349; all ten sibling variants and neighboring or unadmitted cases refuse.",
+    "P02 proves actual installed Learn to Practice to Session to Attempt with exact item/variant mapping, activity-only local persistence, zero correctness/mastery/credit and negative source/timing/identity/admission cases.",
+    "P02 proves original thirteen and all previously accepted cases remain intact, local learner-data boundaries and two read-only restart/database-equality checks.",
+    "A different installed reviewer independently rehashes the frozen candidate and checks installed behavior and refusals; root adopts that installed verdict separately."
+  ],
+  "excluded": [
+    "first accented pass",
+    "full opposite-start repeat",
+    "triplet or quintuplet realization",
+    "fixed BPM",
+    "acoustic note-off",
+    "clean-loop advancement or two-day mastery",
+    "learner correctness or credit",
+    "whole exercise/workbook",
+    "official-child or WBS parent acceptance"
+  ],
+  "a02_physical": "NOT RUN — deferred/nonblocking",
+  "goal_status": "CONTINUE"
+}

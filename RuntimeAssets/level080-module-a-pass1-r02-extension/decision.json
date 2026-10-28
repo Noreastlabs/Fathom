@@ -1,0 +1,49 @@
+{
+  "authority_name": "P02 interim agent Curriculum/Product runtime decision owner",
+  "decision_evidence": "agent-curriculum-decision.md",
+  "decision_evidence_sha256": "8cde969673e4586ecd0dcc09a3c5f3c6c6ab99e763368b04b6d669f0768664d6",
+  "native_review_evidence": "Results/manager-resume-r01/level080-r02-native-review-r01/final-review.md",
+  "native_review_sha256": "0670c940febacaec3ac79bc531243642021cdc6b1021767952cb469c87978d6f",
+  "original_package_sha256": "40f4ff84e334f9707346a6ae9f12c88f896b23bb66c254d01999960468136824",
+  "original_profile_sha256": "ce11ee1035d6d92c49f4e6d12325bd24ef76790802a9e5fc3baf51962d1779e7",
+  "original_registry_sha256": "137259d3d03bb02f652a985bfb1a6002657ed7f1e4a8d7a927aa40f13d20d184",
+  "package_sha256": "cf7b66d9bf1382cc18de099bdd4e404e2065ba0a4690e01f864b4efbfefd3106",
+  "profile_sha256": "08110660a28f8e1364dc64c79c6c4c25eed2cbc370b6d2de487c9448c9b725ef",
+  "recorded_utc": "2026-09-26T20:50:00Z",
+  "registry_sha256": "276253e7763f6e039b1b29a2f7abae6de08858fd093873075cd7b99ee47e6a15",
+  "resource_adapter_sha256": "45d2df1954ce7b02c89c665677af9dad7b24fca21236c5a86a51565db01bbf95",
+  "scope": {
+    "accuracy_assessment": false,
+    "authored_illustrative_bpm": 72,
+    "authored_meter": [
+      4,
+      4
+    ],
+    "authored_timing": "four_equal_quarter_slots_q0_to_q4",
+    "automatic_credit": false,
+    "content_revision": 1,
+    "events": 4,
+    "fixed_authored_bpm": false,
+    "item_id": "fg:item:001179",
+    "mastery": false,
+    "module_id": "fg:module:001179",
+    "new_official_exercise": false,
+    "original_source_row_complete": false,
+    "recorded_domain": "Technique/fretboard",
+    "resource_entries": 0,
+    "source_queue_exact": false,
+    "source_row": "level080/modulea/p003-card01/cmaj7melodyefge",
+    "source_task_completion": false,
+    "source_timing": "unresolved",
+    "supplemental_worked_example": true,
+    "supplied_audio": false,
+    "variant_ids": [
+      "fg:variant:007696"
+    ],
+    "whole_workbook": false
+  },
+  "source_review_evidence": "Results/manager-resume-r01/gv-level080-r02-review-r01/final-report.md",
+  "source_review_sha256": "2dfaa0b58b044c2a6546ce0ea43d5ae8b229054a3254af3bae18c7123bc578ed",
+  "status": "ACCEPTED",
+  "version": "level080-module-a-pass1-r02-supplemental-curriculum-decision.1"
+}

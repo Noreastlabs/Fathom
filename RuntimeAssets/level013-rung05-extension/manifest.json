@@ -1,0 +1,129 @@
+{
+  "version": "level013-rung05-extension-bundle.1",
+  "content_version": "curriculum-v1-level013-rung05-neighboring-cell-build-only.1",
+  "decision_sha256": "7a69ad7e4e1181ae40867b43b2e7caa22cf44aa1fde85b3018e7ad59f6b04de6",
+  "profile_sha256": "11abf5603da5b13532d97c5b3a0abc6986eebaaa98e85e1990ee4042a8b7e4ce",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/parallel-02/level013-r05-installed-r01/packet/package.json",
+    "profile": "Build/parallel-02/level013-r05-installed-r01/packet/expected-profile.json",
+    "registry": "Build/parallel-02/level013-r05-installed-r01/packet/identity-registry.json"
+  },
+  "files": [
+    {
+      "path": "decision.json",
+      "bytes": 2748,
+      "sha256": "7a69ad7e4e1181ae40867b43b2e7caa22cf44aa1fde85b3018e7ad59f6b04de6"
+    },
+    {
+      "path": "agent-curriculum-decision.md",
+      "bytes": 2325,
+      "sha256": "cdf0b5a00baaa3f9f8f14785a38291b22d42210d9ef550b4865dbb97214e186e"
+    },
+    {
+      "path": "Build/parallel-02/level013-r05-installed-r01/packet/candidate-allocation.json",
+      "bytes": 2242,
+      "sha256": "419e93b4e3319d47b56cf7c5cd879c1c011748c024d6303d9dc350bd0bb52885"
+    },
+    {
+      "path": "Build/parallel-02/level013-r05-installed-r01/packet/expected-profile.json",
+      "bytes": 43099,
+      "sha256": "11abf5603da5b13532d97c5b3a0abc6986eebaaa98e85e1990ee4042a8b7e4ce"
+    },
+    {
+      "path": "Build/parallel-02/level013-r05-installed-r01/packet/identity-registry.json",
+      "bytes": 1194,
+      "sha256": "72b59febd7d5bb589af0328e0c67374a0e8df334a7f0480c295c100caa0d82f9"
+    },
+    {
+      "path": "Build/parallel-02/level013-r05-installed-r01/packet/package.json",
+      "bytes": 35739,
+      "sha256": "86373c0eff8d8e81d7b6c140906625ff9dea49c1d3640895defd537e23537c6f"
+    },
+    {
+      "path": "Build/parallel-02/level013-r05-native-candidate-r01/packet/candidate-allocation.json",
+      "bytes": 2242,
+      "sha256": "419e93b4e3319d47b56cf7c5cd879c1c011748c024d6303d9dc350bd0bb52885"
+    },
+    {
+      "path": "Build/parallel-02/level013-r05-native-candidate-r01/packet/expected-profile.json",
+      "bytes": 43092,
+      "sha256": "d4a0d5589345f75c1be7b8d7ab576d9a18172d6b4921f736b636aa163c95505d"
+    },
+    {
+      "path": "Build/parallel-02/level013-r05-native-candidate-r01/packet/identity-registry.json",
+      "bytes": 1194,
+      "sha256": "72b59febd7d5bb589af0328e0c67374a0e8df334a7f0480c295c100caa0d82f9"
+    },
+    {
+      "path": "Build/parallel-02/level013-r05-native-candidate-r01/packet/package.json",
+      "bytes": 35733,
+      "sha256": "2ea419e516e8dafcb20d34cc2c1d8fe58577bd197ae9d3bc667a68a412f5b2ff"
+    },
+    {
+      "path": "Build/parallel-12/level013-local-shard-r01/allocation-baseline.json",
+      "bytes": 148,
+      "sha256": "9b4fada0b5566753daf56806d775cd7aa152cd1c450fc565a92615bc837be335"
+    },
+    {
+      "path": "Build/parallel-12/level013-local-shard-r01/identity-baseline.json",
+      "bytes": 378,
+      "sha256": "cd2a5c2ae7f472618d1a4d3129be7e72401a841db2fc95db552215107bf4bf35"
+    },
+    {
+      "path": "Build/parallel-12/level013-local-shard-r01/lineage-baseline.json",
+      "bytes": 46,
+      "sha256": "d0bb0eeba0b7484b513a0e44784b34b1fc3f42c5cd0f2596ac678a94ffded932"
+    },
+    {
+      "path": "Content/runtime/level013-rung05-extension-v1/installed-resource-plan.json",
+      "bytes": 503,
+      "sha256": "37f37a400a2ff9b019d3b787405b5bcce528fc3fcf0323c8544c0896ce9971ee"
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "bytes": 20852,
+      "sha256": "0730f903d6d7a992b1f366f0e4977c05ba59d6467666fde5a7ea15ff20ca040c"
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.txt",
+      "bytes": 20305,
+      "sha256": "973b9c614546e432282dcc0ba415a21c0bc28858e61e7910ef2d0559329a0956"
+    },
+    {
+      "path": "Results/level-oracle/exercise-implementation-r01/level013-rungs03-05/review-r01/review-report.md",
+      "bytes": 3273,
+      "sha256": "d14bb9c8148e3793b3349a0222d02ae07893eebfc8019e411d62b7089140392e"
+    },
+    {
+      "path": "Results/level-oracle/repairs-r01/level013-rung05-native-review-r01/review-report.md",
+      "bytes": 4143,
+      "sha256": "9a3bf536eb985d0e098e98c2e07437794c21b6dc4743e0aa1eb917748d87b8a2"
+    },
+    {
+      "path": "Results/primary/20260906124133Z-2.1.1.1.1-r01-evidence/identity-manifest.json",
+      "bytes": 85171,
+      "sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe"
+    },
+    {
+      "path": "Results/primary/20260906T182131Z-2.1.1.1.1-r02-results.md",
+      "bytes": 3485,
+      "sha256": "e908e9c1fa1f17ffce70b671f23eade4c08afc9d50b43f7b8fb7000aa39195b9"
+    },
+    {
+      "path": "Results/primary/20260906T184530Z-2.4.1.1.1-r01-evidence/plan.json",
+      "bytes": 24880,
+      "sha256": "cb3c3f7a47343ac0255dbdb8bf53411af6dd7b929c101b04d00ed62d6e3f637a"
+    },
+    {
+      "path": "Results/primary/20260912T100538Z-2.1.1.2.1-r02-evidence/schema-freeze.json",
+      "bytes": 2737,
+      "sha256": "0659fa962a5c933a2bcf3045772b6fe5b05b4deefb3511f5dcb68af51088de95"
+    },
+    {
+      "path": "Results/primary/20260927T0620Z-level013-r05-private-native-adoption.md",
+      "bytes": 2650,
+      "sha256": "ef72b29415d8e15320c3d7c54edbe351b685f610f545a82e14740b5874849ed4"
+    }
+  ]
+}

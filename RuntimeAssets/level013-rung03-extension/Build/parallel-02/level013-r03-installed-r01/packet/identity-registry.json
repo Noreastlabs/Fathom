@@ -1,0 +1,42 @@
+{
+  "entities": [
+    {
+      "id": "fg:course:000001",
+      "kind": "course",
+      "label": "Fathom Guitar105",
+      "parent": null
+    },
+    {
+      "id": "fg:workbook:000013",
+      "kind": "workbook",
+      "label": "Legacy Level13 two-octave six-string neck ladder",
+      "parent": "fg:course:000001"
+    },
+    {
+      "id": "fg:module:001130",
+      "kind": "module",
+      "label": "Level13 rung 03 B",
+      "parent": "fg:workbook:000013"
+    },
+    {
+      "id": "fg:item:001130",
+      "kind": "item",
+      "label": "Rung 03: B major two-octave six-string ladder cell",
+      "parent": "fg:module:001130"
+    },
+    {
+      "id": "fg:variant:007382",
+      "kind": "variant",
+      "label": "cell-D-start",
+      "parent": "fg:item:001130"
+    },
+    {
+      "id": "fg:variant:007383",
+      "kind": "variant",
+      "label": "cell-U-start",
+      "parent": "fg:item:001130"
+    }
+  ],
+  "identity_version": 1,
+  "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber."
+}

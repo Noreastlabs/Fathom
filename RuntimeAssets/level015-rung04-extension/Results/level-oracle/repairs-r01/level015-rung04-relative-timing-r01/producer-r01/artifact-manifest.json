@@ -1,0 +1,63 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 12288,
+      "bytes": 8440,
+      "kind": "file",
+      "path": "Prompts/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/full-template-prompt.md",
+      "role": "assignment",
+      "sha256": "bbdcfbbdf5bb4f7a21ba66d482714a83c9ccf60943fea6fdbd5180b36fbe0f63"
+    },
+    {
+      "allocated_bytes": 16384,
+      "bytes": 13309,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/derive.py",
+      "role": "deterministic derivation and checker",
+      "sha256": "db21b1a27be25f059d2eab686447ba13af39abb4d026aee87d6f23ba119cf162"
+    },
+    {
+      "allocated_bytes": 28672,
+      "bytes": 28350,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/timing-overlay.json",
+      "role": "private timing proposal",
+      "sha256": "dfec96ca2c638fe26aded34b1a1ae553318697964e1f7000cd58024b41cc5626"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3987,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/input-pins.json",
+      "role": "frozen input identities",
+      "sha256": "b76b6b6251435bf0c85036156a75788f78391eb7a7f03b0cce327afce6edbe0d"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 657,
+      "kind": "file",
+      "path": "Build/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/checks.json",
+      "role": "causal checks",
+      "sha256": "491abbb0bcbd85a8000c8e9db90fcd0e7143e8c05e88f45e96e0d469e1ff934e"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6568,
+      "kind": "file",
+      "path": "Results/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/repair-report.md",
+      "role": "producer report",
+      "sha256": "1aa2eb9b41d1ade69af00baf85615bf9a4e2bd6a8d8dc12c4109a56c5a0f37da"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 910,
+      "kind": "file",
+      "path": "Results/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/git-state.json",
+      "role": "scoped git state",
+      "sha256": "501573b34ad47f834d2095163e609b0eb0964fb87ec437d6520c304b42259f35"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

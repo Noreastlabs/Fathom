@@ -1,0 +1,95 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 20480,
+      "bytes": 17550,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/level004-ex004-decisions-r01/curriculum-full-template-prompt.md",
+      "role": "curriculum_prompt",
+      "sha256": "3e900ad8a82ea891ab60e5655677496035f0ce3b6b9826042db66ace36bb64c3"
+    },
+    {
+      "allocated_bytes": 20480,
+      "bytes": 17159,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/level004-ex004-decisions-r01/runtime-full-template-prompt.md",
+      "role": "runtime_prompt",
+      "sha256": "fce6ef7697cc1fae88bc7c125fcd34692074e4e6e6c8c3ded6800d39050ec591"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6485,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex004-decisions-r01/check.py",
+      "role": "private_check_script",
+      "sha256": "af73b578351f38f65498eb34981f835fabafe3925a38f543aa819c5337265d4a"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 811,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex004-decisions-r01/checks.json",
+      "role": "private_checks",
+      "sha256": "39bfd5fd359396f3f9237b3d16db36da116f18b10a9ff54bd28c74e450013348"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3755,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex004-decisions-r01/curriculum-decision.md",
+      "role": "curriculum_decision",
+      "sha256": "9001ba2bcfb8c57215d2e425d4d5e3c73189d584bd5019cf311da0b19765f536"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5080,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex004-decisions-r01/prospective-runtime-decision.json",
+      "role": "typed_prospective_runtime_decision",
+      "sha256": "7ce82ed2014d9c8d839b49fc76bdc46880b832d7f04c8e10764c677506590b6c"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2854,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex004-decisions-r01/runtime-decision.md",
+      "role": "runtime_decision_report",
+      "sha256": "a7a5065bbd322b2fea2a01ceac69f11665b2899c7061de6f2a1e0a07f089dcde"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1736,
+      "kind": "file",
+      "path": "Results/primary/20260927T2122Z-level004-ex004-source-accept-adoption.md",
+      "role": "source_adoption",
+      "sha256": "3e5c8bec3c2270ee40782f89c958f4b096d7b1ec694a78b143ab3815d8ac3a95"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1647,
+      "kind": "file",
+      "path": "Results/primary/20260927T2135Z-level004-ex004-native-adoption.md",
+      "role": "native_adoption",
+      "sha256": "8ed2051d1387b0f25527815c3a875dada8836ae137d495aacde1cd7803f13930"
+    },
+    {
+      "allocated_bytes": 16384,
+      "bytes": 13424,
+      "kind": "file",
+      "path": "Results/parallel-02/level004-ex004-case-bound-r01/manifest.json",
+      "role": "producer_manifest",
+      "sha256": "c37b510ed0bf67c7c124d5361a4eaf1d7fc0ea9049c3667b1a5c9ce63fa1ab3a"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 4054,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex004-native-review-r01/review-manifest.json",
+      "role": "independent_native_review_manifest",
+      "sha256": "99ac368f3f75f8cf723365edc4dff187feaef7e685365b4db0731e620012c7a6"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

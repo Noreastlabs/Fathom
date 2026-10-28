@@ -1,0 +1,529 @@
+SCALE EXERCISES - SECTION V, LEVEL 45
+A BLUES SHUFFLE RHYTHM, TRIPLET PLACEMENT, AND TWELVE-BAR FORM - FIXED KEY A
+
+PURPOSE
+Move the resolution vocabulary from Level 44 into time. Train straight-versus-shuffle spacing,
+triplet-subdivision placement, silent bars and partial-bar rests, pickups into chord changes,
+stop-time phrasing, twelve-bar navigation, turnaround entry, and reduced-click performance.
+The objective is to make the shuffle and the form audible even when only one note is played.
+
+CORE PITCH POOL
+A blues scale: A C D Eb E G
+Degrees:       1 b3 4 b5 5 b7
+
+MARKED SUPPORT NOTES
+C# = 3*       Major-third or turnaround destination.
+F# = 6*       Turnaround support note.
+F  = b6*      Chromatic lower approach to E.
+B  = 2*/E7-5 Fifth of E7 where explicitly marked.
+G# = 7*/E7-3 Third of E7 where explicitly marked.
+An asterisk means the pitch has a temporary job; it is not a new permanent member of the A-blues scale.
+
+TRIPLET-GRID LEGEND
+Cnt|1  tr let|2  tr let|3  tr let|4  tr let|
+Shf|X  .  X |X  .  X |X  .  X |X  .  X |
+Tri|X  X  X |X  X  X |X  X  X |X  X  X |
+Off|.  .  X |.  .  X |.  .  X |.  .  X |
+
+X = attack. A period = silence. Count every slot even when no note occurs.
+The mask describes onset timing; a note may continue sounding through later slots.
+
+TWELVE-BAR A BLUES
+| A7 | A7 | A7 | A7 |
+| D7 | D7 | A7 | A7 |
+| E7 | D7 | A7 | E7 |  turnaround
+| E7 | D7 | A7 | A7 |  tonic ending option
+
+WRITTEN CORE WORKLOAD
+Module A - straight versus shuffle:       48 attacks
+Module B - triplet placement:             40 attacks
+Module C - root-change form:             108 attacks
+Module D - pickup placement:              27 attacks
+Module E - rest and entry:                28 attacks
+Module F - call and response:             50 attacks
+Module G - stop-time:                     29 attacks
+Module H - twelve-bar navigation:        102 attacks
+Module I - turnaround timing:             48 attacks
+Module J - metronome displacement:        60 attacks
+TOTAL:                                   540 attacks
+
+========================================================================================================================
+MODULE A - STRAIGHT EIGHTHS VERSUS SHUFFLE EIGHTHS
+========================================================================================================================
+Play each eight-note pattern once as straight eighths and once on the outer triplet subdivisions.
+Keep the pitch order, tempo, note length, and volume unchanged.
+
+STRAIGHT GRID
+Cnt|1  &  2  &  3  &  4  & |
+Hit|X  X  X  X  X  X  X  X |
+
+SHUFFLE GRID
+Cnt|1 tr let|2 tr let|3 tr let|4 tr let|
+Hit|X .  X |X .  X |X .  X |X .  X |
+
+PATTERN 1 - TONIC PULSE
+Notes: A A A A A A A A
+E|5--5--5--5--5--5--5--5--|
+
+PATTERN 2 - ONE-STRING CONTOUR
+Notes: A C D E E D C A
+E|5--8--10-12-12-10-8--5--|
+
+PATTERN 3 - b7-TO-1 ANSWER
+Notes: G A G E G A G A
+G|12-14-12-9--12-14-12-14-|
+
+AUDIT
+The shuffle version must not speed up, accent the second note of each pair, or shorten the final note.
+
+========================================================================================================================
+MODULE B - SINGLE-NOTE TRIPLET PLACEMENT
+========================================================================================================================
+Use only A at low-E fret 5. Tap the foot on the quarter-note beat and count 1-tr-let aloud.
+Mute after every attack. Repeat each card four times.
+
+1. DOWNBEATS ONLY
+Mask|X..|X..|X..|X..|            4 attacks
+
+2. SHUFFLE OUTER THIRDS
+Mask|X.X|X.X|X.X|X.X|            8 attacks
+
+3. MIDDLE SUBDIVISION
+Mask|.X.|.X.|.X.|.X.|            4 attacks
+
+4. FINAL SUBDIVISION
+Mask|..X|..X|..X|..X|            4 attacks
+
+5. FULL TRIPLETS ON BEATS 1 AND 3
+Mask|XXX|...|XXX|...|            6 attacks
+
+6. FULL TRIPLETS ON BEATS 2 AND 4
+Mask|...|XXX|...|XXX|            6 attacks
+
+7. DISPLACED FIVE
+Mask|X..|.X.|..X|.XX|            5 attacks
+
+8. LATE PICKUP INTO THE NEXT BAR
+Bar 1 Mask|...|...|...|.XX|  Bar 2 Mask|X..|...|...|...|   3 attacks
+
+REPAIR
+If cards 3 or 4 drift onto the beat, clap the mask first and play it again without changing the foot pulse.
+
+========================================================================================================================
+MODULE C - ROOT-CHANGE STUDY THROUGH THE TWELVE-BAR FORM
+========================================================================================================================
+Root locations:
+A7 root = low-E fret 5
+D7 root = A-string fret 5
+E7 root = A-string fret 7
+
+PASS 1 - ONE LANDMARK ATTACK PER BAR
+Mask|X..|...|...|...|
+12 attacks across 12 bars.
+
+PASS 2 - QUARTER-NOTE ROOTS
+Mask|X..|X..|X..|X..|
+48 attacks across 12 bars.
+
+PASS 3 - SHUFFLE PAIRS ON BEATS 1 AND 3
+Mask|X.X|...|X.X|...|
+48 attacks across 12 bars.
+
+FORM ROUTE
+Bar:    1   2   3   4 | 5   6 | 7   8 | 9   10  11  12
+Chord: A7  A7  A7  A7 |D7  D7 |A7  A7 |E7  D7  A7  E7
+Root:  E5  E5  E5  E5 |A5  A5 |E5  E5 |A7  A5  E5  A7
+
+Speak: 1-A 2-A 3-A 4-A | 5-D 6-D | 7-A 8-A | 9-E 10-D 11-A 12-E
+
+ENDING OPTION
+After the turnaround version is secure, replace bar 12 with A7 at low-E fret 5 and hear the difference
+between continuation and closure.
+
+========================================================================================================================
+MODULE D - PICKUP-NOTE PLACEMENT INTO CHORD CHANGES
+========================================================================================================================
+Every cell contains two pickup notes in the source bar and one destination root on the following beat 1.
+
+TIMING MASK A - BEAT-4 SHUFFLE PAIR
+Source bar |...|...|...|X.X|  Next bar |X..|...|...|...|
+
+TIMING MASK B - LATE TRIPLET
+Source bar |...|...|...|.XX|  Next bar |X..|...|...|...|
+
+TIMING MASK C - TWO-BEAT PICKUP
+Source bar |...|...|..X|..X|  Next bar |X..|...|...|...|
+
+TRANSITION 1 - A7 TO D7
+Notes: A C D
+Degrees: 1 b3 -> IV root
+D|7--10--12|
+Apply timing masks A, B, and C. 9 attacks total.
+
+TRANSITION 2 - A7 TO E7
+Notes: D Eb E
+Degrees: 4 b5 -> V root
+A|5--6---7-|
+Apply timing masks A, B, and C. 9 attacks total.
+
+TRANSITION 3 - E7 TO A7
+Notes: E G A
+Degrees: 5 b7 -> I root
+G|9--12--14|
+Apply timing masks A, B, and C. 9 attacks total.
+
+LANDING RULE
+The third note is the new chord root. Do not accent either pickup more strongly than the destination.
+
+========================================================================================================================
+MODULE E - DELIBERATE RESTS AND CONTROLLED ENTRIES
+========================================================================================================================
+Every card spans two bars. Preserve every printed rest.
+
+1. REST BEAT 1; SIX-NOTE ENTRY
+Mask|...|X.X|X..|X.X || X..|...|...|...|
+G|5--7--8--9--7--5--|
+Notes: C D Eb E D C
+
+2. REST BEATS 1-2; FOUR-NOTE ENTRY
+Mask|...|...|X.X|X.X || ...|...|...|...|
+B|8--10--8--5--|
+Notes: G A G E
+
+3. REST BEATS 1-3; TWO-NOTE ANSWER
+Mask|...|...|...|X.X || ...|...|...|...|
+D|5--7--|
+Notes: G A
+
+4. PHRASE, THEN A FULL SILENT BAR
+Mask|X..|..X|X..|..X || ...|...|...|...|
+G|9--7--5-----|
+D|---------7--|
+Notes: E D C A
+
+5. CALL, TWO-BEAT GAP, ANSWER
+Mask|XXX|...|...|XXX || ...|...|...|...|
+B|8--10--8----------|
+G|---------7--5-----|
+D|---------------7--|
+Notes: G A G | D C A
+
+6. FULL BAR REST; SIX-NOTE RESPONSE
+Mask|...|...|...|... || X.X|X.X|X..|X..|
+e|12--11--10--8------|
+B|--------------8--10-|
+Notes: E Eb D C G A
+
+========================================================================================================================
+MODULE F - FOUR-BAR CALLS AND FOUR-BAR RESPONSES
+========================================================================================================================
+Practice over an A drone or static A7. Preserve the bar spacing. Then keep the written call and create a
+new answer that retains one recognizable feature.
+
+STUDY 1 - RHYTHM ECHO / 16 ATTACKS
+CALL - BARS 1-4
+Bar 1 G|5--7--|     C D
+Bar 2 G|8--9--|     Eb E
+Bar 3 B|8--10-|     G A
+Bar 4 G|12--7-|     G D
+
+RESPONSE - BARS 5-8
+Bar 5 e|8--10-|     C D
+Bar 6 e|11--12|     Eb E
+Bar 7 B|8--10-|     G A
+Bar 8 G|5-----| D|--7--|   C A
+Job: retain the two-attack rhythm and close on A instead of D.
+
+STUDY 2 - ASCENDING CALL, DESCENDING ANSWER / 18 ATTACKS
+CALL - 9 TONES
+B1 E|5--8--|   B2 E|10-11-|   B3 E|12----| G|12-14-|   B4 e|8--10-|
+   A  C          D  Eb          E          G  A          C  D
+
+ANSWER - 9 TONES
+B5 e|12-11-|  B6 e|10-8--|  B7 B|10-8--| G|--9--|  B8 G|7-----| D|--7--|
+   E  Eb         D  C          A  G       E        D  A
+Job: reverse the contour, reduce the register, and leave space after the final A.
+
+STUDY 3 - LOW CALL, HIGH ANSWER / 16 ATTACKS
+CALL - BARS 1-4
+B1 E|5--8--|   B2 A|5--6--|   B3 A|7-----| D|--5--|   B4 D|7--10-|
+   A  C          D  Eb          E  G             A  C
+
+RESPONSE - BARS 5-8
+B5 e|12-11-|  B6 e|10-8--|  B7 B|10-8--|  B8 G|5-----| D|--7--|
+   E  Eb         D  C         A  G          C  A
+Job: begin the answer in a new register but retain the two-note-per-bar pacing.
+
+TRANSFORMATION PASSES
+1. Exact rhythm, different notes.
+2. Same first interval, new ending.
+3. Same contour, half the note count.
+4. Same register, delayed by one beat.
+5. New register, same final A.
+
+========================================================================================================================
+MODULE G - STOP-TIME PHRASING
+========================================================================================================================
+The root hit is staccato. Mute immediately, keep counting, and place the lead phrase in the open space.
+
+1. A HIT; PHRASE BEGINS ON BEAT 2 / 5 ATTACKS
+HIT  E|5x----------------|
+LEAD G|---5--7--8--9-----|
+
+2. D HIT; PHRASE BEGINS ON BEAT 3 / 4 ATTACKS
+HIT  A|5x----------------|
+LEAD B|--------8--10--8--|
+
+3. E HIT; LATE BEAT-4 PICKUP / 4 ATTACKS
+HIT  A|7x----------------|
+LEAD e|------------10-11-12|
+
+4. FOUR-BAR STOP-TIME CHAIN / 16 ATTACKS
+BAR 1 - A7
+HIT  E|5x----------|
+LEAD G|--5--7--5---|
+
+BAR 2 - D7
+HIT  A|5x----------|
+LEAD D|--7--10-12--|
+
+BAR 3 - E7
+HIT  A|7x----------|
+LEAD A|--5--6--7---|
+
+BAR 4 - A7
+HIT  E|5x----------|
+LEAD G|--12-14-----|
+     D|--------7---|
+
+MUTING RULE
+The root hit must not ring underneath the lead phrase.
+
+========================================================================================================================
+MODULE H - TWELVE-BAR NAVIGATION
+========================================================================================================================
+
+LANDMARK PASS - 6 ATTACKS
+Count all twelve bars but play only bars 1, 5, 9, 10, 11, and 12.
+
+Bars:  1    2    3    4 | 5    6 | 7    8 | 9    10   11   12
+Chord: A7   A7   A7   A7| D7   D7| A7   A7| E7   D7   A7   E7
+Play:  E5   --   --   --| A5   --| --   --| A7   A5   E5   A7
+
+ROOT-SHUFFLE CHORUS - 48 ATTACKS
+Use the same mask in every bar:
+Mask|X.X|...|X.X|...|
+
+Bars 1-4:  A7 roots at low-E fret 5
+Bars 5-6:  D7 roots at A-string fret 5
+Bars 7-8:  A7 roots at low-E fret 5
+Bar 9:     E7 root at A-string fret 7
+Bar 10:    D7 root at A-string fret 5
+Bar 11:    A7 root at low-E fret 5
+Bar 12:    E7 root at A-string fret 7
+
+MODEL TWELVE-BAR RHYTHM CHORUS - 48 ATTACKS
+Play the four printed notes at the X positions of each mask.
+
+BAR 1 - A7
+Mask|X.X|...|X..|..X|
+G|5--7--5-----|
+D|---------7--|
+Notes: C D C A
+
+BAR 2 - A7
+Mask|...|X.X|...|X.X|
+B|8--10--8--5--|
+Notes: G A G E
+
+BAR 3 - A7
+Mask|XXX|...|X..|...|
+e|8--10--11--12|
+Notes: C D Eb E
+
+BAR 4 - A7
+Mask|...|..X|X.X|X..|
+B|8--10--13--10|
+Notes: G A C A
+
+BAR 5 - D7
+Mask|X..|..X|X..|..X|
+D|7--10--12--10|
+Notes: A C D C
+
+BAR 6 - D7
+Mask|X.X|X..|...|..X|
+A|5--7--10--12|
+Notes: D E G A
+
+BAR 7 - A7
+Mask|XXX|...|...|X..|
+E|5--8--10--12|
+Notes: A C D E
+
+BAR 8 - A7
+Mask|X..|...|X.X|..X|
+G|12--14--12--9|
+Notes: G A G E
+
+BAR 9 - E7
+Mask|X.X|...|..X|X..|
+A|7--6--5--7|
+Notes: E Eb D E
+
+BAR 10 - D7
+Mask|X..|X..|..X|..X|
+D|12--10--7--12|
+Notes: D C A D
+
+BAR 11 - A7
+Mask|X..|..X|...|X.X|
+B|10--8--5-----|
+G|----------5--|
+Notes: A G E C
+
+BAR 12 - E7 TURNAROUND
+Mask|XXX|...|...|X..|
+e|15--14--13--12|
+Notes: G F#* F* E
+
+========================================================================================================================
+MODULE I - TURNAROUND ENTRY AND ENDING TIMING
+========================================================================================================================
+Every card contains eight attacks. Count bars 11 and 12 before adding the line.
+
+1. EARLY BAR-11 LAUNCH
+Bar 11 B|10--13--14--17|
+Bar 12 e|15--14--13--12|
+Notes: A C C#* E | G F#* F* E
+
+2. BAR-11 BEAT-3 LAUNCH
+Bar 11 B|----10--13--14--17|
+Bar 12 e|15--14--13--12----|
+Same eight-note line; begin two beats later.
+
+3. BAR-12 BEAT-1 COMPACT
+Bar 11: full rest
+e|8--9--10--11--12--11--10--12|
+Notes: C C#* D Eb E Eb D E
+
+4. BAR-12 BEAT-2 LAUNCH
+G|--14--12--9--8--7--6--5--|
+B|------------------------5--|
+Notes: A G E Eb D C#* C E
+
+5. TONIC CLOSE ON A
+Bar 11 e|12--10--8--5| B|8--5|
+Bar 12 G|5-----| D|--7~~~~|
+Notes: E D C A G E C A
+
+6. PICKUP INTO THE NEXT CHORUS
+Bar 12     e|15--14--13--12|
+Next bar 1 E|5--8--10--12|
+Notes: G F#* F* E | A C D E
+
+AUDIT
+Cards 1-4 end on E/E7 material. Card 5 closes on A. Card 6 makes the following bar-1 A feel inevitable.
+
+========================================================================================================================
+MODULE J - METRONOME DISPLACEMENT AND FORM RECOVERY
+========================================================================================================================
+Use one root on beat 1 of every bar. The root sequence is:
+A A A A | D D A A | E D A E
+
+Root tablature:
+Bars 1-4    E|5--|5--|5--|5--|
+Bars 5-8    A|5--|5--|    |    |
+            E|    |    |5--|5--|
+Bars 9-12   A|7--|5--|    |7--|
+            E|    |    |5--|    |
+
+PASS 1 - EVERY QUARTER NOTE
+48 clicks across 12 bars. Count triplets and verify the shuffle grid.
+
+PASS 2 - BEATS 2 AND 4
+24 clicks across 12 bars. Feel beat 1 without a click.
+
+PASS 3 - BEAT 1 ONLY
+12 clicks across 12 bars. Name each bar and chord.
+
+PASS 4 - BEAT 4 ONLY
+12 clicks across 12 bars. Hear the next downbeat internally.
+
+PASS 5 - ONE CLICK EVERY TWO BARS
+6 clicks across 12 bars. Maintain form through the long spaces.
+
+Each pass contains 12 root attacks. Five passes contain 60 attacks.
+
+FORM-RECOVERY DRILL
+Run pass 2. Mute or ignore the click for bars 5-8, continue counting, and restore the click at bar 9.
+The first note after the gap must be E at A-string fret 7. Repeat with random four-bar click dropouts.
+
+========================================================================================================================
+LEVEL 45 CAPSTONE - THREE-CHORUS RHYTHM CIRCUIT
+========================================================================================================================
+Use a click on beats 2 and 4. Do not stop between choruses.
+
+CHORUS 1
+One root on beat 1 of every bar. 12 attacks. Bar 12 = E7 turnaround.
+
+CHORUS 2
+Root-shuffle chorus from Module H. 48 attacks. Bar 12 = E7 turnaround.
+
+CHORUS 3
+Model rhythm chorus from Module H. 48 attacks. Replace bar 12 with an A-tonic closing phrase if desired.
+
+The capstone reuses previous material and is not added to the 540-attack written workload.
+
+RECORDING REVIEW
+- Can the listener identify bars 5 and 9?
+- Do shuffle pairs remain equal across chord changes?
+- Are long rests complete rather than shortened?
+- Does chorus 3 sound denser without becoming faster?
+- Does the final A sound closed rather than accidental?
+
+========================================================================================================================
+PRACTICE PROGRESSION
+========================================================================================================================
+1. Clap the straight and shuffle grids.
+2. Complete all eight single-note placement cards.
+3. Play the three twelve-bar root passes.
+4. Land every pickup on the new bar.
+5. Preserve all six rest cards.
+6. Link the three call-and-response studies.
+7. Complete the stop-time chain.
+8. Perform the landmark, root-shuffle, and model choruses.
+9. Execute all six turnaround entries.
+10. Complete the click-displacement passes and the three-chorus capstone.
+
+ERROR DIAGNOSIS
+RUSHED SHUFFLE: return to one note per click and count the silent middle subdivision.
+SHORT REST: mute the strings and clap the complete two-bar mask.
+LATE PICKUP: loop only beat 4 into the next downbeat.
+LOST FORM: use roots only and speak every bar number.
+EARLY TURNAROUND: count bars 9-10-11 before playing the line.
+CLICK DEPENDENCE: reduce route length before reducing click frequency.
+
+ADVANCEMENT RULES
+Add 2 BPM after three clean repetitions of the current module.
+After two errors, reduce 4-6 BPM or shorten the exercise to four bars.
+Increase route length before speed when bar numbers are uncertain.
+Increase speed before click reduction when the form is secure but the hands are slow.
+Stop after any pain, persistent tension, or uncontrolled bend motion.
+
+MASTERY GATE BEFORE LEVEL 46
+Perform the three straight/shuffle pattern pairs without changing tempo; complete all eight single-note
+placement cards; play all three twelve-bar root passes; land nine pickups on beat 1; preserve six rest
+studies; link three call-and-response studies; execute four stop-time studies; complete the landmark,
+root-shuffle, and model choruses; play all six turnaround entries; finish all five click-displacement
+passes; and complete the three-chorus capstone on two separate days.
+
+PRACTICE LOG
+Date | Focus | BPM | Click | Form error | Rhythm error | Weak bar / pickup / ending | Next target
+____ | _____ | ___ | _____ | __________ | ____________ | __________________________ | ___________
+____ | _____ | ___ | _____ | __________ | ____________ | __________________________ | ___________
+____ | _____ | ___ | _____ | __________ | ____________ | __________________________ | ___________
+
+NEXT LEVEL
+Level 46 maps A7, D7, and E7 chord tones, then trains beat-one targets and guide-tone voice leading
+through the same twelve-bar form.

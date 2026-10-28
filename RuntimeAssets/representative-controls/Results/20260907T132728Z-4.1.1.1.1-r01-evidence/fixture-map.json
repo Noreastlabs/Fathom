@@ -1,0 +1,192 @@
+{
+  "classification": "test-only mapped references; not executable curriculum conversion",
+  "source_sha256": "717aa63f5aa5ca67de9553364158113217a244b8830a60e2e212475f7259e405",
+  "header_sha256": "fd1ebdf2606d2a6c94d1a16b2b2b72ab1f6d225fbf1e53c7787b14ab03642981",
+  "mapping": [
+    {
+      "item_id": "fg:item:000001",
+      "level": 1,
+      "events": 4,
+      "source_refs": [
+        "L1-TXT2-15"
+      ],
+      "event_source_ref": "L1-TXT2-15",
+      "record_sha256": "c6848b5f6d3ed5ccc0af285e9231788b6535a8738d4cc282d469a4ee42040e1e",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000002",
+      "level": 3,
+      "events": 4,
+      "source_refs": [
+        "L3-TXT5-21",
+        "L3-TXT28-46"
+      ],
+      "event_source_ref": "L3-TXT28-46",
+      "record_sha256": "c689a1c62079919228bb77aa0e5bc95ef32f4da0417282b8fa90476384dfc9fb",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000003",
+      "level": 12,
+      "events": 16,
+      "source_refs": [
+        "L12-TXT14-28",
+        "L12-TXT34-52"
+      ],
+      "event_source_ref": "L12-TXT34-52",
+      "record_sha256": "09a7e0548094943aaa27c071b6183c1baa4a92b6e24519f192c011cafef6532e",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000004",
+      "level": 15,
+      "events": 3,
+      "source_refs": [
+        "L15-TXT21-32",
+        "L15-TXT59-81",
+        "L15-TXT392-398"
+      ],
+      "event_source_ref": "L15-TXT59-81",
+      "record_sha256": "d861ea146873e0ea4096592c2ce872356a9e1653138f6ddfcb49b2b179863257",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000005",
+      "level": 29,
+      "events": 0,
+      "source_refs": [
+        "L29-TXT1512-1513",
+        "compiled-PDF2"
+      ],
+      "event_source_ref": null,
+      "record_sha256": "f21478905e411d2bdcc0fecd9a2e01ab4684ea15a1ddd24208ae9db621c7eca1",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000006",
+      "level": 39,
+      "events": 8,
+      "source_refs": [
+        "L39-TXT30-40",
+        "L39-TXT94-106"
+      ],
+      "event_source_ref": "L39-TXT30-40",
+      "record_sha256": "c57794fcdd6b369f94e788974d26207c84b0969659cec8ddb29ebb991b42f6da",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000007",
+      "level": 48,
+      "events": 16,
+      "source_refs": [
+        "L48-TXT28-43",
+        "L48-TXT49-76",
+        "L48-TXT1214-1246"
+      ],
+      "event_source_ref": "L48-TXT49-76",
+      "record_sha256": "50a3061819309405d6187cec5b621f4db329e3b41cad0cf093826003708b46ad",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000008",
+      "level": 49,
+      "events": 2,
+      "source_refs": [
+        "L49-TXT49-61"
+      ],
+      "event_source_ref": "L49-TXT49-61",
+      "record_sha256": "245ea751ba4a31c9abbd171dae6e6d2c1b086d8736495c8602261be58a56da00",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000009",
+      "level": 58,
+      "events": 16,
+      "source_refs": [
+        "L58-TXT7-17",
+        "L58-TXT43-48"
+      ],
+      "event_source_ref": "L58-TXT43-48",
+      "record_sha256": "c4a445bd1e9f23163f1418aa271b0ffbac2949778cebb88655454874da1400fe",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000010",
+      "level": 74,
+      "events": 0,
+      "source_refs": [
+        "L74-TXT5-11",
+        "L74-TXT181-249"
+      ],
+      "event_source_ref": null,
+      "record_sha256": "d1bd51091d110b4e6d70a62319d3d0e17b59d5968394434fcf054ea7e9e25a6e",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000011",
+      "level": 83,
+      "events": 0,
+      "source_refs": [
+        "L83-TXT52-56",
+        "L83-PDF19",
+        "L83-PDF20"
+      ],
+      "event_source_ref": null,
+      "record_sha256": "ac5936a8f12ca9646e802ec10a787a3d7a800c504ef001c4f963d9d5df8531a8",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000012",
+      "level": 97,
+      "events": 0,
+      "source_refs": [
+        "L97-TXT35-40",
+        "L97-PDF19"
+      ],
+      "event_source_ref": null,
+      "record_sha256": "217071f87afe850317f1636dc510ea1be9c1aa564911fc7b5375227efa29298e",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    },
+    {
+      "item_id": "fg:item:000013",
+      "level": 105,
+      "events": 0,
+      "source_refs": [
+        "L105-TXT26-61",
+        "L105-PDF29",
+        "L105-PDF30",
+        "L105-PDF31"
+      ],
+      "event_source_ref": null,
+      "record_sha256": "4f3a188c75cb7973e3a505de6b974a361b1c3d547e77403af33659c0ee570cc3",
+      "runtime_eligible": false,
+      "rest_scope": "unresolved when source example has no explicit scope",
+      "tonal_roots": "A-major pitchclass9, F#-minor pitchclass6; register unassigned"
+    }
+  ]
+}

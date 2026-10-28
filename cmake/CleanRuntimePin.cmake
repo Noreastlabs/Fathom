@@ -1,0 +1,5 @@
+set(FATHOM_CLEAN_RUNTIME_MANIFEST_SHA "6639276a5322383e6e23cb1e4cafe2927d4b1c1b525c2a6e329f4164239d1d46")
+file(SHA256 "${CMAKE_CURRENT_SOURCE_DIR}/RuntimeAssets/clean-runtime-manifest.json" FATHOM_CLEAN_RUNTIME_ACTUAL_SHA)
+if(NOT FATHOM_CLEAN_RUNTIME_ACTUAL_SHA STREQUAL FATHOM_CLEAN_RUNTIME_MANIFEST_SHA)
+    message(FATAL_ERROR "Clean runtime transport differs from its reviewed compiled pin")
+endif()

@@ -1,0 +1,111 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 20480,
+      "bytes": 18335,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/level004-ex009-decisions-r01/full-template-prompt.md",
+      "role": "decision_prompt",
+      "sha256": "fecd2b3f881ab4af925aa2d02804eba9a3b2f405d4ee5875b07a78263ef57474"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 8539,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex009-decisions-r01/check.py",
+      "role": "private_checker",
+      "sha256": "9586d6e69ac69b7c1691157dc144358d227640d46e6184e96887e091a596a987"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1304,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex009-decisions-r01/checks.json",
+      "role": "private_checks",
+      "sha256": "6b4764e51e69bc40fc707c637734ad4cea1a1e9c5539dcec095e7fa6398f9c52"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3392,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex009-decisions-r01/curriculum-decision.md",
+      "role": "curriculum_decision",
+      "sha256": "73a9b79752926bc53630943a7de029582d6125d39dfd0c6570e6d7ade60cc18c"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6062,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex009-decisions-r01/prospective-runtime-decision.json",
+      "role": "typed_prospective_runtime_decision",
+      "sha256": "bb63cad94794c08db64fc5b47cbcb0ef25e874fd4674b9e70eedc1e979213678"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2496,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex009-decisions-r01/runtime-decision.md",
+      "role": "runtime_decision_report",
+      "sha256": "5eec4ea141da35ba3a08d76998f6eb83496ddc31add589d8ebc846ba85840d47"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 687,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex009-decisions-r01/lease-close.json",
+      "role": "lease_closure",
+      "sha256": "7c27c774b8254665438140fc28c5d156a3c57ae7f059c0b59b2fb5e6969093d0"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1962,
+      "kind": "file",
+      "path": "Results/primary/20260930T0756Z-level004-ex009-source-adoption.md",
+      "role": "source_adoption",
+      "sha256": "ac2af156d100c0cdea42b8e0db672704339cb781420c4aafdcdb264f675f3890"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2124,
+      "kind": "file",
+      "path": "Results/primary/20260930T0816Z-level004-ex009-private-native-adoption.md",
+      "role": "native_adoption",
+      "sha256": "9d4f45b208114c49218f904c850971d157245f1c69e340451dc74d2f3af41976"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4462,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/level004-ex009-source-r01/evidence-manifest.json",
+      "role": "gv_source_manifest",
+      "sha256": "f051ddfedb08ae35621f834c28ce0cbac75bed93e479000ac645c5804d81924c"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4512,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex009-source-review-r01/evidence-manifest.json",
+      "role": "source_review_manifest",
+      "sha256": "8539aa83fdf3a6461cef2f5c3e19d4354acf2ee596b4ff9184ca2ff1be6d0b4b"
+    },
+    {
+      "allocated_bytes": 20480,
+      "bytes": 18111,
+      "kind": "file",
+      "path": "Results/parallel-02/level004-ex009-case-bound-r01/manifest.json",
+      "role": "native_producer_manifest",
+      "sha256": "0b50cc2fd44e9c551b940dd1073012d37e957ac53a6dd352446abf2cb20b0043"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2327,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex009-native-review-r01/manifest.json",
+      "role": "native_review_manifest",
+      "sha256": "24d7db6e5b745edc25c67c3f77f26c445b31c6462acf66e2c39bf99ebaa7c2dc"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

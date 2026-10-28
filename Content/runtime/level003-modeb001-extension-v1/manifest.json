@@ -1,0 +1,154 @@
+{
+  "content_version": "level003-modeb001-ex001-rev1-reference.1",
+  "decision_sha256": "0adbc8ee7d80935f27abb74c7c52d45008b8e82e2f411e1ac852ecc499b78da9",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/parallel-02/level003-modeb001-installed-r01/packet/package.json",
+    "profile": "Build/parallel-02/level003-modeb001-installed-r01/packet/expected-profile.json",
+    "registry": "Build/parallel-02/level003-modeb001-installed-r01/packet/identity-registry.json"
+  },
+  "files": [
+    {
+      "bytes": 2689,
+      "path": "Build/parallel-02/level003-modeb001-case-bound-r01/packet/candidate-allocation.json",
+      "sha256": "89da3fcf5229efc5557bab9c384e28b38fcc3a72645bcddeec85235683b85551"
+    },
+    {
+      "bytes": 42593,
+      "path": "Build/parallel-02/level003-modeb001-case-bound-r01/packet/expected-profile.json",
+      "sha256": "186025ef4fecce249f7926a218b96c07e4d6256fa6569976530254051e0fc51e"
+    },
+    {
+      "bytes": 2068,
+      "path": "Build/parallel-02/level003-modeb001-case-bound-r01/packet/identity-registry.json",
+      "sha256": "b73a97f613162c6a93311ac9c234fe7a9e68058eacb5c58a4376063a49244574"
+    },
+    {
+      "bytes": 36693,
+      "path": "Build/parallel-02/level003-modeb001-case-bound-r01/packet/package.json",
+      "sha256": "5d2ae1af6277907bf3644841ad18cf9c33bffc59190d66f554d9cd1baa08d5f1"
+    },
+    {
+      "bytes": 66090,
+      "path": "Build/parallel-02/level003-modeb001-installed-r01/packet/expected-profile.json",
+      "sha256": "582e4d0392704cd3f6746614e3bbe88d8e8ec7f82ab04affccefaf5aed77e28c"
+    },
+    {
+      "bytes": 2068,
+      "path": "Build/parallel-02/level003-modeb001-installed-r01/packet/identity-registry.json",
+      "sha256": "b73a97f613162c6a93311ac9c234fe7a9e68058eacb5c58a4376063a49244574"
+    },
+    {
+      "bytes": 36693,
+      "path": "Build/parallel-02/level003-modeb001-installed-r01/packet/package.json",
+      "sha256": "5d2ae1af6277907bf3644841ad18cf9c33bffc59190d66f554d9cd1baa08d5f1"
+    },
+    {
+      "bytes": 24698658,
+      "path": "Content/controls/curriculum-v1/package.json",
+      "sha256": "766e7d07d91b3810e0c35ea0799b0afb7f34f25398cfa092de307167adeca255"
+    },
+    {
+      "bytes": 86935,
+      "path": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.pdf",
+      "sha256": "f04c1e49ce939ec83e5c80f9ad8cc81fd49da62e2039c25cac5367cea0fa6234"
+    },
+    {
+      "bytes": 140780,
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.txt",
+      "sha256": "1bb8d5225f2db8df2b3ce518f10f28e11158592e0b5cbbb4c28af2742c861b4f"
+    },
+    {
+      "bytes": 6724,
+      "path": "Prompts/manager-resume-r01/20260927T1715Z-level003-modeb001-installed-shared-release.md",
+      "sha256": "66eefe03662b75e968b7b30beefcabe2d2e6dd400515126ff263cf72f00ecd24"
+    },
+    {
+      "bytes": 2644,
+      "path": "Prompts/manager-resume-r01/20260927T1718Z-level003-modeb001-installed-loader-addendum-01.md",
+      "sha256": "eb5d0333bcafc5fead7019beef026afab969a532a4af2699c3ee841705e09d5a"
+    },
+    {
+      "bytes": 4600,
+      "path": "Results/manager-resume-r01/level003-modeb001-curriculum-decision-r01/decision-report.md",
+      "sha256": "373ab63a63fe5a4dd1bb66a266b68c91683acaf99f1790fd248d8292412eae40"
+    },
+    {
+      "bytes": 5168,
+      "path": "Results/manager-resume-r01/level003-modeb001-native-review-r01/review-report.md",
+      "sha256": "22ecf912d4ec00430ff4204c134566b6b6d5f1248abdddd7cf0dea5cd36c9f9f"
+    },
+    {
+      "bytes": 5354,
+      "path": "Results/manager-resume-r01/level003-modeb001-runtime-admission-decision-r01/decision-report.md",
+      "sha256": "df44a2dbd0d7d6c28d30c436948f773e91ef22d33034f9b4123590e2a7556de0"
+    },
+    {
+      "bytes": 23127,
+      "path": "Results/parallel-02/level003-modeb001-case-bound-r01/source-to-event.json",
+      "sha256": "114866c6ee358794e3fa1f5be9dc8356461468a42efa02dc8d09b8acb09a9df4"
+    },
+    {
+      "bytes": 85171,
+      "path": "Results/primary/20260906124133Z-2.1.1.1.1-r01-evidence/identity-manifest.json",
+      "sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe"
+    },
+    {
+      "bytes": 3485,
+      "path": "Results/primary/20260906T182131Z-2.1.1.1.1-r02-results.md",
+      "sha256": "e908e9c1fa1f17ffce70b671f23eade4c08afc9d50b43f7b8fb7000aa39195b9"
+    },
+    {
+      "bytes": 2737,
+      "path": "Results/primary/20260912T100538Z-2.1.1.2.1-r02-evidence/schema-freeze.json",
+      "sha256": "0659fa962a5c933a2bcf3045772b6fe5b05b4deefb3511f5dcb68af51088de95"
+    },
+    {
+      "bytes": 6666143,
+      "path": "Results/primary/20260912T113550Z-2.3.1.1.1-r03-evidence/new23-validation01/report.json",
+      "sha256": "91cb93bc46b5df02593c7fcc3b9670b9b55ab67ecab3dcec940c048090d5a9d6"
+    },
+    {
+      "bytes": 1407955,
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/allocation01/cumulative-allocation.json",
+      "sha256": "3b3f6217fc35ac091201f99efcc43763a7def134b152cd22b1e5d3141cd61a59"
+    },
+    {
+      "bytes": 793578,
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/allocation01/cumulative-registry.json",
+      "sha256": "ceef5633b0fba148189f277a046763301ba5d7cd70bab5d0701b07d1e3af2791"
+    },
+    {
+      "bytes": 77307,
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/handoff01/lineage-baseline.json",
+      "sha256": "2205ba66ddfd002dd3402b33272be949b5c8a22d83932c4e7c8b4345f48bfdf4"
+    },
+    {
+      "bytes": 2811,
+      "path": "Results/primary/20260927T1710Z-level003-modeb001-native-curriculum-adoption.md",
+      "sha256": "c3028e588381c12b94d3fedae703ee4f192c6f492cbb7f751d38ee7bf16a488d"
+    },
+    {
+      "bytes": 1732,
+      "path": "Results/primary/20260927T1714Z-level003-modeb001-runtime-decision-adoption.md",
+      "sha256": "f6a203c6931ac58a65c34d1dfd04127a29d81360ea170267c54eefe66a745606"
+    },
+    {
+      "bytes": 673,
+      "path": "agent-curriculum-decision.md",
+      "sha256": "a97f161915ce724f242904208c79957805e5bd8884c4f06eae0c1f7a801d75e8"
+    },
+    {
+      "bytes": 2464,
+      "path": "decision.json",
+      "sha256": "0adbc8ee7d80935f27abb74c7c52d45008b8e82e2f411e1ac852ecc499b78da9"
+    },
+    {
+      "bytes": 394,
+      "path": "installed-resource-plan.json",
+      "sha256": "4353c4cf4a45d451e7a572f18ca483830228f13dc54d13e73b94044f11df7793"
+    }
+  ],
+  "profile_sha256": "582e4d0392704cd3f6746614e3bbe88d8e8ec7f82ab04affccefaf5aed77e28c",
+  "version": "level003-modeb001-extension-bundle.1"
+}

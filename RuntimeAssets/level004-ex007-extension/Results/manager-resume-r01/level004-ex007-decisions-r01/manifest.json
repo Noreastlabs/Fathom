@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "bytes": 7291,
+      "path": "Prompts/manager-resume-r01/level004-ex007-decisions-r01/full-template-prompt.md",
+      "sha256": "2a1ff92d174378c838c00c74024b3b8c4e99c071c5723abaea145cdc2ce3cc70"
+    },
+    {
+      "bytes": 8261,
+      "path": "Build/manager-resume-r01/level004-ex007-decisions-r01/check_inputs.py",
+      "sha256": "ef45dc9344c7e43fe7b9035ba39ed42e419bfe563b89451898af615381a7c059"
+    },
+    {
+      "bytes": 1527,
+      "path": "Build/manager-resume-r01/level004-ex007-decisions-r01/evidence-audit.json",
+      "sha256": "c3cdbb3b49615ce3a37bf427f893463ea01adb4e76e42c339d0fba682768a255"
+    },
+    {
+      "bytes": 4855,
+      "path": "Results/manager-resume-r01/level004-ex007-decisions-r01/curriculum-decision.md",
+      "sha256": "d1da7685bfb4346ef6b56042cb610cfeb0db88f175e1e7167b07fea38a65ecfa"
+    },
+    {
+      "bytes": 4642,
+      "path": "Results/manager-resume-r01/level004-ex007-decisions-r01/decision-report.md",
+      "sha256": "f831d5255e6609a67a518375858eecd602650b462c86e8640d48f67a58a05462"
+    },
+    {
+      "bytes": 1131,
+      "path": "Results/manager-resume-r01/level004-ex007-decisions-r01/git-state.json",
+      "sha256": "30f43abddce9b3558a01ddedef560ffa4f798e8ee053541bd272413bde787d1f"
+    },
+    {
+      "bytes": 5518,
+      "path": "Results/manager-resume-r01/level004-ex007-decisions-r01/machine-checks.json",
+      "sha256": "0047ca2b4518abda2d96a7897e22ff6a53c7d39b0ed0b28e06a1830ff65f1508"
+    },
+    {
+      "bytes": 3985,
+      "path": "Results/manager-resume-r01/level004-ex007-decisions-r01/prospective-runtime-decision.json",
+      "sha256": "8c9b8bb2f45fe73c235aafbc668b385e26de897a41e2c50c6e4a75277780a15a"
+    },
+    {
+      "bytes": 3532,
+      "path": "Results/manager-resume-r01/level004-ex007-decisions-r01/runtime-decision.md",
+      "sha256": "cdf379852c6c7e04514d5215cccc7700dbe919758bd603af3cb2456aefa08227"
+    }
+  ],
+  "schema": "fathom-decision-self-excluding-manifest-v1",
+  "self_excluding": true,
+  "status": "ACCEPT_CONDITIONAL_CLOSED"
+}

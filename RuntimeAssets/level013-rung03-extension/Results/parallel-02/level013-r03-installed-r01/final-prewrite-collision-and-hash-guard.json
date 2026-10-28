@@ -1,0 +1,56 @@
+{
+  "observed_at_utc": "2026-09-26T22:15:15.119311+00:00",
+  "status": "CLEAR_EXACT_ID_ALLOCATION_AUTHORIZED_BY_MANAGER_RELEASE",
+  "manager_release_sha256": "31495ef49dc651bccb408246e5de8f0c7d9db1894b74654d91aecb887e4a2ac9",
+  "scopes": [
+    "Content",
+    "Source",
+    "Tests",
+    "Prompts/parallel-02/Lane-Reservations-Current.md",
+    "Results/primary/manager-resume-r01/level001-variant-reservation.json",
+    "Results/level-oracle/exercise-completeness-r01/coordination-current.json",
+    "Results/level-oracle/exercise-implementation-r01/coordination-current.json",
+    "Results/level-oracle/supplemental-readiness-r01/coordination-current.json"
+  ],
+  "identity_hits": {
+    "fg:module:001130": [],
+    "fg:item:001130": [],
+    "fg:variant:007382": [],
+    "fg:variant:007383": [],
+    "fg:item:001130:event:": []
+  },
+  "shared_preimages": [
+    {
+      "path": "CMakeLists.txt",
+      "sha256": "06fb571fe0564477504dc46857e9e3f5c1eaf88319662135e1291a76d1c03da4"
+    },
+    {
+      "path": "Source/content/InstalledExtensionRegistry.hpp",
+      "sha256": "7f9a18929921eff726bafac01849f1cfe1a66eceb057dc1eed38edf73deb1c7b"
+    },
+    {
+      "path": "Source/progression/InstalledDomainCatalog.cpp",
+      "sha256": "d84bad94d104464dcf43d17d6ef3e7ed3347ea67872b2a64526361fe1ff60436"
+    },
+    {
+      "path": "Content/runtime/learn-source-index-v1/accepted-overlay.json",
+      "sha256": "6b3ae9938ece3600caf6ddd0bbe042ba49074688d1aebdd83b39246dcc37dd83"
+    },
+    {
+      "path": "Source/content/LearnSourceIndexPins.hpp",
+      "sha256": "c6cec63f0d6659808a67fab97e22c6d473b3957bce928e9b6ad65886161aa895"
+    },
+    {
+      "path": "Tests/learn_source_index_tests.cpp",
+      "sha256": "960c089ed2d824e1edacbec670b20ea7cd12a5f4f9db5ed4d86c404512bf3723"
+    }
+  ],
+  "new_shared_absent": [
+    "Content/runtime/level013-rung03-extension-v1/**",
+    "Source/content/Level013Rung03Extension.hpp",
+    "Tools/package_level013_rung03_extension.py",
+    "Tests/parallel02_level013_rung03_catalog_tests.cpp",
+    "Tests/parallel02_level013_rung03_practice_tests.cpp"
+  ],
+  "level001_reserved_range": "007478..007693_disjoint"
+}

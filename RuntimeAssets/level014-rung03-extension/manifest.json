@@ -1,0 +1,139 @@
+{
+  "version": "level014-rung03-extension-bundle.1",
+  "content_version": "curriculum-v1-level014-rung03-triplet-build-only.1",
+  "decision_sha256": "970e4eed3b3d5a7959b277ca7ac3db99662d38ddc0d7e63d05e640508742ca6e",
+  "profile_sha256": "311713a3503eec26e208e796d85d1e1c7b97fa37184915d33609ec8ae7a367d4",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/parallel-02/level014-r03-installed-r01/packet/package.json",
+    "registry": "Build/parallel-02/level014-r03-installed-r01/packet/identity-registry.json",
+    "profile": "Build/parallel-02/level014-r03-installed-r01/packet/expected-profile.json"
+  },
+  "files": [
+    {
+      "path": "decision.json",
+      "bytes": 2653,
+      "sha256": "970e4eed3b3d5a7959b277ca7ac3db99662d38ddc0d7e63d05e640508742ca6e"
+    },
+    {
+      "path": "agent-curriculum-decision.md",
+      "bytes": 4216,
+      "sha256": "2a061ef0d583b6a6ffa77b5de631e3613e75845038719aa3241465e387b1cd6a"
+    },
+    {
+      "path": "Content/runtime/level014-rung03-extension-v1/installed-resource-plan.json",
+      "bytes": 503,
+      "sha256": "37f37a400a2ff9b019d3b787405b5bcce528fc3fcf0323c8544c0896ce9971ee"
+    },
+    {
+      "path": "Build/parallel-02/level014-r03-installed-r01/packet/package.json",
+      "bytes": 49697,
+      "sha256": "d498dac23f30d0e5a5502bd44017b2af9bd21012890983c2ebc54375362c0841"
+    },
+    {
+      "path": "Build/parallel-02/level014-r03-installed-r01/packet/identity-registry.json",
+      "bytes": 1176,
+      "sha256": "f19a21ced38907291550497b04c075a894f70a92ac67fd90bcb5875780fc37ed"
+    },
+    {
+      "path": "Build/parallel-02/level014-r03-installed-r01/packet/expected-profile.json",
+      "bytes": 57959,
+      "sha256": "311713a3503eec26e208e796d85d1e1c7b97fa37184915d33609ec8ae7a367d4"
+    },
+    {
+      "path": "Build/parallel-02/level014-r03-canonical-native-r01/run-r01/package.json",
+      "bytes": 49697,
+      "sha256": "d498dac23f30d0e5a5502bd44017b2af9bd21012890983c2ebc54375362c0841"
+    },
+    {
+      "path": "Build/parallel-02/level014-r03-canonical-native-r01/run-r01/identity-registry.json",
+      "bytes": 1176,
+      "sha256": "f19a21ced38907291550497b04c075a894f70a92ac67fd90bcb5875780fc37ed"
+    },
+    {
+      "path": "Build/parallel-02/level014-r03-canonical-native-r01/run-r01/expected-profile.json",
+      "bytes": 57951,
+      "sha256": "46149c196a6b9b470585b3fa0abca881382a0b2ed9630e85dce5ba5e955e9915"
+    },
+    {
+      "path": "Build/parallel-02/level014-r03-canonical-native-r01/run-r01/candidate-allocation.json",
+      "bytes": 2680,
+      "sha256": "2a4db1fe3d82e4deaea0859a622e849c2ae70951b1337547c147ceb677581e7a"
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_14_Major_Scale_Three_Note_Rolling_Sequence_One_Octave_Neck_Ladder.pdf",
+      "bytes": 21352,
+      "sha256": "c5ec5b0d1ed50c0c8af758a021f4488c886a1c6030c8a5a52cb755471ae7ed19"
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_14_Major_Scale_Three_Note_Rolling_Sequence_One_Octave_Neck_Ladder.txt",
+      "bytes": 23537,
+      "sha256": "301edb98b64daa90a015a3560b8c2219cfab13984d6a8c320765af48f444912b"
+    },
+    {
+      "path": "Build/level-oracle/exercise-implementation-r01/level014-rungs03-04/producer-r01/rung03/allocation-baseline.json",
+      "bytes": 88,
+      "sha256": "32c936b9d8f1723c58f8f67c7a46c97de80e34d84b60133b429be14592bc9e28"
+    },
+    {
+      "path": "Build/level-oracle/exercise-implementation-r01/level014-rungs03-04/producer-r01/rung03/identity-baseline.json",
+      "bytes": 378,
+      "sha256": "cd2a5c2ae7f472618d1a4d3129be7e72401a841db2fc95db552215107bf4bf35"
+    },
+    {
+      "path": "Build/level-oracle/exercise-implementation-r01/level014-rungs03-04/producer-r01/rung03/lineage-baseline.json",
+      "bytes": 46,
+      "sha256": "d0bb0eeba0b7484b513a0e44784b34b1fc3f42c5cd0f2596ac678a94ffded932"
+    },
+    {
+      "path": "Results/primary/20260906124133Z-2.1.1.1.1-r01-evidence/identity-manifest.json",
+      "bytes": 85171,
+      "sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe"
+    },
+    {
+      "path": "Results/primary/20260906T182131Z-2.1.1.1.1-r02-results.md",
+      "bytes": 3485,
+      "sha256": "e908e9c1fa1f17ffce70b671f23eade4c08afc9d50b43f7b8fb7000aa39195b9"
+    },
+    {
+      "path": "Results/primary/20260912T100538Z-2.1.1.2.1-r02-evidence/schema-freeze.json",
+      "bytes": 2737,
+      "sha256": "0659fa962a5c933a2bcf3045772b6fe5b05b4deefb3511f5dcb68af51088de95"
+    },
+    {
+      "path": "Results/primary/20260906T184530Z-2.4.1.1.1-r01-evidence/plan.json",
+      "bytes": 24880,
+      "sha256": "cb3c3f7a47343ac0255dbdb8bf53411af6dd7b929c101b04d00ed62d6e3f637a"
+    },
+    {
+      "path": "Results/level-oracle/exercise-implementation-r01/level014-rung03-portable-identity-r01/source-review-r01/review-report.md",
+      "bytes": 4239,
+      "sha256": "b511bd0b41d3bb7db8e48bc14a6a6d1c62e9a3f95ada5cc17483a115ace32bf2"
+    },
+    {
+      "path": "Results/manager-resume-r01/level014-r03-canonical-native-review-r01/execution-r01/final-review.md",
+      "bytes": 5060,
+      "sha256": "e002b2da98a993c9a8a8f27cd50ac7b417362ac8039c034a9fe011cf100029c8"
+    },
+    {
+      "path": "Results/primary/20260926T2329Z-level014-r03-private-native-adoption.md",
+      "bytes": 2006,
+      "sha256": "57a056375afd40525fa34117e8f450d5029e95c45fef7d193368ceada6763fc7"
+    },
+    {
+      "path": "Prompts/manager-resume-r01/level014-r03-installed-shared-release.md",
+      "bytes": 5524,
+      "sha256": "a0e5125b12c91ec03afa5f03e479624e6ee90ef83b114f2854ab561eb78eea21"
+    },
+    {
+      "path": "Results/parallel-02/level014-r03-installed-r01/derivation.json",
+      "bytes": 1048,
+      "sha256": "442d42ecf59654dd76bf945e7485bbda70097ea6954eae8d263770c76ae75990"
+    },
+    {
+      "path": "Results/parallel-02/level014-r03-installed-r01/prewrite-guard.json",
+      "bytes": 4153,
+      "sha256": "9d09ae698bbfd031afe403034f47b7ef5adda60948e5849c94d528e52cd1faef"
+    }
+  ]
+}

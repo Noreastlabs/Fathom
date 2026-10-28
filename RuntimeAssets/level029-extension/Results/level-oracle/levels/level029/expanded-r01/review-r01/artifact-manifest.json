@@ -1,0 +1,97 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 12288,
+      "bytes": 10030,
+      "kind": "file",
+      "path": "Prompts/level-oracle/levels/level029/expanded-r01/review-r01/assignment.md",
+      "role": "frozen_review_assignment",
+      "sha256": "51c0f8aab6dcc5c39deaf00e834f6e61069b8d969e35fc6f21e99b0f70e7aa66"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1888,
+      "kind": "file",
+      "path": "Prompts/level-oracle/levels/level029/expanded-r01/20260924-native-review-slot-release.md",
+      "role": "review_release",
+      "sha256": "13c103bdb0445089614e347a2819fb745cb796f818d0aae9d2b2a05126b7eefb"
+    },
+    {
+      "allocated_bytes": 163840,
+      "bytes": 161748,
+      "kind": "file",
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_29_Natural_Minor_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.txt",
+      "role": "original_txt",
+      "sha256": "543d98fa9279f39d8975d6b00cd43e5f5aebbb94c5e59fe7771f63af8d8244e5"
+    },
+    {
+      "allocated_bytes": 114688,
+      "bytes": 113107,
+      "kind": "file",
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_29_Natural_Minor_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "role": "original_pdf",
+      "sha256": "2310fc942262081445d80d164ae6feab6335a879db283863db27f69bb75ef445"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7474,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level029/expanded-r01/producer-r01/producer-report.md",
+      "role": "frozen_producer_report",
+      "sha256": "2a7915e62b9d7d1a131a55df0f0264c166e16425dec86dc70b66c7c0728867fd"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3544,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level029/expanded-r01/producer-r01/artifact-manifest.json",
+      "role": "frozen_producer_manifest",
+      "sha256": "791f64d890b607d1e156a1af8742d6d449ba3917046bd7b1dd80e136a63d7a6f"
+    },
+    {
+      "allocated_bytes": 24576,
+      "bytes": 23715,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level029/expanded-r01/producer-r01/source-oracle.json",
+      "role": "producer_source_oracle",
+      "sha256": "ef46830ea8cdbfbfb1b8872d98d235ec4f1ac56c9363099c320c5519e468ed57"
+    },
+    {
+      "allocated_bytes": 106496,
+      "bytes": 81025,
+      "file_count": 9,
+      "kind": "directory_tree",
+      "path": "Build/level-oracle/levels/level029/expanded-r01/producer-r01/packet",
+      "role": "frozen_native_packet",
+      "sha256": "dfdb6449759d2846a83cf50d624c850ef7cf958bb51dcba85c0a7c5ccc327993"
+    },
+    {
+      "allocated_bytes": 1953792,
+      "bytes": 1952840,
+      "kind": "file",
+      "path": "Build/parallel-13/four-shard-source-bundle-r01/bundle/bin/fathom_content_validate",
+      "role": "frozen_validator",
+      "sha256": "a85c1b25d8cded12cbe273e4620bd5f33a711d06311d29583a0fdbed7748f714"
+    },
+    {
+      "allocated_bytes": 3350528,
+      "bytes": 3129848,
+      "file_count": 103,
+      "kind": "directory_tree",
+      "path": "Build/level-oracle/levels/level029/expanded-r01/review-r01",
+      "role": "independent_review_work_and_native_evidence",
+      "sha256": "ec4aafd3c27650c02abc3dffbd11586a6f0eca16fdcc4c62b56c899ab5377faf"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 710,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level029/expanded-r01/review-r01/git-state.json",
+      "role": "review_scoped_git_state",
+      "sha256": "af0234d6f609bbd8463fdf1d593c0435b864ccc4cb8727558775e346c5aebc71"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

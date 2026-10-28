@@ -1,0 +1,66 @@
+{
+  "entities": [
+    {
+      "id": "fg:course:000001",
+      "kind": "course",
+      "label": "Fathom Guitar105",
+      "parent": null
+    },
+    {
+      "id": "fg:workbook:000015",
+      "kind": "workbook",
+      "label": "Legacy Level15",
+      "parent": "fg:course:000001"
+    },
+    {
+      "id": "fg:module:001181",
+      "kind": "module",
+      "label": "Level 15 Rung02 Bb-major complete 78-note two-octave rolling-triplet cell",
+      "parent": "fg:workbook:000015"
+    },
+    {
+      "id": "fg:item:001181",
+      "kind": "item",
+      "label": "Level 15 Rung02 Bb-major complete 78-note two-octave rolling-triplet cell",
+      "parent": "fg:module:001181"
+    },
+    {
+      "id": "fg:variant:007702",
+      "kind": "variant",
+      "label": "L15-rung02-complete-triplets-D-start",
+      "parent": "fg:item:001181"
+    },
+    {
+      "id": "fg:variant:007703",
+      "kind": "variant",
+      "label": "L15-rung02-complete-triplets-U-start",
+      "parent": "fg:item:001181"
+    },
+    {
+      "id": "fg:module:001182",
+      "kind": "module",
+      "label": "Level 15 Rung03 B-major complete 78-note two-octave rolling-triplet cell",
+      "parent": "fg:workbook:000015"
+    },
+    {
+      "id": "fg:item:001182",
+      "kind": "item",
+      "label": "Level 15 Rung03 B-major complete 78-note two-octave rolling-triplet cell",
+      "parent": "fg:module:001182"
+    },
+    {
+      "id": "fg:variant:007704",
+      "kind": "variant",
+      "label": "L15-rung03-complete-triplets-D-start",
+      "parent": "fg:item:001182"
+    },
+    {
+      "id": "fg:variant:007705",
+      "kind": "variant",
+      "label": "L15-rung03-complete-triplets-U-start",
+      "parent": "fg:item:001182"
+    }
+  ],
+  "identity_version": 1,
+  "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber."
+}

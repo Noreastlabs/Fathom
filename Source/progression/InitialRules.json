@@ -1,0 +1,30 @@
+{
+  "version": "progress-initial1",
+  "proficient": {
+    "attempts": 2,
+    "days": 2,
+    "sessions": 2
+  },
+  "mastered": {
+    "attempts": 4,
+    "days": 3,
+    "sessions": 3
+  },
+  "reliable": {
+    "attempts": 3,
+    "days": 2,
+    "sessions": 2
+  },
+  "review_days": {
+    "Practicing": 2,
+    "Proficient": 7,
+    "Mastered": 14
+  },
+  "weak_lookback_days": 14,
+  "coverage_days": 14,
+  "max_budget_seconds": 14400,
+  "weak_rank": {
+    "Struggling": 0,
+    "Developing": 1
+  }
+}

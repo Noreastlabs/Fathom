@@ -1,0 +1,1121 @@
+{
+  "admission": "nonadmitted; requires distinct review and separate curriculum/runtime release",
+  "canonical_events": 40,
+  "canonical_memberships": 480,
+  "canonical_record_sha256": "de7b72f58de406164a7d03d6bfbf175d36a7e8c01b73ff8e48c08f276b877b50",
+  "canonical_revision": 1,
+  "canonical_variants": 12,
+  "case": "printed:l003:set-1-of-9-exercises-001-012:mode-b-1-3-early-transfer:exercise-001-1212",
+  "exporter_line": 13,
+  "exporter_sha256": "8f37b8f6eeb2ddacefea9a42c4c5a9559c932326abfa728a7e5efe0acd6b187f",
+  "selected_memberships": 80,
+  "selected_variants": [
+    {
+      "declared_strokes": [
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U"
+      ],
+      "end_q": [
+        10,
+        1
+      ],
+      "event_memberships": 40,
+      "source_label": "start-D",
+      "start": "D",
+      "variant_id": "fg:variant:000827"
+    },
+    {
+      "declared_strokes": [
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D",
+        "U",
+        "D"
+      ],
+      "end_q": [
+        10,
+        1
+      ],
+      "event_memberships": 40,
+      "source_label": "start-U",
+      "start": "U",
+      "variant_id": "fg:variant:000829"
+    }
+  ],
+  "source_to_event": [
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0001",
+      "finger": 1,
+      "fret": 5,
+      "midi": 45,
+      "ordinal": 1,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        0,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 3,
+        "txt_line": 236
+      },
+      "string": 1
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0002",
+      "finger": 2,
+      "fret": 6,
+      "midi": 51,
+      "ordinal": 2,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        1,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 5,
+        "txt_line": 235
+      },
+      "string": 2
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0003",
+      "finger": 1,
+      "fret": 5,
+      "midi": 50,
+      "ordinal": 3,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        1,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 7,
+        "txt_line": 235
+      },
+      "string": 2
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0004",
+      "finger": 2,
+      "fret": 6,
+      "midi": 51,
+      "ordinal": 4,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        3,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 9,
+        "txt_line": 235
+      },
+      "string": 2
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0005",
+      "finger": 1,
+      "fret": 5,
+      "midi": 50,
+      "ordinal": 5,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        1,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 12,
+        "txt_line": 235
+      },
+      "string": 2
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0006",
+      "finger": 2,
+      "fret": 6,
+      "midi": 56,
+      "ordinal": 6,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        5,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 14,
+        "txt_line": 234
+      },
+      "string": 3
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0007",
+      "finger": 1,
+      "fret": 5,
+      "midi": 55,
+      "ordinal": 7,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        3,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 16,
+        "txt_line": 234
+      },
+      "string": 3
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0008",
+      "finger": 2,
+      "fret": 6,
+      "midi": 56,
+      "ordinal": 8,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        7,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 18,
+        "txt_line": 234
+      },
+      "string": 3
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0009",
+      "finger": 1,
+      "fret": 5,
+      "midi": 55,
+      "ordinal": 9,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        2,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 21,
+        "txt_line": 234
+      },
+      "string": 3
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0010",
+      "finger": 2,
+      "fret": 6,
+      "midi": 61,
+      "ordinal": 10,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        9,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 23,
+        "txt_line": 233
+      },
+      "string": 4
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0011",
+      "finger": 1,
+      "fret": 5,
+      "midi": 60,
+      "ordinal": 11,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        5,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 25,
+        "txt_line": 233
+      },
+      "string": 4
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0012",
+      "finger": 2,
+      "fret": 6,
+      "midi": 61,
+      "ordinal": 12,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        11,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 27,
+        "txt_line": 233
+      },
+      "string": 4
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0013",
+      "finger": 1,
+      "fret": 5,
+      "midi": 60,
+      "ordinal": 13,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        3,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 30,
+        "txt_line": 233
+      },
+      "string": 4
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0014",
+      "finger": 2,
+      "fret": 6,
+      "midi": 65,
+      "ordinal": 14,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        13,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 32,
+        "txt_line": 232
+      },
+      "string": 5
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0015",
+      "finger": 1,
+      "fret": 5,
+      "midi": 64,
+      "ordinal": 15,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        7,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 34,
+        "txt_line": 232
+      },
+      "string": 5
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0016",
+      "finger": 2,
+      "fret": 6,
+      "midi": 65,
+      "ordinal": 16,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        15,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 36,
+        "txt_line": 232
+      },
+      "string": 5
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0017",
+      "finger": 1,
+      "fret": 5,
+      "midi": 64,
+      "ordinal": 17,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        4,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 39,
+        "txt_line": 232
+      },
+      "string": 5
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0018",
+      "finger": 2,
+      "fret": 6,
+      "midi": 70,
+      "ordinal": 18,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        17,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 41,
+        "txt_line": 231
+      },
+      "string": 6
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0019",
+      "finger": 1,
+      "fret": 5,
+      "midi": 69,
+      "ordinal": 19,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        9,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 43,
+        "txt_line": 231
+      },
+      "string": 6
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0020",
+      "finger": 2,
+      "fret": 6,
+      "midi": 70,
+      "ordinal": 20,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        19,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 1,
+        "column_1based": 45,
+        "txt_line": 231
+      },
+      "string": 6
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0021",
+      "finger": 1,
+      "fret": 5,
+      "midi": 69,
+      "ordinal": 21,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        5,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 3,
+        "txt_line": 238
+      },
+      "string": 6
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0022",
+      "finger": 2,
+      "fret": 6,
+      "midi": 65,
+      "ordinal": 22,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        21,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 5,
+        "txt_line": 239
+      },
+      "string": 5
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0023",
+      "finger": 1,
+      "fret": 5,
+      "midi": 64,
+      "ordinal": 23,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        11,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 7,
+        "txt_line": 239
+      },
+      "string": 5
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0024",
+      "finger": 2,
+      "fret": 6,
+      "midi": 65,
+      "ordinal": 24,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        23,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 9,
+        "txt_line": 239
+      },
+      "string": 5
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0025",
+      "finger": 1,
+      "fret": 5,
+      "midi": 64,
+      "ordinal": 25,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        6,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 12,
+        "txt_line": 239
+      },
+      "string": 5
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0026",
+      "finger": 2,
+      "fret": 6,
+      "midi": 61,
+      "ordinal": 26,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        25,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 14,
+        "txt_line": 240
+      },
+      "string": 4
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0027",
+      "finger": 1,
+      "fret": 5,
+      "midi": 60,
+      "ordinal": 27,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        13,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 16,
+        "txt_line": 240
+      },
+      "string": 4
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0028",
+      "finger": 2,
+      "fret": 6,
+      "midi": 61,
+      "ordinal": 28,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        27,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 18,
+        "txt_line": 240
+      },
+      "string": 4
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0029",
+      "finger": 1,
+      "fret": 5,
+      "midi": 60,
+      "ordinal": 29,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        7,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 21,
+        "txt_line": 240
+      },
+      "string": 4
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0030",
+      "finger": 2,
+      "fret": 6,
+      "midi": 56,
+      "ordinal": 30,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        29,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 23,
+        "txt_line": 241
+      },
+      "string": 3
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0031",
+      "finger": 1,
+      "fret": 5,
+      "midi": 55,
+      "ordinal": 31,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        15,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 25,
+        "txt_line": 241
+      },
+      "string": 3
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0032",
+      "finger": 2,
+      "fret": 6,
+      "midi": 56,
+      "ordinal": 32,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        31,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 27,
+        "txt_line": 241
+      },
+      "string": 3
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0033",
+      "finger": 1,
+      "fret": 5,
+      "midi": 55,
+      "ordinal": 33,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        8,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 30,
+        "txt_line": 241
+      },
+      "string": 3
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0034",
+      "finger": 2,
+      "fret": 6,
+      "midi": 51,
+      "ordinal": 34,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        33,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 32,
+        "txt_line": 242
+      },
+      "string": 2
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0035",
+      "finger": 1,
+      "fret": 5,
+      "midi": 50,
+      "ordinal": 35,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        17,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 34,
+        "txt_line": 242
+      },
+      "string": 2
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0036",
+      "finger": 2,
+      "fret": 6,
+      "midi": 51,
+      "ordinal": 36,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        35,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 36,
+        "txt_line": 242
+      },
+      "string": 2
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0037",
+      "finger": 1,
+      "fret": 5,
+      "midi": 50,
+      "ordinal": 37,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        9,
+        1
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 39,
+        "txt_line": 242
+      },
+      "string": 2
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0038",
+      "finger": 2,
+      "fret": 6,
+      "midi": 46,
+      "ordinal": 38,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        37,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 41,
+        "txt_line": 243
+      },
+      "string": 1
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0039",
+      "finger": 1,
+      "fret": 5,
+      "midi": 45,
+      "ordinal": 39,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        19,
+        2
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 43,
+        "txt_line": 243
+      },
+      "string": 1
+    },
+    {
+      "acoustic_gate_q": null,
+      "canonical_duration_q": null,
+      "canonical_onset_q": null,
+      "event_id": "fg:item:000240:event:0040",
+      "finger": 2,
+      "fret": 6,
+      "midi": 46,
+      "ordinal": 40,
+      "proposed_metric_duration_q": [
+        1,
+        4
+      ],
+      "proposed_onset_q": [
+        39,
+        4
+      ],
+      "source_ref": "L3-TXT229-243",
+      "source_token": {
+        "block": 2,
+        "column_1based": 45,
+        "txt_line": 243
+      },
+      "string": 1
+    }
+  ],
+  "timing_scope": "Proposed straight-sixteenth 1/4-q metric slots only; canonical rev1 onset/duration remain null; no fixed BPM or acoustic gate inferred"
+}

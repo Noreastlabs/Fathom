@@ -1,0 +1,295 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 12288,
+      "bytes": 9153,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/fullscope-first-packet-spotcheck-r01/review-report.md",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "a946aa7a4c89502d86af334c9f857fd43beb4b9324b3af3ac9dce74c2d7e70f8"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6496,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/fullscope-first-packet-spotcheck-r01/independent-checks.json",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "069b9e7690085cab550b46d89dc250a69e746189e5594fdc63ba3161ee2a54ff"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3076,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/fullscope-first-packet-spotcheck-r01/nomination-level002-ex002.json",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "77463642fb0b045444d50aa33aa6574fae3ab89a68465ba7ad984c11b38bc93a"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3246,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/fullscope-first-packet-spotcheck-r01/nomination-level002-ex002-r02.json",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "d440c9bf3f28fd3eab48f14bb28861c33e5e390c8dc6661e13865693045e1fef"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1126,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/fullscope-first-packet-spotcheck-r01/git-state.json",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "5a49eb131d7fa9b1f0b585126a90c8a51aeb56c08b2316cecc1208c99436c975"
+    },
+    {
+      "allocated_bytes": 20480,
+      "bytes": 17225,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/fullscope-first-packet-spotcheck-r01/full-template-prompt.md",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "22a24ee2e4cb26b97eda54f39c6babf36b486a5790b760fa2749bf9bb232d8c6"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 10652,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/check_samples.py",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "9489b4b8ac12f23d1b8229fde3089c65ea6b84f4625057bd44c42d4c8fbe42d3"
+    },
+    {
+      "allocated_bytes": 192512,
+      "bytes": 189101,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level002-page01.png",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "24a73ba3642f192dde1873d44c873b5451e15d286ef0bac1f6341dd083c6adce"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1878,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level002-page01.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "edf9dd4997c706675e26bd746a87abebc34276de3a47b1f6820ce913e6102cb1"
+    },
+    {
+      "allocated_bytes": 180224,
+      "bytes": 177757,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level002-page02.png",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "dca74c70513a696c5e6048bfde8f450b1213c3bab860c4007e18da03cc81f4b6"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7430,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level002-page02.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "20a5fb73e916b17ff04a04195b4cfc2c2ef2dea06fecf52d3410518b3ade76eb"
+    },
+    {
+      "allocated_bytes": 143360,
+      "bytes": 143316,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level049-page03.png",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "7742bb6b54dd33c632447129efb492d6dafd274678ba52091aacbcde452190ed"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1993,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level049-page03.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "e5eb501164be0747201d92721842070fdb924a88bb1f91304f9d033e600c3ddd"
+    },
+    {
+      "allocated_bytes": 126976,
+      "bytes": 126223,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level049-page11.png",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "ec195edd5298b7a0933db4217809f3b487e90567be8615085a9b66b774312773"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1900,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level049-page11.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "7de30d9cfe7622c286bae6417dde5a0f50656b897e9a77d24275b1c4bae400e2"
+    },
+    {
+      "allocated_bytes": 143360,
+      "bytes": 140637,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level049-page18.png",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "2b729365b91fb9b6681ee2571bcbc64a47329db2a8173681d10a01781e3f6e40"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1378,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level049-page18.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "167c9e6f9f12d0a8fc5035ecae3e2d45e9fd50aa1a4bf3b96083cfe3ac1ab552"
+    },
+    {
+      "allocated_bytes": 180224,
+      "bytes": 176626,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level049-page19.png",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "509cf3593acab6130340736ad7e0c14b57b9bdeef3b75164f6b0f112c7654cb6"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1875,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level049-page19.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "4b5ad84a62ac4e3e2da78bfff0b198d5c4dd2f2752acbc7516f0c077cf7059b4"
+    },
+    {
+      "allocated_bytes": 110592,
+      "bytes": 109456,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level073-page03.png",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "79912cdf6078f39ee4b9b387f27917009e4f2052f25e3e2428b7dd93368efa2c"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1622,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level073-page03.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "da3c5cbaf08369dc42053824caabe64bdf39c812b83dc540004069606895d002"
+    },
+    {
+      "allocated_bytes": 114688,
+      "bytes": 110640,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level073-page04.png",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "73c912af97ef9540ccbc860e0893211ade52283d904b9af587f6330d25faa4b3"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1651,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/fullscope-first-packet-spotcheck-r01/level073-page04.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "c37a1da7b07583cfcbcaecce32ec56f04d9dd153037ed2fb260a9c767e3346ec"
+    },
+    {
+      "allocated_bytes": 3383296,
+      "bytes": 3382459,
+      "kind": "file",
+      "path": "Build/fullscope-private-a-r01/level002-r01/packet.jsonl",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "534471bc4827c4f95c4e48d388e832a9db4b61394963b1b54d0c39ea1cac07cc"
+    },
+    {
+      "allocated_bytes": 348160,
+      "bytes": 345682,
+      "kind": "file",
+      "path": "Build/fullscope-private-b-r01/level049/implementation.jsonl",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "1ba1ec52b8ea525783543f6f814061ea612dab0383066013a11fbfac5b4d5248"
+    },
+    {
+      "allocated_bytes": 385024,
+      "bytes": 384436,
+      "kind": "file",
+      "path": "Build/fullscope-private-c-r01/level073/implementation-packet.jsonl",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "a1fb49aaf75eae5714dc3570371b6171bfbbe11b63f3596f3464cb8a01ac43de"
+    },
+    {
+      "allocated_bytes": 450560,
+      "bytes": 448069,
+      "kind": "file",
+      "path": "Build/fullscope-private-b-r01/level049-r02/implementation.jsonl",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "53f692ade0757386822995adeb8c0e097c2940fc01a6a121290daa5fd68130a8"
+    },
+    {
+      "allocated_bytes": 430080,
+      "bytes": 429665,
+      "kind": "file",
+      "path": "Build/fullscope-private-c-r01/level073-r03/implementation-packet.jsonl",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "99a956c25caa209aed4311ed1f2e60cc913f6919bb2a7b7f80f894b051a6136b"
+    },
+    {
+      "allocated_bytes": 69632,
+      "bytes": 68598,
+      "kind": "file",
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_2_Two_String_Transfer.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "49ca027e8c7fee7b2c5437f93f8a5b5576e272e6cf888dbb1a82632749cec31a"
+    },
+    {
+      "allocated_bytes": 45056,
+      "bytes": 44979,
+      "kind": "file",
+      "path": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_2_Two_String_Transfer.pdf",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "cfcc4b3414400f5bfc2510c30c407f0d72e573ef8e899a184820202d67671ac8"
+    },
+    {
+      "allocated_bytes": 24576,
+      "bytes": 21942,
+      "kind": "file",
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "8487f1d1bc949e79509de98b10e1888200d48ddf8651d98979634e44b9fc20c3"
+    },
+    {
+      "allocated_bytes": 65536,
+      "bytes": 62737,
+      "kind": "file",
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.pdf",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "abadffbe75122328585fd64758e3ef9ffb7c6f8c9d2f14702e173a97808cfd8f"
+    },
+    {
+      "allocated_bytes": 53248,
+      "bytes": 52388,
+      "kind": "file",
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_73_Common_Tone_and_Guide_Tone_Modulation_Pivot_Chords_Chromatic_Mediants_and_Key_Center_Navigation.pdf",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "7cc4c0098855c8e6d4b90063fb947b763e32a4225d66b77821f9e23f763779f9"
+    },
+    {
+      "allocated_bytes": 32768,
+      "bytes": 30640,
+      "kind": "file",
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_73_Common_Tone_and_Guide_Tone_Modulation_Pivot_Chords_Chromatic_Mediants_and_Key_Center_Navigation.txt",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "63fed22776f4fcfd61ac9b7783b456c8996f2b438c06886d585bff2ee01afd15"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6500,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level002/all105-r01/review-r01/final-results.md",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "079ef660a7770a40c189525e6b656d5fa271a8bec265917875d42eec7adb30a9"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 8889,
+      "kind": "file",
+      "path": "Results/level-oracle/levels/level073/all105-r01/review-r01/review-report.md",
+      "role": "bounded independent source spot-check input/output",
+      "sha256": "7b521a1cc9747205bdced191ee9d7911ab05a6d7a3518947d2565ef363ba92a5"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

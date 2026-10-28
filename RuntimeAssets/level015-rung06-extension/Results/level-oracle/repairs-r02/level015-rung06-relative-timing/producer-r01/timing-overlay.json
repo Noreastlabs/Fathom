@@ -1,0 +1,930 @@
+{
+  "attribution": {
+    "meaning": "metrical attack reference only; duration is modeled slot width, not acoustic sustain or note-off",
+    "model_choices": [
+      "select one isolated ordinary-triplet cell",
+      "treat one printed beat as one quarter for nominal q positions"
+    ],
+    "printed": "eighth-note triplets; one three-note group per beat; 26 groups/78 notes; no pause at triplet boundaries"
+  },
+  "binding": {
+    "learn_row_context": {
+      "bytes": 1429,
+      "line": 1563,
+      "sha256": "ac510e9450bfa36e9e2988f4cba4d9925d8df92251af2e73d7b4139b64455786"
+    },
+    "original_pdf": {
+      "bytes": 30825,
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "sha256": "9c3e2b980079fb3a4eca7affe9bc948a2e58cab15f256766976451ac08d53a5e"
+    },
+    "original_txt": {
+      "bytes": 42020,
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514"
+    },
+    "p08_candidate": {
+      "bytes": 559471,
+      "path": "Build/parallel-08/2.3.1.1.1-level015-whole-r01/candidate-01.json",
+      "sha256": "bff1da256722d18dff4c564032a74947fa56cbd3af460b3733537380dc9d804b"
+    },
+    "p08_record": {
+      "array_index": 5,
+      "bytes": 21746,
+      "sha256": "d1e559035969774865634591085e0e7882df40f1752450d6034454b781ab524a"
+    },
+    "source_refs": {
+      "pdf_card": "L15-PDF1-p5",
+      "pdf_map": "L15-PDF1-p2",
+      "txt": "L15-TXT1-190-211"
+    }
+  },
+  "decision": "PRIVATE_SOURCE_TIMING_PROPOSAL; DISTINCT_REVIEW_PENDING",
+  "model": {
+    "contact_count": 78,
+    "contacts": [
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 0
+        },
+        "ordinal": 1
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "ordinal": 2
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 2
+        },
+        "ordinal": 3
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 3
+        },
+        "ordinal": 4
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 4
+        },
+        "ordinal": 5
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 5
+        },
+        "ordinal": 6
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 6
+        },
+        "ordinal": 7
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 7
+        },
+        "ordinal": 8
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 8
+        },
+        "ordinal": 9
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 9
+        },
+        "ordinal": 10
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 10
+        },
+        "ordinal": 11
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 11
+        },
+        "ordinal": 12
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 12
+        },
+        "ordinal": 13
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 13
+        },
+        "ordinal": 14
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 14
+        },
+        "ordinal": 15
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 15
+        },
+        "ordinal": 16
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 16
+        },
+        "ordinal": 17
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 17
+        },
+        "ordinal": 18
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 18
+        },
+        "ordinal": 19
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 19
+        },
+        "ordinal": 20
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 20
+        },
+        "ordinal": 21
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 21
+        },
+        "ordinal": 22
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 22
+        },
+        "ordinal": 23
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 23
+        },
+        "ordinal": 24
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 24
+        },
+        "ordinal": 25
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 25
+        },
+        "ordinal": 26
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 26
+        },
+        "ordinal": 27
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 27
+        },
+        "ordinal": 28
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 28
+        },
+        "ordinal": 29
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 29
+        },
+        "ordinal": 30
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 30
+        },
+        "ordinal": 31
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 31
+        },
+        "ordinal": 32
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 32
+        },
+        "ordinal": 33
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 33
+        },
+        "ordinal": 34
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 34
+        },
+        "ordinal": 35
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 35
+        },
+        "ordinal": 36
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 36
+        },
+        "ordinal": 37
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 37
+        },
+        "ordinal": 38
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 38
+        },
+        "ordinal": 39
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 39
+        },
+        "ordinal": 40
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 40
+        },
+        "ordinal": 41
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 41
+        },
+        "ordinal": 42
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 42
+        },
+        "ordinal": 43
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 43
+        },
+        "ordinal": 44
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 44
+        },
+        "ordinal": 45
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 45
+        },
+        "ordinal": 46
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 46
+        },
+        "ordinal": 47
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 47
+        },
+        "ordinal": 48
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 48
+        },
+        "ordinal": 49
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 49
+        },
+        "ordinal": 50
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 50
+        },
+        "ordinal": 51
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 51
+        },
+        "ordinal": 52
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 52
+        },
+        "ordinal": 53
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 53
+        },
+        "ordinal": 54
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 54
+        },
+        "ordinal": 55
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 55
+        },
+        "ordinal": 56
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 56
+        },
+        "ordinal": 57
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 57
+        },
+        "ordinal": 58
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 58
+        },
+        "ordinal": 59
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 59
+        },
+        "ordinal": 60
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 60
+        },
+        "ordinal": 61
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 61
+        },
+        "ordinal": 62
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 62
+        },
+        "ordinal": 63
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 63
+        },
+        "ordinal": 64
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 64
+        },
+        "ordinal": 65
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 65
+        },
+        "ordinal": 66
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 66
+        },
+        "ordinal": 67
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 67
+        },
+        "ordinal": 68
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 68
+        },
+        "ordinal": 69
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 69
+        },
+        "ordinal": 70
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 70
+        },
+        "ordinal": 71
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 71
+        },
+        "ordinal": 72
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 72
+        },
+        "ordinal": 73
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 73
+        },
+        "ordinal": 74
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 74
+        },
+        "ordinal": 75
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 75
+        },
+        "ordinal": 76
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 76
+        },
+        "ordinal": 77
+      },
+      {
+        "duration_q": {
+          "denominator": 3,
+          "numerator": 1
+        },
+        "onset_q": {
+          "denominator": 3,
+          "numerator": 77
+        },
+        "ordinal": 78
+      }
+    ],
+    "duration_q": {
+      "denominator": 3,
+      "numerator": 1
+    },
+    "fixed_bpm": null,
+    "group_count": 26,
+    "onset_rule": "q=(ordinal-1)/3",
+    "tail_rest_q": null,
+    "terminal_q": {
+      "denominator": 1,
+      "numerator": 26
+    }
+  },
+  "schema": "fathom.private.relative-timing-overlay.v1",
+  "scope": "one selected isolated ordinary-triplet Level15 Rung06 D-major 78-contact cell",
+  "source_limits": [
+    "no printed fixed BPM",
+    "no printed meter",
+    "no learner-relative actual tempo",
+    "no measured gate or note-off",
+    "no isolated-cell tail rest",
+    "no performed result",
+    "one-beat pause only between cells in 2-3 neighboring-rung drill",
+    "no optional sextuplet or full-route timing"
+  ]
+}

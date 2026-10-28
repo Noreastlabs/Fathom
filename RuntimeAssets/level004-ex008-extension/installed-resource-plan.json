@@ -1,0 +1,14 @@
+{
+  "version": "level004-ex008-installed-empty-resource-plan.1",
+  "availability": "none_supplied",
+  "selected_case": "fg:item:000451",
+  "selected_pass": "second_even_volume_straight_sixteenths",
+  "selected_variants": [
+    "fg:variant:003359",
+    "fg:variant:003361"
+  ],
+  "resources": [],
+  "source_profile_resource_plan": null,
+  "acoustic_gate": null,
+  "automatic_credit": false
+}

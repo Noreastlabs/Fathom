@@ -1,0 +1,127 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2296,
+      "kind": "file",
+      "path": "Prompts/guitar-virtuoso/knowledge-gaps-r03/full-template-prompt.md",
+      "role": "lane-prompt",
+      "sha256": "ad746b830a4888428a42c9664c8814b6cda476fac9883d0a2e351c792222a13e"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7298,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/knowledge-gaps-r03/level015-rung05-timing-proposal.md",
+      "role": "final-proposal",
+      "sha256": "9ab4108bd4d48df96cec7901e652bae4ad5fab0b3c54d866bebfa836260d1aae"
+    },
+    {
+      "allocated_bytes": 16384,
+      "bytes": 12358,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/knowledge-gaps-r03/timing-only-overlay.json",
+      "role": "private-timing-only-overlay",
+      "sha256": "b84c694e9dcc3560ff87e1354ec458a789e2b425e6ecdbee8d9570be1fcce4c9"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2825,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/knowledge-gaps-r03/source-and-overlay-checks.json",
+      "role": "bounded-source-checks",
+      "sha256": "cb07ff48bf6b61ff2e867b2fc11344b809547c860453566f7fb97152192f2cdd"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 12088,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/knowledge-gaps-r03/verify_and_derive.py",
+      "role": "source-derivation",
+      "sha256": "ef368c61da3b809fc6e6c8880eb1efc3f2bf3bb56ae7ea5bfffa00e167ba0967"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 912,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/knowledge-gaps-r03/git-summary.json",
+      "role": "scoped-git-state",
+      "sha256": "bfadbaa3d8f8c5bc8b1f7c72c0d0e05c50885ffb6fcc6b2b5bbfc842eaa9429b"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1231,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/knowledge-gaps-r03/evidence-audit.json",
+      "role": "evidence-audit",
+      "sha256": "71ea820a5952692f778bba6cc5079cd1890297f611f7ed94734f9845da2e9c2c"
+    },
+    {
+      "allocated_bytes": 45056,
+      "bytes": 42020,
+      "kind": "file",
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "role": "original-txt",
+      "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514"
+    },
+    {
+      "allocated_bytes": 32768,
+      "bytes": 30825,
+      "kind": "file",
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "role": "original-pdf",
+      "sha256": "9c3e2b980079fb3a4eca7affe9bc948a2e58cab15f256766976451ac08d53a5e"
+    },
+    {
+      "allocated_bytes": 561152,
+      "bytes": 559471,
+      "kind": "file",
+      "path": "Build/parallel-08/2.3.1.1.1-level015-whole-r01/candidate-01.json",
+      "role": "existing-p08-scoped-candidate",
+      "sha256": "bff1da256722d18dff4c564032a74947fa56cbd3af460b3733537380dc9d804b"
+    },
+    {
+      "allocated_bytes": 475136,
+      "bytes": 473095,
+      "kind": "file",
+      "path": "Build/parallel-12/level015-schema1-unallocated-r01/field-proposal.json",
+      "role": "historical-p12-gap-context",
+      "sha256": "a006058a80ff6d4627cbeb26c0b8ed35731d29b08233aed18838fbcaff15f88f"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2017,
+      "kind": "file",
+      "path": "Results/primary/20260927T0336Z-level015-r05-locator-adoption.md",
+      "role": "closed-locator-decision",
+      "sha256": "1496eb2d90c2c56740041861bb54cf8df914c04c77079e8143336470a192d77e"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4958,
+      "kind": "file",
+      "path": "Results/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/review-r01/review-report.md",
+      "role": "separate-rung04-method-precedent",
+      "sha256": "cbb2ec952199356c49f3e7fbc3aa15472f167f3e8783ec6032e207ca364c5619"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 10591,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/knowledge-gaps-r01/gap-repair-matrix.md",
+      "role": "earlier-gv-screen",
+      "sha256": "de284a4e0e753d5cc1cd148d23a60e3f47e63aa2939bb8f2b1ce02c2b3608339"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5681,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/knowledge-gaps-r02/level013-rung06-locator-proposal.md",
+      "role": "earlier-gv-screen",
+      "sha256": "1520a13fb5564ea3cee8f91ac10f0c1868034eb8ae4e1c531d873494b534dbc1"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

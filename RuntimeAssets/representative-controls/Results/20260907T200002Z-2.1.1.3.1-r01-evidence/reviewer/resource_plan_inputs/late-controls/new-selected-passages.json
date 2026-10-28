@@ -1,0 +1,130 @@
+{
+  "classification": "new bounded source preservation evidence; not new acceptance",
+  "passages": {
+    "L49-TXT18-20": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.txt",
+      "sha256": "8487f1d1bc949e79509de98b10e1888200d48ddf8651d98979634e44b9fc20c3",
+      "format": "txt",
+      "first_line": 18,
+      "last_line": 20,
+      "text": "Strings are printed low E to high e. X = mute. O = open. Numbers 1-4 are fretting-hand fingers.\nPink/root markers in the PDF identify the chord root. Blue markers identify the other chord tones.\nPlace fingertips just behind the fret wire. Keep the thumb and wrist relaxed. Begin every strum on the printed bass string.",
+      "text_sha256": "4ffc683e02b3eab2e3504ba0e5832cc54a81f43b43d07c6a984b851b1ba6a36a"
+    },
+    "L49-TXT49-63": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.txt",
+      "sha256": "8487f1d1bc949e79509de98b10e1888200d48ddf8651d98979634e44b9fc20c3",
+      "format": "txt",
+      "first_line": 49,
+      "last_line": 63,
+      "text": "E: frets 0 2 2 1 0 0\nStrings: E A D G B e\nFingers: O 2 3 1 O O\nNotes:   E B E G# B E\nSpelling: E G# B. Attack zone: all 6 strings.\nBuild order: A2 -> D2 -> G1.\nKeep fingers 2-3 planted when alternating with Em.\n\nEm: frets 0 2 2 0 0 0\nStrings: E A D G B e\nFingers: O 2 3 O O O\nNotes:   E B E G B E\nSpelling: E G B. Attack zone: all 6 strings.\nBuild order: A2 -> D2.\nUse fingers 2-3 so E major is created by adding finger 1.",
+      "text_sha256": "8f425c59d87c95f75fbfbafc2a9df6677abf6eb8358e398199a19629d8c10ddc"
+    },
+    "L58-TXT4-5": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_58_Sixteenth_Note_Rhythm_Guitar_Syncopation_Dead_Strokes_Chord_Releases_Anticipations_Funk_Comping_and_Full_Song_Capstone.txt",
+      "sha256": "e0c153f77a6c917056b7f17c876b2431336b40cb93bf484708230296b472acd4",
+      "format": "txt",
+      "first_line": 4,
+      "last_line": 5,
+      "text": "PURPOSE\nTurn the chord, triad, CAGED, progression, and seventh-chord vocabulary from Levels 49-57 into complete rhythm-guitar performance. Maintain a continuous 1-e-&-a right-hand path while deciding whether each stroke produces pitch, a dead contact, a tie, a pressure release, or no contact.",
+      "text_sha256": "d880d24b647adef2560574b78bc236aa93bd8ba152687580b88916c3a0d3b77d"
+    },
+    "L74-TXT161-189": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.txt",
+      "sha256": "63df8ae138ca4587315a04f239818057db44c990c3a6fac3ce9f82244a46aa28",
+      "format": "txt",
+      "first_line": 161,
+      "last_line": 189,
+      "text": "========================================================================================================================\nMODULE C - QUINTUPLETS, SEPTUPLETS, AND RATE CONVERSION\n========================================================================================================================\nC1 single-note quintuplets: 20 A notes, five per beat.\nC2 Cmaj9 quintuplets: C-E-G-B-D once per beat, four beats.\nC3 five-beat accent rotation: accent slots 1, 2, 3, 4, then 5.\nBeat 1: > . . . .\nBeat 2: . > . . .\nBeat 3: . . > . .\nBeat 4: . . . > .\nBeat 5: . . . . >\n\nC4 single-note septuplets: 28 A notes, seven per beat.\nC5 scale septuplets: C-D-E-F-G-A-B once per beat, four beats.\nC6 seven-beat accent rotation:\nBeat 1: > . . . . . .\nBeat 2: . > . . . . .\nBeat 3: . . > . . . .\nBeat 4: . . . > . . .\nBeat 5: . . . . > . .\nBeat 6: . . . . . > .\nBeat 7: . . . . . . >\n\nC7 rate ladder:\nBeat 1: 4 notes C-E-G-B\nBeat 2: 5 notes C-E-G-B-D\nBeat 3: 6 notes C-D-E-G-A-B\nBeat 4: 7 notes C-D-E-F-G-A-B\nTotal: 22 tones.",
+      "text_sha256": "11cf1ad6b33144ded80c445d859ee776a13f4b24828ed7c53deaba311e6c784d"
+    },
+    "L74-TXT249-299": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.txt",
+      "sha256": "63df8ae138ca4587315a04f239818057db44c990c3a6fac3ce9f82244a46aa28",
+      "format": "txt",
+      "first_line": 249,
+      "last_line": 299,
+      "text": "========================================================================================================================\nMODULE E - ASYMMETRICAL METERS\n========================================================================================================================\n\nE1 - C major scale, 3+2\nGroup 3+2    |>----------------------->---------------|\nNotes          |C---D---E---F---G---A---B---C---D---E---|\n\nRepeat for two bars: 20 contacts.\n\nE2 - C major scale, 2+3\nGroup 2+3    |>--------------->-----------------------|\nNotes          |C---D---E---F---G---A---B---C---D---E---|\n\nRepeat for two bars: 20 contacts.\n\nE3 - Cmaj7 for 3 beats, G7 for 2\nGroup 3+2    |>----------------------->---------------|\nNotes          |C---E---G---C---E---G---B---D---F---G---|\n\nRepeat for two bars: 20 contacts.\n\nE4 - Am7 for 2 beats, Dm7 for 3\nGroup 2+3    |>--------------->-----------------------|\nNotes          |A---C---E---G---A---D---F---A---C---D---|\n\nRepeat for two bars: 20 contacts.\n\nE5 - 2+2+3\nGroup 2+2+3  |>------->------->-----------|\nNotes          |C---D---E---F---G---A---B---|\n\nOne bar: 7 contacts.\n\nE6 - 3+2+2\nGroup 3+2+2  |>----------->------->-------|\nNotes          |C---D---E---F---G---A---B---|\n\nOne bar: 7 contacts.\n\nE7 - 2+3+2\nGroup 2+3+2  |>------->----------->-------|\nNotes          |C---D---E---F---G---A---B---|\n\nOne bar: 7 contacts.\n\nE8 - chord-color route 2+2+3\nGroup 2+2+3  |>------->------->-----------|\nNotes          |C---E---D---F---G---B---D---|\n\nOne bar: 7 contacts.",
+      "text_sha256": "8e1abf1963eae3425fde6de700fb0c12b2ac3053b704d5c5bb1da7a4aa44ee88"
+    },
+    "L97-PDF18": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_97_Recording_Led_Repertoire_Reconstruction_Audio_to_Form_Harmony_Groove_Riffs_Arrangement_and_Performance.pdf",
+      "sha256": "208d88c99d8c1c81d68ff2dcb3b396b1092153254ef280fe567e1b3c3741b307",
+      "format": "pdf",
+      "page": 18,
+      "text": "Module I - Forty-Eight-Bar Audio-to-Performance Capstone\nBars\nSection\nInput\nStudent task\n1-4\nIntro\naudio only\nidentify pickup/texture\n5-12\nA\naudio only\nform + groove + harmony\n13-16\nB\naudio only\ncontrast + cue\n17-24\nA'\naudio only\nvariation vs original A\n25-32\nC\naudio only\nnew harmonic/role behavior\n33-40\nSolo/support\naudio only\nseparate structural targets from improvised detail\n41-44\nReturn\naudio only\nrecognize landmark\n45-48\nOutro\naudio only\nreconstruct ending/cutoff\nUse an unfamiliar 48-bar recording or self/partner-created source. No chord chart. Produce: one-page form map, root/function chart, groove map, S/C/O detail\nclassification, performance arrangement, reduced fallback, and one uninterrupted memory take.\n",
+      "text_sha256": "21ce6db7926826ada2bc897a33e69f6c81caed6aad1753ec9ed4e3ac66e43c4e"
+    },
+    "L105-PDF20": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 20,
+      "text": "Module J - Final 60-Minute Integrated Musicianship Examination\nBlock\nMinutes\nTask\n1\n0-8\nTechnique + fretboard reaction\n2\n8-16\nHarmony + voicing + reharmonization\n3\n16-24\nGroove/style switching\n4\n24-32\nEar/transcription reconstruction\n5\n32-40\nImprovisation + expression\n6\n40-48\nRepertoire adaptation + recovery\n7\n48-56\nOriginal composition/arrangement performance\n8\n56-60\nReflection + final declaration\nThe exact minute count may shift slightly, but the entire exam should be completed in one session with minimal interruption.\n",
+      "text_sha256": "a7cedcf3615dc4c2d009d322f615c846171d060ed2acfd0be9b3bf31745e99c6"
+    },
+    "L105-PDF21": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 21,
+      "text": "Final Examination - Block 1: Technique and Fretboard\nMinute\nTask\n0-2\nshort warm-up + picking/legato control\n2-4\nrandom note/degree location\n4-6\nscale/arpeggio connection through two positions\n6-8\nbend/vibrato/harmonic/articulation accuracy\nScore execution and immediate fretboard access equally.\n",
+      "text_sha256": "9a53be84e92629d8ce7703693ae41c45ab98b22d66baaecc58cf49b545b68915"
+    },
+    "L105-PDF22": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 22,
+      "text": "Final Examination - Block 2: Harmony and Voicing\nMinute\nTask\n8-10\nmajor ii-V-I in random key\n10-12\nminor iiø-V-i in random key\n12-14\nfixed top-note reharmonization\n14-16\none secondary dominant + one passing diminished / pedal solution\nExplain every non-diatonic chord before moving on.\n",
+      "text_sha256": "5ce9cc39bf0fc8a505c0b75c2ac2ad9c1783c0a4d22da72e8cc9df5036f21d46"
+    },
+    "L105-PDF23": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 23,
+      "text": "Final Examination - Block 3: Groove and Style\nMinute\nTask\n16-18\nstraight rock -> funk\n18-20\nreggae/ska -> soul\n20-22\ncountry -> shuffle\n22-24\ninterlock -> jam-band\nSame tempo and harmony unless otherwise chosen. Style change must be audible without effects.\n",
+      "text_sha256": "e6a9166a8f96799b74330a66e8065a8add92c728eb7011dac64118abeaafe545"
+    },
+    "L105-PDF24": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 24,
+      "text": "Final Examination - Block 4: Ear and Reconstruction\nMinute\nTask\n24-26\nform/pulse from unfamiliar excerpt\n26-28\nbass/root map\n28-30\nharmony/groove\n30-32\nhook + functional performance\nDo not spend the entire block chasing one uncertain extension.\n",
+      "text_sha256": "0a2885f298e0e5672d28b459f4d9124447f4126151df9fca825d3bd014a93dfc"
+    },
+    "L105-PDF25": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 25,
+      "text": "Final Examination - Block 5: Improvisation and Expression\nMinute\nTask\n32-34\ntargets only\n34-36\nmotif development\n36-38\ndynamic/expression arc\n38-40\nrandom cue: Return / Space / Build / End\nOne clear motif return and one clear ending are mandatory.\n",
+      "text_sha256": "b2635c71243961c894ff83684bdb2ecd107d8d8ddf1d8b40618d54c479997ee6"
+    },
+    "L105-PDF26": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 26,
+      "text": "Final Examination - Block 6: Repertoire Adaptation\nMinute\nTask\n40-42\ncold-start known piece\n42-44\nstart from middle section\n44-46\nadapt section to new ensemble role/key\n46-48\nrecover one injected failure and continue\nA successful recovery is worth more than preserving a difficult but failing original part.\n",
+      "text_sha256": "721914e862baa26c749c2c80d8075da80459ea48d2b3a4a3cf72330efab9404f"
+    },
+    "L105-PDF27": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 27,
+      "text": "Final Examination - Block 7: Original Work\nMinute\nTask\n48-50\nstate identity/form of original\n50-55\nperform complete original or condensed core version\n55-56\nperform 50% reduction / alternate arrangement\nThe work must sound authored: identity, form, development, return, and ending.\n",
+      "text_sha256": "7ff0a29d86ef1e814de58dbcf207646debffd2e15bef014998dd125497b24e19"
+    },
+    "L105-PDF28": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 28,
+      "text": "Final Examination - Block 8: Reflection and Final Declaration\nQuestion\nAnswer in one sentence\nWhat is your strongest domain?\nWhat still needs specialization?\nWhich fallback saved the most performances?\nWhich technique do you now use less because you understand it better?\nWhat is the next repertoire/composition goal?\nWhat specialization track will you pursue, if any?\nThe core curriculum ends with self-directed musicianship. Future study should be chosen by musical goal, not by an arbitrary next level number.\n",
+      "text_sha256": "d74513df1ee7b12b5baa98349aa53842b24d87a3d548635573e735dc84917cbd"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "version": "level004-ex011-extension-bundle.1",
+  "content_version": "level004-ex011-rev1-reference.1",
+  "decision_sha256": "df732d63bf542248f51f9a13042d3f177ecc99f02dad18fdbb6971ac228bf289",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/parallel-02/level004-ex011-installed-r01/packet/package.json",
+    "profile": "Build/parallel-02/level004-ex011-installed-r01/packet/expected-profile.json",
+    "registry": "Build/parallel-02/level004-ex011-installed-r01/packet/identity-registry.json"
+  },
+  "files": [
+    {
+      "path": "Build/parallel-02/level004-ex011-case-bound-r01/packet/candidate-allocation.json",
+      "bytes": 2330,
+      "sha256": "1541781b6e36b103424596b91c199793f69606bbd449e2c84b9cb315bbcb8528"
+    },
+    {
+      "path": "Build/parallel-02/level004-ex011-case-bound-r01/packet/expected-profile.json",
+      "bytes": 37061,
+      "sha256": "4ec7102f7d55c5125f2f4d54c5da294f8ae6b5add5386e998e82974aa10f4d1e"
+    },
+    {
+      "path": "Build/parallel-02/level004-ex011-case-bound-r01/packet/identity-registry.json",
+      "bytes": 2068,
+      "sha256": "ded92eb7c6f4a8b8448e1d81f858da632c992843d65fcfdc80f4475b815c994a"
+    },
+    {
+      "path": "Build/parallel-02/level004-ex011-case-bound-r01/packet/package.json",
+      "bytes": 31522,
+      "sha256": "e171f69f6b860979dab27fc784a397dca1a418b11e85957bf550e387cffd7dc8"
+    },
+    {
+      "path": "Build/parallel-02/level004-ex011-case-bound-r01/packet/selected-projection.json",
+      "bytes": 3213,
+      "sha256": "aa790b582c41667bec1e534ea4f5a0e343728c1f5058b72c2483a1b5ef30fb5e"
+    },
+    {
+      "path": "Build/parallel-02/level004-ex011-installed-r01/packet/expected-profile.json",
+      "bytes": 37224,
+      "sha256": "8e660d7f9c71738bf7129415c7e604f38b9409b6d578de0491d6d0dcd6b356c6"
+    },
+    {
+      "path": "Build/parallel-02/level004-ex011-installed-r01/packet/identity-registry.json",
+      "bytes": 2068,
+      "sha256": "ded92eb7c6f4a8b8448e1d81f858da632c992843d65fcfdc80f4475b815c994a"
+    },
+    {
+      "path": "Build/parallel-02/level004-ex011-installed-r01/packet/package.json",
+      "bytes": 31522,
+      "sha256": "e171f69f6b860979dab27fc784a397dca1a418b11e85957bf550e387cffd7dc8"
+    },
+    {
+      "path": "Content/controls/curriculum-v1/package.json",
+      "bytes": 24698658,
+      "sha256": "766e7d07d91b3810e0c35ea0799b0afb7f34f25398cfa092de307167adeca255"
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_4_Three_String_Relay.pdf",
+      "bytes": 45350,
+      "sha256": "b24cad79148b8165b74cbd3662031c2ad0227f0e856aa955d03c88db31dbafb1"
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_4_Three_String_Relay.txt",
+      "bytes": 57886,
+      "sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a"
+    },
+    {
+      "path": "Prompts/manager-resume-r01/20260930T1342Z-level004-ex011-installed-shared-release.md",
+      "bytes": 7039,
+      "sha256": "897e720345165cdfe1557ea02c4c14634e87762491ff95ea4a52bf38249cdee6"
+    },
+    {
+      "path": "Results/manager-resume-r01/level004-ex011-runtime-decision-r01/decision.json",
+      "bytes": 1851,
+      "sha256": "cab33309ac94e695811b9cd45e3856f7e8fdf47d6b9e84aa52d6a93536251ae2"
+    },
+    {
+      "path": "Results/manager-resume-r01/level004-ex011-curriculum-decision-r01/decision.md",
+      "bytes": 3518,
+      "sha256": "8b41a5c3439122666f990a360c7ab48e2b6048c64bd809a6f512c28336c1d3a9"
+    },
+    {
+      "path": "Results/manager-resume-r01/level004-ex011-runtime-decision-r01/manifest.json",
+      "bytes": 5582,
+      "sha256": "38ad3191be6afee79a970ed71881537a94d9881ea73b00393b149ec712185d5e"
+    },
+    {
+      "path": "Results/primary/20260930T1125Z-level004-ex011-source-adoption.md",
+      "bytes": 2690,
+      "sha256": "dbed913961b61ec85e765816d16f39215586190c9d1b0bde78e03562bae5b3f1"
+    },
+    {
+      "path": "Results/primary/20260930T1227Z-level004-ex011-private-native-adoption.md",
+      "bytes": 2078,
+      "sha256": "971fbbf238e52b196d722e3134bc5d260fe98c38bca1c98f859621af06a2330a"
+    },
+    {
+      "path": "Results/primary/20260930T1202Z-level004-ex011-curriculum-adoption.md",
+      "bytes": 2294,
+      "sha256": "4630b0f9991787fa7ef1c7dbb8f164bc9c60b34e247ea73147bf5e4e0feb1413"
+    },
+    {
+      "path": "Results/primary/20260930T1239Z-level004-ex011-runtime-decision-adoption.md",
+      "bytes": 1894,
+      "sha256": "46463cba9728f80223302f543ddbbd08a502a8c6833a803d58b933eba7c21d52"
+    },
+    {
+      "path": "Results/primary/20260906124133Z-2.1.1.1.1-r01-evidence/identity-manifest.json",
+      "bytes": 85171,
+      "sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe"
+    },
+    {
+      "path": "Results/primary/20260906T182131Z-2.1.1.1.1-r02-results.md",
+      "bytes": 3485,
+      "sha256": "e908e9c1fa1f17ffce70b671f23eade4c08afc9d50b43f7b8fb7000aa39195b9"
+    },
+    {
+      "path": "Results/primary/20260912T100538Z-2.1.1.2.1-r02-evidence/schema-freeze.json",
+      "bytes": 2737,
+      "sha256": "0659fa962a5c933a2bcf3045772b6fe5b05b4deefb3511f5dcb68af51088de95"
+    },
+    {
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/allocation01/cumulative-registry.json",
+      "bytes": 793578,
+      "sha256": "ceef5633b0fba148189f277a046763301ba5d7cd70bab5d0701b07d1e3af2791"
+    },
+    {
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/allocation01/cumulative-allocation.json",
+      "bytes": 1407955,
+      "sha256": "3b3f6217fc35ac091201f99efcc43763a7def134b152cd22b1e5d3141cd61a59"
+    },
+    {
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/handoff01/lineage-baseline.json",
+      "bytes": 77307,
+      "sha256": "2205ba66ddfd002dd3402b33272be949b5c8a22d83932c4e7c8b4345f48bfdf4"
+    },
+    {
+      "path": "Results/primary/20260912T200254Z-2.3.1.1.1-r12-evidence/validation01/report.json",
+      "bytes": 8527990,
+      "sha256": "20d92eabeef1ded57fe2cbdc0a6f5b3af915277e6765989aefaec4fa44d81cec"
+    },
+    {
+      "path": "decision.json",
+      "bytes": 2431,
+      "sha256": "df732d63bf542248f51f9a13042d3f177ecc99f02dad18fdbb6971ac228bf289"
+    },
+    {
+      "path": "agent-curriculum-decision.md",
+      "bytes": 599,
+      "sha256": "e47985d5d5a0053166f543b59ba37d91a9c41128db7858a52fbc23c4c9f30197"
+    },
+    {
+      "path": "installed-resource-plan.json",
+      "bytes": 391,
+      "sha256": "7333098a0a2ca6ebef91f69bed931a766202d29470e7c98f11922063a45c10bf"
+    }
+  ],
+  "profile_sha256": "8e660d7f9c71738bf7129415c7e604f38b9409b6d578de0491d6d0dcd6b356c6"
+}

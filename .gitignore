@@ -1,0 +1,27 @@
+# Local build products
+/build/
+/Build/
+/DerivedData/
+*.o
+*.a
+*.dSYM/
+*.app/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Private archive/evidence must remain outside this repository
+/private/
+/Results/
+/Evidence/
+/Planning/
+/Prompts/
+Fathom-*-private-*.zip
+*planning-QA*.zip
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+.env
+.env.*
+*.pem
+*.key

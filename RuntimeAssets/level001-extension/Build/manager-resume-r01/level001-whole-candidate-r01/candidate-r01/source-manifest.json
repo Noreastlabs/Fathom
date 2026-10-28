@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "bytes": 36189,
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Guitar_Tablature.txt",
+      "role": "original_txt",
+      "sha256": "0f5719945456692fc4c40ce3b06e0cd742b61b7f8615ad465b9f26832cd08842"
+    },
+    {
+      "bytes": 33028,
+      "path": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Guitar_Tablature.pdf",
+      "role": "original_pdf",
+      "sha256": "3b0ca589c94497d80ce7529018cacb01d6b6fa6982797e61a8228ee044b72d62"
+    },
+    {
+      "bytes": 3049,
+      "path": "Prompts/manager-resume-r01/level001-whole-candidate-r01/authored-realization-supplement.txt",
+      "role": "fathom_authored_realization",
+      "sha256": "8d1e053294d143ccd73bcfcf11cd9597ec3b7e2673555ee864d3ae9b00c19ec0"
+    }
+  ],
+  "native_or_runtime_admission": false,
+  "original_source_timing": "unresolved; source event objects remain null-time",
+  "parity_clarification": {
+    "bytes": 3031,
+    "path": "Results/primary/manager-resume-r01/level001-parity-matrix-clarification.md",
+    "sha256": "4f2ac4c6c9fafbd1181ed0bb72c01e2b11d3d0716b48755c0f555ad0d2680bb8"
+  },
+  "policy_adoption": {
+    "bytes": 3949,
+    "path": "Results/primary/manager-resume-r01/level001-contract-adoption.md",
+    "sha256": "cacbddae4be0d6a726a001eded413c5df6f5b2832c522ac7b2d5dfeae228251d"
+  },
+  "schema": "fathom-level001-authored-source-manifest.1",
+  "scope": "Exact108 existing printed Level1 units; prospective authored full48 D/U quarter realization, candidate source review pending"
+}

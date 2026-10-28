@@ -1,0 +1,3102 @@
+{
+  "schema_version": "0.1.0-proposal",
+  "content_version": "control-examples.1",
+  "source_manifest_sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe",
+  "source_acceptance": "Results/20260906T182131Z-2.1.1.1.1-r02-results.md",
+  "sources": {
+    "L1-TXT2-15": {
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Guitar_Tablature.txt",
+      "sha256": "0f5719945456692fc4c40ce3b06e0cd742b61b7f8615ad465b9f26832cd08842",
+      "format": "txt",
+      "first_line": 2,
+      "last_line": 15,
+      "text": "Fifth position: 1=index/fret 5, 2=middle/fret 6, 3=ring/fret 7, 4=pinky/fret 8.\nPlay each pattern from low E to high e. Repeat from high e to low E to descend.\nUse strict alternate picking unless practicing another picking system intentionally.\n\n========================================================================\nSTARTING FINGER 1 (INDEX)\n========================================================================\nExercise 001: 1212\ne|----------------------------------------5-6-5-6-\nB|--------------------------------5-6-5-6---------\nG|------------------------5-6-5-6-----------------\nD|----------------5-6-5-6-------------------------\nA|--------5-6-5-6---------------------------------\nE|5-6-5-6-----------------------------------------",
+      "text_sha256": "b15e277903ef5c8d7c6bc34d722a47ed43582c6e9a839f035012eed2633c2fe7"
+    },
+    "L3-TXT5-21": {
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.txt",
+      "sha256": "1bb8d5225f2db8df2b3ce518f10f28e11158592e0b5cbbb4c28af2742c861b4f",
+      "format": "txt",
+      "first_line": 5,
+      "last_line": 21,
+      "text": "MOVEMENT RULE\nMode A - 3+1 late transfer: play digits 1-3 on the first string and digit 4 on the adjacent string.\nMode B - 1+3 early transfer: play digit 1 on the first string and digits 2-4 on the adjacent string.\nAscend through E/A, A/D, D/G, G/B, B/e. Descend through e/B, B/G, G/D, D/A, A/E.\nThe four-digit code order never changes.\n\nWHY THIS IS LEVEL 3\nLevel 2 crossed after note 2. These modes cross after note 3 or note 1, so strict alternate picking produces different\ninside- and outside-string transitions depending on whether the exercise begins with a downstroke or an upstroke.\n\nPRACTICE RULE\nBegin 8-12 BPM below your clean Level 2 tempo. Use one 12-code set and one mode per session.\nPlay each exercise ascending and descending, once beginning with a downstroke and once beginning with an upstroke.\nFirst pass: lightly accent the first note after the crossing. Second pass: make all four notes equal in volume.\nRotate the existing straight-16th, triplet, and quintuplet groupings across sessions.\nAfter three clean loops, add 2 BPM next time. After two errors or rising tension, reduce 4-6 BPM.\nAdvance when both modes for the set are clean on two separate days.",
+      "text_sha256": "3078d30270f709dd5a29b1ee56b94745d0a488279624f5553a320f20fab0bfb8"
+    },
+    "L3-TXT28-46": {
+      "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.txt",
+      "sha256": "1bb8d5225f2db8df2b3ce518f10f28e11158592e0b5cbbb4c28af2742c861b4f",
+      "format": "txt",
+      "first_line": 28,
+      "last_line": 46,
+      "text": "MODE A - 3+1 LATE TRANSFER\nDigits 1-3 stay on the first string; digit 4 lands on the adjacent string.\n------------------------------------------------------------------------------------------------\n\nExercise 001: 1212\nASCEND\ne|--------|--------|--------|--------|------6-|\nB|--------|--------|--------|------6-|5-6-5---|\nG|--------|--------|------6-|5-6-5---|--------|\nD|--------|------6-|5-6-5---|--------|--------|\nA|------6-|5-6-5---|--------|--------|--------|\nE|5-6-5---|--------|--------|--------|--------|\nDESCEND\ne|5-6-5---|--------|--------|--------|--------|\nB|------6-|5-6-5---|--------|--------|--------|\nG|--------|------6-|5-6-5---|--------|--------|\nD|--------|--------|------6-|5-6-5---|--------|\nA|--------|--------|--------|------6-|5-6-5---|\nE|--------|--------|--------|--------|------6-|",
+      "text_sha256": "8e95d054783597bac85b3f932b6e6aa4feab6f8370d878d784e0425351c77c07"
+    },
+    "L12-TXT14-28": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_12_Major_Scale_One_Fret_Neck_Ladder.txt",
+      "sha256": "64e65f5293012f9af3c84a885cbdd54c82275f6c6e282c8f8a28cca579631be9",
+      "format": "txt",
+      "first_line": 14,
+      "last_line": 28,
+      "text": "Degrees: 1 2 3 4 5 6 7 8\nIntervals: whole - whole - half - whole - whole - whole - half\n\nCOMPACT ONE-OCTAVE SHAPE - ROOT FRET R ON LOW E\nLow E string: R, R+2               Fingers 2,4\nA string:     R-1, R, R+2          Fingers 1,2,4\nD string:     R-1, R+1, R+2        Fingers 1,3,4\nThe four-fret hand frame runs from R-1 through R+2.\n\nCELL AND PICKING RULE\nPlay degrees 1-2-3-4-5-6-7-8, then 8-7-6-5-4-3-2-1. The octave root is repeated at the turn.\nThis creates 16 notes, so the next key begins with the same alternate-picking orientation.\nD-start: D U D U D U D U | D U D U D U D U\nU-start: U D U D U D U D | U D U D U D U D\nDo not restart the pick cycle at the scale turn or at the one-fret shift.",
+      "text_sha256": "0ace164f4c5f909233d35fe042bbf694a90a07be234c8e29bd4afa66e8202a55"
+    },
+    "L12-TXT34-52": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_12_Major_Scale_One_Fret_Neck_Ladder.txt",
+      "sha256": "64e65f5293012f9af3c84a885cbdd54c82275f6c6e282c8f8a28cca579631be9",
+      "format": "txt",
+      "first_line": 34,
+      "last_line": 52,
+      "text": "PRACTICE RULE\nUse 3-4 neighboring rungs at first. Play even eighth notes and pause one beat after every 16-note cell.\nDuring the pause, release pressure and move the complete frame one fret. Repeat with both pick starts.\nThen remove the pause, connect the ladder, reverse at fret 17, and return to fret 5.\nAdd 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, dragged shift noise, or rising tension.\nAdvance after the complete route is clean with both pick starts on two separate days.\n\n========================================================================================================\nRUNG 01 OF 13 - A MAJOR - ROOT ON LOW E FRET 5 - FRAME 4-7\nScale tones: A B C# D E F# G# A\n16-note cell: ascend 1-8, repeat the octave root, descend 8-1.\nDeg|1--2--3--4--5--6--7--8--8--7--6--5--4--3--2--1--|\nFng|2--4--1--2--4--1--3--4--4--3--1--4--2--1--4--2--|\ne  |------------------------------------------------|\nB  |------------------------------------------------|\nG  |------------------------------------------------|\nD  |---------------4--6--7--7--6--4-----------------|\nA  |------4--5--7--------------------7--5--4--------|\nE  |5--7--------------------------------------7--5--|",
+      "text_sha256": "6f18d9c86990aaf927d8c791a62451ab886056eb1ea55dc160c50d5cc7aaf981"
+    },
+    "L15-TXT21-32": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514",
+      "format": "txt",
+      "first_line": 21,
+      "last_line": 32,
+      "text": "Scale positions: 1 through 15, covering two octaves.\nIntervals per octave: whole - whole - half - whole - whole - whole - half\nPositions 8 and 15 are octave roots; positions 9-14 repeat degrees 2-7 in the upper octave.\n\nTWO-OCTAVE SIX-STRING SHAPE - ROOT FRET R ON LOW E\nLow E string: R, R+2               Fingers 2,4\nA string:     R-1, R, R+2          Fingers 1,2,4\nD string:     R-1, R+1, R+2        Fingers 1,3,4\nG string:     R-1, R+1, R+2        Fingers 1,3,4\nB string:     R, R+2               Fingers 2,4\nHigh e string: R-1, R              Fingers 1,2\nThe four-fret hand frame runs from R-1 through R+2.",
+      "text_sha256": "0234e4b25bbd85105aa25da186ffc8b80cd36522b6b77ac17c37d08a8ea90199"
+    },
+    "L15-TXT59-81": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514",
+      "format": "txt",
+      "first_line": 59,
+      "last_line": 81,
+      "text": "PRACTICE RULE\nUse eighth-note triplets: one three-note group per beat. Begin 15-20 BPM below your clean Level 14 tempo.\nFirst master the 13 ascending triplets in A major, then the 13 descending triplets. Link them without\nrestarting the pick cycle and make the two high-root notes equal in length and volume. Next use 2-3\nneighboring rungs and pause one beat after each 78-note cell while moving the complete frame one fret.\nRepeat with both pick starts. Remove the pause, connect the ladder, reverse after the fret-17 cell, and\nreturn to fret 5. Add 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, a broken triplet\npulse, a missed B-string offset, dragged shift noise, or rising tension. Advance after the complete route\nis clean with both pick starts on two separate days.\n\n======================================================================================================================================================\nRUNG 01 OF 13 - A MAJOR - ROOT ON LOW E FRET 5 - FRAME 4-7\nScale tones across two octaves: A B C# D E F# G# A B C# D E F# G# A\n78-note cell: 13 ascending rolling triplets, repeat the high root at the turn, then 13 descending triplets.\nASCENDING - 13 TRIPLETS / 39 NOTES\nDeg|1--2--3--|2--3--4--|3--4--5--|4--5--6--|5--6--7--|6--7--8--|7--8--9--|8--9--10-|9--10-11-|10-11-12-|11-12-13-|12-13-14-|13-14-15-|\nFng|2--4--1--|4--1--2--|1--2--4--|2--4--1--|4--1--3--|1--3--4--|3--4--1--|4--1--3--|1--3--4--|3--4--2--|4--2--4--|2--4--1--|4--1--2--|\ne  |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|------4--|---4--5--|\nB  |---------|---------|---------|---------|---------|---------|---------|---------|---------|------5--|---5--7--|5--7-----|7--------|\nG  |---------|---------|---------|---------|---------|---------|------4--|---4--6--|4--6--7--|6--7-----|7--------|---------|---------|\nD  |---------|---------|---------|------4--|---4--6--|4--6--7--|6--7-----|7--------|---------|---------|---------|---------|---------|\nA  |------4--|---4--5--|4--5--7--|5--7-----|7--------|---------|---------|---------|---------|---------|---------|---------|---------|\nE  |5--7-----|7--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|",
+      "text_sha256": "073c2546552f949170666676b88e70b4984392ec1e581f477d4bdbe547c16f65"
+    },
+    "L15-TXT392-398": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514",
+      "format": "txt",
+      "first_line": 392,
+      "last_line": 398,
+      "text": "AFTER THE BASIC LADDER IS CLEAN\n1. Group accents: accent the first note of each triplet, then remove every group accent.\n2. Off-center accents: accent the second note of each triplet without changing the pulse.\n3. Root accents: accent only positions 1, 8, and 15 wherever they occur inside the rolling line.\n4. Sextuplets: play two triplet groups per beat at half the metronome marking.\n5. Direction: begin selected sessions at fret 17 and descend first.\n6. Random entry: choose any root fret from 5-17, name the key, play its cell, and continue either way.",
+      "text_sha256": "f13fd0dacf160278d8dc4cdc64ac746aafd0a9a2a9df04cce2f20f90e32d8006"
+    },
+    "L29-TXT1512-1513": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_29_Natural_Minor_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "543d98fa9279f39d8975d6b00cd43e5f5aebbb94c5e59fe7771f63af8d8244e5",
+      "format": "txt",
+      "first_line": 1512,
+      "last_line": 1513,
+      "text": "NEXT SECTION\nHarmonic Minor - Chromatic Neck Ladder",
+      "text_sha256": "eebf5b7dcf5afabb98c66e4a95256e0c8197d79cdb2c21d255da5c750c51b835"
+    },
+    "compiled-PDF2": {
+      "path": "Notes/music/guitar project/PDF version/output/pdf/Guitar_Complete_105_Level_Printable_Collection.pdf",
+      "sha256": "522c69965b8038af99d061465171067f31265d5d93f70f64ca57bd3803c8f093",
+      "format": "pdf",
+      "page": 2,
+      "text": "START HERE\nIntroduction & How to Use This Book\nThis collection brings the complete 105-level guitar curriculum into one continuous practice reference. It begins with finger\ncoordination, develops fretboard and harmonic control, and finishes with complete performances and original music. Treat each level\nas a set of skills to demonstrate, rather than a race through pages.\nA REPEATABLE PRACTICE LOOP\n01\nRead the level\nIdentify the module, key or position, rhythm and printed mastery\ngate.\n02\nIsolate one challenge\nWork on a manageable cell or transition at a controllable tempo.\n03\nConnect it to music\nRestore the phrase, progression or full form. Listen for the target\nskill.\n04\nRecord and review\nCapture evidence, name the weak boundary and choose the next\nrepair.\nFINDING AND PRINTING MATERIAL\nThe contents on page 4 links to each section. Every section opener lists\nits levels and book page ranges; PDF bookmarks reach all 105 levels.\nPractice tools begin on page 1,772.\nPrint: US Letter, landscape, one PDF page per sheet side. Use actual size\n(100%) when supported, or fit to the printable area if your printer clips\nan edge. For duplex, use flip on short edge and test two pages first.\nThe complete book uses 1,777 single-sided sheets or 889 duplex sheets. Use\nthe contents to print section ranges for a binder. Pages are consecutive; no\nblank divider backs are inserted.\nEditorial navigation notes. The unnumbered finger-permutation PDF is indexed as Level 1. The older next-section notes at the end of Levels 29 and 48 are superseded: Level\n30 begins major pentatonic, Level 49 begins chords and rhythm, and harmonic minor starts at Level 65. Source content and local page numbers remain; use the new bottom\nfooter for book page references.\nGUITAR PRACTICE LIBRARY  |  INTRODUCTION & NAVIGATION\nBOOK 2 / 1,777\n",
+      "text_sha256": "a8c020526b0f3abb407e788ec81ed40173535e5f362a56b5c41b84eface9ea79"
+    },
+    "L39-TXT30-40": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_39_F_Sharp_Minor_Pentatonic_Re_Centering_Workbook.txt",
+      "sha256": "24dfc7b858a2211ff28c47861967e5c10831002c95ea345363ae8270e17ccccd",
+      "format": "txt",
+      "first_line": 30,
+      "last_line": 40,
+      "text": "P1 DRONE-COMPARISON PHRASE\nNte|B---C#--E---F#--A---F#--E---C#--|\nAMj|2---3---5---6---1---6---5---3---|\nF#m|4---5---b7--1---b3--1---b7--5---|\nFng|1---3---2---4---2---4---2---3---|\n  e|----------------5---------------|\n  B|--------5---7-------7---5-------|\n  G|4---6-----------------------6---|\n  D|--------------------------------|\n  A|--------------------------------|\n  E|--------------------------------|",
+      "text_sha256": "8bf5d8bfc7cadbdeb16b1abf2010c1d85548726403ce8ad6370d6e1b9ce2da66"
+    },
+    "L39-TXT94-106": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_39_F_Sharp_Minor_Pentatonic_Re_Centering_Workbook.txt",
+      "sha256": "24dfc7b858a2211ff28c47861967e5c10831002c95ea345363ae8270e17ccccd",
+      "format": "txt",
+      "first_line": 94,
+      "last_line": 106,
+      "text": "Play each established 24-note vertical cell on separate passes: A-major degree names, F#-minor degree names, then F#-root accents.\n\nP1 - ESTABLISHED A-ROOT FRAME - FRETS 4-7\nNte|A---B---C#--E---F#--A---B---C#--E---F#--A---B---|B---A---F#--E---C#--B---A---F#--E---C#--B---A---|\nAMj|1---2---3---5---6---1---2---3---5---6---1---2---|2---1---6---5---3---2---1---6---5---3---2---1---|\nF#m|b3--4---5---b7--1---b3--4---5---b7--1---b3--4---|4---b3--1---b7--5---4---b3--1---b7--5---4---b3--|\nFng|2---4---1---4---1---4---1---3---2---4---2---4---|4---2---4---2---3---1---4---1---4---1---4---2---|\n  e|----------------------------------------5---7---|7---5-------------------------------------------|\n  B|--------------------------------5---7-----------|--------7---5-----------------------------------|\n  G|------------------------4---6-------------------|----------------6---4---------------------------|\n  D|----------------4---7---------------------------|------------------------7---4-------------------|\n  A|--------4---7-----------------------------------|--------------------------------7---4-----------|\n  E|5---7-------------------------------------------|----------------------------------------7---5---|",
+      "text_sha256": "89f5c3722561ae7c6eec6cfba6eda870f869e6fd10b3438edee1cf470141ed47"
+    },
+    "L48-TXT28-43": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_48_A_Blues_Call_and_Response_and_Improvisation_Synthesis_Fixed_Key_A.txt",
+      "sha256": "76b77483351d84ee3af830b96fb08d9c95fcf944cb353e356e85974da18ed511",
+      "format": "txt",
+      "first_line": 28,
+      "last_line": 43,
+      "text": "TAB LEGEND\nP = picked attack; h = hammer-on; p = pull-off; s = slide arrival; b = bend; b< = blue-third shade;\nr = rest; = = held tone. Color row: C common anchor, m minor-only, b5 blue note, M major-only, * completion.\n\nCORE WRITTEN COUNTS\nA - local conversations: 57 sounding tones / 38 pick attacks.\nB - seam conversations: 92 sounding tones / 77 pick attacks.\nC - motif transformations: 47 sounding tones / 30 pick attacks.\nD - density ladder: 60 sounding tones / 59 pick attacks.\nE - dynamic shape: 60 sounding tones / 57 pick attacks.\nF - minor-only chorus: 66 sounding tones / 62 pick attacks.\nG - blues/articulation chorus: 71 sounding tones / 46 pick attacks.\nH - mixed-color chorus: 75 sounding tones / 68 pick attacks.\nI - turnarounds: 60 sounding tones / 57 pick attacks.\nJ - written recovery: 26 sounding tones / 23 pick attacks.\nComplete written workout: 614 sounding tones / 517 pick attacks, before the free capstone.",
+      "text_sha256": "3586ccbd0e586c54861ddae3ec775f44b2fac8292e5db536610ff8db835306ab"
+    },
+    "L48-TXT49-76": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_48_A_Blues_Call_and_Response_and_Improvisation_Synthesis_Fixed_Key_A.txt",
+      "sha256": "76b77483351d84ee3af830b96fb08d9c95fcf944cb353e356e85974da18ed511",
+      "format": "txt",
+      "first_line": 49,
+      "last_line": 76,
+      "text": "P1 - BLUE-NOTE QUESTION, CHORD-TONE ANSWER - P1\nKeep the call unresolved. Let the C-to-C# move identify A7 before the final root.\nCALL - Ends on the flat seventh after exposing 4-b5-5.\nCnt|1----&----2----&----3----&----4----&----\nNte|A----C----r----D----Eb---E----G----r----\nDeg|1----b3---r----4----b5---5----b7---r----\nCol|C----m----r----m----b5---C----m----r----\nRol|R----b3---r----11---b5---5----b7---r----\nAtk|P----h----r----P----s----s----P----r----\n  e|----------------------------------------\n  B|------------------------------8---------\n  G|----------------------------------------\n  D|----------------------------------------\n  A|---------------5----6----7--------------\n  E|5----8----------------------------------\nRESPONSE - Turns b3 into the major third, then resolves to A.\nCnt|1----&----2----&----3----&----4----&----\nNte|C----C#---r----E----G----A----=----r----\nDeg|b3---3----r----5----b7---1----=----r----\nCol|m----M----r----C----m----C----=----r----\nRol|b3---3----r----5----b7---R----=----r----\nAtk|P----s----r----P----P----s----=----r----\n  e|----------------------------------------\n  B|---------------5------------------------\n  G|5----6----------------------------------\n  D|--------------------5----7--------------\n  A|----------------------------------------\n  E|----------------------------------------",
+      "text_sha256": "b552d352a6d6d15f442aeb3b46580b2828b6060c75756afad1249bc170dadfc4"
+    },
+    "L48-TXT1214-1246": {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_48_A_Blues_Call_and_Response_and_Improvisation_Synthesis_Fixed_Key_A.txt",
+      "sha256": "76b77483351d84ee3af830b96fb08d9c95fcf944cb353e356e85974da18ed511",
+      "format": "txt",
+      "first_line": 1214,
+      "last_line": 1246,
+      "text": "RECORD-AND-REVIEW RUBRIC - SCORE EACH 0, 1, OR 2\nForm awareness: 0 absent / 1 inconsistent / 2 controlled.\nRhythmic space: 0 absent / 1 inconsistent / 2 controlled.\nChord targeting: 0 absent / 1 inconsistent / 2 controlled.\nBend and slide intonation: 0 absent / 1 inconsistent / 2 controlled.\nMotif continuity: 0 absent / 1 inconsistent / 2 controlled.\nPosition movement: 0 absent / 1 inconsistent / 2 controlled.\nDynamic shape: 0 absent / 1 inconsistent / 2 controlled.\nRecovery after an error: 0 absent / 1 inconsistent / 2 controlled.\nMaximum 16. Section-completion standard: 13 or higher on two separate days, with no zero in form awareness,\nchord targeting, or recovery.\n\nPRACTICE PROGRESSION\n1. Clap the call-and-response rhythms and count every rest.\n2. Complete all five local pairs; exaggerate the phrase boundary.\n3. Play all four seam conversations and verify every beat-one target.\n4. Transform the seed motif in seven ways without changing tempo.\n5. Perform sparse, medium, and dense passes at one BPM.\n6. Perform the three dynamic-shape exercises without changing subdivision.\n7. Learn each model chorus in four-bar blocks, then play all twelve bars.\n8. Replace one response bar at a time while preserving the written calls.\n9. Practice tonic closes and E7 re-entries until bar 12 has a clear purpose.\n10. Record the three-chorus capstone, score it, repair one category, and record again.\n\nMASTERY GATE - SECTION V COMPLETE\nPerform all five local pairs and four seam conversations; transform one motif in seven ways; preserve targets\nthrough sparse, medium, and dense passes; play all three model choruses; execute both a tonic ending and a\nfunctional turnaround; recover from a deliberate wrong note without stopping; record three connected choruses\non two separate days; make the A7-D7-E7 form audible without accompaniment; and score at least 13/16.\n\nNEXT SECTION\nSection VI begins harmonic minor. Natural minor degree b7 is raised to 7, creating the minor-key dominant,\nthe augmented-second interval between b6 and 7, and a new set of chord-tone and phrasing demands.",
+      "text_sha256": "0e1d00f453bc2435f090e95f9ff87e1598d735633cf596ad43d2e4c12f312b08"
+    },
+    "L49-TXT49-61": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.txt",
+      "sha256": "8487f1d1bc949e79509de98b10e1888200d48ddf8651d98979634e44b9fc20c3",
+      "format": "txt",
+      "first_line": 49,
+      "last_line": 61,
+      "text": "E: frets 0 2 2 1 0 0\nStrings: E A D G B e\nFingers: O 2 3 1 O O\nNotes:   E B E G# B E\nSpelling: E G# B. Attack zone: all 6 strings.\nBuild order: A2 -> D2 -> G1.\nKeep fingers 2-3 planted when alternating with Em.\n\nEm: frets 0 2 2 0 0 0\nStrings: E A D G B e\nFingers: O 2 3 O O O\nNotes:   E B E G B E\nSpelling: E G B. Attack zone: all 6 strings.",
+      "text_sha256": "23d4d098e0096060aeb122c6f36bee43c92dc0f8d8d67ff15ef70adca655295e"
+    },
+    "L58-TXT7-17": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_58_Sixteenth_Note_Rhythm_Guitar_Syncopation_Dead_Strokes_Chord_Releases_Anticipations_Funk_Comping_and_Full_Song_Capstone.txt",
+      "sha256": "e0c153f77a6c917056b7f17c876b2431336b40cb93bf484708230296b472acd4",
+      "format": "txt",
+      "first_line": 7,
+      "last_line": 17,
+      "text": "SYMBOLS\nP = pitched chord attack\nx = dead / muted strum\n- = air stroke; no string contact\n~ = tie or sustain; no new attack\nR = left-hand pressure release\n> = accent the following contact\n\nRIGHT-HAND GRID\nCnt|1e&a|2e&a|3e&a|4e&a|\nHnd|DUDU|DUDU|DUDU|DUDU|",
+      "text_sha256": "cb8f1408fcb59a30e7242c6e8e58ec2182cf4d0c7e7ca5e668f3b0a883c862a7"
+    },
+    "L58-TXT43-48": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_58_Sixteenth_Note_Rhythm_Guitar_Syncopation_Dead_Strokes_Chord_Releases_Anticipations_Funk_Comping_and_Full_Song_Capstone.txt",
+      "sha256": "e0c153f77a6c917056b7f17c876b2431336b40cb93bf484708230296b472acd4",
+      "format": "txt",
+      "first_line": 43,
+      "last_line": 48,
+      "text": "A1. Beat only\nCnt|1e&a|2e&a|3e&a|4e&a|\nHnd|DUDU|DUDU|DUDU|DUDU|\nSnd|P---|P---|P---|P---|\nRepeat the one-beat mask on all four beats.\nContacts: 4",
+      "text_sha256": "dc9527d6d0d0ad78a6be8ef4cc8ade8e2ca97e1f08e1441a8ecb5c74a8fb6095"
+    },
+    "L74-TXT5-11": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.txt",
+      "sha256": "63df8ae138ca4587315a04f239818057db44c990c3a6fac3ce9f82244a46aa28",
+      "format": "txt",
+      "first_line": 5,
+      "last_line": 11,
+      "text": "Change the perceived rhythmic center without losing the meter, barline, harmony, or pulse. Train groups of 3, 5, and 7 over the sixteen-note 4/4 grid; metric displacement; quintuplet and septuplet subdivisions; 3:2 and 4:3 polyrhythms; 5/4 and 7/8; and full-form harmonic application.\n\nCORE ARITHMETIC\n4/4 contains 16 sixteenth-note slots per bar.\nGroup of 3 returns after 48 slots = 3 bars = 16 groups.\nGroup of 5 returns after 80 slots = 5 bars = 16 groups.\nGroup of 7 returns after 112 slots = 7 bars = 16 groups.",
+      "text_sha256": "fd25526cedacb306493665153c35b0fdb121b4a44b4b11e7563132504ed5b34d"
+    },
+    "L74-TXT181-249": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.txt",
+      "sha256": "63df8ae138ca4587315a04f239818057db44c990c3a6fac3ce9f82244a46aa28",
+      "format": "txt",
+      "first_line": 181,
+      "last_line": 249,
+      "text": "Beat 6: . . . . . > .\nBeat 7: . . . . . . >\n\nC7 rate ladder:\nBeat 1: 4 notes C-E-G-B\nBeat 2: 5 notes C-E-G-B-D\nBeat 3: 6 notes C-D-E-G-A-B\nBeat 4: 7 notes C-D-E-F-G-A-B\nTotal: 22 tones.\n\n========================================================================================================================\nMODULE D - POLYRHYTHMIC PHRASE CONTROL\n========================================================================================================================\n\n3:2 Cmaj7 - root C, upper E, locations A3 / B5\nCount|1---triplet-2---triplet-3---triplet-4---triplet-|\n2-pul|C-----------C-----------C-----------C-----------|\n3-pul|E-------E-------E-------E-------E-------E-------|\n\n\n3:2 Am7 - root A, upper C, locations E5 / B1\nCount|1---triplet-2---triplet-3---triplet-4---triplet-|\n2-pul|A-----------A-----------A-----------A-----------|\n3-pul|C-------C-------C-------C-------C-------C-------|\n\n\n3:2 Dm7 - root D, upper F, locations A5 / B6\nCount|1---triplet-2---triplet-3---triplet-4---triplet-|\n2-pul|D-----------D-----------D-----------D-----------|\n3-pul|F-------F-------F-------F-------F-------F-------|\n\n\n3:2 G7 - root G, upper B, locations E3 / B0\nCount|1---triplet-2---triplet-3---triplet-4---triplet-|\n2-pul|G-----------G-----------G-----------G-----------|\n3-pul|B-------B-------B-------B-------B-------B-------|\n\n\n4:3 Cmaj7 - lower pulse C, upper pulse E, beat-4 resolution C\nCount|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|\n3-pul|C-----------C-----------C-----------------------|\n4-pul|E--------E--------E--------E--------------------|\nBeat4|------------------------------------C-----------|\n\n\n4:3 Am7 - lower pulse A, upper pulse C, beat-4 resolution A\nCount|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|\n3-pul|A-----------A-----------A-----------------------|\n4-pul|C--------C--------C--------C--------------------|\nBeat4|------------------------------------A-----------|\n\n\n4:3 Dm7 - lower pulse D, upper pulse F, beat-4 resolution D\nCount|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|\n3-pul|D-----------D-----------D-----------------------|\n4-pul|F--------F--------F--------F--------------------|\nBeat4|------------------------------------D-----------|\n\n\n4:3 G7 - lower pulse G, upper pulse B, beat-4 resolution G\nCount|1--e--&--a--2--e--&--a--3--e--&--a--4--e--&--a--|\n3-pul|G-----------G-----------G-----------------------|\n4-pul|B--------B--------B--------B--------------------|\nBeat4|------------------------------------G-----------|\n\nTransition cell 1: Cmaj7 3:2 -> G7 4:3. 18 tones.\nTransition cell 2: Am7 3:2 -> E7 4:3. 18 tones.\n\n========================================================================================================================",
+      "text_sha256": "6565b0bc50d00b3de76ec2b0a0a9a87f9354d7c2d24dd10953c0cb0242337f67"
+    },
+    "L83-TXT52-56": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.txt",
+      "sha256": "12561dfc8c1d81b710cb2d429b52e2d9574ea5fd7bfa65d0bf1f1b575682bb85",
+      "format": "txt",
+      "first_line": 52,
+      "last_line": 56,
+      "text": "CAPSTONE\n24 bars. Keep the written melody fixed while progressing from diatonic baseline to functional chromatic reharmonization.\n\nMASTERY\n14/16 or better on two separate days. No zero in melody clarity, bass logic, form/pulse, or recovery.",
+      "text_sha256": "199c305803b3f992508603b813535f8bc57305438ea4604560d89d1f9b3c7758"
+    },
+    "L83-PDF19": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.pdf",
+      "sha256": "3571f063bdafa8a3acb9a52f542d6f490516d75e325f55ea29915111659e5c5c",
+      "format": "pdf",
+      "page": 19,
+      "text": "Module I — Twenty-Four-Bar Melody-First Capstone\nBars 1-8: diatonic baseline. Bars 9-16: introduce secondary dominants and one passing diminished chord. Bars 17-24: reharmonize at least four measures while\nkeeping the written melody unchanged.\nBar\nChord\nTop\n1\nCmaj7\nE\n2\nAm7\nE\n3\nDm7\nF\n4\nG7\nB\n5\nCmaj7\nG\n6\nA7\nC#\n7\nDm7\nF\n8\nG7\nB\n9\nEm7\nG\n10\nA7\nC#\n11\nDm7\nF\n12\nG7\nB\n13\nCmaj7\nE\n14\nC#dim7\nE\n15\nDm7\nF\n16\nG7\nB\n17\nAm7\nC\n18\nD7\nF#\n19\nGmaj7\nB\n20\nB7\nD#\n21\nEm7\nG\n22\nA7\nC#\n23\nDm7\nF\n24\nG7\nG\n",
+      "text_sha256": "2efc96399e53d49a4e92086afbb5f0f8654d58bdc7c8e144c31e5789f69d0c6d"
+    },
+    "L83-PDF20": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.pdf",
+      "sha256": "3571f063bdafa8a3acb9a52f542d6f490516d75e325f55ea29915111659e5c5c",
+      "format": "pdf",
+      "page": 20,
+      "text": "Module J — Recovery, Mastery, and Roadmap\nRecovery hierarchy: preserve melody and pulse → state destination bass → reduce to bass+melody → restore guide tones → restore full voicing → add\nsubstitutions last.\nCategory\n0\n1\n2\nMelody clarity\nlost\nfunctional\ndominant/clear\nBass logic\nunclear\nfunctional\ndirected\nChord quality\nwrong\nmostly clear\nclear\nGuide-tone motion\nlost\nfunctional\nsmooth\nSubstitution function\nrandom\nplausible\npurposeful\nVoicing cleanliness\nnoisy\nusable\nclean\nForm/pulse\nlost\nrecovers\nstable\nRecovery\nrestart\nsimplifies\nseamless\nPass: 14/16 or better on two separate days, with no zero in melody clarity, bass logic, form/pulse, or recovery.\nFixed roadmap: Level 84 completes Section XI. Levels 85-90 Groove & Stylistic Rhythm. Levels 91-94 Advanced Expression & Articulation. Levels 95-99\nRepertoire Integration. Levels 100-104 Composition & Improvisational Composition. Level 105 Final Musicianship Capstone. HARD STOP after Level 105.\n",
+      "text_sha256": "d056c2e38fddc013bee7bd52f95a3bba9179c3dcd23bdebd645e62a39bab857c"
+    },
+    "L97-TXT35-40": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIV_Level_97_Recording_Led_Repertoire_Reconstruction_Audio_to_Form_Harmony_Groove_Riffs_Arrangement_and_Performance.txt",
+      "sha256": "afb5b139ae7f24a1ce62b6deed53e4c5d09970e87f67be5024b25894f3ba506d",
+      "format": "txt",
+      "first_line": 35,
+      "last_line": 40,
+      "text": "CAPSTONE\n48-bar unfamiliar recording with no chord chart. Produce a one-page map, functional arrangement, reduced fallback, and uninterrupted performance.\n\nMASTERY\n14/16 or better on two separate unfamiliar excerpts.\nNo zero in form, bass/function, groove, or recovery.",
+      "text_sha256": "565153216a64fb12d3de609279eb0428cfed656915f319950190a89789c8bbcb"
+    },
+    "L97-PDF19": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_97_Recording_Led_Repertoire_Reconstruction_Audio_to_Form_Harmony_Groove_Riffs_Arrangement_and_Performance.pdf",
+      "sha256": "208d88c99d8c1c81d68ff2dcb3b396b1092153254ef280fe567e1b3c3741b307",
+      "format": "pdf",
+      "page": 19,
+      "text": "Module J - Independent Verification and Mastery\nCategory\n0\n1\n2\nForm\nwrong\nmostly\nsecure\nBass/function\nwrong\nplausible\nconfirmed\nHarmony\nwrong\nfunctional\nclear\nGroove\nlost\napproximate\nsource-like\nSignature material\nmissing\npartial\nclear\nStructural judgment\npoor\nmixed\ndisciplined\nPerformance\nstops\nfunctional\nconvincing\nRecovery\nrestart\nsimplifies\nseamless\nPass Level 97: 14/16 or better on two separate unfamiliar excerpts, with no zero in form, bass/function, groove, or recovery.\nNext: Level 98 moves from reconstruction to adaptation: transposition, rearrangement for different ensemble roles, acoustic/electric conversion, simplification\nwithout identity loss, and alternate-version performance.\n",
+      "text_sha256": "ef0a5560072e71e66c0b7040f948efc34bcdc4c145a83bcf4d52eb15600fbd01"
+    },
+    "L105-TXT26-61": {
+      "path": "Notes/music/guitar project/TXT version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.txt",
+      "sha256": "793cf5eab18d4501b7b1d7317caeb89b91719e4b71d7cadff9f905afb4a56bf5",
+      "format": "txt",
+      "first_line": 26,
+      "last_line": 61,
+      "text": "FINAL 60-MINUTE EXAM\n0-8   Technique + fretboard reaction\n8-16  Harmony + voicing + reharmonization\n16-24 Groove/style switching\n24-32 Ear/transcription reconstruction\n32-40 Improvisation + expression\n40-48 Repertoire adaptation + recovery\n48-56 Original composition/arrangement performance\n56-60 Reflection + final declaration\n\nFINAL SCORING\n10 domains x 0-3 points = 30 maximum.\n\nCORE COMPLETE\n24/30 or better.\nNo zero in:\n- Rhythm/Groove\n- Ear/Transcription\n- Recovery\n- Performance\n\nAdditional requirements:\n- complete final session\n- one finished original\n- one complete adapted repertoire piece\n- pass on two days OR one pass with independent listener/reviewer scoring 24+\n\nIF A DOMAIN FAILS\nReturn to the earlier section that trains that domain.\nDo not create Level 106.\n\nPOST-CORE\nAdvance through specialization, repertoire, collaboration, recording, performance, and original work.\n\nHARD STOP\nTHE UNIVERSAL 105-LEVEL CURRICULUM ENDS HERE.",
+      "text_sha256": "6fbe460854caac6f1aeda4502285ed5c9b2ae35ec293a0770c26aebe4b7c9c62"
+    },
+    "L105-PDF29": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 29,
+      "text": "Final Scoring Rubric\nDomain\n0\n1\n2\n3\nTechnique/fretboard\nbreaks/unknown\nbasic\ncontrolled\nimmediate + musical\nHarmony/voicing\nwrong\nbasic\nfunctional\nvoice-led + adaptive\nRhythm/groove\nunstable\nkeeps time\nstylistic\ndeep pocket + switching\nEar/transcription\ncannot reconstruct\npartial\nfunctional\nfast + selective\nImprovisation\nrandom\nphrases\ndevelops motif\ncoherent arc\nRepertoire\nfragile\nmemorized\nadaptable\nresilient + transferable\nArrangement\ncluttered\nbasic\nrole-aware\norchestrated\nComposition\nfragment\ncomplete\ncoherent\ndistinct + revisable\nRecovery\nstops\nrecovers late\nsimplifies\nseamless\nPerformance\nfragmented\ncomplete\nconvincing\ncommanding + musical\nMaximum: 30 points.\n",
+      "text_sha256": "26d1533c0029327c0aed5922271fd2a66270449735d26c8cc7cf13e928582081"
+    },
+    "L105-PDF30": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 30,
+      "text": "Graduation Standard\nOutcome\nRequirement\nCORE COMPLETE\n24/30 or better\nNo-zero rule\nNo zero in Rhythm/Groove, Ear/Transcription, Recovery, or Performance\nPerformance rule\nComplete final session without abandoning the exam\nOriginal-work rule\nOne finished original must be presented\nRepertoire rule\nOne complete adapted piece must be presented\nRepeatability rule\nPass on two separate days OR pass once with an independent listener/reviewer scoring 24+\nA score below 24 does not create Level 106. It identifies which earlier domain should be revisited.\n",
+      "text_sha256": "be87f64b0b5fb5bcd6b055ce7e35377ea8c839d9ad212bf75b851d4555b3681b"
+    },
+    "L105-PDF31": {
+      "path": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "format": "pdf",
+      "page": 31,
+      "text": "If a Domain Does Not Pass\nWeak domain\nReturn to\nTechnique/fretboard\nearlier technique, scale, arpeggio, picking, or fretboard levels\nHarmony/voicing\ntriads, CAGED, 7ths, guide tones, chord melody\nRhythm/groove\nSection XII\nEar/transcription\nLevels 76-78 and 97\nImprovisation\nLevels 73-79 and 103\nRepertoire\nSection XIV\nArrangement\nLevels 80-84, 98, 102\nComposition\nSection XV\nRecovery/performance\nLevels 79, 95-99\nThe curriculum becomes a diagnostic map rather than an endless staircase.\n",
+      "text_sha256": "ad3f5fa55ffaed0c7ab56f49e77f6d832ecd70429b2e7a84c9c2e25bc2a53ddb"
+    }
+  },
+  "records": [
+    {
+      "id": "fg:item:000001",
+      "workbook_id": "fg:workbook:000001",
+      "module_id": "fg:module:000001",
+      "legacy_level": 1,
+      "title": "Exercise0011212 ascending opening",
+      "kind": "notation",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L1-TXT2-15"
+      ],
+      "authored_text_refs": [
+        "L1-TXT2-15"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "local_code": "001",
+        "route": "ascending-low-to-high",
+        "pick_start": "explicit learner variant D or U; no chosen default",
+        "position": "fifth",
+        "tuning_open_midi": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ],
+        "capo": 0
+      },
+      "events": [
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 5,
+          "midi": 45,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": 1,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000001:event:0001"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 6,
+          "midi": 46,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": 2,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000001:event:0002"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 5,
+          "midi": 45,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": 1,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000001:event:0003"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 6,
+          "midi": 46,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": 2,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000001:event:0004"
+        }
+      ],
+      "timing": {
+        "status": "unresolved",
+        "unit": "quarter",
+        "basis": "No timing inferred from ASCII spacing"
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": [
+        "Only first four of24 ascending notes shown; no duration authored in selected passage. Full route/reverse remains instruction, not inferred complete playback."
+      ]
+    },
+    {
+      "id": "fg:item:000002",
+      "workbook_id": "fg:workbook:000003",
+      "module_id": "fg:module:000002",
+      "legacy_level": 3,
+      "title": "ModeA Exercise001 first transfer",
+      "kind": "notation",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L3-TXT5-21",
+        "L3-TXT28-46"
+      ],
+      "authored_text_refs": [
+        "L3-TXT5-21",
+        "L3-TXT28-46"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "local_code": "001",
+        "mode": "A",
+        "route": "ascending-E-to-A-first-pair",
+        "pick_start_variants": [
+          "D",
+          "U"
+        ],
+        "tuning_open_midi": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ],
+        "capo": 0,
+        "authored_progression_ref": "L3-TXT5-21"
+      },
+      "events": [
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 5,
+          "midi": 45,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": 1,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000002:event:0001"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 6,
+          "midi": 46,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": 2,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000002:event:0002"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 5,
+          "midi": 45,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": 1,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000002:event:0003"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 6,
+          "midi": 51,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": 2,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000002:event:0004"
+        }
+      ],
+      "timing": {
+        "status": "unresolved",
+        "unit": "quarter",
+        "basis": "No timing inferred from ASCII spacing"
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": [
+        "Straight16th/triplet/quintuplet are separate authored practice variants; no universal duration/default selected. ModeB and descending require distinct variant identity, not deduplication by local code."
+      ]
+    },
+    {
+      "id": "fg:item:000003",
+      "workbook_id": "fg:workbook:000012",
+      "module_id": "fg:module:000003",
+      "legacy_level": 12,
+      "title": "Rung01 A major16-note cell",
+      "kind": "notation",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L12-TXT14-28",
+        "L12-TXT34-52"
+      ],
+      "authored_text_refs": [
+        "L12-TXT14-28",
+        "L12-TXT34-52"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "tuning_open_midi": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ],
+        "capo": 0,
+        "pick_start_variants": [
+          "D",
+          "U"
+        ],
+        "pick_continues_at_turn": true,
+        "source_tempo_rules_ref": "L12-TXT34-52"
+      },
+      "events": [
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 5,
+          "midi": 45,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "1",
+              "ordinal": 1,
+              "alteration": 0
+            }
+          },
+          "finger": 2,
+          "onset_q": [
+            0,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0001"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 7,
+          "midi": 47,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "2",
+              "ordinal": 2,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": [
+            1,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0002"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 4,
+          "midi": 49,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "3",
+              "ordinal": 3,
+              "alteration": 0
+            }
+          },
+          "finger": 1,
+          "onset_q": [
+            1,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0003"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 5,
+          "midi": 50,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "4",
+              "ordinal": 4,
+              "alteration": 0
+            }
+          },
+          "finger": 2,
+          "onset_q": [
+            3,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0004"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 7,
+          "midi": 52,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "5",
+              "ordinal": 5,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": [
+            2,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0005"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 4,
+          "midi": 54,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "6",
+              "ordinal": 6,
+              "alteration": 0
+            }
+          },
+          "finger": 1,
+          "onset_q": [
+            5,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0006"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 6,
+          "midi": 56,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "7",
+              "ordinal": 7,
+              "alteration": 0
+            }
+          },
+          "finger": 3,
+          "onset_q": [
+            3,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0007"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 7,
+          "midi": 57,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "8",
+              "ordinal": 8,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": [
+            7,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0008"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 7,
+          "midi": 57,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "8",
+              "ordinal": 8,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": [
+            4,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0009"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 6,
+          "midi": 56,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "7",
+              "ordinal": 7,
+              "alteration": 0
+            }
+          },
+          "finger": 3,
+          "onset_q": [
+            9,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0010"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 4,
+          "midi": 54,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "6",
+              "ordinal": 6,
+              "alteration": 0
+            }
+          },
+          "finger": 1,
+          "onset_q": [
+            5,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0011"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 7,
+          "midi": 52,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "5",
+              "ordinal": 5,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": [
+            11,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0012"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 5,
+          "midi": 50,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "4",
+              "ordinal": 4,
+              "alteration": 0
+            }
+          },
+          "finger": 2,
+          "onset_q": [
+            6,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0013"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 4,
+          "midi": 49,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "3",
+              "ordinal": 3,
+              "alteration": 0
+            }
+          },
+          "finger": 1,
+          "onset_q": [
+            13,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0014"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 7,
+          "midi": 47,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "2",
+              "ordinal": 2,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": [
+            7,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0015"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 5,
+          "midi": 45,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "1",
+              "ordinal": 1,
+              "alteration": 0
+            }
+          },
+          "finger": 2,
+          "onset_q": [
+            15,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000003:event:0016"
+        }
+      ],
+      "timing": {
+        "status": "source_defined",
+        "unit": "quarter",
+        "basis": "TXT35 even eighths",
+        "variants": [
+          {
+            "id": "with-pause",
+            "post_cell_rest_q": [
+              1,
+              1
+            ]
+          },
+          {
+            "id": "connected",
+            "post_cell_rest_q": [
+              0,
+              1
+            ]
+          }
+        ],
+        "meter": null
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": [
+        "Only A cell;13-rung route not converted. One-beat pause uses quarter beat as explicitly labelled contract example; beat-unit confirmation remains conversion comparison, no universal product default."
+      ]
+    },
+    {
+      "id": "fg:item:000004",
+      "workbook_id": "fg:workbook:000015",
+      "module_id": "fg:module:000004",
+      "legacy_level": 15,
+      "title": "First rolling triplet / upper-octave context",
+      "kind": "notation",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L15-TXT21-32",
+        "L15-TXT59-81",
+        "L15-TXT392-398"
+      ],
+      "authored_text_refs": [
+        "L15-TXT21-32",
+        "L15-TXT59-81",
+        "L15-TXT392-398"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "tuning_open_midi": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ],
+        "capo": 0,
+        "degree_encoding_examples": [
+          {
+            "source": "8",
+            "simple": 1,
+            "octaves_above": 1
+          },
+          {
+            "source": "9",
+            "simple": 2,
+            "octaves_above": 1
+          },
+          {
+            "source": "15",
+            "simple": 1,
+            "octaves_above": 2
+          }
+        ]
+      },
+      "events": [
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 5,
+          "midi": 45,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "1",
+              "ordinal": 1,
+              "alteration": 0
+            }
+          },
+          "finger": 2,
+          "onset_q": [
+            0,
+            1
+          ],
+          "duration_q": [
+            1,
+            3
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000004:event:0001"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 7,
+          "midi": 47,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "2",
+              "ordinal": 2,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": [
+            1,
+            3
+          ],
+          "duration_q": [
+            1,
+            3
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000004:event:0002"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 4,
+          "midi": 49,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "3",
+              "ordinal": 3,
+              "alteration": 0
+            }
+          },
+          "finger": 1,
+          "onset_q": [
+            2,
+            3
+          ],
+          "duration_q": [
+            1,
+            3
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000004:event:0003"
+        }
+      ],
+      "timing": {
+        "status": "source_defined",
+        "unit": "quarter",
+        "basis": "TXT60 eighth-note triplets",
+        "variants": [
+          {
+            "id": "triplets",
+            "notes_per_beat": 3,
+            "marking_factor": [
+              1,
+              1
+            ]
+          },
+          {
+            "id": "two-triplet-groups",
+            "notes_per_beat": 6,
+            "marking_factor": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": [
+        "Only first triplet of78-note cell; upper-octave explanation is metadata, not additional sounded events."
+      ]
+    },
+    {
+      "id": "fg:item:000005",
+      "workbook_id": "fg:workbook:000029",
+      "module_id": "fg:module:000005",
+      "legacy_level": 29,
+      "title": "Source-authored continuation correction",
+      "kind": "instruction",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L29-TXT1512-1513",
+        "compiled-PDF2"
+      ],
+      "authored_text_refs": [
+        "L29-TXT1512-1513",
+        "compiled-PDF2"
+      ],
+      "normalization": [
+        {
+          "basis": "C2",
+          "kind": "accepted_navigation",
+          "value": {
+            "30": "major pentatonic",
+            "49": "chords/rhythm",
+            "65": "harmonic minor"
+          },
+          "source_authority": "compiled physicalp2; frozen selected-extracts.md line3803; original obsolete text retained"
+        },
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {},
+      "events": [],
+      "timing": {
+        "status": "not_applicable",
+        "unit": "quarter",
+        "basis": "Navigation instruction"
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": []
+    },
+    {
+      "id": "fg:item:000006",
+      "workbook_id": "fg:workbook:000039",
+      "module_id": "fg:module:000006",
+      "legacy_level": 39,
+      "title": "P1 drone comparison / dual degree contexts",
+      "kind": "notation",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L39-TXT30-40",
+        "L39-TXT94-106"
+      ],
+      "authored_text_refs": [
+        "L39-TXT30-40",
+        "L39-TXT94-106"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "tuning_open_midi": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ],
+        "capo": 0,
+        "reference_tonal_centers": [
+          "A-major",
+          "F#-minor"
+        ],
+        "local_code": "P1"
+      },
+      "events": [
+        {
+          "kind": "note",
+          "string": 4,
+          "fret": 4,
+          "midi": 59,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "2",
+              "ordinal": 2,
+              "alteration": 0
+            },
+            "F#-minor": {
+              "source_label": "4",
+              "ordinal": 4,
+              "alteration": 0
+            }
+          },
+          "finger": 1,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000006:event:0001"
+        },
+        {
+          "kind": "note",
+          "string": 4,
+          "fret": 6,
+          "midi": 61,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "3",
+              "ordinal": 3,
+              "alteration": 0
+            },
+            "F#-minor": {
+              "source_label": "5",
+              "ordinal": 5,
+              "alteration": 0
+            }
+          },
+          "finger": 3,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000006:event:0002"
+        },
+        {
+          "kind": "note",
+          "string": 5,
+          "fret": 5,
+          "midi": 64,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "5",
+              "ordinal": 5,
+              "alteration": 0
+            },
+            "F#-minor": {
+              "source_label": "b7",
+              "ordinal": 7,
+              "alteration": -1
+            }
+          },
+          "finger": 2,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000006:event:0003"
+        },
+        {
+          "kind": "note",
+          "string": 5,
+          "fret": 7,
+          "midi": 66,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "6",
+              "ordinal": 6,
+              "alteration": 0
+            },
+            "F#-minor": {
+              "source_label": "1",
+              "ordinal": 1,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000006:event:0004"
+        },
+        {
+          "kind": "note",
+          "string": 6,
+          "fret": 5,
+          "midi": 69,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "1",
+              "ordinal": 1,
+              "alteration": 0
+            },
+            "F#-minor": {
+              "source_label": "b3",
+              "ordinal": 3,
+              "alteration": -1
+            }
+          },
+          "finger": 2,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000006:event:0005"
+        },
+        {
+          "kind": "note",
+          "string": 5,
+          "fret": 7,
+          "midi": 66,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "6",
+              "ordinal": 6,
+              "alteration": 0
+            },
+            "F#-minor": {
+              "source_label": "1",
+              "ordinal": 1,
+              "alteration": 0
+            }
+          },
+          "finger": 4,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000006:event:0006"
+        },
+        {
+          "kind": "note",
+          "string": 5,
+          "fret": 5,
+          "midi": 64,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "5",
+              "ordinal": 5,
+              "alteration": 0
+            },
+            "F#-minor": {
+              "source_label": "b7",
+              "ordinal": 7,
+              "alteration": -1
+            }
+          },
+          "finger": 2,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000006:event:0007"
+        },
+        {
+          "kind": "note",
+          "string": 4,
+          "fret": 6,
+          "midi": 61,
+          "spelling": null,
+          "degree_contexts": {
+            "A-major": {
+              "source_label": "3",
+              "ordinal": 3,
+              "alteration": 0
+            },
+            "F#-minor": {
+              "source_label": "5",
+              "ordinal": 5,
+              "alteration": 0
+            }
+          },
+          "finger": 3,
+          "onset_q": null,
+          "duration_q": null,
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000006:event:0008"
+        }
+      ],
+      "timing": {
+        "status": "unresolved",
+        "unit": "quarter",
+        "basis": "No timing inferred from ASCII spacing"
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": [
+        "No duration inferred from row spacing; contexts do not transpose pitches or change finger values."
+      ]
+    },
+    {
+      "id": "fg:item:000007",
+      "workbook_id": "fg:workbook:000048",
+      "module_id": "fg:module:000007",
+      "legacy_level": 48,
+      "title": "P1 call/response excerpt and full assessment",
+      "kind": "mixed",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L48-TXT28-43",
+        "L48-TXT49-76",
+        "L48-TXT1214-1246"
+      ],
+      "authored_text_refs": [
+        "L48-TXT28-43",
+        "L48-TXT49-76",
+        "L48-TXT1214-1246"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "tuning_open_midi": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ],
+        "capo": 0,
+        "source_count_classes": {
+          "full_written_sounding_tones": 614,
+          "full_written_pick_attacks": 517
+        },
+        "technique_legend": {
+          "P": "picked",
+          "h": "hammer_on",
+          "p": "pull_off",
+          "s": "slide_arrival",
+          "b": "bend",
+          "b<": "blue_third_shade",
+          "r": "rest",
+          "=": "held_tone"
+        },
+        "held_response_example": {
+          "source_ref": "L48-TXT49-76",
+          "source_slots": [
+            "A",
+            "="
+          ],
+          "rule": "One A tone sustained over two eighth slots; no second attack",
+          "duration_q": [
+            1,
+            1
+          ]
+        },
+        "bend_contract": {
+          "base_pitch": "string/fret pitch",
+          "target_interval": "must be source-specified or unresolved",
+          "contour": "not fabricated from b< shade symbol"
+        },
+        "color_context": "separate from pitch, degree and finger"
+      },
+      "events": [
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 5,
+          "midi": 45,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            0,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0001"
+        },
+        {
+          "kind": "note",
+          "string": 1,
+          "fret": 8,
+          "midi": 48,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            1,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "hammer_on",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0002"
+        },
+        {
+          "kind": "rest",
+          "onset_q": [
+            1,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:000007:event:0003"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 5,
+          "midi": 50,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            3,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0004"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 6,
+          "midi": 51,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            2,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "slide_arrival",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0005"
+        },
+        {
+          "kind": "note",
+          "string": 2,
+          "fret": 7,
+          "midi": 52,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            5,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "slide_arrival",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0006"
+        },
+        {
+          "kind": "note",
+          "string": 5,
+          "fret": 8,
+          "midi": 67,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            3,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0007"
+        },
+        {
+          "kind": "rest",
+          "onset_q": [
+            7,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:000007:event:0008"
+        },
+        {
+          "kind": "note",
+          "string": 4,
+          "fret": 5,
+          "midi": 60,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            4,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0009"
+        },
+        {
+          "kind": "note",
+          "string": 4,
+          "fret": 6,
+          "midi": 61,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            9,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "slide_arrival",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0010"
+        },
+        {
+          "kind": "rest",
+          "onset_q": [
+            5,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:000007:event:0011"
+        },
+        {
+          "kind": "note",
+          "string": 5,
+          "fret": 5,
+          "midi": 64,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            11,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0012"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 5,
+          "midi": 55,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            6,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "picked",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0013"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 7,
+          "midi": 57,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            13,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "slide_arrival",
+          "tie_from": null,
+          "event_id": "fg:item:000007:event:0014"
+        },
+        {
+          "kind": "note",
+          "string": 3,
+          "fret": 7,
+          "midi": 57,
+          "spelling": null,
+          "degree_contexts": {},
+          "finger": null,
+          "onset_q": [
+            7,
+            1
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "attack": "held",
+          "tie_from": "fg:item:000007:event:0014",
+          "event_id": "fg:item:000007:event:0015"
+        },
+        {
+          "kind": "rest",
+          "onset_q": [
+            15,
+            2
+          ],
+          "duration_q": [
+            1,
+            2
+          ],
+          "event_id": "fg:item:000007:event:0016"
+        }
+      ],
+      "timing": {
+        "status": "source_defined",
+        "unit": "quarter",
+        "meter": [
+          4,
+          4
+        ],
+        "basis": "Cnt1&2&3&4& source grid"
+      },
+      "rubric": {
+        "dimensions": [
+          {
+            "name": "Form awareness",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Rhythmic space",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Chord targeting",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Bend and slide intonation",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Motif continuity",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Position movement",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Dynamic shape",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          },
+          {
+            "name": "Recovery after an error",
+            "anchors": [
+              "absent",
+              "inconsistent",
+              "controlled"
+            ]
+          }
+        ],
+        "minimum_total": 13,
+        "maximum_total": 16,
+        "protected_nonzero": [
+          "Form awareness",
+          "Chord targeting",
+          "Recovery after an error"
+        ],
+        "repeatability": {
+          "kind": "two_separate_days"
+        },
+        "required_obligations_refs": [
+          "L48-TXT1214-1246"
+        ],
+        "required_obligations": [
+          "all five local pairs and four seam conversations",
+          "transform one motif in seven ways",
+          "sparse/medium/dense target preservation",
+          "all three model choruses",
+          "tonic ending and functional turnaround",
+          "deliberate wrong-note recovery without stopping",
+          "record three connected choruses on two separate days",
+          "audible A7-D7-E7 form without accompaniment"
+        ],
+        "evidence_kind": "explicit_learner_or_reviewer_attestation"
+      },
+      "resource_requirements": [
+        {
+          "kind": "learner_teacher_offline",
+          "purpose": "source-requested recording/review",
+          "supplied": false,
+          "in_app_import": false,
+          "in_app_recorder": false,
+          "disposition": "instructions in2.4plan; source obligation remains"
+        }
+      ],
+      "ambiguities": [
+        "Only P1call/response excerpt of authored614tones shown; held response has a backward tie_from link. Bends remain contract mappings, not a complete articulation engine."
+      ]
+    },
+    {
+      "id": "fg:item:000008",
+      "workbook_id": "fg:workbook:000049",
+      "module_id": "fg:module:000008",
+      "legacy_level": 49,
+      "title": "E and Em simultaneous six-string voicings",
+      "kind": "harmony",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L49-TXT49-61"
+      ],
+      "authored_text_refs": [
+        "L49-TXT49-61"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "tuning_open_midi": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ],
+        "capo": 0,
+        "open_finger_token": "O",
+        "muted_string_token": "x means no pitched member",
+        "chord_voicings_are_alternatives": true
+      },
+      "events": [
+        {
+          "kind": "chord",
+          "symbol": "E",
+          "onset_q": null,
+          "duration_q": null,
+          "members": [
+            {
+              "kind": "note",
+              "string": 1,
+              "fret": 0,
+              "midi": 40,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": "O",
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 2,
+              "fret": 2,
+              "midi": 47,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": 2,
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 3,
+              "fret": 2,
+              "midi": 52,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": 3,
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 4,
+              "fret": 1,
+              "midi": 56,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": 1,
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 5,
+              "fret": 0,
+              "midi": 59,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": "O",
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 6,
+              "fret": 0,
+              "midi": 64,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": "O",
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            }
+          ],
+          "attack": "simultaneous_example",
+          "event_id": "fg:item:000008:event:0001"
+        },
+        {
+          "kind": "chord",
+          "symbol": "Em",
+          "onset_q": null,
+          "duration_q": null,
+          "members": [
+            {
+              "kind": "note",
+              "string": 1,
+              "fret": 0,
+              "midi": 40,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": "O",
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 2,
+              "fret": 2,
+              "midi": 47,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": 2,
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 3,
+              "fret": 2,
+              "midi": 52,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": 3,
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 4,
+              "fret": 0,
+              "midi": 55,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": "O",
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 5,
+              "fret": 0,
+              "midi": 59,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": "O",
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            },
+            {
+              "kind": "note",
+              "string": 6,
+              "fret": 0,
+              "midi": 64,
+              "spelling": null,
+              "degree_contexts": {},
+              "finger": "O",
+              "onset_q": null,
+              "duration_q": null,
+              "attack": "picked",
+              "tie_from": null
+            }
+          ],
+          "attack": "simultaneous_example",
+          "event_id": "fg:item:000008:event:0002"
+        }
+      ],
+      "timing": {
+        "status": "unresolved",
+        "unit": "quarter",
+        "basis": "No timing inferred from ASCII spacing"
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": [
+        "No authored chord duration/onset in these voicing definitions; do not serialize as two timed strums. One chord attack can contain six tones."
+      ]
+    },
+    {
+      "id": "fg:item:000009",
+      "workbook_id": "fg:workbook:000058",
+      "module_id": "fg:module:000009",
+      "legacy_level": 58,
+      "title": "A1 beat-only contact mask",
+      "kind": "rhythm",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L58-TXT7-17",
+        "L58-TXT43-48"
+      ],
+      "authored_text_refs": [
+        "L58-TXT7-17",
+        "L58-TXT43-48"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "authored_contacts": 4,
+        "symbol_semantics": {
+          "P": "pitched contact requiring chord binding",
+          "x": "muted contact, no pitch",
+          "-": "air, no contact",
+          "~": "sustain, no new attack",
+          "R": "pressure release, not an attack",
+          ">": "accent next contact"
+        }
+      },
+      "events": [
+        {
+          "kind": "contact",
+          "contact": "pitched",
+          "onset_q": [
+            0,
+            1
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "D",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0001"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            1,
+            4
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "U",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0002"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            1,
+            2
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "D",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0003"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            3,
+            4
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "U",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0004"
+        },
+        {
+          "kind": "contact",
+          "contact": "pitched",
+          "onset_q": [
+            1,
+            1
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "D",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0005"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            5,
+            4
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "U",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0006"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            3,
+            2
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "D",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0007"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            7,
+            4
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "U",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0008"
+        },
+        {
+          "kind": "contact",
+          "contact": "pitched",
+          "onset_q": [
+            2,
+            1
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "D",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0009"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            9,
+            4
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "U",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0010"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            5,
+            2
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "D",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0011"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            11,
+            4
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "U",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0012"
+        },
+        {
+          "kind": "contact",
+          "contact": "pitched",
+          "onset_q": [
+            3,
+            1
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "D",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0013"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            13,
+            4
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "U",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0014"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            7,
+            2
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "D",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0015"
+        },
+        {
+          "kind": "contact",
+          "contact": "air",
+          "onset_q": [
+            15,
+            4
+          ],
+          "duration_q": [
+            1,
+            4
+          ],
+          "pick": "U",
+          "pitch_binding": null,
+          "event_id": "fg:item:000009:event:0016"
+        }
+      ],
+      "timing": {
+        "status": "source_defined",
+        "unit": "quarter",
+        "meter": [
+          4,
+          4
+        ],
+        "basis": "sixteenth hand-grid1e&a through4e&a"
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": [
+        "Pitch/chord binding unspecified in mask; cannot play pitched content from this record alone. Do not equate contacts with sounding tones."
+      ]
+    },
+    {
+      "id": "fg:item:000010",
+      "workbook_id": "fg:workbook:000074",
+      "module_id": "fg:module:000010",
+      "legacy_level": 74,
+      "title": "Source3:2 and4:3 phrases",
+      "kind": "rhythm",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L74-TXT5-11",
+        "L74-TXT181-249"
+      ],
+      "authored_text_refs": [
+        "L74-TXT5-11",
+        "L74-TXT181-249"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "freeplay_default_selected": false
+      },
+      "events": [],
+      "timing": {
+        "status": "source_defined",
+        "unit": "quarter",
+        "basis": "explicit sourceModuleD phrases",
+        "phrases": [
+          {
+            "ratio": [
+              3,
+              2
+            ],
+            "common_cycle_q": [
+              2,
+              1
+            ],
+            "phrase_q": [
+              4,
+              1
+            ],
+            "cycles": 2,
+            "resolution_q": null
+          },
+          {
+            "ratio": [
+              4,
+              3
+            ],
+            "common_cycle_q": [
+              3,
+              1
+            ],
+            "phrase_q": [
+              4,
+              1
+            ],
+            "cycles": 1,
+            "resolution_q": [
+              3,
+              1
+            ]
+          }
+        ],
+        "other_source_requirements": [
+          "5/4",
+          "7/8",
+          "quintuplets",
+          "septuplets"
+        ]
+      },
+      "rubric": null,
+      "resource_requirements": [],
+      "ambiguities": [
+        "Mathematical phrase descriptors, not converted allModuleD events. 4:3 resolution on beat4 is distinct from a repeated three-beat standalone cycle."
+      ]
+    },
+    {
+      "id": "fg:item:000011",
+      "workbook_id": "fg:workbook:000083",
+      "module_id": "fg:module:000011",
+      "legacy_level": 83,
+      "title": "ModulesI–J fixed melody/table and rubric",
+      "kind": "task",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L83-TXT52-56",
+        "L83-PDF19",
+        "L83-PDF20"
+      ],
+      "authored_text_refs": [
+        "L83-TXT52-56",
+        "L83-PDF19",
+        "L83-PDF20"
+      ],
+      "normalization": [
+        {
+          "basis": "C3",
+          "kind": "accepted_explanation",
+          "text": "Baseline includes an already-authored applied-dominant exception: bar6 Chord A7 and Top C#, followed by Dm7. Approved normalization interpretation, not verified authorial intent. C# is melody/top, not bass inversion."
+        },
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "table": [
+          {
+            "bar": 1,
+            "chord_symbol": "Cmaj7",
+            "top_pitch_class": "E",
+            "bass_inversion": null
+          },
+          {
+            "bar": 2,
+            "chord_symbol": "Am7",
+            "top_pitch_class": "E",
+            "bass_inversion": null
+          },
+          {
+            "bar": 3,
+            "chord_symbol": "Dm7",
+            "top_pitch_class": "F",
+            "bass_inversion": null
+          },
+          {
+            "bar": 4,
+            "chord_symbol": "G7",
+            "top_pitch_class": "B",
+            "bass_inversion": null
+          },
+          {
+            "bar": 5,
+            "chord_symbol": "Cmaj7",
+            "top_pitch_class": "G",
+            "bass_inversion": null
+          },
+          {
+            "bar": 6,
+            "chord_symbol": "A7",
+            "top_pitch_class": "C#",
+            "bass_inversion": null
+          },
+          {
+            "bar": 7,
+            "chord_symbol": "Dm7",
+            "top_pitch_class": "F",
+            "bass_inversion": null
+          },
+          {
+            "bar": 8,
+            "chord_symbol": "G7",
+            "top_pitch_class": "B",
+            "bass_inversion": null
+          },
+          {
+            "bar": 9,
+            "chord_symbol": "Em7",
+            "top_pitch_class": "G",
+            "bass_inversion": null
+          },
+          {
+            "bar": 10,
+            "chord_symbol": "A7",
+            "top_pitch_class": "C#",
+            "bass_inversion": null
+          },
+          {
+            "bar": 11,
+            "chord_symbol": "Dm7",
+            "top_pitch_class": "F",
+            "bass_inversion": null
+          },
+          {
+            "bar": 12,
+            "chord_symbol": "G7",
+            "top_pitch_class": "B",
+            "bass_inversion": null
+          },
+          {
+            "bar": 13,
+            "chord_symbol": "Cmaj7",
+            "top_pitch_class": "E",
+            "bass_inversion": null
+          },
+          {
+            "bar": 14,
+            "chord_symbol": "C#dim7",
+            "top_pitch_class": "E",
+            "bass_inversion": null
+          },
+          {
+            "bar": 15,
+            "chord_symbol": "Dm7",
+            "top_pitch_class": "F",
+            "bass_inversion": null
+          },
+          {
+            "bar": 16,
+            "chord_symbol": "G7",
+            "top_pitch_class": "B",
+            "bass_inversion": null
+          },
+          {
+            "bar": 17,
+            "chord_symbol": "Am7",
+            "top_pitch_class": "C",
+            "bass_inversion": null
+          },
+          {
+            "bar": 18,
+            "chord_symbol": "D7",
+            "top_pitch_class": "F#",
+            "bass_inversion": null
+          },
+          {
+            "bar": 19,
+            "chord_symbol": "Gmaj7",
+            "top_pitch_class": "B",
+            "bass_inversion": null
+          },
+          {
+            "bar": 20,
+            "chord_symbol": "B7",
+            "top_pitch_class": "D#",
+            "bass_inversion": null
+          },
+          {
+            "bar": 21,
+            "chord_symbol": "Em7",
+            "top_pitch_class": "G",
+            "bass_inversion": null
+          },
+          {
+            "bar": 22,
+            "chord_symbol": "A7",
+            "top_pitch_class": "C#",
+            "bass_inversion": null
+          },
+          {
+            "bar": 23,
+            "chord_symbol": "Dm7",
+            "top_pitch_class": "F",
+            "bass_inversion": null
+          },
+          {
+            "bar": 24,
+            "chord_symbol": "G7",
+            "top_pitch_class": "G",
+            "bass_inversion": null
+          }
+        ],
+        "fixed_melody": true,
+        "task_obligations": [
+          "bars1–8 baseline wording preserved",
+          "bars9–16secondary dominants and one passing diminished chord",
+          "bars17–24reharmonize at least four measures without changing written melody"
+        ]
+      },
+      "events": [],
+      "timing": {
+        "status": "not_applicable",
+        "unit": "quarter",
+        "basis": "Task table without authored note octaves/durations/voicings"
+      },
+      "rubric": {
+        "dimensions": [
+          {
+            "name": "Melody clarity",
+            "anchors": [
+              "lost",
+              "functional",
+              "dominant/clear"
+            ]
+          },
+          {
+            "name": "Bass logic",
+            "anchors": [
+              "unclear",
+              "functional",
+              "directed"
+            ]
+          },
+          {
+            "name": "Chord quality",
+            "anchors": [
+              "wrong",
+              "mostly clear",
+              "clear"
+            ]
+          },
+          {
+            "name": "Guide-tone motion",
+            "anchors": [
+              "lost",
+              "functional",
+              "smooth"
+            ]
+          },
+          {
+            "name": "Substitution function",
+            "anchors": [
+              "random",
+              "plausible",
+              "purposeful"
+            ]
+          },
+          {
+            "name": "Voicing cleanliness",
+            "anchors": [
+              "noisy",
+              "usable",
+              "clean"
+            ]
+          },
+          {
+            "name": "Form/pulse",
+            "anchors": [
+              "lost",
+              "recovers",
+              "stable"
+            ]
+          },
+          {
+            "name": "Recovery",
+            "anchors": [
+              "restart",
+              "simplifies",
+              "seamless"
+            ]
+          }
+        ],
+        "minimum_total": 14,
+        "maximum_total": 16,
+        "protected_nonzero": [
+          "Melody clarity",
+          "Bass logic",
+          "Form/pulse",
+          "Recovery"
+        ],
+        "repeatability": {
+          "kind": "two_separate_days"
+        },
+        "required_obligations_refs": [
+          "L83-PDF19",
+          "L83-PDF20"
+        ],
+        "required_obligations": [
+          "retain fixed24bar melody",
+          "reharmonize at least four measures in17–24",
+          "source recovery hierarchy"
+        ],
+        "evidence_kind": "explicit_learner_or_reviewer_attestation"
+      },
+      "resource_requirements": [],
+      "ambiguities": [
+        "Chord symbol/top pitch class is not a voiced timed event. No octave, bass inversion, duration or voicing fabricated."
+      ]
+    },
+    {
+      "id": "fg:item:000012",
+      "workbook_id": "fg:workbook:000097",
+      "module_id": "fg:module:000012",
+      "legacy_level": 97,
+      "title": "Unfamiliar recording capstone / full rubric",
+      "kind": "task",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L97-TXT35-40",
+        "L97-PDF19"
+      ],
+      "authored_text_refs": [
+        "L97-TXT35-40",
+        "L97-PDF19"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {},
+      "events": [],
+      "timing": {
+        "status": "not_applicable",
+        "unit": "quarter",
+        "basis": "Task/attestation, not fabricated score"
+      },
+      "rubric": {
+        "dimensions": [
+          {
+            "name": "Form",
+            "anchors": [
+              "wrong",
+              "mostly",
+              "secure"
+            ]
+          },
+          {
+            "name": "Bass/function",
+            "anchors": [
+              "wrong",
+              "plausible",
+              "confirmed"
+            ]
+          },
+          {
+            "name": "Harmony",
+            "anchors": [
+              "wrong",
+              "functional",
+              "clear"
+            ]
+          },
+          {
+            "name": "Groove",
+            "anchors": [
+              "lost",
+              "approximate",
+              "source-like"
+            ]
+          },
+          {
+            "name": "Signature material",
+            "anchors": [
+              "missing",
+              "partial",
+              "clear"
+            ]
+          },
+          {
+            "name": "Structural judgment",
+            "anchors": [
+              "poor",
+              "mixed",
+              "disciplined"
+            ]
+          },
+          {
+            "name": "Performance",
+            "anchors": [
+              "stops",
+              "functional",
+              "convincing"
+            ]
+          },
+          {
+            "name": "Recovery",
+            "anchors": [
+              "restart",
+              "simplifies",
+              "seamless"
+            ]
+          }
+        ],
+        "minimum_total": 14,
+        "maximum_total": 16,
+        "protected_nonzero": [
+          "Form",
+          "Bass/function",
+          "Groove",
+          "Recovery"
+        ],
+        "repeatability": {
+          "kind": "two_unfamiliar_excerpts",
+          "same_excerpt_twice_counts": false
+        },
+        "required_obligations_refs": [
+          "L97-TXT35-40"
+        ],
+        "required_obligations": [
+          "unfamiliar48bar recording",
+          "no chord chart",
+          "one-page map",
+          "functional arrangement",
+          "reduced fallback",
+          "uninterrupted performance"
+        ],
+        "evidence_kind": "explicit_learner_or_reviewer_attestation"
+      },
+      "resource_requirements": [
+        {
+          "kind": "learner_teacher_offline",
+          "purpose": "unfamiliar48bar recording without chart",
+          "supplied": false,
+          "in_app_import": false,
+          "in_app_recorder": false,
+          "disposition": "C4accepted source resource boundary;2.4.1.1.1 defines selection/availability/instructions; no license supplied"
+        }
+      ],
+      "ambiguities": []
+    },
+    {
+      "id": "fg:item:000013",
+      "workbook_id": "fg:workbook:000105",
+      "module_id": "fg:module:000013",
+      "legacy_level": 105,
+      "title": "Final examination / graduation rubric",
+      "kind": "task",
+      "content_revision": 1,
+      "status": "proposal_example",
+      "runtime_eligible": false,
+      "source_refs": [
+        "L105-TXT26-61",
+        "L105-PDF29",
+        "L105-PDF30",
+        "L105-PDF31"
+      ],
+      "authored_text_refs": [
+        "L105-TXT26-61",
+        "L105-PDF29",
+        "L105-PDF30",
+        "L105-PDF31"
+      ],
+      "normalization": [
+        {
+          "kind": "representation_metadata",
+          "basis": "delegated Technical proposal",
+          "text": "Record is a bounded example; human converted-curriculum acceptance and runtime validation occur in later packages."
+        }
+      ],
+      "context": {
+        "maximum_legacy_level": 105,
+        "failed_domain_return_refs": "L105-PDF31",
+        "no_automatic_mastery": true
+      },
+      "events": [],
+      "timing": {
+        "status": "not_applicable",
+        "unit": "quarter",
+        "basis": "60minute exam schedule is instruction, not musical event milliseconds"
+      },
+      "rubric": {
+        "dimensions": [
+          {
+            "name": "Technique/fretboard",
+            "anchors": [
+              "breaks/unknown",
+              "basic",
+              "controlled",
+              "immediate + musical"
+            ]
+          },
+          {
+            "name": "Harmony/voicing",
+            "anchors": [
+              "wrong",
+              "basic",
+              "functional",
+              "voice-led + adaptive"
+            ]
+          },
+          {
+            "name": "Rhythm/groove",
+            "anchors": [
+              "unstable",
+              "keeps time",
+              "stylistic",
+              "deep pocket + switching"
+            ]
+          },
+          {
+            "name": "Ear/transcription",
+            "anchors": [
+              "cannot reconstruct",
+              "partial",
+              "functional",
+              "fast + selective"
+            ]
+          },
+          {
+            "name": "Improvisation",
+            "anchors": [
+              "random",
+              "phrases",
+              "develops motif",
+              "coherent arc"
+            ]
+          },
+          {
+            "name": "Repertoire",
+            "anchors": [
+              "fragile",
+              "memorized",
+              "adaptable",
+              "resilient + transferable"
+            ]
+          },
+          {
+            "name": "Arrangement",
+            "anchors": [
+              "cluttered",
+              "basic",
+              "role-aware",
+              "orchestrated"
+            ]
+          },
+          {
+            "name": "Composition",
+            "anchors": [
+              "fragment",
+              "complete",
+              "coherent",
+              "distinct + revisable"
+            ]
+          },
+          {
+            "name": "Recovery",
+            "anchors": [
+              "stops",
+              "recovers late",
+              "simplifies",
+              "seamless"
+            ]
+          },
+          {
+            "name": "Performance",
+            "anchors": [
+              "fragmented",
+              "complete",
+              "convincing",
+              "commanding + musical"
+            ]
+          }
+        ],
+        "minimum_total": 24,
+        "maximum_total": 30,
+        "protected_nonzero": [
+          "Rhythm/groove",
+          "Ear/transcription",
+          "Recovery",
+          "Performance"
+        ],
+        "repeatability": {
+          "kind": "any_of",
+          "alternatives": [
+            {
+              "kind": "two_separate_days"
+            },
+            {
+              "kind": "one_passing_performance_independent_reviewer",
+              "minimum_reviewer_total": 24
+            }
+          ],
+          "alternative_affects": "repeatability_only"
+        },
+        "required_obligations_refs": [
+          "L105-PDF30"
+        ],
+        "required_obligations": [
+          "complete final session without abandoning exam",
+          "one finished original presented",
+          "one complete adapted piece presented"
+        ],
+        "evidence_kind": "explicit_learner_or_reviewer_attestation"
+      },
+      "resource_requirements": [],
+      "ambiguities": []
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+SCALE EXERCISES - SECTION V, LEVEL 43
+A BLUES SCALE MAP AND BLUE-NOTE CONTROL - FIXED KEY A
+
+PURPOSE
+Add Eb, the b5 blue note, to the complete A-minor-pentatonic map from Levels 41-42. Learn every
+practical Eb location, insert it into all five positions, and control whether it passes quickly, resolves
+to degree 4 or 5, slides chromatically, or remains exposed as deliberate tension.
+
+A BLUES FORMULA
+Notes:    A C D Eb E G
+Degrees:  1 b3 4 b5 5 b7
+Intervals: minor third - whole - half - half - minor third - whole
+A minor pentatonic remains the five-note skeleton. Eb is the added b5; it is not a replacement for D or E.
+
+BLUE-NOTE PRINCIPLE
+The b5 is a controlled tension, not an automatically forbidden note and not an automatically stable one.
+It may pass between 4 and 5, slide chromatically, or be sustained deliberately. The exercise fails only
+when the duration or resolution is accidental.
+
+NOTATION
+h = hammer-on | / = slide upward | \ = slide downward | ~~~~ = sustain or vibrato | R = measured rest
+
+CORE BLUE-NOTE ATLAS - D(4) -> Eb(b5) -> E(5)
+Low E   E|10-11-12|   D-Eb-E   4-b5-5
+A       A|5-6-7|   D-Eb-E   4-b5-5
+D       D|12-13-14|   D-Eb-E   4-b5-5
+G       G|7-8-9|   D-Eb-E   4-b5-5
+B       B|15-16-17|   D-Eb-E   4-b5-5
+High e  e|10-11-12|   D-Eb-E   4-b5-5
+P5 also uses the A-string octave extension A|17-18-19| = D-Eb-E.
+
+CORE COUNTS
+Module A: one- and two-octave reference cells = 40 tones / 40 attacks
+Module B: five position insertion cells = 144 tones / 144 attacks
+Module C: six chromatic resolution cells = 36 tones / 36 attacks
+Module D: five four-note resolution pairs = 40 tones / 40 attacks
+Module E: passing-versus-resting comparisons = 48 tones / 48 attacks
+Module F: six chromatic slide chains = 36 tones / 12 attacks
+Module G: four position-seam phrases = 24 tones / 8 attacks
+Module H: three rhythmic-displacement studies = 18 tones / 18 attacks
+Module I: six resolution-audit cards = 36 tones / 36 attacks
+Complete written workout = 422 sounding tones / 382 pick attacks
+
+========================================================================================================================
+MODULE A - ONE- AND TWO-OCTAVE REFERENCE CELLS
+========================================================================================================================
+ONE OCTAVE - LOW-E A ROOT TO D-STRING A ROOT - 14-NOTE UP/DOWN CELL
+Ascending degrees: 1 b3 4 b5 5 b7 8
+Descending degrees: 8 b7 5 b5 4 b3 1
+Nte|A---C---D---Eb--E---G---A---|
+Deg|1---b3--4---b5--5---b7--1---|
+Fng|1---4---1---2---3---1---3---|
+  e|----------------------------|
+  B|----------------------------|
+  G|----------------------------|
+  D|--------------------5---7---|
+  A|--------5---6---7-----------|
+  E|5---8-----------------------|
+DESCENDING
+Nte|A---G---E---Eb--D---C---A---|
+Deg|1---b7--5---b5--4---b3--1---|
+Fng|3---1---3---2---1---4---1---|
+  e|----------------------------|
+  B|----------------------------|
+  G|----------------------------|
+  D|7---5-----------------------|
+  A|--------7---6---5-----------|
+  E|--------------------8---5---|
+Repeat with D-start and U-start. Accent b5 once, then remove the accent.
+
+TWO OCTAVES - SIX STRINGS - 26-NOTE UP/DOWN CELL
+Ascending degrees: 1 b3 4 b5 5 b7 8 b10 11 b12 12 b14 15
+Nte|A---C---D---Eb--E---G---A---C---D---Eb--E---G---A---|
+Deg|1---b3--4---b5--5---b7--1---b3--4---b5--5---b7--1---|
+Fng|1---4---1---2---3---1---3---1---3---4---1---4---1---|
+  e|------------------------------------------------5---|
+  B|----------------------------------------5---8-------|
+  G|----------------------------5---7---8---------------|
+  D|--------------------5---7---------------------------|
+  A|--------5---6---7-----------------------------------|
+  E|5---8-----------------------------------------------|
+DESCENDING
+Nte|A---G---E---Eb--D---C---A---G---E---Eb--D---C---A---|
+Deg|1---b7--5---b5--4---b3--1---b7--5---b5--4---b3--1---|
+Fng|1---4---1---4---3---1---3---1---3---2---1---4---1---|
+  e|5---------------------------------------------------|
+  B|----8---5-------------------------------------------|
+  G|------------8---7---5-------------------------------|
+  D|------------------------7---5-----------------------|
+  A|--------------------------------7---6---5-----------|
+  E|--------------------------------------------8---5---|
+The high A is repeated at the turnaround. Do not reset the pick at the middle root, b5, or high root.
+
+========================================================================================================================
+MODULE B - FIVE POSITION BLUES-SCALE INSERTION CELLS
+========================================================================================================================
+P1 - ROOT FRAME - frets 5-8
+Blue notes: A-string fret 6 and G-string fret 8.
+Pentatonic skeleton: 1 b3 4 5 b7 1 b3 4 5 b7 1 b3
+Blues insertion:     1 b3 4 b5 5 b7 1 b3 4 b5 5 b7 1 b3
+Ascending count 14; complete up/down cell 28.
+ASCENDING
+Nte|A---C---D---Eb--E---G---A---C---D---Eb--E---G---A---C---|
+Deg|1---b3--4---b5--5---b7--1---b3--4---b5--5---b7--1---b3--|
+Fng|1---4---1---2---3---1---3---1---3---4---1---4---1---4---|
+  e|------------------------------------------------5---8---|
+  B|----------------------------------------5---8-----------|
+  G|----------------------------5---7---8-------------------|
+  D|--------------------5---7-------------------------------|
+  A|--------5---6---7---------------------------------------|
+  E|5---8---------------------------------------------------|
+DESCENDING
+Nte|C---A---G---E---Eb--D---C---A---G---E---Eb--D---C---A---|
+Deg|b3--1---b7--5---b5--4---b3--1---b7--5---b5--4---b3--1---|
+Fng|4---1---4---1---4---3---1---3---1---3---2---1---4---1---|
+  e|8---5---------------------------------------------------|
+  B|--------8---5-------------------------------------------|
+  G|----------------8---7---5-------------------------------|
+  D|----------------------------7---5-----------------------|
+  A|------------------------------------7---6---5-----------|
+  E|------------------------------------------------8---5---|
+Practice passes: skeleton only; blues insertion with b5 accent; blues insertion with equal volume; D-start; U-start.
+
+P2 - FLAT-THIRD FRAME - frets 7-11
+Blue notes: low-E fret 11, G-string fret 8, and high-e fret 11.
+Pentatonic skeleton: b3 4 5 b7 1 b3 4 5 b7 1 b3 4
+Blues insertion:     b3 4 b5 5 b7 1 b3 4 b5 5 b7 1 b3 4 b5
+Ascending count 15; complete up/down cell 30.
+ASCENDING
+Nte|C---D---Eb--E---G---A---C---D---Eb--E---G---A---C---D---Eb--|
+Deg|b3--4---b5--5---b7--1---b3--4---b5--5---b7--1---b3--4---b5--|
+Fng|1---3---4---1---4---1---4---1---2---3---2---4---1---3---4---|
+  e|------------------------------------------------8---10--11--|
+  B|----------------------------------------8---10--------------|
+  G|----------------------------7---8---9-----------------------|
+  D|--------------------7---10----------------------------------|
+  A|------------7---10------------------------------------------|
+  E|8---10--11--------------------------------------------------|
+DESCENDING
+Nte|Eb--D---C---A---G---E---Eb--D---C---A---G---E---Eb--D---C---|
+Deg|b5--4---b3--1---b7--5---b5--4---b3--1---b7--5---b5--4---b3--|
+Fng|4---3---1---4---2---3---2---1---4---1---4---1---4---3---1---|
+  e|11--10--8---------------------------------------------------|
+  B|------------10--8-------------------------------------------|
+  G|--------------------9---8---7-------------------------------|
+  D|--------------------------------10--7-----------------------|
+  A|----------------------------------------10--7---------------|
+  E|------------------------------------------------11--10--8---|
+Practice passes: skeleton only; blues insertion with b5 accent; blues insertion with equal volume; D-start; U-start.
+
+P3 - FOURTH-DEGREE FRAME - frets 9-13
+Blue notes: low-E fret 11, D-string fret 13, and high-e fret 11.
+Pentatonic skeleton: 4 5 b7 1 b3 4 5 b7 1 b3 4 5
+Blues insertion:     4 b5 5 b7 1 b3 4 b5 5 b7 1 b3 4 b5 5
+Ascending count 15; complete up/down cell 30.
+ASCENDING
+Nte|D---Eb--E---G---A---C---D---Eb--E---G---A---C---D---Eb--E---|
+Deg|4---b5--5---b7--1---b3--4---b5--5---b7--1---b3--4---b5--5---|
+Fng|1---2---3---1---3---1---3---4---1---4---1---4---1---2---3---|
+  e|------------------------------------------------10--11--12--|
+  B|----------------------------------------10--13--------------|
+  G|--------------------------------9---12----------------------|
+  D|--------------------10--12--13------------------------------|
+  A|------------10--12------------------------------------------|
+  E|10--11--12--------------------------------------------------|
+DESCENDING
+Nte|E---Eb--D---C---A---G---E---Eb--D---C---A---G---E---Eb--D---|
+Deg|5---b5--4---b3--1---b7--5---b5--4---b3--1---b7--5---b5--4---|
+Fng|3---2---1---4---1---4---1---4---3---1---3---1---3---2---1---|
+  e|12--11--10--------------------------------------------------|
+  B|------------13--10------------------------------------------|
+  G|--------------------12--9-----------------------------------|
+  D|----------------------------13--12--10----------------------|
+  A|----------------------------------------12--10--------------|
+  E|------------------------------------------------12--11--10--|
+Practice passes: skeleton only; blues insertion with b5 accent; blues insertion with equal volume; D-start; U-start.
+
+P4 - FIFTH-DEGREE FRAME - frets 12-16
+Blue notes: D-string fret 13 and B-string fret 16.
+Pentatonic skeleton: 5 b7 1 b3 4 5 b7 1 b3 4 5 b7
+Blues insertion:     5 b7 1 b3 4 b5 5 b7 1 b3 4 b5 5 b7
+Ascending count 14; complete up/down cell 28.
+ASCENDING
+Nte|E---G---A---C---D---Eb--E---G---A---C---D---Eb--E---G---|
+Deg|5---b7--1---b3--4---b5--5---b7--1---b3--4---b5--5---b7--|
+Fng|1---4---1---4---1---2---3---1---3---1---3---4---1---4---|
+  e|------------------------------------------------12--15--|
+  B|------------------------------------13--15--16----------|
+  G|----------------------------12--14----------------------|
+  D|----------------12--13--14------------------------------|
+  A|--------12--15------------------------------------------|
+  E|12--15--------------------------------------------------|
+DESCENDING
+Nte|G---E---Eb--D---C---A---G---E---Eb--D---C---A---G---E---|
+Deg|b7--5---b5--4---b3--1---b7--5---b5--4---b3--1---b7--5---|
+Fng|4---1---4---3---1---3---1---3---2---1---4---1---4---1---|
+  e|15--12--------------------------------------------------|
+  B|--------16--15--13--------------------------------------|
+  G|--------------------14--12------------------------------|
+  D|----------------------------14--13--12------------------|
+  A|----------------------------------------15--12----------|
+  E|------------------------------------------------15--12--|
+Practice passes: skeleton only; blues insertion with b5 accent; blues insertion with equal volume; D-start; U-start.
+
+P5 - FLAT-SEVENTH FRAME - frets 14-18
+Blue notes: B-string fret 16 and the A-string fret-18 octave extension.
+Pentatonic skeleton: b7 1 b3 4 5 b7 1 b3 4 5 b7 1
+Blues insertion:     b7 1 b3 4 b5 5 b7 1 b3 4 b5 5 b7 1
+Ascending count 14; complete up/down cell 28.
+ASCENDING
+Nte|G---A---C---D---Eb--E---G---A---C---D---Eb--E---G---A---|
+Deg|b7--1---b3--4---b5--5---b7--1---b3--4---b5--5---b7--1---|
+Fng|2---4---1---3---4---1---4---1---4---1---2---3---2---4---|
+  e|------------------------------------------------15--17--|
+  B|------------------------------------15--16--17----------|
+  G|----------------------------14--17----------------------|
+  D|--------------------14--17------------------------------|
+  A|--------15--17--18--------------------------------------|
+  E|15--17--------------------------------------------------|
+DESCENDING
+Nte|A---G---E---Eb--D---C---A---G---E---Eb--D---C---A---G---|
+Deg|1---b7--5---b5--4---b3--1---b7--5---b5--4---b3--1---b7--|
+Fng|4---2---3---2---1---4---1---4---1---4---3---1---4---2---|
+  e|17--15--------------------------------------------------|
+  B|--------17--16--15--------------------------------------|
+  G|--------------------17--14------------------------------|
+  D|----------------------------17--14----------------------|
+  A|------------------------------------18--17--15----------|
+  E|------------------------------------------------17--15--|
+Practice passes: skeleton only; blues insertion with b5 accent; blues insertion with equal volume; D-start; U-start.
+
+========================================================================================================================
+MODULE C - SIX-STRING CHROMATIC RESOLUTION TRIPLETS
+========================================================================================================================
+Play 4-b5-5 upward and 5-b5-4 downward on every string. One triplet per beat. First pick every note.
+Low E - 6 tones
+Nte|D---Eb--E---|E---Eb--D---|
+Deg|4---b5--5---|5---b5--4---|
+  E|10--11--12--|12--11--10--|
+Pck|D---U---D---|U---D---U---|  then repeat from a U start
+A - 6 tones
+Nte|D---Eb--E---|E---Eb--D---|
+Deg|4---b5--5---|5---b5--4---|
+  A|5---6---7---|7---6---5---|
+Pck|D---U---D---|U---D---U---|  then repeat from a U start
+D - 6 tones
+Nte|D---Eb--E---|E---Eb--D---|
+Deg|4---b5--5---|5---b5--4---|
+  D|12--13--14--|14--13--12--|
+Pck|D---U---D---|U---D---U---|  then repeat from a U start
+G - 6 tones
+Nte|D---Eb--E---|E---Eb--D---|
+Deg|4---b5--5---|5---b5--4---|
+  G|7---8---9---|9---8---7---|
+Pck|D---U---D---|U---D---U---|  then repeat from a U start
+B - 6 tones
+Nte|D---Eb--E---|E---Eb--D---|
+Deg|4---b5--5---|5---b5--4---|
+  B|15--16--17--|17--16--15--|
+Pck|D---U---D---|U---D---U---|  then repeat from a U start
+High e - 6 tones
+Nte|D---Eb--E---|E---Eb--D---|
+Deg|4---b5--5---|5---b5--4---|
+  e|10--11--12--|12--11--10--|
+Pck|D---U---D---|U---D---U---|  then repeat from a U start
+
+========================================================================================================================
+MODULE D - FOUR-NOTE RESOLUTION CELLS
+========================================================================================================================
+Ascending cell: b3-4-b5-5. Descending cell: b7-5-b5-4. Use straight sixteenths, one group per beat.
+P1 - ROOT AREA
+UP   C-D-Eb-E   b3-4-b5-5
+DOWN G-E-Eb-D   b7-5-b5-4
+e|----------|
+B|----------|
+G|5--7--8--9|
+D|----------|
+A|----------|
+E|----------|
+DESCENDING HALF
+e|-----------|
+B|-----------|
+G|-----------|
+D|-----------|
+A|10--7--6--5|
+E|-----------|
+
+P2 - FLAT-THIRD AREA
+UP   C-D-Eb-E   b3-4-b5-5
+DOWN G-E-Eb-D   b7-5-b5-4
+e|8--10--11--12|
+B|-------------|
+G|-------------|
+D|-------------|
+A|-------------|
+E|-------------|
+DESCENDING HALF
+e|-----------|
+B|-----------|
+G|12--9--8--7|
+D|-----------|
+A|-----------|
+E|-----------|
+
+P3 - FOURTH-DEGREE AREA
+UP   C-D-Eb-E   b3-4-b5-5
+DOWN G-E-Eb-D   b7-5-b5-4
+e|--------------|
+B|--------------|
+G|--------------|
+D|10--12--13--14|
+A|--------------|
+E|--------------|
+DESCENDING HALF
+e|--------------|
+B|--------------|
+G|--------------|
+D|--------------|
+A|--------------|
+E|15--12--11--10|
+
+P4 - FIFTH-DEGREE AREA
+UP   C-D-Eb-E   b3-4-b5-5
+DOWN G-E-Eb-D   b7-5-b5-4
+e|--------------|
+B|13--15--16--17|
+G|--------------|
+D|--------------|
+A|--------------|
+E|--------------|
+DESCENDING HALF
+e|--------------|
+B|--------------|
+G|--------------|
+D|17--14--13--12|
+A|--------------|
+E|--------------|
+
+P5 - FLAT-SEVENTH AREA
+UP   C-D-Eb-E   b3-4-b5-5
+DOWN G-E-Eb-D   b7-5-b5-4
+e|--------------|
+B|--------------|
+G|--------------|
+D|--------------|
+A|15--17--18--19|
+E|--------------|
+DESCENDING HALF
+e|15--12--11--10|
+B|--------------|
+G|--------------|
+D|--------------|
+A|--------------|
+E|--------------|
+
+========================================================================================================================
+MODULE E - PASSING TONE VERSUS RESTING TENSION
+========================================================================================================================
+Each string uses the same four pitches twice. In Pass A, Eb is brief. In Pass B, Eb is sustained before resolving.
+Low E
+PASS A degrees: 4-b5-5-4
+E|10--11--12--10--|
+PASS B degrees: 4-b5~~~~-5-4
+E|10--11~~~~--12--10--|
+Keep the final D and E in tune with the held Eb tension; do not rush the resolution.
+A
+PASS A degrees: 4-b5-5-4
+A|5--6--7--5--|
+PASS B degrees: 4-b5~~~~-5-4
+A|5--6~~~~--7--5--|
+Keep the final D and E in tune with the held Eb tension; do not rush the resolution.
+D
+PASS A degrees: 4-b5-5-4
+D|12--13--14--12--|
+PASS B degrees: 4-b5~~~~-5-4
+D|12--13~~~~--14--12--|
+Keep the final D and E in tune with the held Eb tension; do not rush the resolution.
+G
+PASS A degrees: 4-b5-5-4
+G|7--8--9--7--|
+PASS B degrees: 4-b5~~~~-5-4
+G|7--8~~~~--9--7--|
+Keep the final D and E in tune with the held Eb tension; do not rush the resolution.
+B
+PASS A degrees: 4-b5-5-4
+B|15--16--17--15--|
+PASS B degrees: 4-b5~~~~-5-4
+B|15--16~~~~--17--15--|
+Keep the final D and E in tune with the held Eb tension; do not rush the resolution.
+High e
+PASS A degrees: 4-b5-5-4
+e|10--11--12--10--|
+PASS B degrees: 4-b5~~~~-5-4
+e|10--11~~~~--12--10--|
+Keep the final D and E in tune with the held Eb tension; do not rush the resolution.
+
+========================================================================================================================
+MODULE F - CHROMATIC SLIDE CHAINS
+========================================================================================================================
+Pick D once and slide through Eb to E. Pick E once and slide through Eb to D. Six tones, two attacks per string.
+Low E   E|10/11/12----12\11\10----|   4/b5/5 | 5\b5\4
+A       A|5/6/7----7\6\5----|   4/b5/5 | 5\b5\4
+D       D|12/13/14----14\13\12----|   4/b5/5 | 5\b5\4
+G       G|7/8/9----9\8\7----|   4/b5/5 | 5\b5\4
+B       B|15/16/17----17\16\15----|   4/b5/5 | 5\b5\4
+High e  e|10/11/12----12\11\10----|   4/b5/5 | 5\b5\4
+The Eb and E/D destinations land on subdivisions. Do not add a pick at either slide arrival.
+
+========================================================================================================================
+MODULE G - POSITION-SEAM BLUE-NOTE PHRASES
+========================================================================================================================
+Each phrase uses one attack for b3-h4/b5/5 and one attack for b7-h1. Six tones, two attacks.
+P1 -> P2 - G/B SEAM
+e|----------------------|
+B|----------8h10~~~~----|
+G|5h7/8/9---------------|
+D|----------------------|
+A|----------------------|
+E|----------------------|
+Degrees: b3-4-b5-5 | b7-1
+Notes:   C-D-Eb-E | G-A
+Reverse variation: 1-b7-5-b5-4-b3 without an extra attack at either slide arrival.
+
+P2 -> P3 - LOW-E/A SEAM
+e|----------------------|
+B|----------------------|
+G|----------------------|
+D|----------------------|
+A|-----------10h12~~~~--|
+E|8h10/11/12------------|
+Degrees: b3-4-b5-5 | b7-1
+Notes:   C-D-Eb-E | G-A
+Reverse variation: 1-b7-5-b5-4-b3 without an extra attack at either slide arrival.
+
+P3 -> P4 - D/G SEAM
+e|----------------------|
+B|----------------------|
+G|-------------12h14~~~~|
+D|10h12/13/14-----------|
+A|----------------------|
+E|----------------------|
+Degrees: b3-4-b5-5 | b7-1
+Notes:   C-D-Eb-E | G-A
+Reverse variation: 1-b7-5-b5-4-b3 without an extra attack at either slide arrival.
+
+P4 -> P5 - B/e SEAM
+e|-------------15h17~~~~|
+B|13h15/16/17-----------|
+G|----------------------|
+D|----------------------|
+A|----------------------|
+E|----------------------|
+Degrees: b3-4-b5-5 | b7-1
+Notes:   C-D-Eb-E | G-A
+Reverse variation: 1-b7-5-b5-4-b3 without an extra attack at either slide arrival.
+
+========================================================================================================================
+MODULE H - BLUE-NOTE RHYTHMIC DISPLACEMENT
+========================================================================================================================
+Use G-string frets 7-8-9 = D-Eb-E. R means a measured rest, not a muted attack.
+1. b5 ON THE BEAT
+Cnt|1---&---2---&---3---&---4---&---|
+Nte|D---R---Eb--E---D---R---Eb--E---|
+  G|7-------8---9---7-------8---9---|
+2. b5 ON THE OFFBEAT
+Cnt|1---&---2---&---3---&---4---&---|
+Nte|D---Eb--E---R---D---Eb--E---R---|
+  G|7---8---9-------7---8---9-------|
+3. b5 ON THE FINAL TRIPLET SUBDIVISION
+Cnt|1---trip-let-2---trip-let-3---trip-let-4---trip-let-|
+Nte|D---R---Eb--E---R---R---D---R---Eb--E---R---R---|
+  G|7-------8---9-----------7-------8---9-----------|
+Accent Eb on the first pass. Remove the accent while preserving its rhythmic location.
+
+========================================================================================================================
+MODULE I - RESOLUTION AUDIT CARDS
+========================================================================================================================
+Play each card, classify Eb as passing or resting, then reverse its role on the second pass.
+1. LOW-E PASS
+E|10--11--12--15--12--10--|
+Degrees: 4-b5-5-b7-5-4
+Audit: The b5 passes to 5.
+Repair: if Eb passes, sustain it and resolve later; if Eb rests, resolve it to the nearest 4 or 5.
+2. A-STRING HOLD
+A|5---6---7---10--7---6~~~~|
+Degrees: 4-b5-5-b7-5-b5
+Audit: The b5 is the final tension.
+Repair: if Eb passes, sustain it and resolve later; if Eb rests, resolve it to the nearest 4 or 5.
+3. D-STRING PASS
+D|10--12--13--14--12--10--|
+Degrees: b3-4-b5-5-4-b3
+Audit: The b5 connects 4 to 5.
+Repair: if Eb passes, sustain it and resolve later; if Eb rests, resolve it to the nearest 4 or 5.
+4. G-STRING HOLD
+G|12--9---8---7---5---8~~~~|
+Degrees: b7-5-b5-4-b3-b5
+Audit: The b5 is sustained deliberately.
+Repair: if Eb passes, sustain it and resolve later; if Eb rests, resolve it to the nearest 4 or 5.
+5. B-STRING PASS
+B|15--16--17--15--10--10~~~~|
+Degrees: 4-b5-5-4-1-1
+Audit: The b5 resolves immediately.
+Repair: if Eb passes, sustain it and resolve later; if Eb rests, resolve it to the nearest 4 or 5.
+6. HIGH-E HOLD
+e|8---10--11--12--15--11~~~~|
+Degrees: b3-4-b5-5-b7-b5
+Audit: The b5 remains exposed at the end.
+Repair: if Eb passes, sustain it and resolve later; if Eb rests, resolve it to the nearest 4 or 5.
+
+========================================================================================================================
+PRACTICE PROGRESSION
+========================================================================================================================
+1. Name all six core Eb locations and the A-string fret-18 extension.
+2. Play the one-octave cell at one note per click with both pick starts.
+3. Link the two-octave six-string cell without resetting at either octave.
+4. Compare the pentatonic skeleton and blues insertion in one position at a time.
+5. Complete all six 4-b5-5 and 5-b5-4 triplet cells.
+6. Add the five four-note resolution pairs as straight sixteenths.
+7. Contrast passing Eb with sustained Eb on all six strings.
+8. Convert the picked chromatic cells into two-attack slide chains.
+9. Link the four position seams and complete all three displacement studies.
+10. Play the six audit cards and change the role of Eb on command.
+
+ERROR DIAGNOSIS
+MISSING b5: say 4-b5-5 before playing and isolate one three-fret chromatic site.
+WRONG SPELLING: in A blues the added pitch is Eb, not D#.
+RUSHED SEMITONES: return to one note per click; make D-Eb and Eb-E equal.
+ACCIDENTAL RESTING TONE: decide before the phrase whether Eb passes or sustains.
+EXTRA SLIDE ATTACK: mute the string and rehearse two attacks for six sounding tones.
+RIGID STRETCH: release and reform for the one-fret extension; do not hold every fret at once.
+PICK RESET: air-pick the complete position or reference-cell count.
+TENSION OR PAIN: stop, lower the tempo, and reduce the position span.
+
+ADVANCEMENT RULES
+Add 2 BPM after three clean runs at the current module length. After two errors, reduce 4-6 BPM or shorten
+the exercise to one chromatic site. Increase route length before speed when the map is weak. Increase speed
+only after the intended role of Eb remains audible.
+
+MASTERY GATE BEFORE LEVEL 44
+Name every printed Eb by string and fret; play both reference cells and all five positions with D-start and
+U-start; complete six resolution triplets, five four-note cells, six passing/rest comparisons, six slide
+chains, four seam phrases, three rhythmic placements, and six audit cards; resolve or sustain Eb deliberately;
+and complete the workbook on two separate clean days.
+
+PRACTICE LOG
+Date | Focus | D/U | BPM | Passing or resting? | Weak site / position / seam | Next target
+____ | _____ | ___ | ___ | ___________________ | ___________________________ | ___________
+____ | _____ | ___ | ___ | ___________________ | ___________________________ | ___________
+____ | _____ | ___ | ___ | ___________________ | ___________________________ | ___________
+____ | _____ | ___ | ___ | ___________________ | ___________________________ | ___________
+
+NEXT LEVEL
+Level 44 turns these controlled resolutions into blues vocabulary: blue-third motion, 4-b5-5 licks,
+b7-to-1 cadences, one- and two-bar call-and-response phrases, lick recombination, and turnarounds.

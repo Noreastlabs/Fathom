@@ -1,0 +1,2083 @@
+{
+  "source_key": "exercise-completeness-r01/level077/modulec/p007-supplement01/majoriivivoiceleading",
+  "commands": [
+    {
+      "action": "availability",
+      "input": {
+        "provider_kind": "own_instrument",
+        "provider_reference": "synthetic fixture only",
+        "material_available": true,
+        "current_source_ready": true,
+        "prior_source_exposure": true,
+        "notes": "no human performance or actual source"
+      }
+    },
+    {
+      "action": "set_plan",
+      "input": {
+        "p": {
+          "prerequisites": {
+            "own_instrument": true,
+            "original_workbook": true
+          },
+          "keys": {
+            "C": {
+              "combined_sung_voice": "lower",
+              "midi": {
+                "lower": [
+                  53,
+                  53,
+                  52
+                ],
+                "upper": [
+                  72,
+                  71,
+                  71
+                ]
+              },
+              "contacts": {
+                "lower": [
+                  {
+                    "string": "E",
+                    "fret": 13
+                  },
+                  {
+                    "string": "E",
+                    "fret": 13
+                  },
+                  {
+                    "string": "E",
+                    "fret": 12
+                  }
+                ],
+                "upper": [
+                  {
+                    "string": "D",
+                    "fret": 22
+                  },
+                  {
+                    "string": "D",
+                    "fret": 21
+                  },
+                  {
+                    "string": "D",
+                    "fret": 21
+                  }
+                ]
+              },
+              "articulations": {
+                "lower": [
+                  "attack",
+                  "hold",
+                  "attack"
+                ],
+                "upper": [
+                  "attack",
+                  "attack",
+                  "hold"
+                ]
+              }
+            },
+            "G": {
+              "combined_sung_voice": "lower",
+              "midi": {
+                "lower": [
+                  48,
+                  48,
+                  47
+                ],
+                "upper": [
+                  79,
+                  78,
+                  78
+                ]
+              },
+              "contacts": {
+                "lower": [
+                  {
+                    "string": "E",
+                    "fret": 8
+                  },
+                  {
+                    "string": "E",
+                    "fret": 8
+                  },
+                  {
+                    "string": "E",
+                    "fret": 7
+                  }
+                ],
+                "upper": [
+                  {
+                    "string": "G",
+                    "fret": 24
+                  },
+                  {
+                    "string": "G",
+                    "fret": 23
+                  },
+                  {
+                    "string": "G",
+                    "fret": 23
+                  }
+                ]
+              },
+              "articulations": {
+                "lower": [
+                  "attack",
+                  "hold",
+                  "attack"
+                ],
+                "upper": [
+                  "attack",
+                  "attack",
+                  "hold"
+                ]
+              }
+            },
+            "D": {
+              "combined_sung_voice": "lower",
+              "midi": {
+                "lower": [
+                  55,
+                  55,
+                  54
+                ],
+                "upper": [
+                  74,
+                  73,
+                  73
+                ]
+              },
+              "contacts": {
+                "lower": [
+                  {
+                    "string": "E",
+                    "fret": 15
+                  },
+                  {
+                    "string": "E",
+                    "fret": 15
+                  },
+                  {
+                    "string": "E",
+                    "fret": 14
+                  }
+                ],
+                "upper": [
+                  {
+                    "string": "D",
+                    "fret": 24
+                  },
+                  {
+                    "string": "D",
+                    "fret": 23
+                  },
+                  {
+                    "string": "D",
+                    "fret": 23
+                  }
+                ]
+              },
+              "articulations": {
+                "lower": [
+                  "attack",
+                  "hold",
+                  "attack"
+                ],
+                "upper": [
+                  "attack",
+                  "attack",
+                  "hold"
+                ]
+              }
+            },
+            "A": {
+              "combined_sung_voice": "lower",
+              "midi": {
+                "lower": [
+                  50,
+                  50,
+                  49
+                ],
+                "upper": [
+                  81,
+                  80,
+                  80
+                ]
+              },
+              "contacts": {
+                "lower": [
+                  {
+                    "string": "E",
+                    "fret": 10
+                  },
+                  {
+                    "string": "E",
+                    "fret": 10
+                  },
+                  {
+                    "string": "E",
+                    "fret": 9
+                  }
+                ],
+                "upper": [
+                  {
+                    "string": "B",
+                    "fret": 22
+                  },
+                  {
+                    "string": "B",
+                    "fret": 21
+                  },
+                  {
+                    "string": "B",
+                    "fret": 21
+                  }
+                ]
+              },
+              "articulations": {
+                "lower": [
+                  "attack",
+                  "hold",
+                  "attack"
+                ],
+                "upper": [
+                  "attack",
+                  "attack",
+                  "hold"
+                ]
+              }
+            },
+            "E": {
+              "combined_sung_voice": "lower",
+              "midi": {
+                "lower": [
+                  57,
+                  57,
+                  56
+                ],
+                "upper": [
+                  76,
+                  75,
+                  75
+                ]
+              },
+              "contacts": {
+                "lower": [
+                  {
+                    "string": "E",
+                    "fret": 17
+                  },
+                  {
+                    "string": "E",
+                    "fret": 17
+                  },
+                  {
+                    "string": "E",
+                    "fret": 16
+                  }
+                ],
+                "upper": [
+                  {
+                    "string": "G",
+                    "fret": 21
+                  },
+                  {
+                    "string": "G",
+                    "fret": 20
+                  },
+                  {
+                    "string": "G",
+                    "fret": 20
+                  }
+                ]
+              },
+              "articulations": {
+                "lower": [
+                  "attack",
+                  "hold",
+                  "attack"
+                ],
+                "upper": [
+                  "attack",
+                  "attack",
+                  "hold"
+                ]
+              }
+            },
+            "F": {
+              "combined_sung_voice": "lower",
+              "midi": {
+                "lower": [
+                  58,
+                  58,
+                  57
+                ],
+                "upper": [
+                  77,
+                  76,
+                  76
+                ]
+              },
+              "contacts": {
+                "lower": [
+                  {
+                    "string": "E",
+                    "fret": 18
+                  },
+                  {
+                    "string": "E",
+                    "fret": 18
+                  },
+                  {
+                    "string": "E",
+                    "fret": 17
+                  }
+                ],
+                "upper": [
+                  {
+                    "string": "G",
+                    "fret": 22
+                  },
+                  {
+                    "string": "G",
+                    "fret": 21
+                  },
+                  {
+                    "string": "G",
+                    "fret": 21
+                  }
+                ]
+              },
+              "articulations": {
+                "lower": [
+                  "attack",
+                  "hold",
+                  "attack"
+                ],
+                "upper": [
+                  "attack",
+                  "attack",
+                  "hold"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Dm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "G7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Cmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "C",
+          "mode": "lower_alone",
+          "chords": [
+            "Dm7",
+            "G7",
+            "Cmaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Dm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "G7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Cmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "C",
+          "mode": "upper_alone",
+          "chords": [
+            "Dm7",
+            "G7",
+            "Cmaj7"
+          ],
+          "sung_voice": "upper",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Dm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "G7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Cmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "C",
+          "mode": "combined",
+          "chords": [
+            "Dm7",
+            "G7",
+            "Cmaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": "upper",
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only",
+          "played_contacts": [
+            {
+              "string": "D",
+              "fret": 22
+            },
+            {
+              "string": "D",
+              "fret": 21
+            },
+            {
+              "string": "D",
+              "fret": 21
+            }
+          ],
+          "actual_attack_counts": [
+            1,
+            1,
+            0
+          ],
+          "combined_duties": {
+            "voices_coordinated": "yes",
+            "other_voice_played": "yes",
+            "no_searching": "yes",
+            "chosen_common_tone_policy": "yes"
+          }
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Am7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "D7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Gmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "G",
+          "mode": "lower_alone",
+          "chords": [
+            "Am7",
+            "D7",
+            "Gmaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Am7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "D7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Gmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "G",
+          "mode": "upper_alone",
+          "chords": [
+            "Am7",
+            "D7",
+            "Gmaj7"
+          ],
+          "sung_voice": "upper",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Am7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "D7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Gmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "G",
+          "mode": "combined",
+          "chords": [
+            "Am7",
+            "D7",
+            "Gmaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": "upper",
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only",
+          "played_contacts": [
+            {
+              "string": "G",
+              "fret": 24
+            },
+            {
+              "string": "G",
+              "fret": 23
+            },
+            {
+              "string": "G",
+              "fret": 23
+            }
+          ],
+          "actual_attack_counts": [
+            1,
+            1,
+            0
+          ],
+          "combined_duties": {
+            "voices_coordinated": "yes",
+            "other_voice_played": "yes",
+            "no_searching": "yes",
+            "chosen_common_tone_policy": "yes"
+          }
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Em7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "A7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Dmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "D",
+          "mode": "lower_alone",
+          "chords": [
+            "Em7",
+            "A7",
+            "Dmaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Em7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "A7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Dmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "D",
+          "mode": "upper_alone",
+          "chords": [
+            "Em7",
+            "A7",
+            "Dmaj7"
+          ],
+          "sung_voice": "upper",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Em7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "A7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Dmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "D",
+          "mode": "combined",
+          "chords": [
+            "Em7",
+            "A7",
+            "Dmaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": "upper",
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only",
+          "played_contacts": [
+            {
+              "string": "D",
+              "fret": 24
+            },
+            {
+              "string": "D",
+              "fret": 23
+            },
+            {
+              "string": "D",
+              "fret": 23
+            }
+          ],
+          "actual_attack_counts": [
+            1,
+            1,
+            0
+          ],
+          "combined_duties": {
+            "voices_coordinated": "yes",
+            "other_voice_played": "yes",
+            "no_searching": "yes",
+            "chosen_common_tone_policy": "yes"
+          }
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Bm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "E7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Amaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "A",
+          "mode": "lower_alone",
+          "chords": [
+            "Bm7",
+            "E7",
+            "Amaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Bm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "E7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Amaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "A",
+          "mode": "upper_alone",
+          "chords": [
+            "Bm7",
+            "E7",
+            "Amaj7"
+          ],
+          "sung_voice": "upper",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Bm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "E7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Amaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "A",
+          "mode": "combined",
+          "chords": [
+            "Bm7",
+            "E7",
+            "Amaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": "upper",
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only",
+          "played_contacts": [
+            {
+              "string": "B",
+              "fret": 22
+            },
+            {
+              "string": "B",
+              "fret": 21
+            },
+            {
+              "string": "B",
+              "fret": 21
+            }
+          ],
+          "actual_attack_counts": [
+            1,
+            1,
+            0
+          ],
+          "combined_duties": {
+            "voices_coordinated": "yes",
+            "other_voice_played": "yes",
+            "no_searching": "yes",
+            "chosen_common_tone_policy": "yes"
+          }
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "F#m7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "B7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Emaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "E",
+          "mode": "lower_alone",
+          "chords": [
+            "F#m7",
+            "B7",
+            "Emaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "F#m7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "B7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Emaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "E",
+          "mode": "upper_alone",
+          "chords": [
+            "F#m7",
+            "B7",
+            "Emaj7"
+          ],
+          "sung_voice": "upper",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "F#m7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "B7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Emaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "E",
+          "mode": "combined",
+          "chords": [
+            "F#m7",
+            "B7",
+            "Emaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": "upper",
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only",
+          "played_contacts": [
+            {
+              "string": "G",
+              "fret": 21
+            },
+            {
+              "string": "G",
+              "fret": 20
+            },
+            {
+              "string": "G",
+              "fret": 20
+            }
+          ],
+          "actual_attack_counts": [
+            1,
+            1,
+            0
+          ],
+          "combined_duties": {
+            "voices_coordinated": "yes",
+            "other_voice_played": "yes",
+            "no_searching": "yes",
+            "chosen_common_tone_policy": "yes"
+          }
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Gm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "C7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Fmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "F",
+          "mode": "lower_alone",
+          "chords": [
+            "Gm7",
+            "C7",
+            "Fmaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Gm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "C7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Fmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "F",
+          "mode": "upper_alone",
+          "chords": [
+            "Gm7",
+            "C7",
+            "Fmaj7"
+          ],
+          "sung_voice": "upper",
+          "played_voice": null,
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only"
+        }
+      }
+    },
+    {
+      "action": "next_subpass",
+      "input": {}
+    },
+    {
+      "action": "begin",
+      "input": {
+        "ready": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Gm7",
+        "function": "ii"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "C7",
+        "function": "V"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "cue_read",
+      "input": {
+        "chord": "Fmaj7",
+        "function": "I"
+      }
+    },
+    {
+      "action": "perform_station",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "end_take",
+      "input": {
+        "ack": true
+      }
+    },
+    {
+      "action": "release",
+      "input": {
+        "learner_released": true,
+        "source_stopped": true,
+        "notes": "synthetic explicit release only"
+      }
+    },
+    {
+      "action": "report",
+      "input": {
+        "r": {
+          "key": "F",
+          "mode": "combined",
+          "chords": [
+            "Gm7",
+            "C7",
+            "Fmaj7"
+          ],
+          "sung_voice": "lower",
+          "played_voice": "upper",
+          "duties": {
+            "sung_three_target_line": "yes",
+            "from_chord_name_and_function": "yes",
+            "not_copied_by_fret_distance": "yes",
+            "source_order": "yes"
+          },
+          "diagnosis": "",
+          "notes": "synthetic full-unit test declarations only",
+          "played_contacts": [
+            {
+              "string": "G",
+              "fret": 22
+            },
+            {
+              "string": "G",
+              "fret": 21
+            },
+            {
+              "string": "G",
+              "fret": 21
+            }
+          ],
+          "actual_attack_counts": [
+            1,
+            1,
+            0
+          ],
+          "combined_duties": {
+            "voices_coordinated": "yes",
+            "other_voice_played": "yes",
+            "no_searching": "yes",
+            "chosen_common_tone_policy": "yes"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+#pragma once
+#include <array>
+namespace fathom::tasks::manual_procedure_graph::hidden_seven {
+struct Binding {const char* key;const char* contract;const char* program;const char* original;bool motif;};
+inline constexpr std::array<Binding,7> bindings{{
+{"exercise-completeness-r01/level073/modulee/p010-card01/cmajorgmajor","9653eee087671ac90283af4f76967e57aec0e1d5882027ec9dd6b76c277b9a76","666e846bd30d682dcd8b2bd9f0418791991efbe17f25d387910f78e717729364","ee6fdd7397a11d541c76d761e7e4f4cd55368bad5a86ce47df51cb119f9f45b8",true},
+{"exercise-completeness-r01/level073/modulee/p010-card02/cmajoremajor","ccb40e690d130863fe4caa420d80f104ddd03fb8a24c550e1ca22aaf242905f6","fd8fd8207c62c114db05ed727c3221b3a361021ece0963ee5eb7d273ac5e952f","15d1dca63179d4b183b302578bbe40335b5dee90f19feeaad013d6a9b3e0d4ce",true},
+{"exercise-completeness-r01/level073/modulee/p010-card03/fmajoramajor","01321d64a857cf1374704f7e09e3aecdee36d0e42f999c79f4fae1ca50fedcf0","668845ae921bbbfb0beb806429491054ae8a0dd8a69873ebad2b71a2c21134f9","9293a5cd33cebe3d35bcef9d97343ef7a38c7639fdb9132b9c03214a17e78288",true},
+{"exercise-completeness-r01/level073/modulee/p011-card01/aminoreminor","d22c3240b043e2453e3c8ccb69ff278625d7245c17e8feb232d42755f4b2919c","03bc2f16a9ffed71023aa324eef50477de520b8da47182755e503a8b278fc836","b1741c217d0ece4982a0724fc723f867bdaf5d20308d4a6b85c2793303813ed5",true},
+{"exercise-completeness-r01/level073/modulee/p011-card02/aminorc#minor","9e43da65a94a757b68c46ab244279ee886f5e3d4d537c487153eb79cb30aa21f","289d98296e0c4175f86fabbfcb12b5af479879b3797216e8f8de804e17619034","21932e384b509a33535441f348a74d30f1f461e4c87a74d0bf0d5569692978a6",true},
+{"exercise-completeness-r01/level073/modulee/p011-card03/dminorf#minor","62abb091fb646971d2181c031dcbed7e8c1f45cc61f248557abb049636d30d63","123c9be90940e6d71698d4ec77afbea3734f15f09abfad065b91b2c67c5c4918","347ed614f147c7403aeff5222dac77139ffffed8f48d514d6f5660d69d545bec",true},
+{"exercise-completeness-r01/level073/modulei/p019-card14/eartrainingassignments","c3cdbf9ada9ab38f3fc523d92900da0b14bb74d97befa7b9962ae796fef53414","36dc28ff0839d841da41bda0a93779f42d5ac044998ae64e926f547033195c0e","9900b8d42d963ca616809d862e922e1b3f7b2a95b85001b938b517f75b85659d",false},
+}};
+}

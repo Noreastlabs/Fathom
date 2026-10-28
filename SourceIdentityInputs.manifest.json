@@ -1,0 +1,66 @@
+{
+  "format": "fathom-clean-current-software-identity-inputs.1",
+  "files": [
+    {
+      "path": "Source/content/CleanRuntimeEnvelope.hpp",
+      "bytes": 2333,
+      "sha256": "593768c0b5bc5e6b39f3eebe9be025d5e49b1d58f7de8c47a1cf5ae458006c35"
+    },
+    {
+      "path": "Source/content/CleanRuntimeEnvelope.cpp",
+      "bytes": 16057,
+      "sha256": "a65fdeeadaf93f1cab28c58fab9ac6fc681847fa1696dcc4935ffa2698eda1d4"
+    },
+    {
+      "path": "cmake/CleanRuntimePin.cmake",
+      "bytes": 404,
+      "sha256": "ebfd15f73ccc59c5b8f2960a16cce55572c0095a461a0404aa062240d0f9873c"
+    },
+    {
+      "path": "Source/content/StrictJson.hpp",
+      "bytes": 2350,
+      "sha256": "92b8ae3ba0827cd7099fb5af3ed4ca6ee83f3c12b34e6580b0e9d1c4f561d173"
+    },
+    {
+      "path": "Source/content/StrictJson.cpp",
+      "bytes": 9440,
+      "sha256": "a96705591734ec2b6f296a8d7b4bd5f60694e97d4ea3e2e84c82085cbcb32f67"
+    },
+    {
+      "path": "Source/content/Canonical.hpp",
+      "bytes": 1624,
+      "sha256": "5719bb71e55dd67df023f90dcc0733a3932aeba8825df4bce0a94bcb323eb519"
+    },
+    {
+      "path": "Source/content/Canonical.cpp",
+      "bytes": 111145,
+      "sha256": "7050d401527072f86889d22396f81a54136da7d1cec96b31dbaec575496428c3"
+    },
+    {
+      "path": "Source/core/MusicModel.hpp",
+      "bytes": 5783,
+      "sha256": "6c429d5d056e6354dea07aeed5668e95a8ba6d8c1309ec8900f326a13a9487bf"
+    },
+    {
+      "path": "Source/core/MusicModel.cpp",
+      "bytes": 42045,
+      "sha256": "de0f73d7adebfb5b0e8e6ba1e1445808c00d4371bdd06b3b279a03a3c9cd0003"
+    },
+    {
+      "path": "Source/core/Quantity.hpp",
+      "bytes": 1548,
+      "sha256": "af25feac7ef5ce9e58a94b19405f016f6acfbb7d6ec89feba72889e9045b9a69"
+    },
+    {
+      "path": "Source/core/Quantity.cpp",
+      "bytes": 2053,
+      "sha256": "caa98504162f0456f69502bb114cc3aa8b68f4d1ac5ee98f655ca1830f6d7c89"
+    },
+    {
+      "path": "Dependencies/lock.json",
+      "bytes": 679029,
+      "sha256": "a79d5188e2487143fe4fde8e29709bbc8d476dc2866652a1ef7aa6c85177cb31"
+    }
+  ],
+  "scope": "Current software input bytes, intentionally changed for clean packaging; logical curriculum/admission identities remain independently regression-bound."
+}

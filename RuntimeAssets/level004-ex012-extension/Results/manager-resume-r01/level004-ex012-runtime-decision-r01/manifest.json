@@ -1,0 +1,63 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 20480,
+      "bytes": 17522,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/level004-ex012-runtime-decision-r01/full-template-prompt.md",
+      "role": "saved full-template decision prompt",
+      "sha256": "006181056d334fc54ca6c7995535e0fa096bceb228558c94368717147d4922ed"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 6389,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex012-runtime-decision-r01/decision.md",
+      "role": "prospective Product runtime decision",
+      "sha256": "54c724d63b616fae1a821c04be7a829e92a1cf52fd5ecfe3d6f0b2a9f5ff3f13"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7144,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex012-runtime-decision-r01/evidence-check.json",
+      "role": "independent pin and live-boundary verification",
+      "sha256": "f533a4f433f0ccb7d9763b7ea3b0a832e5c85d27244e26eb113b23b71328fa6f"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 908,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex012-runtime-decision-r01/diff-audit.json",
+      "role": "scoped diff audit",
+      "sha256": "f2dcdfd524bef8981457f75e1df068a3efcde7b76202e03c28da618ee77de8e1"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1005,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex012-runtime-decision-r01/git-state.json",
+      "role": "scoped Git state",
+      "sha256": "655acf446a3f001ccc435d9ed9a97af2a848b511d06dd927d6cf9aa57ff3c42c"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1199,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex012-runtime-decision-r01/evidence-audit.json",
+      "role": "evidence size and recursion audit",
+      "sha256": "836ccb0034843d30e0583da9dbd0a6f6d4024060e338094677d19bed50ecc41a"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 441,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex012-runtime-decision-r01/lease-close.json",
+      "role": "private lease closure",
+      "sha256": "8e7197e1bd9334b1b8466f185d2eb33033afe8aa04066998e655c3c56c55c2b5"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

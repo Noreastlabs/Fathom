@@ -1,0 +1,511 @@
+GUITAR EXERCISES - SECTION VI, LEVEL 52
+MAJOR AND MINOR TRIADS - ROOT POSITION, FIRST INVERSION, SECOND INVERSION - TOP THREE STRINGS
+
+PURPOSE
+Compress major and minor harmony into three-note voicings on strings G, B, and high e. Spell each triad, identify root/third/fifth, distinguish three inversions by the bass voice, switch quality by moving the third, connect nearest inversions through progressions, and apply blocked and arpeggiated patterns.
+
+TRIAD FORMULAS
+Major: 1 3 5
+Minor: 1 b3 5
+Root position: 1-3-5 or 1-b3-5
+First inversion: 3-5-1 or b3-5-1
+Second inversion: 5-1-3 or 5-1-b3
+
+COMPLETE SOUNDED WORKLOAD: 976 attacks plus 42 silent triad formations.
+
+
+========================================================================================================================
+MODULE A - TRIAD SPELLING, INVERSION ROLES, AND SILENT FORMATION
+========================================================================================================================
+Quality string by inversion: root position = B string; first inversion = G string; second inversion = high e string.
+For every natural root, form major and minor versions of all three inversions silently before the first attack. 42 silent landings.
+
+========================================================================================================================
+C MAJOR AND MINOR TRIADS
+========================================================================================================================
+C major spelling: C E G
+C minor spelling: C Eb G
+MAJOR
+C - Root position
+G-B-e frets: 5-5-3
+Notes:   C E G
+Degrees: 1 3 5
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+C - First inversion
+G-B-e frets: 9-8-8
+Notes:   E G C
+Degrees: 3 5 1
+Fingers: 2 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+C - Second inversion
+G-B-e frets: 0-1-0
+Notes:   G C E
+Degrees: 5 1 3
+Fingers: O 1 O
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+MINOR
+Cm - Root position
+G-B-e frets: 5-4-3
+Notes:   C Eb G
+Degrees: 1 b3 5
+Fingers: 3 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Cm - First inversion
+G-B-e frets: 8-8-8
+Notes:   Eb G C
+Degrees: b3 5 1
+Fingers: 1 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Cm - Second inversion
+G-B-e frets: 12-13-11
+Notes:   G C Eb
+Degrees: 5 1 b3
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Page workload: 6 shapes x 10 attacks = 60 attacks.
+
+========================================================================================================================
+D MAJOR AND MINOR TRIADS
+========================================================================================================================
+D major spelling: D F# A
+D minor spelling: D F A
+MAJOR
+D - Root position
+G-B-e frets: 7-7-5
+Notes:   D F# A
+Degrees: 1 3 5
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+D - First inversion
+G-B-e frets: 11-10-10
+Notes:   F# A D
+Degrees: 3 5 1
+Fingers: 2 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+D - Second inversion
+G-B-e frets: 2-3-2
+Notes:   A D F#
+Degrees: 5 1 3
+Fingers: 1 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+MINOR
+Dm - Root position
+G-B-e frets: 7-6-5
+Notes:   D F A
+Degrees: 1 b3 5
+Fingers: 3 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Dm - First inversion
+G-B-e frets: 10-10-10
+Notes:   F A D
+Degrees: b3 5 1
+Fingers: 1 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Dm - Second inversion
+G-B-e frets: 2-3-1
+Notes:   A D F
+Degrees: 5 1 b3
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Page workload: 6 shapes x 10 attacks = 60 attacks.
+
+========================================================================================================================
+E MAJOR AND MINOR TRIADS
+========================================================================================================================
+E major spelling: E G# B
+E minor spelling: E G B
+MAJOR
+E - Root position
+G-B-e frets: 9-9-7
+Notes:   E G# B
+Degrees: 1 3 5
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+E - First inversion
+G-B-e frets: 1-0-0
+Notes:   G# B E
+Degrees: 3 5 1
+Fingers: 1 O O
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+E - Second inversion
+G-B-e frets: 4-5-4
+Notes:   B E G#
+Degrees: 5 1 3
+Fingers: 1 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+MINOR
+Em - Root position
+G-B-e frets: 9-8-7
+Notes:   E G B
+Degrees: 1 b3 5
+Fingers: 3 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Em - First inversion
+G-B-e frets: 0-0-0
+Notes:   G B E
+Degrees: b3 5 1
+Fingers: O O O
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Em - Second inversion
+G-B-e frets: 4-5-3
+Notes:   B E G
+Degrees: 5 1 b3
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Page workload: 6 shapes x 10 attacks = 60 attacks.
+
+========================================================================================================================
+F MAJOR AND MINOR TRIADS
+========================================================================================================================
+F major spelling: F A C
+F minor spelling: F Ab C
+MAJOR
+F - Root position
+G-B-e frets: 10-10-8
+Notes:   F A C
+Degrees: 1 3 5
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+F - First inversion
+G-B-e frets: 2-1-1
+Notes:   A C F
+Degrees: 3 5 1
+Fingers: 2 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+F - Second inversion
+G-B-e frets: 5-6-5
+Notes:   C F A
+Degrees: 5 1 3
+Fingers: 1 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+MINOR
+Fm - Root position
+G-B-e frets: 10-9-8
+Notes:   F Ab C
+Degrees: 1 b3 5
+Fingers: 3 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Fm - First inversion
+G-B-e frets: 1-1-1
+Notes:   Ab C F
+Degrees: b3 5 1
+Fingers: 1 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Fm - Second inversion
+G-B-e frets: 5-6-4
+Notes:   C F Ab
+Degrees: 5 1 b3
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Page workload: 6 shapes x 10 attacks = 60 attacks.
+
+========================================================================================================================
+G MAJOR AND MINOR TRIADS
+========================================================================================================================
+G major spelling: G B D
+G minor spelling: G Bb D
+MAJOR
+G - Root position
+G-B-e frets: 12-12-10
+Notes:   G B D
+Degrees: 1 3 5
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+G - First inversion
+G-B-e frets: 4-3-3
+Notes:   B D G
+Degrees: 3 5 1
+Fingers: 2 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+G - Second inversion
+G-B-e frets: 7-8-7
+Notes:   D G B
+Degrees: 5 1 3
+Fingers: 1 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+MINOR
+Gm - Root position
+G-B-e frets: 12-11-10
+Notes:   G Bb D
+Degrees: 1 b3 5
+Fingers: 3 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Gm - First inversion
+G-B-e frets: 3-3-3
+Notes:   Bb D G
+Degrees: b3 5 1
+Fingers: 1 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Gm - Second inversion
+G-B-e frets: 7-8-6
+Notes:   D G Bb
+Degrees: 5 1 b3
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Page workload: 6 shapes x 10 attacks = 60 attacks.
+
+========================================================================================================================
+A MAJOR AND MINOR TRIADS
+========================================================================================================================
+A major spelling: A C# E
+A minor spelling: A C E
+MAJOR
+A - Root position
+G-B-e frets: 2-2-0
+Notes:   A C# E
+Degrees: 1 3 5
+Fingers: 1 2 O
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+A - First inversion
+G-B-e frets: 6-5-5
+Notes:   C# E A
+Degrees: 3 5 1
+Fingers: 2 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+A - Second inversion
+G-B-e frets: 9-10-9
+Notes:   E A C#
+Degrees: 5 1 3
+Fingers: 1 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+MINOR
+Am - Root position
+G-B-e frets: 2-1-0
+Notes:   A C E
+Degrees: 1 b3 5
+Fingers: 2 1 O
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Am - First inversion
+G-B-e frets: 5-5-5
+Notes:   C E A
+Degrees: b3 5 1
+Fingers: 1 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Am - Second inversion
+G-B-e frets: 9-10-8
+Notes:   E A C
+Degrees: 5 1 b3
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Page workload: 6 shapes x 10 attacks = 60 attacks.
+
+========================================================================================================================
+B MAJOR AND MINOR TRIADS
+========================================================================================================================
+B major spelling: B D# F#
+B minor spelling: B D F#
+MAJOR
+B - Root position
+G-B-e frets: 4-4-2
+Notes:   B D# F#
+Degrees: 1 3 5
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+B - First inversion
+G-B-e frets: 8-7-7
+Notes:   D# F# B
+Degrees: 3 5 1
+Fingers: 2 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+B - Second inversion
+G-B-e frets: 11-12-11
+Notes:   F# B D#
+Degrees: 5 1 3
+Fingers: 1 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+MINOR
+Bm - Root position
+G-B-e frets: 4-3-2
+Notes:   B D F#
+Degrees: 1 b3 5
+Fingers: 3 2 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Bm - First inversion
+G-B-e frets: 7-7-7
+Notes:   D F# B
+Degrees: b3 5 1
+Fingers: 1 1 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Bm - Second inversion
+G-B-e frets: 11-12-10
+Notes:   F# B D
+Degrees: 5 1 b3
+Fingers: 2 3 1
+Workout: 4 blocked attacks; arpeggio G-B-e-e-B-G. 10 attacks.
+Page workload: 6 shapes x 10 attacks = 60 attacks.
+
+========================================================================================================================
+MODULE D - NECK-ORDER INVERSION CYCLES
+========================================================================================================================
+C: 2(0-1-0) -> R(5-5-3) -> 1(9-8-8) -> 1(9-8-8) -> R(5-5-3) -> 2(0-1-0)
+Six blocked attacks. Name every inversion before playing.
+Cm: R(5-4-3) -> 1(8-8-8) -> 2(12-13-11) -> 2(12-13-11) -> 1(8-8-8) -> R(5-4-3)
+Six blocked attacks. Name every inversion before playing.
+D: 2(2-3-2) -> R(7-7-5) -> 1(11-10-10) -> 1(11-10-10) -> R(7-7-5) -> 2(2-3-2)
+Six blocked attacks. Name every inversion before playing.
+Dm: 2(2-3-1) -> R(7-6-5) -> 1(10-10-10) -> 1(10-10-10) -> R(7-6-5) -> 2(2-3-1)
+Six blocked attacks. Name every inversion before playing.
+E: 1(1-0-0) -> 2(4-5-4) -> R(9-9-7) -> R(9-9-7) -> 2(4-5-4) -> 1(1-0-0)
+Six blocked attacks. Name every inversion before playing.
+Em: 1(0-0-0) -> 2(4-5-3) -> R(9-8-7) -> R(9-8-7) -> 2(4-5-3) -> 1(0-0-0)
+Six blocked attacks. Name every inversion before playing.
+F: 1(2-1-1) -> 2(5-6-5) -> R(10-10-8) -> R(10-10-8) -> 2(5-6-5) -> 1(2-1-1)
+Six blocked attacks. Name every inversion before playing.
+Fm: 1(1-1-1) -> 2(5-6-4) -> R(10-9-8) -> R(10-9-8) -> 2(5-6-4) -> 1(1-1-1)
+Six blocked attacks. Name every inversion before playing.
+G: 1(4-3-3) -> 2(7-8-7) -> R(12-12-10) -> R(12-12-10) -> 2(7-8-7) -> 1(4-3-3)
+Six blocked attacks. Name every inversion before playing.
+Gm: 1(3-3-3) -> 2(7-8-6) -> R(12-11-10) -> R(12-11-10) -> 2(7-8-6) -> 1(3-3-3)
+Six blocked attacks. Name every inversion before playing.
+A: R(2-2-0) -> 1(6-5-5) -> 2(9-10-9) -> 2(9-10-9) -> 1(6-5-5) -> R(2-2-0)
+Six blocked attacks. Name every inversion before playing.
+Am: R(2-1-0) -> 1(5-5-5) -> 2(9-10-8) -> 2(9-10-8) -> 1(5-5-5) -> R(2-1-0)
+Six blocked attacks. Name every inversion before playing.
+B: R(4-4-2) -> 1(8-7-7) -> 2(11-12-11) -> 2(11-12-11) -> 1(8-7-7) -> R(4-4-2)
+Six blocked attacks. Name every inversion before playing.
+Bm: R(4-3-2) -> 1(7-7-7) -> 2(11-12-10) -> 2(11-12-10) -> 1(7-7-7) -> R(4-3-2)
+Six blocked attacks. Name every inversion before playing.
+
+========================================================================================================================
+MODULE E - SAME-INVERSION MAJOR/MINOR QUALITY SWITCHES
+========================================================================================================================
+ROOT POSITION
+C (5, 5, 3) <-> Cm (5, 4, 3): major-minor-major-minor repeated to 8 attacks.
+D (7, 7, 5) <-> Dm (7, 6, 5): major-minor-major-minor repeated to 8 attacks.
+E (9, 9, 7) <-> Em (9, 8, 7): major-minor-major-minor repeated to 8 attacks.
+F (10, 10, 8) <-> Fm (10, 9, 8): major-minor-major-minor repeated to 8 attacks.
+G (12, 12, 10) <-> Gm (12, 11, 10): major-minor-major-minor repeated to 8 attacks.
+A (2, 2, 0) <-> Am (2, 1, 0): major-minor-major-minor repeated to 8 attacks.
+B (4, 4, 2) <-> Bm (4, 3, 2): major-minor-major-minor repeated to 8 attacks.
+FIRST INVERSION
+C (9, 8, 8) <-> Cm (8, 8, 8): major-minor-major-minor repeated to 8 attacks.
+D (11, 10, 10) <-> Dm (10, 10, 10): major-minor-major-minor repeated to 8 attacks.
+E (1, 0, 0) <-> Em (0, 0, 0): major-minor-major-minor repeated to 8 attacks.
+F (2, 1, 1) <-> Fm (1, 1, 1): major-minor-major-minor repeated to 8 attacks.
+G (4, 3, 3) <-> Gm (3, 3, 3): major-minor-major-minor repeated to 8 attacks.
+A (6, 5, 5) <-> Am (5, 5, 5): major-minor-major-minor repeated to 8 attacks.
+B (8, 7, 7) <-> Bm (7, 7, 7): major-minor-major-minor repeated to 8 attacks.
+SECOND INVERSION
+C (12, 13, 12) <-> Cm (12, 13, 11): major-minor-major-minor repeated to 8 attacks.
+D (2, 3, 2) <-> Dm (2, 3, 1): major-minor-major-minor repeated to 8 attacks.
+E (4, 5, 4) <-> Em (4, 5, 3): major-minor-major-minor repeated to 8 attacks.
+F (5, 6, 5) <-> Fm (5, 6, 4): major-minor-major-minor repeated to 8 attacks.
+G (7, 8, 7) <-> Gm (7, 8, 6): major-minor-major-minor repeated to 8 attacks.
+A (9, 10, 9) <-> Am (9, 10, 8): major-minor-major-minor repeated to 8 attacks.
+B (11, 12, 11) <-> Bm (11, 12, 10): major-minor-major-minor repeated to 8 attacks.
+
+========================================================================================================================
+MODULE F - BLOCKED AND ARPEGGIATED PATTERNS
+========================================================================================================================
+F1. Blocked quarter notes - C major root position
+Chord attacks: 1 2 3 4 | 1 2 3 4
+8 attacks
+F2. Low-high scan - A minor first inversion
+G-B-e-e-B-G | G-B
+8 attacks
+F3. High-low scan - E major second inversion
+e-B-G-G-B-e | e-B
+8 attacks
+F4. Outer-inner pattern - G major first inversion
+G-e-B-e | G-e-B-e
+8 attacks
+F5. Chord + arpeggio - D minor root position
+BLOCK | G-B-e | BLOCK | e-B-G
+8 attacks
+F6. Release backbeats - F major second inversion
+CHORD mute CHORD mute | CHORD mute CHORD mute
+8 attacks
+
+========================================================================================================================
+MODULE G - NEAREST-INVERSION MAJOR I-IV-V-I PROGRESSIONS
+========================================================================================================================
+C-F-G-C
+Chords: C | F | G | C
+Inversions: R | 2 | 1 | R
+G-B-e: 5-5-3 | 5-6-5 | 4-3-3 | 5-5-3
+Repeat four times, one chord per beat. 16 attacks.
+G-C-D-G
+Chords: G | C | D | G
+Inversions: 1 | R | 2 | 1
+G-B-e: 4-3-3 | 5-5-3 | 2-3-2 | 4-3-3
+Repeat four times, one chord per beat. 16 attacks.
+D-G-A-D
+Chords: D | G | A | D
+Inversions: R | 2 | 1 | R
+G-B-e: 7-7-5 | 7-8-7 | 6-5-5 | 7-7-5
+Repeat four times, one chord per beat. 16 attacks.
+A-D-E-A
+Chords: A | D | E | A
+Inversions: 1 | R | 2 | 1
+G-B-e: 6-5-5 | 7-7-5 | 4-5-4 | 6-5-5
+Repeat four times, one chord per beat. 16 attacks.
+
+========================================================================================================================
+MODULE H - NEAREST-INVERSION MINOR i-iv-V-i PROGRESSIONS
+========================================================================================================================
+Am-Dm-E-Am
+Chords: Am | Dm | E | Am
+Inversions: 1 | R | 2 | 1
+G-B-e: 5-5-5 | 7-6-5 | 4-5-4 | 5-5-5
+Repeat four times, one chord per beat. 16 attacks.
+Em-Am-B-Em
+Chords: Em | Am | B | Em
+Inversions: 2 | 1 | R | 2
+G-B-e: 4-5-3 | 5-5-5 | 4-4-2 | 4-5-3
+Repeat four times, one chord per beat. 16 attacks.
+Dm-Gm-A-Dm
+Chords: Dm | Gm | A | Dm
+Inversions: R | 2 | 1 | R
+G-B-e: 7-6-5 | 7-8-6 | 6-5-5 | 7-6-5
+Repeat four times, one chord per beat. 16 attacks.
+Gm-Cm-D-Gm
+Chords: Gm | Cm | D | Gm
+Inversions: 1 | R | 2 | 1
+G-B-e: 3-3-3 | 5-4-3 | 2-3-2 | 3-3-3
+Repeat four times, one chord per beat. 16 attacks.
+
+========================================================================================================================
+MODULE I - SIXTEEN-BAR CAPSTONES
+========================================================================================================================
+MAJOR CAPSTONE
+Bars 1-4: C | F | G | C
+Inversions: R | 2 | 1 | R
+Shapes: 5-5-3 | 5-6-5 | 4-3-3 | 5-5-3
+Bars 5-8: G | C | D | G
+Inversions: 1 | R | 2 | 1
+Shapes: 4-3-3 | 5-5-3 | 2-3-2 | 4-3-3
+Bars 9-12: D | G | A | D
+Inversions: R | 2 | 1 | R
+Shapes: 7-7-5 | 7-8-7 | 6-5-5 | 7-7-5
+Bars 13-16: A | D | E | A
+Inversions: 1 | R | 2 | 1
+Shapes: 6-5-5 | 7-7-5 | 4-5-4 | 6-5-5
+Four quarter-note attacks per bar. 64 attacks.
+MINOR CAPSTONE
+Bars 1-4: Am | Dm | E | Am
+Inversions: 1 | R | 2 | 1
+Shapes: 5-5-5 | 7-6-5 | 4-5-4 | 5-5-5
+Bars 5-8: Em | Am | B | Em
+Inversions: 2 | 1 | R | 2
+Shapes: 4-5-3 | 5-5-5 | 4-4-2 | 4-5-3
+Bars 9-12: Dm | Gm | A | Dm
+Inversions: R | 2 | 1 | R
+Shapes: 7-6-5 | 7-8-6 | 6-5-5 | 7-6-5
+Bars 13-16: Gm | Cm | D | Gm
+Inversions: 1 | R | 2 | 1
+Shapes: 3-3-3 | 5-4-3 | 2-3-2 | 3-3-3
+Four quarter-note attacks per bar. 64 attacks.
+
+========================================================================================================================
+EAR TRAINING, ERROR REPAIR, AND MASTERY
+========================================================================================================================
+INVERSION ORDERS: 1-3-5 root major; 3-5-1 first major; 5-1-3 second major; 1-b3-5 root minor; b3-5-1 first minor; 5-1-b3 second minor.
+WRONG INVERSION: name the bass degree before attacking.
+WRONG QUALITY: isolate the third and move only its string.
+MISSING STRING: scan G, B, and high e individually at low volume.
+LOW-STRING LEAK: mute D and lower strings before adding speed.
+SOUNDING SHIFT: release pressure before moving to another inversion.
+BIG PROGRESSION JUMP: choose the closer inversion rather than returning to root position.
+MASTERY GATE: spell and play all natural-root major and minor triads; identify all inversions; complete all shape workouts, quality switches, progressions, capstones, and random-root silent formations on two separate days without pain or persistent tension.
+NEXT LEVEL: Level 53 maps major and minor triads across all four adjacent three-string sets.

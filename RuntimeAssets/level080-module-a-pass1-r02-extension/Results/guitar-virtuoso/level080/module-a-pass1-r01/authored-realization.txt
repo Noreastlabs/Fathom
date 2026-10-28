@@ -1,0 +1,4 @@
+fg:item:080901:event:0001 slot1 E4 MIDI64 high-e string6 fret0 fingerO picked onset_q0 duration_q1; Fathom-authored contact and timing; source pitch name retained
+fg:item:080901:event:0002 slot2 F4 MIDI65 high-e string6 fret1 finger1 picked onset_q1 duration_q1; Fathom-authored contact and timing; source pitch name retained
+fg:item:080901:event:0003 slot3 G4 MIDI67 high-e string6 fret3 finger3 picked onset_q2 duration_q1; Fathom-authored contact and timing; source pitch name retained
+fg:item:080901:event:0004 slot4 E4 MIDI64 high-e string6 fret0 fingerO picked onset_q3 duration_q1; Fathom-authored contact and timing; source pitch name retained

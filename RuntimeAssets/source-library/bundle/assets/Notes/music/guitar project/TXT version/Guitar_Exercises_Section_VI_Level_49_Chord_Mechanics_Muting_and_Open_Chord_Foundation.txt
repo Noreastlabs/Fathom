@@ -1,0 +1,515 @@
+GUITAR EXERCISES - SECTION VI, LEVEL 49
+CHORD MECHANICS, MUTING, AND OPEN-CHORD FOUNDATION
+
+PURPOSE
+Build eight essential open chords and three open power chords with minimal fretting pressure, accurate string exclusion, clean release, and economical changes at whole-, half-, and quarter-note speed.
+
+CORE CHORDS
+Em E Am A Dm D C G
+POWER CHORDS
+E5 A5 D5
+
+COMPLETE NOTATED WORKLOAD: 780 pick or strum attacks before optional repeats.
+
+
+========================================================================================================================
+CHORD-DIAGRAM LEGEND
+========================================================================================================================
+Strings are printed low E to high e. X = mute. O = open. Numbers 1-4 are fretting-hand fingers.
+Pink/root markers in the PDF identify the chord root. Blue markers identify the other chord tones.
+Place fingertips just behind the fret wire. Keep the thumb and wrist relaxed. Begin every strum on the printed bass string.
+
+========================================================================================================================
+MODULE A1 - MINIMUM FRETTING PRESSURE
+========================================================================================================================
+index finger: G1 (G#) - four attacks: clean; reduce to buzz threshold; restore minimum clean pressure; release without lifting.
+middle finger: A2 (B) - four attacks: clean; reduce to buzz threshold; restore minimum clean pressure; release without lifting.
+ring finger: D2 (E) - four attacks: clean; reduce to buzz threshold; restore minimum clean pressure; release without lifting.
+index finger: B1 (C) - four attacks: clean; reduce to buzz threshold; restore minimum clean pressure; release without lifting.
+middle finger: e2 (F#) - four attacks: clean; reduce to buzz threshold; restore minimum clean pressure; release without lifting.
+ring finger: B3 (D) - four attacks: clean; reduce to buzz threshold; restore minimum clean pressure; release without lifting.
+Stop if the hand squeezes, the wrist bends sharply, or a fingertip collapses into a neighboring string.
+
+========================================================================================================================
+MODULE A2 - MUTING AND SIX-STRING AUDIT
+========================================================================================================================
+Em: 0 2 2 0 0 0 | start all 6 strings
+E: 0 2 2 1 0 0 | start all 6 strings
+Am: X 0 2 2 1 0 | start A string through high e
+A: X 0 2 2 2 0 | start A string through high e
+Dm: X X 0 2 3 1 | start D string through high e
+D: X X 0 2 3 2 | start D string through high e
+C: X 3 2 0 1 0 | start A string through high e
+G: 3 2 0 0 0 3 | start all 6 strings
+Pick E-A-D-G-B-e. Muted strings may click but must not produce a pitch. Repeat high e back to low E.
+
+========================================================================================================================
+MODULE B - E / EM FAMILY
+========================================================================================================================
+E: frets 0 2 2 1 0 0
+Strings: E A D G B e
+Fingers: O 2 3 1 O O
+Notes:   E B E G# B E
+Spelling: E G# B. Attack zone: all 6 strings.
+Build order: A2 -> D2 -> G1.
+Keep fingers 2-3 planted when alternating with Em.
+
+Em: frets 0 2 2 0 0 0
+Strings: E A D G B e
+Fingers: O 2 3 O O O
+Notes:   E B E G B E
+Spelling: E G B. Attack zone: all 6 strings.
+Build order: A2 -> D2.
+Use fingers 2-3 so E major is created by adding finger 1.
+
+E 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|0----2----2----1----0----0----|
+Fng|O----2----3----1----O----O----|
+Nte|E----B----E----G#---B----E----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-D|
+
+Em 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|0----2----2----0----0----0----|
+Fng|O----2----3----O----O----O----|
+Nte|E----B----E----G----B----E----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-D|
+
+========================================================================================================================
+MODULE B - A / AM FAMILY
+========================================================================================================================
+A: frets x 0 2 2 2 0
+Strings: E A D G B e
+Fingers: x O 2 1 3 O
+Notes:   X A E A C# E
+Spelling: A C# E. Attack zone: A string through high e.
+Build order: G2 -> D2 -> B2.
+Printed transition fingering 2-1-3 keeps finger 1 available as the A-to-D pivot.
+
+Am: frets x 0 2 2 1 0
+Strings: E A D G B e
+Fingers: x O 2 3 1 O
+Notes:   X A E A C E
+Spelling: A C E. Attack zone: A string through high e.
+Build order: D2 -> G2 -> B1.
+Use the underside of finger 2 or the thumb edge to silence low E without squeezing.
+
+A 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|X----0----2----2----2----0----|
+Fng|X----O----2----1----3----O----|
+Nte|X----A----E----A----C#---E----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-D|
+
+Am 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|X----0----2----2----1----0----|
+Fng|X----O----2----3----1----O----|
+Nte|X----A----E----A----C----E----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-D|
+
+========================================================================================================================
+MODULE B - D / DM FAMILY
+========================================================================================================================
+D: frets x x 0 2 3 2
+Strings: E A D G B e
+Fingers: x x O 1 3 2
+Notes:   X X D A D F#
+Spelling: D F# A. Attack zone: D string through high e.
+Build order: G2 -> e2 -> B3.
+Begin the strum on the D string; low E and A stay silent.
+
+Dm: frets x x 0 2 3 1
+Strings: E A D G B e
+Fingers: x x O 2 3 1
+Notes:   X X D A D F
+Spelling: D F A. Attack zone: D string through high e.
+Build order: e1 -> G2 -> B3.
+Finger 3 on B3 remains the pivot when moving to D major.
+
+D 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|X----X----0----2----3----2----|
+Fng|X----X----O----1----3----2----|
+Nte|X----X----D----A----D----F#---|
+Atk|D-x-D-x-6-5-4-3-2-1-D-D|
+
+Dm 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|X----X----0----2----3----1----|
+Fng|X----X----O----2----3----1----|
+Nte|X----X----D----A----D----F----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-D|
+
+========================================================================================================================
+MODULE B - C AND G MAJOR
+========================================================================================================================
+C: frets x 3 2 0 1 0
+Strings: E A D G B e
+Fingers: x 3 2 O 1 O
+Notes:   X C E G C E
+Spelling: C E G. Attack zone: A string through high e.
+Build order: A3 -> D2 -> B1.
+A3 is the guide destination from G; B1 and D2 remain planted when moving to Am.
+
+G: frets 3 2 0 0 0 3
+Strings: E A D G B e
+Fingers: 2 1 O O O 3
+Notes:   G B D G B G
+Spelling: G B D. Attack zone: all 6 strings.
+Build order: A2 -> low E3 -> high e3.
+Keep the index on A2 available as the common finger for G-to-Em.
+
+C 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|X----3----2----0----1----0----|
+Fng|X----3----2----O----1----O----|
+Nte|X----C----E----G----C----E----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-D|
+
+G 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|3----2----0----0----0----3----|
+Fng|2----1----O----O----O----3----|
+Nte|G----B----D----G----B----G----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-D|
+
+========================================================================================================================
+MODULE C - OPEN POWER CHORDS
+========================================================================================================================
+E5: frets 0 2 2 x x x
+Strings: E A D G B e
+Fingers: O 1 2 x x x
+Notes:   E B E X X X
+Spelling: E B E. Attack zone: low E through D.
+Build order: A2 -> D2.
+Only root, fifth, and octave ring. Lightly mute G, B, and high e.
+E5 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|0----2----2----X----X----X----|
+Fng|O----1----2----X----X----X----|
+Nte|E----B----E----X----X----X----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-x|
+
+A5: frets x 0 2 2 x x
+Strings: E A D G B e
+Fingers: x O 1 2 x x
+Notes:   X A E A X X
+Spelling: A E A. Attack zone: A through G.
+Build order: D2 -> G2.
+Low E and the top two strings stay silent.
+A5 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|X----0----2----2----X----X----|
+Fng|X----O----1----2----X----X----|
+Nte|X----A----E----A----X----X----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-x|
+
+D5: frets x x 0 2 3 x
+Strings: E A D G B e
+Fingers: x x O 1 3 x
+Notes:   X X D A D X
+Spelling: D A D. Attack zone: D through B.
+Build order: G2 -> B3.
+Low E, A, and high e remain silent.
+D5 12-attack cell
+Str|E----A----D----G----B----e----|
+Val|X----X----0----2----3----X----|
+Fng|X----X----O----1----3----X----|
+Nte|X----X----D----A----D----X----|
+Atk|D-x-D-x-6-5-4-3-2-1-D-x|
+
+
+========================================================================================================================
+MODULE D - WHOLE-NOTE CHANGES
+========================================================================================================================
+E <-> Em: add/lift finger 1
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|E----Em---E----Em---E----Em---E----Em---|
+Str|D----D----D----D----D----D----D----D----|
+
+A <-> Am: compact three-finger exchange
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|A----Am---A----Am---A----Am---A----Am---|
+Str|D----D----D----D----D----D----D----D----|
+
+D <-> Dm: finger 3 remains on B3
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|D----Dm---D----Dm---D----Dm---D----Dm---|
+Str|D----D----D----D----D----D----D----D----|
+
+C <-> Am: B1 and D2 remain planted
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|C----Am---C----Am---C----Am---C----Am---|
+Str|D----D----D----D----D----D----D----D----|
+
+Em <-> G: alternate Em fingering keeps A2 planted
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|Em---G----Em---G----Em---G----Em---G----|
+Str|D----D----D----D----D----D----D----D----|
+
+G <-> C: finger 2/3 guide from low E3 to A3
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|G----C----G----C----G----C----G----C----|
+Str|D----D----D----D----D----D----D----D----|
+
+D <-> A: finger 1 remains on G2 with printed A fingering
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|D----A----D----A----D----A----D----A----|
+Str|D----D----D----D----D----D----D----D----|
+
+E <-> A: move as one relaxed shape; land from bass side
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|E----A----E----A----E----A----E----A----|
+Str|D----D----D----D----D----D----D----D----|
+
+
+========================================================================================================================
+MODULE E - HALF-NOTE CHANGES
+========================================================================================================================
+E <-> Em: add/lift finger 1
+Cnt|1----3----1----3----1----3----1----3----|
+Chd|E----E----Em---Em---E----E----Em---Em---|
+Str|D----D----D----D----D----D----D----D----|
+
+A <-> Am: compact three-finger exchange
+Cnt|1----3----1----3----1----3----1----3----|
+Chd|A----A----Am---Am---A----A----Am---Am---|
+Str|D----D----D----D----D----D----D----D----|
+
+D <-> Dm: finger 3 remains on B3
+Cnt|1----3----1----3----1----3----1----3----|
+Chd|D----D----Dm---Dm---D----D----Dm---Dm---|
+Str|D----D----D----D----D----D----D----D----|
+
+C <-> Am: B1 and D2 remain planted
+Cnt|1----3----1----3----1----3----1----3----|
+Chd|C----C----Am---Am---C----C----Am---Am---|
+Str|D----D----D----D----D----D----D----D----|
+
+Em <-> G: alternate Em fingering keeps A2 planted
+Cnt|1----3----1----3----1----3----1----3----|
+Chd|Em---Em---G----G----Em---Em---G----G----|
+Str|D----D----D----D----D----D----D----D----|
+
+G <-> C: finger 2/3 guide from low E3 to A3
+Cnt|1----3----1----3----1----3----1----3----|
+Chd|G----G----C----C----G----G----C----C----|
+Str|D----D----D----D----D----D----D----D----|
+
+D <-> A: finger 1 remains on G2 with printed A fingering
+Cnt|1----3----1----3----1----3----1----3----|
+Chd|D----D----A----A----D----D----A----A----|
+Str|D----D----D----D----D----D----D----D----|
+
+E <-> A: move as one relaxed shape; land from bass side
+Cnt|1----3----1----3----1----3----1----3----|
+Chd|E----E----A----A----E----E----A----A----|
+Str|D----D----D----D----D----D----D----D----|
+
+
+========================================================================================================================
+MODULE F - QUARTER-NOTE CHANGES
+========================================================================================================================
+E <-> Em: add/lift finger 1
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|E----Em---E----Em---E----Em---E----Em---E----Em---E----Em---E----Em---E----Em---|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+A <-> Am: compact three-finger exchange
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|A----Am---A----Am---A----Am---A----Am---A----Am---A----Am---A----Am---A----Am---|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+D <-> Dm: finger 3 remains on B3
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|D----Dm---D----Dm---D----Dm---D----Dm---D----Dm---D----Dm---D----Dm---D----Dm---|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+C <-> Am: B1 and D2 remain planted
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|C----Am---C----Am---C----Am---C----Am---C----Am---C----Am---C----Am---C----Am---|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+Em <-> G: alternate Em fingering keeps A2 planted
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|Em---G----Em---G----Em---G----Em---G----Em---G----Em---G----Em---G----Em---G----|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+G <-> C: finger 2/3 guide from low E3 to A3
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|G----C----G----C----G----C----G----C----G----C----G----C----G----C----G----C----|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+D <-> A: finger 1 remains on G2 with printed A fingering
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|D----A----D----A----D----A----D----A----D----A----D----A----D----A----D----A----|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+E <-> A: move as one relaxed shape; land from bass side
+Cnt|1----2----3----4----1----2----3----4----1----2----3----4----1----2----3----4----|
+Chd|E----A----E----A----E----A----E----A----E----A----E----A----E----A----E----A----|
+Str|D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----D----|
+
+
+========================================================================================================================
+MODULE G - COMMON, PIVOT, AND GUIDE FINGERS
+========================================================================================================================
+E <-> Em
+Keep fingers 2-3 on A2/D2. Add or lift finger 1 at G1.
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|E----Em---E----Em---E----Em---E----Em---|
+Str|D----D----D----D----D----D----D----D----|
+
+D <-> Dm
+Keep finger 3 on B3. Exchange G2/e2 for G2/e1 without collapsing the knuckles.
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|D----Dm---D----Dm---D----Dm---D----Dm---|
+Str|D----D----D----D----D----D----D----D----|
+
+C <-> Am
+Keep finger 1 on B1 and finger 2 on D2. Move finger 3 from A3 to G2.
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|C----Am---C----Am---C----Am---C----Am---|
+Str|D----D----D----D----D----D----D----D----|
+
+G <-> Em
+Use alternate Em fingering 1 on A2 and 2 on D2. Finger 1 stays on A2.
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|G----Em---G----Em---G----Em---G----Em---|
+Str|D----D----D----D----D----D----D----D----|
+
+Em <-> C
+Keep finger 2 on D2. Add B1 and A3 while releasing A2.
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|Em---C----Em---C----Em---C----Em---C----|
+Str|D----D----D----D----D----D----D----D----|
+
+G <-> C
+Use the low-E3 finger as a guide to A3; release before crossing strings.
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|G----C----G----C----G----C----G----C----|
+Str|D----D----D----D----D----D----D----D----|
+
+A <-> D
+Use A fingering 2-1-3. Finger 1 remains on G2; fingers 2 and 3 move.
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|A----D----A----D----A----D----A----D----|
+Str|D----D----D----D----D----D----D----D----|
+
+A <-> Am
+Keep the hand compact. Change the third from C# at B2 to C at B1 without dragging.
+Cnt|1----2----3----4----5----6----7----8----|
+Chd|A----Am---A----Am---A----Am---A----Am---|
+Str|D----D----D----D----D----D----D----D----|
+
+
+========================================================================================================================
+MODULE H - SIX-STRING CLEAN CHECKS
+========================================================================================================================
+Sequence: 6-5-4-3-2-1 | 1-2-3-4-5-6. X strings are deliberately tested.
+Em: 0 2 2 0 0 0 0 0 0 2 2 0
+E: 0 2 2 1 0 0 0 0 1 2 2 0
+Am: X 0 2 2 1 0 0 1 2 2 0 X
+A: X 0 2 2 2 0 0 2 2 2 0 X
+Dm: X X 0 2 3 1 1 3 2 0 X X
+D: X X 0 2 3 2 2 3 2 0 X X
+C: X 3 2 0 1 0 0 1 0 2 3 X
+G: 3 2 0 0 0 3 3 0 0 0 2 3
+
+========================================================================================================================
+MODULE I - OPEN-CHORD PROGRESSIONS
+========================================================================================================================
+A-D-E-A: I-IV-V-I in A
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|A---A---A---A---D---D---D---D---E---E---E---E---A---A---A---A---|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+
+D-G-A-D: I-IV-V-I in D
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|D---D---D---D---G---G---G---G---A---A---A---A---D---D---D---D---|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+
+G-C-D-G: I-IV-V-I in G
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|G---G---G---G---C---C---C---C---D---D---D---D---G---G---G---G---|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+
+Em-G-D-C: i-III-VII-VI in E minor
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Em--Em--Em--Em--G---G---G---G---D---D---D---D---C---C---C---C---|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+
+Am-C-G-Em: i-III-VII-v in A minor
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Am--Am--Am--Am--C---C---C---C---G---G---G---G---Em--Em--Em--Em--|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+
+Am-Dm-Em-Am: i-iv-v-i in A minor
+Cnt|1---2---3---4---1---2---3---4---1---2---3---4---1---2---3---4---|
+Chd|Am--Am--Am--Am--Dm--Dm--Dm--Dm--Em--Em--Em--Em--Am--Am--Am--Am--|
+Str|D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---D---|
+
+
+========================================================================================================================
+MODULE J - FOUR-PASS CAPSTONE
+========================================================================================================================
+Progression: Am | C | G | Em
+Pass 1 - sustained quarters
+Four downstrokes per bar; allow every chord to ring.
+Grid: D D D D
+16 attacks
+
+Pass 2 - release after each attack
+Strum, release pressure halfway through the beat, reapply before the next attack.
+Grid: D . D . D . D .
+16 attacks
+
+Pass 3 - chord plus muted backbeat
+Pitched chord on beats 1 and 3; muted strum on beats 2 and 4.
+Grid: D x D x
+16 attacks
+
+Pass 4 - four-string arpeggio
+Pick four active chord strings in a stable repeating order.
+Grid: 1 2 3 4
+16 attacks
+
+
+========================================================================================================================
+PRACTICE PROGRESSION AND ERROR REPAIR
+========================================================================================================================
+1. 1. Diagram legend and posture
+2. 2. Pressure calibration
+3. 3. Muting audit
+4. 4. E/Em and A/Am
+5. 5. D/Dm and C/G
+6. 6. Power chords
+7. 7. Whole-note changes
+8. 8. Half-note changes
+9. 9. Quarter-note changes
+10. 10. Progression capstone
+BUZZ: move closer to the fret before adding pressure.
+DEAD OPEN STRING: increase finger curvature.
+WRONG BASS: aim the first stroke at the printed string.
+X STRING RINGS: add a relaxed muting touch or narrow the strum.
+LATE CHORD: prepare during the prior sustain.
+FINGERS FLY: freeze and move one finger at a time.
+EARLY RELEASE: hold through the full count.
+PAIN OR TENSION: stop, reduce duration, and use less pressure.
+
+========================================================================================================================
+MASTERY GATE BEFORE LEVEL 50
+========================================================================================================================
+- Name notes and quality of Em, E, Am, A, Dm, D, C, and G.
+- Form all eight shapes without watching the entire setup.
+- Complete every six-string muting audit correctly.
+- Play eight chord cells and three power-chord cells cleanly.
+- Complete whole-, half-, and quarter-note grids on time.
+- Demonstrate all eight common/pivot/guide transitions.
+- Play three major and three minor progressions from memory.
+- Complete the Am-C-G-Em capstone on two separate days.
+
+NEXT LEVEL
+Level 50 - chord transitions and common-finger movement. The same shapes will move into smaller rhythmic windows, anticipated changes, release timing, and longer progression studies.

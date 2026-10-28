@@ -1,0 +1,54 @@
+{
+  "acoustic_gate": null,
+  "authored_count_in": null,
+  "authored_meter": null,
+  "capo": null,
+  "contacts": {
+    "bytes": 6892,
+    "path": "Build/level-oracle/levels/level026/expanded-r01/producer-r02/source-contacts.tsv",
+    "sha256": "acb35d9865a16f134baa8193739287a03c3488145bc1976b0cbf9d3431efd358"
+  },
+  "fixed_bpm": null,
+  "metric_duration": "1/4 quarter-note per contact; arithmetic from source sixteenths",
+  "pdf_visual_inspection": [
+    "p1 worked example",
+    "p2 sequence/pulse map",
+    "p3 rung01 card"
+  ],
+  "scope": "Level26 Rung01 A natural minor one linked 96-note up/down cell only",
+  "source_locations": {
+    "pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "rules_txt_lines": [
+      23,
+      76
+    ],
+    "rung01_txt_lines": [
+      79,
+      100
+    ]
+  },
+  "source_pause": "one beat after each completed cell when practicing 2-3 neighboring rungs; outside isolated one-cell packet",
+  "source_picking": "continuous alternate D/U or U/D across all96 notes, including contacts48/49",
+  "source_pins": [
+    {
+      "bytes": 47528,
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_26_Natural_Minor_Four_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "sha256": "816ef6a286175efe575ee93d14224aaaf44111af3ea58a73f6787898b478c0f5"
+    },
+    {
+      "bytes": 32096,
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_26_Natural_Minor_Four_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "sha256": "c00d5751bb301d4a6b5bb66e009376218226fc90cb7f2d2fb0abbc2e0c9697d8"
+    },
+    {
+      "bytes": 5133,
+      "path": "Results/parallel-05/exercises/conversion/20260923T181700Z-2.3.1.1.1-level026-unallocated-schema1-r01-results.md",
+      "sha256": "689d6e0234537c9c81eec429bf0a1f7f3f23cd2118382fd0e6cf9f79e1cab7a1"
+    }
+  ],
+  "source_timing": "one four-note group per beat in sixteenths; 96 notes / 24 beats; no cell-internal pause"
+}

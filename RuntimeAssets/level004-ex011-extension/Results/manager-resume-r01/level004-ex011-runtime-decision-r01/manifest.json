@@ -1,0 +1,151 @@
+{
+  "artifacts": [
+    {
+      "allocated_bytes": 16384,
+      "bytes": 16004,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/level004-ex011-runtime-decision-r01/full-template-prompt.md",
+      "role": "decision_prompt",
+      "sha256": "8ddf8b015e9fdbf08f5ca04d7edfe22d028568d49357ca74b2e3245820e3b173"
+    },
+    {
+      "allocated_bytes": 12288,
+      "bytes": 8855,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex011-runtime-decision-r01/check.py",
+      "role": "private_checker",
+      "sha256": "e5c4e6889f0b5aec40e13d68de8d85493d3b26e8e05de35fe65c668fe059fa28"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1638,
+      "kind": "file",
+      "path": "Build/manager-resume-r01/level004-ex011-runtime-decision-r01/checks.json",
+      "role": "private_checks",
+      "sha256": "624e3bd77d07636fe7c4693fd40dbd82ec7c7bbaea5bf22ff2277723004bd3d8"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4165,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-runtime-decision-r01/decision.md",
+      "role": "human_readable_decision",
+      "sha256": "002b7e1b6df631d9b09c7acb8e89fd72678efe45b08c62d45cc404204da1655a"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1851,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-runtime-decision-r01/decision.json",
+      "role": "typed_decision",
+      "sha256": "cab33309ac94e695811b9cd45e3856f7e8fdf47d6b9e84aa52d6a93536251ae2"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 709,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-runtime-decision-r01/failure-trace.md",
+      "role": "checker_corrections",
+      "sha256": "0245a8e914e65a9f89490e9168f2bb2adba0d0acac8316b2e85c55d52d19ce1a"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 470,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-runtime-decision-r01/lease-close.json",
+      "role": "lease_closure",
+      "sha256": "3637fa491ab53bcc5f3a9ea5b7316b8d4738c09d903b16c561d45115a6a4a7c5"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 1068,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-runtime-decision-r01/git-state.json",
+      "role": "scoped_git_state",
+      "sha256": "9d0fb23623baa61b7d649bc0f09bbbb44e5a9e1c6b50a0b936d92cecce3384ec"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3681,
+      "kind": "file",
+      "path": "Prompts/manager-resume-r01/20260930T1229Z-level004-ex011-prospective-runtime-decision-release.md",
+      "role": "manager_release",
+      "sha256": "20ee57c73054801e91ca30d98b9a1e7d7454371654613c1dcef8e8c0d6b21113"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2690,
+      "kind": "file",
+      "path": "Results/primary/20260930T1125Z-level004-ex011-source-adoption.md",
+      "role": "source_adoption",
+      "sha256": "dbed913961b61ec85e765816d16f39215586190c9d1b0bde78e03562bae5b3f1"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2294,
+      "kind": "file",
+      "path": "Results/primary/20260930T1202Z-level004-ex011-curriculum-adoption.md",
+      "role": "curriculum_adoption",
+      "sha256": "4630b0f9991787fa7ef1c7dbb8f164bc9c60b34e247ea73147bf5e4e0feb1413"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 2078,
+      "kind": "file",
+      "path": "Results/primary/20260930T1227Z-level004-ex011-private-native-adoption.md",
+      "role": "native_adoption",
+      "sha256": "971fbbf238e52b196d722e3134bc5d260fe98c38bca1c98f859621af06a2330a"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 4496,
+      "kind": "file",
+      "path": "Results/guitar-virtuoso/level004-ex011-source-r01/evidence-manifest.json",
+      "role": "source_producer_manifest",
+      "sha256": "83b999260e0187719c9c4420f036cd11f339da43864de2473e4ff3daf287e0c6"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5447,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-source-review-r01/evidence-manifest.json",
+      "role": "source_reviewer_manifest",
+      "sha256": "77f492bdc3f6fef8bc0e2b7cc38d8fb8696c5fa581178bc430e547a25f8089fc"
+    },
+    {
+      "allocated_bytes": 4096,
+      "bytes": 3173,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-curriculum-decision-r01/manifest.json",
+      "role": "curriculum_decision_manifest",
+      "sha256": "560a74832e24508677ad5bd437bd3a5e17e175e1fe8762eb5af80111526ffa23"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 5943,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-curriculum-review-r01/evidence-manifest.json",
+      "role": "curriculum_reviewer_manifest",
+      "sha256": "430f84434a9248023029af7f54fac528a9b281095309c8a036080284d16517d2"
+    },
+    {
+      "allocated_bytes": 24576,
+      "bytes": 20594,
+      "kind": "file",
+      "path": "Results/parallel-02/level004-ex011-case-bound-r01/manifest.json",
+      "role": "native_producer_manifest",
+      "sha256": "8df4af93762402087be4f74dbde0ea0631c9896dde4ab0df1f686215944b8bec"
+    },
+    {
+      "allocated_bytes": 8192,
+      "bytes": 7540,
+      "kind": "file",
+      "path": "Results/manager-resume-r01/level004-ex011-native-review-r01/manifest.json",
+      "role": "native_reviewer_manifest",
+      "sha256": "fe3f6564fe2ef885edb317fe81dcdc81ae25f717638ac3e4848ae3f99ce1175f"
+    }
+  ],
+  "git_branch": "master",
+  "git_head": "4141ba83f48318878fa38bd83e17eaaf6e96d9d6",
+  "schema_version": "fathom-evidence-reference.1"
+}

@@ -1,0 +1,1692 @@
+{
+  "kind": "source identity manifest; not normalized curriculum",
+  "sources": [
+    {
+      "level": 1,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Guitar_Tablature.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Guitar_Tablature.pdf",
+      "txt_sha256": "0f5719945456692fc4c40ce3b06e0cd742b61b7f8615ad465b9f26832cd08842",
+      "pdf_sha256": "3b0ca589c94497d80ce7529018cacb01d6b6fa6982797e61a8228ee044b72d62",
+      "txt_lines": 880,
+      "pdf_pages": 4,
+      "compiled_first_page": 6,
+      "compiled_last_page": 9
+    },
+    {
+      "level": 2,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_2_Two_String_Transfer.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_2_Two_String_Transfer.pdf",
+      "txt_sha256": "49ca027e8c7fee7b2c5437f93f8a5b5576e272e6cf888dbb1a82632749cec31a",
+      "pdf_sha256": "cfcc4b3414400f5bfc2510c30c407f0d72e573ef8e899a184820202d67671ac8",
+      "txt_lines": 1776,
+      "pdf_pages": 10,
+      "compiled_first_page": 10,
+      "compiled_last_page": 19
+    },
+    {
+      "level": 3,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_3_Odd_Count_String_Transfer.pdf",
+      "txt_sha256": "1bb8d5225f2db8df2b3ce518f10f28e11158592e0b5cbbb4c28af2742c861b4f",
+      "pdf_sha256": "f04c1e49ce939ec83e5c80f9ad8cc81fd49da62e2039c25cac5367cea0fa6234",
+      "txt_lines": 3603,
+      "pdf_pages": 19,
+      "compiled_first_page": 20,
+      "compiled_last_page": 38
+    },
+    {
+      "level": 4,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_4_Three_String_Relay.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_4_Three_String_Relay.pdf",
+      "txt_sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a",
+      "pdf_sha256": "b24cad79148b8165b74cbd3662031c2ad0227f0e856aa955d03c88db31dbafb1",
+      "txt_lines": 1786,
+      "pdf_pages": 10,
+      "compiled_first_page": 39,
+      "compiled_last_page": 48
+    },
+    {
+      "level": 5,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_5_One_String_Skip_Transfer.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_5_One_String_Skip_Transfer.pdf",
+      "txt_sha256": "4961a2bd4422e53db66fca2c68d548fe9344a677ed5eb5036efeda375d220641",
+      "pdf_sha256": "753a3d9dd9d5208c8fa692e3fe219a7ec45a6a233902957a00e7283054dc3ecc",
+      "txt_lines": 1786,
+      "pdf_pages": 10,
+      "compiled_first_page": 49,
+      "compiled_last_page": 58
+    },
+    {
+      "level": 6,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_6_Odd_Count_String_Skip_Transfer.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_6_Odd_Count_String_Skip_Transfer.pdf",
+      "txt_sha256": "bbd337b205eac66e474b7b90dea7c5e18c35fe6f09eec7aee3a058f1c0eb4d19",
+      "pdf_sha256": "a2b97e01ad98bc4e01dfeccfb799b19a5c3c712c233cc9def5e8d95ca16aaac8",
+      "txt_lines": 3605,
+      "pdf_pages": 19,
+      "compiled_first_page": 59,
+      "compiled_last_page": 77
+    },
+    {
+      "level": 7,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_7_Three_String_Skip_Relay.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_7_Three_String_Skip_Relay.pdf",
+      "txt_sha256": "467d1401237e34633efc4c517fa98d8190f0b47346a7b34be9d2548924883b61",
+      "pdf_sha256": "5c8607cff40801acb13f5e08dd2988b2ff943593eb084de2801f05f507a6c4ea",
+      "txt_lines": 1788,
+      "pdf_pages": 10,
+      "compiled_first_page": 78,
+      "compiled_last_page": 87
+    },
+    {
+      "level": 8,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_8_Two_Position_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_8_Two_Position_Ladder.pdf",
+      "txt_sha256": "0cba6885ed917013d5ceda5e0c231c568b4aa99be4c8c0e23941295a3fa5926a",
+      "pdf_sha256": "750f9b14962e71bc9ed0dc48a6f9343f2a1d5d14363858f7b9462187fc338829",
+      "txt_lines": 1789,
+      "pdf_pages": 10,
+      "compiled_first_page": 88,
+      "compiled_last_page": 97
+    },
+    {
+      "level": 9,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_9_Mid_Pattern_Position_Transfer.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_9_Mid_Pattern_Position_Transfer.pdf",
+      "txt_sha256": "3cb0983c95081771caea7a12e8263d780f58850154681a9cd85c1a1916956105",
+      "pdf_sha256": "3564ed3c24d55df462dba49b81ef2aeaf9a716a5a5af993bfdbf3e774702b00f",
+      "txt_lines": 1789,
+      "pdf_pages": 10,
+      "compiled_first_page": 98,
+      "compiled_last_page": 107
+    },
+    {
+      "level": 10,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_10_Odd_Count_Position_Transfer.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_10_Odd_Count_Position_Transfer.pdf",
+      "txt_sha256": "e5ed078c62295adbb5f6bf00e6821e6eee0b2da73ef42c1714421158b5273226",
+      "pdf_sha256": "1dafdcd177343f0ea147a5479ad654397d85f4b374cf960e264a230db965496b",
+      "txt_lines": 4065,
+      "pdf_pages": 19,
+      "compiled_first_page": 108,
+      "compiled_last_page": 126
+    },
+    {
+      "level": 11,
+      "txt": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_11_Three_Position_Relay.txt",
+      "pdf": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_11_Three_Position_Relay.pdf",
+      "txt_sha256": "e579bb423d644a628723c802d84967f5c7aad49bf4e8e89bba5e4b622bf6ff48",
+      "pdf_sha256": "5f9b5e29e2f5ad3aa3372125f0ec0b91e6245eef1edabd5e81c06d1f00f5e917",
+      "txt_lines": 945,
+      "pdf_pages": 10,
+      "compiled_first_page": 127,
+      "compiled_last_page": 136
+    },
+    {
+      "level": 12,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_12_Major_Scale_One_Fret_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_12_Major_Scale_One_Fret_Neck_Ladder.pdf",
+      "txt_sha256": "64e65f5293012f9af3c84a885cbdd54c82275f6c6e282c8f8a28cca579631be9",
+      "pdf_sha256": "ae31f029a3df324baa8822b913deb499eccc1438f1986967f96889e6eb45bd3b",
+      "txt_lines": 231,
+      "pdf_pages": 6,
+      "compiled_first_page": 138,
+      "compiled_last_page": 143
+    },
+    {
+      "level": 13,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_13_Major_Scale_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "973b9c614546e432282dcc0ba415a21c0bc28858e61e7910ef2d0559329a0956",
+      "pdf_sha256": "0730f903d6d7a992b1f366f0e4977c05ba59d6467666fde5a7ea15ff20ca040c",
+      "txt_lines": 256,
+      "pdf_pages": 7,
+      "compiled_first_page": 144,
+      "compiled_last_page": 150
+    },
+    {
+      "level": 14,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_14_Major_Scale_Three_Note_Rolling_Sequence_One_Octave_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_14_Major_Scale_Three_Note_Rolling_Sequence_One_Octave_Neck_Ladder.pdf",
+      "txt_sha256": "301edb98b64daa90a015a3560b8c2219cfab13984d6a8c320765af48f444912b",
+      "pdf_sha256": "c5ec5b0d1ed50c0c8af758a021f4488c886a1c6030c8a5a52cb755471ae7ed19",
+      "txt_lines": 260,
+      "pdf_pages": 7,
+      "compiled_first_page": 151,
+      "compiled_last_page": 157
+    },
+    {
+      "level": 15,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514",
+      "pdf_sha256": "9c3e2b980079fb3a4eca7affe9bc948a2e58cab15f256766976451ac08d53a5e",
+      "txt_lines": 410,
+      "pdf_pages": 10,
+      "compiled_first_page": 158,
+      "compiled_last_page": 167
+    },
+    {
+      "level": 16,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_16_Major_Scale_Four_Note_Rolling_Sequence_One_Octave_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_16_Major_Scale_Four_Note_Rolling_Sequence_One_Octave_Neck_Ladder.pdf",
+      "txt_sha256": "791020f0cdc3d38d690762b9544d9e3e59bf7caad2ccf81a845f771660b5693c",
+      "pdf_sha256": "20e71408a18593b1ac4da655f9dc2174135ab6caf94240c5f978f3fbf11956aa",
+      "txt_lines": 265,
+      "pdf_pages": 7,
+      "compiled_first_page": 168,
+      "compiled_last_page": 174
+    },
+    {
+      "level": 17,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_17_Major_Scale_Four_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_17_Major_Scale_Four_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "e742548015d297941c9972ddb7cfcaeb0a66375b164864698e72d3e0b6bed511",
+      "pdf_sha256": "fc60d519a880c3d6a8a4984d99dd07030fcb56d09f1e2ea9ad951da271349d6d",
+      "txt_lines": 408,
+      "pdf_pages": 10,
+      "compiled_first_page": 175,
+      "compiled_last_page": 184
+    },
+    {
+      "level": 18,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_18_Major_Scale_Diatonic_Thirds_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_18_Major_Scale_Diatonic_Thirds_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "a4faf2579a2d3546e2dc021640eeb3764ec7de9d858975a66f29f9611e2ad3a8",
+      "pdf_sha256": "a79374066ff017c148c11ec75791b02ba930560123dde1a6fcc933fe17821536",
+      "txt_lines": 459,
+      "pdf_pages": 10,
+      "compiled_first_page": 185,
+      "compiled_last_page": 194
+    },
+    {
+      "level": 19,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_19_Major_Scale_Diatonic_Triads_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_19_Major_Scale_Diatonic_Triads_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "d4d0bebee8d9d2b6899bde448a0f5017070eef7936c2ccd6ffa03e7b95a4ce26",
+      "pdf_sha256": "107bfaecd5daa15adc1117440d01feead623f831e720837de5d18662375166e6",
+      "txt_lines": 472,
+      "pdf_pages": 10,
+      "compiled_first_page": 195,
+      "compiled_last_page": 204
+    },
+    {
+      "level": 20,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_20_Major_Scale_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_20_Major_Scale_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "d64e78142630e4b6e22ce49055df87938062d9051eb44d792a1a46448e54d410",
+      "pdf_sha256": "b3160de6f22ffbb1b2fe8ca42bd02474a813fe2088a747cea628968fc7914dd5",
+      "txt_lines": 1466,
+      "pdf_pages": 31,
+      "compiled_first_page": 205,
+      "compiled_last_page": 235
+    },
+    {
+      "level": 21,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_21_Natural_Minor_One_Fret_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_21_Natural_Minor_One_Fret_Neck_Ladder.pdf",
+      "txt_sha256": "018db1d53df6b1b175c64d59f95809b3215d055f2c3361c90199ee8f3d75bf67",
+      "pdf_sha256": "b8679699687ef8078f958563ce8f887e8e1083c486ef52d816a09c434d57d235",
+      "txt_lines": 247,
+      "pdf_pages": 6,
+      "compiled_first_page": 237,
+      "compiled_last_page": 242
+    },
+    {
+      "level": 22,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_22_Natural_Minor_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_22_Natural_Minor_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "0031bdd05834d1f1f381240a48a5fa193da561f7bdf51df580771f593c82b1dc",
+      "pdf_sha256": "f07518814be26b8290c6b9a688251eb77fd2b2aedb8efc03a0469167d8be7bde",
+      "txt_lines": 264,
+      "pdf_pages": 7,
+      "compiled_first_page": 243,
+      "compiled_last_page": 249
+    },
+    {
+      "level": 23,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_23_Natural_Minor_Three_Note_Rolling_Sequence_One_Octave_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_23_Natural_Minor_Three_Note_Rolling_Sequence_One_Octave_Neck_Ladder.pdf",
+      "txt_sha256": "c8c01c4a4ad95e1aed5323d485b359a1bd4d057f46fd2b3ffe8277324b0032f7",
+      "pdf_sha256": "5601a14c406f3b33e455e96d4539ade22160ed0ac95aa782b36a2ef9d960dd43",
+      "txt_lines": 275,
+      "pdf_pages": 7,
+      "compiled_first_page": 250,
+      "compiled_last_page": 256
+    },
+    {
+      "level": 24,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_24_Natural_Minor_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_24_Natural_Minor_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "2a91403130355b916d2d935a2df197cbe54a03d1d17cb32575ad6df73bee9988",
+      "pdf_sha256": "6f447ad03a5a0b21cee9ea20ab2cb561e9fb25f5cd7c6a5e8a5121b7657697ad",
+      "txt_lines": 417,
+      "pdf_pages": 10,
+      "compiled_first_page": 257,
+      "compiled_last_page": 266
+    },
+    {
+      "level": 25,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_25_Natural_Minor_Four_Note_Rolling_Sequence_One_Octave_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_25_Natural_Minor_Four_Note_Rolling_Sequence_One_Octave_Neck_Ladder.pdf",
+      "txt_sha256": "707c3edbfe942f703e94a7a7bd067215124e7ac4e5eb008c891e7c62102c30bb",
+      "pdf_sha256": "7b0f5f718c79123a0515637dcbe01b6c3224ea1047e985f9e369a8618521aede",
+      "txt_lines": 280,
+      "pdf_pages": 7,
+      "compiled_first_page": 267,
+      "compiled_last_page": 273
+    },
+    {
+      "level": 26,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_26_Natural_Minor_Four_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_26_Natural_Minor_Four_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "816ef6a286175efe575ee93d14224aaaf44111af3ea58a73f6787898b478c0f5",
+      "pdf_sha256": "c00d5751bb301d4a6b5bb66e009376218226fc90cb7f2d2fb0abbc2e0c9697d8",
+      "txt_lines": 421,
+      "pdf_pages": 10,
+      "compiled_first_page": 274,
+      "compiled_last_page": 283
+    },
+    {
+      "level": 27,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_27_Natural_Minor_Diatonic_Thirds_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_27_Natural_Minor_Diatonic_Thirds_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "f50784bd14bb098f80ffff9eb64c08f913f8828152bc1fecc211b5e5f83a72cc",
+      "pdf_sha256": "844aff8996501dc76f10cbb9bf887137d7968da5f911ed04addcb9d14a727109",
+      "txt_lines": 481,
+      "pdf_pages": 10,
+      "compiled_first_page": 284,
+      "compiled_last_page": 293
+    },
+    {
+      "level": 28,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_28_Natural_Minor_Diatonic_Triads_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_28_Natural_Minor_Diatonic_Triads_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "2f745bc5000d27f032fd1187fee245e387bfd1bf7b0f132782ebb7a72aafac1b",
+      "pdf_sha256": "779c1b2da3cad5046af51013dc4a72053b7cd5dd0a211caa27352bfa93076219",
+      "txt_lines": 487,
+      "pdf_pages": 10,
+      "compiled_first_page": 294,
+      "compiled_last_page": 303
+    },
+    {
+      "level": 29,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_III_Level_29_Natural_Minor_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_III_Level_29_Natural_Minor_Synthesis_Circuit_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "543d98fa9279f39d8975d6b00cd43e5f5aebbb94c5e59fe7771f63af8d8244e5",
+      "pdf_sha256": "2310fc942262081445d80d164ae6feab6335a879db283863db27f69bb75ef445",
+      "txt_lines": 1513,
+      "pdf_pages": 31,
+      "compiled_first_page": 304,
+      "compiled_last_page": 334
+    },
+    {
+      "level": 30,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_30_Major_Pentatonic_One_Octave_One_Fret_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_30_Major_Pentatonic_One_Octave_One_Fret_Neck_Ladder.pdf",
+      "txt_sha256": "98e748f4dc9626eb2e4ad63888e503ae5599ea88c01494ebb231d4baa30fc9c9",
+      "pdf_sha256": "40a0ccb47e7fd9ec4c3f47653a309e05921505fdacabbe7646f19a2b687c8c7b",
+      "txt_lines": 254,
+      "pdf_pages": 6,
+      "compiled_first_page": 336,
+      "compiled_last_page": 341
+    },
+    {
+      "level": 31,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_31_Major_Pentatonic_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_31_Major_Pentatonic_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "491359a3d7227f4887eb2486cdaf5827ef85a7487ea57c7b21d089ad6be3bfa7",
+      "pdf_sha256": "1f1cbc0f1d8a996f5239769abce00f94c4267e5504e6edbb72112210a12f137e",
+      "txt_lines": 259,
+      "pdf_pages": 7,
+      "compiled_first_page": 342,
+      "compiled_last_page": 348
+    },
+    {
+      "level": 32,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_32_Major_Pentatonic_Three_Note_Roll_and_Five_Note_Cycle_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_32_Major_Pentatonic_Three_Note_Roll_and_Five_Note_Cycle_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "574eddbeedabd9afbb2e1e08cbc270bcb9966ea752c55eb87bb348957492217e",
+      "pdf_sha256": "9e587c3eb6df807dc872ea7ff1cfdb30fcb7e461902e41314de7bc22a7589371",
+      "txt_lines": 741,
+      "pdf_pages": 16,
+      "compiled_first_page": 349,
+      "compiled_last_page": 364
+    },
+    {
+      "level": 33,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_33_Major_Pentatonic_Interval_Pairs_and_Melodic_Skips_Two_Octave_Six_String_Neck_Ladder.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_33_Major_Pentatonic_Interval_Pairs_and_Melodic_Skips_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "txt_sha256": "3d947a7d3b592029687ead297893c3ba95c2f162ced3e91ec678df66a5341cf0",
+      "pdf_sha256": "7947e7e9ffa02d56ce5a3223cdfdb1f4e739fb924dd88b14e745a9e38a58205a",
+      "txt_lines": 831,
+      "pdf_pages": 16,
+      "compiled_first_page": 365,
+      "compiled_last_page": 380
+    },
+    {
+      "level": 34,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_34_Major_Pentatonic_Five_Position_Connection_Fixed_Key_A_Neck_Map.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_34_Major_Pentatonic_Five_Position_Connection_Fixed_Key_A_Neck_Map.pdf",
+      "txt_sha256": "e4d015b5f553691f1fd108702b36a538182c2d35b9b457b70c34306b16312724",
+      "pdf_sha256": "d4c1833abf92748214cc61054f51683c994edd14048d16046a6cc619b9031a8e",
+      "txt_lines": 403,
+      "pdf_pages": 12,
+      "compiled_first_page": 381,
+      "compiled_last_page": 392
+    },
+    {
+      "level": 35,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_35_Major_Pentatonic_Horizontal_String_Lanes_Controlled_Shifts_Slides_and_Destination_Landings_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_35_Major_Pentatonic_Horizontal_String_Lanes_Controlled_Shifts_Slides_and_Destination_Landings_Fixed_Key_A.pdf",
+      "txt_sha256": "4a6d7e608e4217a832e72ed6b17526f75567fddc82f8018f40bf96f868d6b684",
+      "pdf_sha256": "90625b12ffac1d51d085f3b95cc12917fa2e6825f8137a83fec28d5ba468ea29",
+      "txt_lines": 333,
+      "pdf_pages": 13,
+      "compiled_first_page": 393,
+      "compiled_last_page": 405
+    },
+    {
+      "level": 36,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_36_Major_Pentatonic_Expressive_Articulation_Legato_Slides_Bends_Releases_and_Vibrato_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_36_Major_Pentatonic_Expressive_Articulation_Legato_Slides_Bends_Releases_and_Vibrato_Fixed_Key_A.pdf",
+      "txt_sha256": "4aee029db1f594b01963374e1269dba273fd82ae8e24d0e24df551cb442ef828",
+      "pdf_sha256": "ecdb6d4b249ac09116647f9b278413727bab6cf4b2557e094d9ee34741c11a43",
+      "txt_lines": 324,
+      "pdf_pages": 14,
+      "compiled_first_page": 406,
+      "compiled_last_page": 419
+    },
+    {
+      "level": 37,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_37_Major_Pentatonic_I_IV_V_Chord_Tone_Targeting_and_Voice_Leading_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_37_Major_Pentatonic_I_IV_V_Chord_Tone_Targeting_and_Voice_Leading_Fixed_Key_A.pdf",
+      "txt_sha256": "dc7e313b24cb46abd30b9dc8f3e26344d096cbf18c733f5619318c2c4dbfc301",
+      "pdf_sha256": "249b77610bec5ffbef1525bcead75b3ee51eeec8584b49c99730234a9387225b",
+      "txt_lines": 520,
+      "pdf_pages": 15,
+      "compiled_first_page": 420,
+      "compiled_last_page": 434
+    },
+    {
+      "level": 38,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_IV_Level_38_Major_Pentatonic_Call_and_Response_Phrasing_and_Improvisation_Synthesis_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_IV_Level_38_Major_Pentatonic_Call_and_Response_Phrasing_and_Improvisation_Synthesis_Fixed_Key_A.pdf",
+      "txt_sha256": "d34fe379da8b7dd4fbe7d70beb7cef6f7e6e81a6c9fb52cc7ecdca19d4c7e640",
+      "pdf_sha256": "10adb1e628f5dbcada38494a60ca648450abc183f2ec8ed977fad1fbd0f8844d",
+      "txt_lines": 850,
+      "pdf_pages": 18,
+      "compiled_first_page": 435,
+      "compiled_last_page": 452
+    },
+    {
+      "level": 39,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_39_F_Sharp_Minor_Pentatonic_Re_Centering_Workbook.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_39_F_Sharp_Minor_Pentatonic_Re_Centering_Workbook.pdf",
+      "txt_sha256": "24dfc7b858a2211ff28c47861967e5c10831002c95ea345363ae8270e17ccccd",
+      "pdf_sha256": "4f263085b49918b80702669c1a11949ecf3bb04708bf38019c2f3daa6c05b63b",
+      "txt_lines": 520,
+      "pdf_pages": 12,
+      "compiled_first_page": 454,
+      "compiled_last_page": 465
+    },
+    {
+      "level": 40,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_40_F_Sharp_Minor_Pentatonic_Harmony_and_Five_Position_Phrasing.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_40_F_Sharp_Minor_Pentatonic_Harmony_and_Five_Position_Phrasing.pdf",
+      "txt_sha256": "e9e4db6227e4d3ea0ccb15162ccde0c4da337b1dcf65b67a2401e1aab63a6da7",
+      "pdf_sha256": "99484a66ca087544322c922f75c037649ac21b80a355d117b9ad9c524cf76923",
+      "txt_lines": 695,
+      "pdf_pages": 16,
+      "compiled_first_page": 466,
+      "compiled_last_page": 481
+    },
+    {
+      "level": 41,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_41_A_Minor_Pentatonic_Five_Position_Map_and_Connection_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_41_A_Minor_Pentatonic_Five_Position_Map_and_Connection_Fixed_Key_A.pdf",
+      "txt_sha256": "40188b431cf51581e9fe1df01b50b6bb459482fdbf322822d845c2d45a1cb00a",
+      "pdf_sha256": "97e30c02960dc260a459bb6a4c38cb4d5c36998952ae876264e839bc40f0c576",
+      "txt_lines": 554,
+      "pdf_pages": 14,
+      "compiled_first_page": 482,
+      "compiled_last_page": 495
+    },
+    {
+      "level": 42,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_42_A_Minor_Pentatonic_Horizontal_Movement_and_Articulation_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_42_A_Minor_Pentatonic_Horizontal_Movement_and_Articulation_Fixed_Key_A.pdf",
+      "txt_sha256": "4d658466a731cf3de48c02cd8694651a3294d27af588a344926aa85e2d64f65b",
+      "pdf_sha256": "fed7a629ecf0c0ff4e7015187ce858a21d333409aedc37bde7b6561b05b5c61d",
+      "txt_lines": 473,
+      "pdf_pages": 18,
+      "compiled_first_page": 496,
+      "compiled_last_page": 513
+    },
+    {
+      "level": 43,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_43_A_Blues_Scale_Map_and_Blue_Note_Control_Fixed_Key_A_Final.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_43_A_Blues_Scale_Map_and_Blue_Note_Control_Fixed_Key_A_Final.pdf",
+      "txt_sha256": "2757cc44d1b231e6e2203b12ba8da82a7d6784db7a11ca94719efc7f34d3804f",
+      "pdf_sha256": "6641317bad903771dba4a2e50779dd66ed0d34626ca63f356d3d59b955668f2a",
+      "txt_lines": 554,
+      "pdf_pages": 17,
+      "compiled_first_page": 514,
+      "compiled_last_page": 530
+    },
+    {
+      "level": 44,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_44_A_Blues_Resolution_Vocabulary_Lick_Construction_and_Functional_Turnarounds_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_44_A_Blues_Resolution_Vocabulary_Lick_Construction_and_Functional_Turnarounds_Fixed_Key_A.pdf",
+      "txt_sha256": "fcbc0712e7e874c08a936a59f14bfe6fe4d57fa8c92ccf9f6e8badb76fcc8217",
+      "pdf_sha256": "f06b408d2cdedfc7d68ccb36bef7e18929d55eab60e0ee8dc172bbecf6098677",
+      "txt_lines": 660,
+      "pdf_pages": 19,
+      "compiled_first_page": 531,
+      "compiled_last_page": 549
+    },
+    {
+      "level": 45,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_45_A_Blues_Shuffle_Rhythm_Triplet_Placement_and_Twelve_Bar_Form_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_45_A_Blues_Shuffle_Rhythm_Triplet_Placement_and_Twelve_Bar_Form_Fixed_Key_A.pdf",
+      "txt_sha256": "9f77c127208540d41d2f331c00c880dcdf935993f9e422993ce3babf232cd069",
+      "pdf_sha256": "f84f04ff134377eca66f904e45fbb8a0669b01c65c8c663f51a092558296357f",
+      "txt_lines": 529,
+      "pdf_pages": 18,
+      "compiled_first_page": 550,
+      "compiled_last_page": 567
+    },
+    {
+      "level": 46,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_46_A7_D7_E7_Chord_Tone_Targeting_and_Guide_Tone_Voice_Leading_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_46_A7_D7_E7_Chord_Tone_Targeting_and_Guide_Tone_Voice_Leading_Fixed_Key_A.pdf",
+      "txt_sha256": "5da713ae996e5458d04af6418670e05096a30f2be94fe344bd7acd59b137c291",
+      "pdf_sha256": "2daf0c87123a89cccf5fb6a6e2f1643ef9bb69d92b6767b6ba644f6e8348e9bd",
+      "txt_lines": 604,
+      "pdf_pages": 20,
+      "compiled_first_page": 568,
+      "compiled_last_page": 587
+    },
+    {
+      "level": 47,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_47_A_Major_and_Minor_Pentatonic_Mixing_Chord_Aware_Color_Control_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_47_A_Major_and_Minor_Pentatonic_Mixing_Chord_Aware_Color_Control_Fixed_Key_A.pdf",
+      "txt_sha256": "3f51b3e8ef654008b901b0b652a0331e174763da28ab9766a8fbb8bea768e554",
+      "pdf_sha256": "e5aceb9339fc0d2ffc781b7001ecf2c330bb4b0c712742c5d8c9a4d5b730e468",
+      "txt_lines": 1044,
+      "pdf_pages": 20,
+      "compiled_first_page": 588,
+      "compiled_last_page": 607
+    },
+    {
+      "level": 48,
+      "txt": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_V_Level_48_A_Blues_Call_and_Response_and_Improvisation_Synthesis_Fixed_Key_A.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_V_Level_48_A_Blues_Call_and_Response_and_Improvisation_Synthesis_Fixed_Key_A.pdf",
+      "txt_sha256": "76b77483351d84ee3af830b96fb08d9c95fcf944cb353e356e85974da18ed511",
+      "pdf_sha256": "8f6cdf6c49436ad9cb16b0c0655213bcce0570572e32a3dec294abd2a78fea30",
+      "txt_lines": 1246,
+      "pdf_pages": 22,
+      "compiled_first_page": 608,
+      "compiled_last_page": 629
+    },
+    {
+      "level": 49,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_49_Chord_Mechanics_Muting_and_Open_Chord_Foundation.pdf",
+      "txt_sha256": "8487f1d1bc949e79509de98b10e1888200d48ddf8651d98979634e44b9fc20c3",
+      "pdf_sha256": "abadffbe75122328585fd64758e3ef9ffb7c6f8c9d2f14702e173a97808cfd8f",
+      "txt_lines": 515,
+      "pdf_pages": 20,
+      "compiled_first_page": 631,
+      "compiled_last_page": 650
+    },
+    {
+      "level": 50,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_50_Chord_Transitions_Common_Finger_and_Guide_Finger_Movement_Anticipated_Changes_and_Uninterrupted_Progressions.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_50_Chord_Transitions_Common_Finger_and_Guide_Finger_Movement_Anticipated_Changes_and_Uninterrupted_Progressions.pdf",
+      "txt_sha256": "c2a1e88fdc69545f17f7439b109fdad6a4b652285704ea730d0b8dae89a4306e",
+      "pdf_sha256": "eec11800419be73416833d09a0bd46b42785cc050afc716b44d3b0129d0e2afc",
+      "txt_lines": 439,
+      "pdf_pages": 20,
+      "compiled_first_page": 651,
+      "compiled_last_page": 670
+    },
+    {
+      "level": 51,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_51_Movable_Barre_Chord_Families_E_Shape_A_Shape_Root_Finding_Partial_Barres_and_Pressure_Management.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_51_Movable_Barre_Chord_Families_E_Shape_A_Shape_Root_Finding_Partial_Barres_and_Pressure_Management.pdf",
+      "txt_sha256": "227c3a52acbae2c2a8a58a5dffa603f632db2c3e62d9be5285cab333c81903da",
+      "pdf_sha256": "7a91c79021415138929f38349db58ae61b670c215f186ab28c36241ae61e5749",
+      "txt_lines": 466,
+      "pdf_pages": 20,
+      "compiled_first_page": 671,
+      "compiled_last_page": 690
+    },
+    {
+      "level": 52,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_52_Major_and_Minor_Triads_Root_Position_First_Inversion_Second_Inversion_Top_Three_Strings.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_52_Major_and_Minor_Triads_Root_Position_First_Inversion_Second_Inversion_Top_Three_Strings.pdf",
+      "txt_sha256": "6e8a5b93bf8b5b66c045ed943e6b873fe52c849da2d741f59857c6a736ea0bd3",
+      "pdf_sha256": "0cdfff4afe53df5c881e05c61908f4576c0a5d828e7440bb9ec88ebaa6fba503",
+      "txt_lines": 511,
+      "pdf_pages": 20,
+      "compiled_first_page": 691,
+      "compiled_last_page": 710
+    },
+    {
+      "level": 53,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_53_Major_and_Minor_Triads_Across_Four_Adjacent_Three_String_Sets.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_53_Major_and_Minor_Triads_Across_Four_Adjacent_Three_String_Sets.pdf",
+      "txt_sha256": "eeedc261db89d3421fafc116e7352bbf8a3e3f6b7eddfd822ed6e4c731e0538e",
+      "pdf_sha256": "5e016f98623dc4362b2e3fc9b2d1cf1fb6c8692d6312d5b30a65234d47fa20ae",
+      "txt_lines": 489,
+      "pdf_pages": 20,
+      "compiled_first_page": 711,
+      "compiled_last_page": 730
+    },
+    {
+      "level": 54,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_54_CAGED_Practical_Chord_Triad_Root_Arpeggio_and_Nearby_Scale_Tone_Map.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_54_CAGED_Practical_Chord_Triad_Root_Arpeggio_and_Nearby_Scale_Tone_Map.pdf",
+      "txt_sha256": "b980a8b75b207e2b6ebf46b6245752084f85797cf6cdc7cf4d42d0a53cbf29aa",
+      "pdf_sha256": "4fc5fe471f533ebd89707c998aa4d9151a84094f8af72ba420cc68f82d0db3a9",
+      "txt_lines": 419,
+      "pdf_pages": 20,
+      "compiled_first_page": 731,
+      "compiled_last_page": 750
+    },
+    {
+      "level": 55,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_55_Diatonic_Major_Key_Harmony_Roman_Numeral_Progressions_and_Transposition.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_55_Diatonic_Major_Key_Harmony_Roman_Numeral_Progressions_and_Transposition.pdf",
+      "txt_sha256": "e21a5b75f68f16d39339b411d156bbf913cde5a2df1f2b1526432605737bd3d2",
+      "pdf_sha256": "7b0b08ff149323b1715c9e154bd2a9606bd8c409777bc2b657e29b668d91b3d3",
+      "txt_lines": 545,
+      "pdf_pages": 20,
+      "compiled_first_page": 751,
+      "compiled_last_page": 770
+    },
+    {
+      "level": 56,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_56_Natural_Minor_Harmony_Minor_Key_Progressions_and_Raised_Seventh_Dominant_Preparation.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_56_Natural_Minor_Harmony_Minor_Key_Progressions_and_Raised_Seventh_Dominant_Preparation.pdf",
+      "txt_sha256": "77c6cf5aa49b3e078f93990b4350abda7dbff38b73b23736df1e5f6df2a729f9",
+      "pdf_sha256": "4cf52fd867a32b9c267de5041ef0c34219cd9563495bb0634c7301affcc69564",
+      "txt_lines": 590,
+      "pdf_pages": 20,
+      "compiled_first_page": 771,
+      "compiled_last_page": 790
+    },
+    {
+      "level": 57,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_57_Seventh_Chords_Shell_Voicings_Major_and_Minor_ii_V_I_and_Functional_Voice_Leading.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_57_Seventh_Chords_Shell_Voicings_Major_and_Minor_ii_V_I_and_Functional_Voice_Leading.pdf",
+      "txt_sha256": "f8c4090f825373861e07c506a44d1f8ef486161700d96896181f9785a9086545",
+      "pdf_sha256": "ddf35a3cd2a0506446c209b81aa31e9206439f0ff6a06675fef5b4f7f8c991fd",
+      "txt_lines": 741,
+      "pdf_pages": 20,
+      "compiled_first_page": 791,
+      "compiled_last_page": 810
+    },
+    {
+      "level": 58,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VI_Level_58_Sixteenth_Note_Rhythm_Guitar_Syncopation_Dead_Strokes_Chord_Releases_Anticipations_Funk_Comping_and_Full_Song_Capstone.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VI_Level_58_Sixteenth_Note_Rhythm_Guitar_Syncopation_Dead_Strokes_Chord_Releases_Anticipations_Funk_Comping_and_Full_Song_Capstone.pdf",
+      "txt_sha256": "e0c153f77a6c917056b7f17c876b2431336b40cb93bf484708230296b472acd4",
+      "pdf_sha256": "fcc609ccb4b13f52fde57ca95d7727db8acb351e07f0fe39ea08b0774ad501b5",
+      "txt_lines": 648,
+      "pdf_pages": 20,
+      "compiled_first_page": 811,
+      "compiled_last_page": 830
+    },
+    {
+      "level": 59,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VII_Level_59_Major_and_Minor_Triad_Arpeggios_Inversion_Starts_Alternate_and_Economy_Picking_and_Chord_Tone_Connections.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VII_Level_59_Major_and_Minor_Triad_Arpeggios_Inversion_Starts_Alternate_and_Economy_Picking_and_Chord_Tone_Connections.pdf",
+      "txt_sha256": "7eea221134b4308f384c27d5ebd40c21430c44fe2aaca9332dadb0a6d6b77adb",
+      "pdf_sha256": "43b1b70a42f05b80aa575bf377735aa0ccec27889485864750b169ccef4305ba",
+      "txt_lines": 1090,
+      "pdf_pages": 20,
+      "compiled_first_page": 832,
+      "compiled_last_page": 851
+    },
+    {
+      "level": 60,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VII_Level_60_Seventh_Chord_Arpeggios_Guide_Tone_Emphasis_Progression_Tracking_and_Controlled_Four_String_Sweeps.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VII_Level_60_Seventh_Chord_Arpeggios_Guide_Tone_Emphasis_Progression_Tracking_and_Controlled_Four_String_Sweeps.pdf",
+      "txt_sha256": "5e089e1cbeb82f55d1333bee8454c76d4c25910bb65dc8626fc68795c497c1c8",
+      "pdf_sha256": "0c0891314b12bc2349f66059f724ff0ba03cf3f313cd14aca52ea519eea5d8df",
+      "txt_lines": 1001,
+      "pdf_pages": 20,
+      "compiled_first_page": 852,
+      "compiled_last_page": 871
+    },
+    {
+      "level": 61,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VII_Level_61_Chord_Tone_Soloing_Chromatic_Approaches_Enclosures_Delayed_Resolutions_and_Progression_Specific_Phrase_Construction.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VII_Level_61_Chord_Tone_Soloing_Chromatic_Approaches_Enclosures_Delayed_Resolutions_and_Progression_Specific_Phrase_Construction.pdf",
+      "txt_sha256": "5f0b335578a2dea138122faa6d2c4b49dd37b22a340fb828bae3bfc07f7282aa",
+      "pdf_sha256": "c99cb38a504977808f56f8998136d8ac0243e12f3770231ffa296d48cd77e619",
+      "txt_lines": 1295,
+      "pdf_pages": 20,
+      "compiled_first_page": 872,
+      "compiled_last_page": 891
+    },
+    {
+      "level": 62,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VII_Level_62_Diagonal_Arpeggio_Connections_String_Skipping_Position_Shifts_and_Full_Neck_Chord_Tone_Motif_Development.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VII_Level_62_Diagonal_Arpeggio_Connections_String_Skipping_Position_Shifts_and_Full_Neck_Chord_Tone_Motif_Development.pdf",
+      "txt_sha256": "39fca1f21a76fa206bad933fae6d5c2464bf21f2ab359e9bc6fcb8d67030eb8b",
+      "pdf_sha256": "b658be4914875592e4765c942afec45abd8f3d6459d78de378a148e400fca836",
+      "txt_lines": 874,
+      "pdf_pages": 20,
+      "compiled_first_page": 892,
+      "compiled_last_page": 911
+    },
+    {
+      "level": 63,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VII_Level_63_Crosspicking_Hybrid_Picking_Controlled_Sweep_Bursts_and_Arpeggio_Phrase_Endurance.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VII_Level_63_Crosspicking_Hybrid_Picking_Controlled_Sweep_Bursts_and_Arpeggio_Phrase_Endurance.pdf",
+      "txt_sha256": "7241985f8ce08055d3171db3d935ee1d99ec6716f87f9b8d452d46004f91420b",
+      "pdf_sha256": "9a0f8cc0ab906a5bcd2e495294be067e76eee6593a80f242b3c368475df5639f",
+      "txt_lines": 1564,
+      "pdf_pages": 20,
+      "compiled_first_page": 912,
+      "compiled_last_page": 931
+    },
+    {
+      "level": 64,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VII_Level_64_Long_Form_Arpeggio_Solo_Construction_Secondary_Dominants_Key_Changes_and_System_Aware_Phrase_Orchestration.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VII_Level_64_Long_Form_Arpeggio_Solo_Construction_Secondary_Dominants_Key_Changes_and_System_Aware_Phrase_Orchestration.pdf",
+      "txt_sha256": "f00e6ef35a1971a91aab67103c69338c4b4a041ca37a100ec857b8537f3f6f24",
+      "pdf_sha256": "70c3179403ca12179f99f072911a76c56c88279e40534030184415e8f6d8a145",
+      "txt_lines": 669,
+      "pdf_pages": 20,
+      "compiled_first_page": 932,
+      "compiled_last_page": 951
+    },
+    {
+      "level": 65,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VIII_Level_65_A_Harmonic_Minor_Scale_Construction_Leading_Tone_Control_Dominant_Harmony_and_Diminished_Resolution.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VIII_Level_65_A_Harmonic_Minor_Scale_Construction_Leading_Tone_Control_Dominant_Harmony_and_Diminished_Resolution.pdf",
+      "txt_sha256": "a11cab26b2f7302f115b97dbebeb75697f414db34cb6b33aaee4d00d4ff30928",
+      "pdf_sha256": "4575d649694d62c625f920ab09ab18a56bfd86fd7e6c83f4c19b83e6ae5f961b",
+      "txt_lines": 791,
+      "pdf_pages": 20,
+      "compiled_first_page": 953,
+      "compiled_last_page": 972
+    },
+    {
+      "level": 66,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VIII_Level_66_A_Harmonic_Minor_Five_Position_Map_Horizontal_Routes_Sequences_Seam_Transitions_and_Full_Register_Movement.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VIII_Level_66_A_Harmonic_Minor_Five_Position_Map_Horizontal_Routes_Sequences_Seam_Transitions_and_Full_Register_Movement.pdf",
+      "txt_sha256": "c8f3675ac60f9b220715c7aa3da7260c7a87bd461f6682865cc40fa3046e1dbe",
+      "pdf_sha256": "9bf4baf225ad063e75349b0a290d193c3bd797e7c6584fc4425adeb18de1b13c",
+      "txt_lines": 503,
+      "pdf_pages": 20,
+      "compiled_first_page": 973,
+      "compiled_last_page": 992
+    },
+    {
+      "level": 67,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VIII_Level_67_A_Harmonic_Minor_Interval_Sequences_Arpeggio_Overlays_Mode_Functions_and_Progression_Specific_Melodic_Applications.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VIII_Level_67_A_Harmonic_Minor_Interval_Sequences_Arpeggio_Overlays_Mode_Functions_and_Progression_Specific_Melodic_Applications.pdf",
+      "txt_sha256": "74b3c2bff240b7eb4c76d32851068a865226f3d3fdd1036df33dfe3b7e3e7de3",
+      "pdf_sha256": "3bf03a860c137de0879eae2b53e4dfce3ea450f7f31a25bd7fb1bac4c1d30b6c",
+      "txt_lines": 949,
+      "pdf_pages": 20,
+      "compiled_first_page": 993,
+      "compiled_last_page": 1012
+    },
+    {
+      "level": 68,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_VIII_Level_68_E_Phrygian_Dominant_Diminished_Seventh_Symmetry_Altered_Dominant_Colors_and_Harmonic_Minor_Improvisation_Synthesis.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_VIII_Level_68_E_Phrygian_Dominant_Diminished_Seventh_Symmetry_Altered_Dominant_Colors_and_Harmonic_Minor_Improvisation_Synthesis.pdf",
+      "txt_sha256": "e270fa9365dfd6e061ce4fd7807df1ba0d82fc52b867dc1b29ec180cb7923f2b",
+      "pdf_sha256": "4db7d55cd64c1b038dfce68dfc3eda60fc82077fcf21532d96ad79457031a378",
+      "txt_lines": 871,
+      "pdf_pages": 20,
+      "compiled_first_page": 1013,
+      "compiled_last_page": 1032
+    },
+    {
+      "level": 69,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_IX_Level_69_A_Melodic_Minor_Scale_Construction_Raised_Sixth_and_Seventh_Control_Tonic_Colors_and_Seventh_Chord_Harmony.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_IX_Level_69_A_Melodic_Minor_Scale_Construction_Raised_Sixth_and_Seventh_Control_Tonic_Colors_and_Seventh_Chord_Harmony.pdf",
+      "txt_sha256": "2c5c7f20d8aeb2b833d91dfb97a21a06fd252c5f5ce0ada9947662a29e370626",
+      "pdf_sha256": "c674c3e03888a47348600feefcb3d2de271b585cb6011f32e1fc83c60501d197",
+      "txt_lines": 815,
+      "pdf_pages": 20,
+      "compiled_first_page": 1034,
+      "compiled_last_page": 1053
+    },
+    {
+      "level": 70,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_IX_Level_70_A_Melodic_Minor_Five_Position_Map_Horizontal_Routes_Directional_Descents_Seam_Transitions_and_Full_Register_Movement.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_IX_Level_70_A_Melodic_Minor_Five_Position_Map_Horizontal_Routes_Directional_Descents_Seam_Transitions_and_Full_Register_Movement.pdf",
+      "txt_sha256": "13ed1a46b87e74c3b3fb78161281268f79ed710b5bd7f12195378f3b247c4b9b",
+      "pdf_sha256": "4b95c98c91c35f132954f2452104280f40d8e96b46ca431344e6b4de007c764f",
+      "txt_lines": 533,
+      "pdf_pages": 20,
+      "compiled_first_page": 1054,
+      "compiled_last_page": 1073
+    },
+    {
+      "level": 71,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_IX_Level_71_A_Melodic_Minor_Interval_Sequences_Seventh_Chord_Overlays_Mode_Functions_and_Progression_Specific_Melodic_Applications.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_IX_Level_71_A_Melodic_Minor_Interval_Sequences_Seventh_Chord_Overlays_Mode_Functions_and_Progression_Specific_Melodic_Applications.pdf",
+      "txt_sha256": "ee67cd17a7176d9a40b398759361b9531f26d9392f123ccee00e4456a5134174",
+      "pdf_sha256": "2ea028f018142dbe3a4160947baffef952e0a39d46551f5c3a48c8e51fcd7b6f",
+      "txt_lines": 773,
+      "pdf_pages": 20,
+      "compiled_first_page": 1074,
+      "compiled_last_page": 1093
+    },
+    {
+      "level": 72,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_IX_Level_72_D_Lydian_Dominant_G_Sharp_Altered_Tritone_Substitution_Applied_Dominants_and_Melodic_Minor_Improvisation_Synthesis.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_IX_Level_72_D_Lydian_Dominant_G_Sharp_Altered_Tritone_Substitution_Applied_Dominants_and_Melodic_Minor_Improvisation_Synthesis.pdf",
+      "txt_sha256": "9b025956b8a25c6f699056ee1f518c891c7234d63e8d90e33c365d08285e0703",
+      "pdf_sha256": "ec75af38d79de7bd02176315e872a7731f9af15df78e72d50fc81c5528075426",
+      "txt_lines": 614,
+      "pdf_pages": 20,
+      "compiled_first_page": 1094,
+      "compiled_last_page": 1113
+    },
+    {
+      "level": 73,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_73_Common_Tone_and_Guide_Tone_Modulation_Pivot_Chords_Chromatic_Mediants_and_Key_Center_Navigation.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_73_Common_Tone_and_Guide_Tone_Modulation_Pivot_Chords_Chromatic_Mediants_and_Key_Center_Navigation.pdf",
+      "txt_sha256": "63fed22776f4fcfd61ac9b7783b456c8996f2b438c06886d585bff2ee01afd15",
+      "pdf_sha256": "7cc4c0098855c8e6d4b90063fb947b763e32a4225d66b77821f9e23f763779f9",
+      "txt_lines": 668,
+      "pdf_pages": 20,
+      "compiled_first_page": 1115,
+      "compiled_last_page": 1134
+    },
+    {
+      "level": 74,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_74_Odd_Rhythmic_Groupings_Cross_Bar_Accent_Cycles_Metric_Displacement_and_Polyrhythmic_Phrase_Control.pdf",
+      "txt_sha256": "63df8ae138ca4587315a04f239818057db44c990c3a6fac3ce9f82244a46aa28",
+      "pdf_sha256": "83ce1b9e548e28052de1487f21d70052aeeb3916829d25cc61589df69b650a72",
+      "txt_lines": 429,
+      "pdf_pages": 20,
+      "compiled_first_page": 1135,
+      "compiled_last_page": 1154
+    },
+    {
+      "level": 75,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_75_Repertoire_Analysis_Arrangement_Cue_Based_Section_Changes_and_Complete_Performance_Orchestration.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_75_Repertoire_Analysis_Arrangement_Cue_Based_Section_Changes_and_Complete_Performance_Orchestration.pdf",
+      "txt_sha256": "563e18e76187e4aa7a774b335edad44e7a289603fefbb2fba04fa1409c6063fb",
+      "pdf_sha256": "2a2b6a6e2cfb04a08a7039dd1ccc79a44dbcd06565ef1d3b1d2e4052c5e9fbfd",
+      "txt_lines": 85,
+      "pdf_pages": 20,
+      "compiled_first_page": 1155,
+      "compiled_last_page": 1174
+    },
+    {
+      "level": 76,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_76_Transcription_Ear_Led_Repertoire_Reconstruction_Form_Bass_Motion_Chord_Quality_Rhythm_and_Melodic_Targets.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_76_Transcription_Ear_Led_Repertoire_Reconstruction_Form_Bass_Motion_Chord_Quality_Rhythm_and_Melodic_Targets.pdf",
+      "txt_sha256": "b2ef0970911a7fc81175b166db85fae972f84628a9dec2ad5e42fb6e04664675",
+      "pdf_sha256": "504fcc4c233f43f98c48b5a05da42ce4cfcb03f2be33c094ba795d02f83d3e18",
+      "txt_lines": 199,
+      "pdf_pages": 20,
+      "compiled_first_page": 1175,
+      "compiled_last_page": 1194
+    },
+    {
+      "level": 77,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_77_Interval_Recognition_Chord_Function_Hearing_Sung_Guide_Tones_Melodic_Dictation_Call_and_Response_and_Immediate_Fretboard_Realization.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_77_Interval_Recognition_Chord_Function_Hearing_Sung_Guide_Tones_Melodic_Dictation_Call_and_Response_and_Immediate_Fretboard_Realization.pdf",
+      "txt_sha256": "54ab2490448e1fa6391ead275fe22e2fbec9be23d6e83c88001293b4be7e7236",
+      "pdf_sha256": "bfeaab5b0ddd52ac55063e0552b8c451d8a8029ddb073b744d8f0e76186aedce",
+      "txt_lines": 80,
+      "pdf_pages": 20,
+      "compiled_first_page": 1195,
+      "compiled_last_page": 1214
+    },
+    {
+      "level": 78,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_78_Ear_Led_Improvisation_Anticipatory_Guide_Tones_Motif_Prediction_and_Spontaneous_Role_Switching.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_78_Ear_Led_Improvisation_Anticipatory_Guide_Tones_Motif_Prediction_and_Spontaneous_Role_Switching.pdf",
+      "txt_sha256": "39fb82445b8d5f0d4e01f7108f360e7db0aaf45270145d4816213365d81a024e",
+      "pdf_sha256": "c7ecb9afda1dc902e38f1861a1d05422e4a48b8d5efcf2a9701f73684b922268",
+      "txt_lines": 218,
+      "pdf_pages": 20,
+      "compiled_first_page": 1215,
+      "compiled_last_page": 1234
+    },
+    {
+      "level": 79,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_X_Level_79_Complete_Performance_Improvisation_Long_Form_Dynamic_Arcs_Multi_Key_Navigation_Rhythmic_Displacement_Ensemble_Cues_and_Ear_Led_Recovery.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_X_Level_79_Complete_Performance_Improvisation_Long_Form_Dynamic_Arcs_Multi_Key_Navigation_Rhythmic_Displacement_Ensemble_Cues_and_Ear_Led_Recovery.pdf",
+      "txt_sha256": "56e42cd4324af9178b85d2525c38241e85b7c91c9cb75d9bfc7c7013664793fe",
+      "pdf_sha256": "00a75f782c15ef8e8aaa8239b64f96cd272e90fca74ccc3ad09da362ad12aebb",
+      "txt_lines": 220,
+      "pdf_pages": 20,
+      "compiled_first_page": 1235,
+      "compiled_last_page": 1254
+    },
+    {
+      "level": 80,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_80_Chord_Melody_Independent_Voice_Control_Bass_Melody_Inner_Guide_Tones_and_Simultaneous_Accompaniment_Lead.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_80_Chord_Melody_Independent_Voice_Control_Bass_Melody_Inner_Guide_Tones_and_Simultaneous_Accompaniment_Lead.pdf",
+      "txt_sha256": "e2297c8404a4041af1289e095fcace5012e5079698b0d7c32ff1bf77808de8b6",
+      "pdf_sha256": "cf99966ce9d5bd155d738dd30866a26fe0c30e2d633107393cf856bcb29c9afc",
+      "txt_lines": 131,
+      "pdf_pages": 20,
+      "compiled_first_page": 1256,
+      "compiled_last_page": 1275
+    },
+    {
+      "level": 81,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_81_Moving_Inner_Voices_Pedal_Tones_Walking_Bass_Passing_Diminished_and_Drop_2_Drop_3_Voicings.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_81_Moving_Inner_Voices_Pedal_Tones_Walking_Bass_Passing_Diminished_and_Drop_2_Drop_3_Voicings.pdf",
+      "txt_sha256": "62178bd2edae899efc36cc5bff76c589660b66a45d99476e4efc73a66a29b9b6",
+      "pdf_sha256": "025e2c01ee637555544a64adf0b7a196b8bc1ca04f08bb61dd4cf7c6d479686d",
+      "txt_lines": 158,
+      "pdf_pages": 20,
+      "compiled_first_page": 1276,
+      "compiled_last_page": 1295
+    },
+    {
+      "level": 82,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_82_Walking_Bass_Chord_Melody_Chromatic_Approach_Bass_Lines_Bass_Substitutions_and_Solo_Guitar_Arrangements.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_82_Walking_Bass_Chord_Melody_Chromatic_Approach_Bass_Lines_Bass_Substitutions_and_Solo_Guitar_Arrangements.pdf",
+      "txt_sha256": "075685fca4a69a33860abfddddac2ec47ff744c245e4c474f8c8a9715f355318",
+      "pdf_sha256": "e12a87917b2a3537922e56e0139574627a59dbd7b4959073cfbf87a4a8846005",
+      "txt_lines": 355,
+      "pdf_pages": 20,
+      "compiled_first_page": 1296,
+      "compiled_last_page": 1315
+    },
+    {
+      "level": 83,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_83_Melody_Harmonization_Chord_Substitution_Reharmonization_and_Fixed_Top_Line_Control.pdf",
+      "txt_sha256": "12561dfc8c1d81b710cb2d429b52e2d9574ea5fd7bfa65d0bf1f1b575682bb85",
+      "pdf_sha256": "3571f063bdafa8a3acb9a52f542d6f490516d75e325f55ea29915111659e5c5c",
+      "txt_lines": 59,
+      "pdf_pages": 20,
+      "compiled_first_page": 1316,
+      "compiled_last_page": 1335
+    },
+    {
+      "level": 84,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XI_Level_84_Complete_Solo_Guitar_Arrangement_Independent_Voices_Walking_Bass_Reharmonization_Dynamics_and_Performance_Capstone.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XI_Level_84_Complete_Solo_Guitar_Arrangement_Independent_Voices_Walking_Bass_Reharmonization_Dynamics_and_Performance_Capstone.pdf",
+      "txt_sha256": "2f4b612882dddd7a8766995747096166049fd0843492ec91ed673be4007e15ba",
+      "pdf_sha256": "c1b2eea466ed612ecc7ffe05ec2f67b286d5ae151f028b8d394c63621335821c",
+      "txt_lines": 52,
+      "pdf_pages": 15,
+      "compiled_first_page": 1336,
+      "compiled_last_page": 1350
+    },
+    {
+      "level": 85,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XII_Level_85_Pocket_Note_Length_Muting_Attack_Placement_and_Drum_Bass_Lock.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XII_Level_85_Pocket_Note_Length_Muting_Attack_Placement_and_Drum_Bass_Lock.pdf",
+      "txt_sha256": "8ca7ce364dac61adae9cbcf2dfd4cb800a10107523dc74e23014585e0cee33f7",
+      "pdf_sha256": "9ea3d4547e28ac2feb30659ee9d45af4ea84102d9f9a23837234ea37b6951323",
+      "txt_lines": 40,
+      "pdf_pages": 15,
+      "compiled_first_page": 1352,
+      "compiled_last_page": 1366
+    },
+    {
+      "level": 86,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XII_Level_86_Funk_and_RnB_Groove_Vocabulary_Sixteenth_Muting_Chord_Stabs_Ghost_Hierarchy_Syncopated_Triads_and_Bass_Space.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XII_Level_86_Funk_and_RnB_Groove_Vocabulary_Sixteenth_Muting_Chord_Stabs_Ghost_Hierarchy_Syncopated_Triads_and_Bass_Space.pdf",
+      "txt_sha256": "8730bcc844ca1a1f0dfeae22701be5ada9214926e412c9646643ba536cd7953e",
+      "pdf_sha256": "74d4db847ed27ce9e11641bbc0120cecfb7818f390df8c0680ce2cca708d3565",
+      "txt_lines": 43,
+      "pdf_pages": 15,
+      "compiled_first_page": 1367,
+      "compiled_last_page": 1381
+    },
+    {
+      "level": 87,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XII_Level_87_Reggae_Ska_Soul_Disco_and_Motown_Groove_Principles_Offbeats_Clipped_Chords_Repeated_Figures_and_Octave_Bass_Interaction.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XII_Level_87_Reggae_Ska_Soul_Disco_and_Motown_Groove_Principles_Offbeats_Clipped_Chords_Repeated_Figures_and_Octave_Bass_Interaction.pdf",
+      "txt_sha256": "833c2f7db7011ffd2e7cb6ec4753ea141da47dd3981d895a64cc76e53425b311",
+      "pdf_sha256": "a86904384a13a21744d2c052d37ae09bb6df7d3355136e9441a5fe387f20a3e0",
+      "txt_lines": 43,
+      "pdf_pages": 20,
+      "compiled_first_page": 1382,
+      "compiled_last_page": 1401
+    },
+    {
+      "level": 88,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XII_Level_88_Rock_Hard_Rock_and_Metal_Groove_Control_Eighth_Note_Drive_Gallops_Pedal_Tones_Power_Chord_Displacement_and_Riff_Architecture.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XII_Level_88_Rock_Hard_Rock_and_Metal_Groove_Control_Eighth_Note_Drive_Gallops_Pedal_Tones_Power_Chord_Displacement_and_Riff_Architecture.pdf",
+      "txt_sha256": "0cbaa5ea7950658dc89eec8b484792d05a640d9532ef7add0442b571a07a2aac",
+      "pdf_sha256": "c2e71c0f2391c29d713f6992c9149e43ec599f9eb1cd1f08bf09d915f1a8971f",
+      "txt_lines": 43,
+      "pdf_pages": 15,
+      "compiled_first_page": 1402,
+      "compiled_last_page": 1416
+    },
+    {
+      "level": 89,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XII_Level_89_Country_Americana_and_Hybrid_Picking_Groove_Alternating_Bass_Boom_Chuck_Train_Rhythm_Double_Stops_and_Controlled_Fills.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XII_Level_89_Country_Americana_and_Hybrid_Picking_Groove_Alternating_Bass_Boom_Chuck_Train_Rhythm_Double_Stops_and_Controlled_Fills.pdf",
+      "txt_sha256": "700365c24590c0579cff36906ad71434184f90146333dc9cee062b35ebd8e4df",
+      "pdf_sha256": "ffd3a2dbf7fe9c8f13c4006474ed965a24370af471d2a50601b924a5a356ea2c",
+      "txt_lines": 42,
+      "pdf_pages": 20,
+      "compiled_first_page": 1417,
+      "compiled_last_page": 1436
+    },
+    {
+      "level": 90,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XII_Level_90_Jazz_Swing_Shuffle_Afrobeat_Latin_Interlock_Jam_Band_Pocket_and_Multi_Style_Groove_Synthesis.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XII_Level_90_Jazz_Swing_Shuffle_Afrobeat_Latin_Interlock_Jam_Band_Pocket_and_Multi_Style_Groove_Synthesis.pdf",
+      "txt_sha256": "a62ff7bed53111d9b12c4674755b898696890af4964dda1d9505537642219f60",
+      "pdf_sha256": "abec6d82d4fc638fff8978ee1c4d33f569aba56e690ecf5918e37d3242429b1b",
+      "txt_lines": 40,
+      "pdf_pages": 21,
+      "compiled_first_page": 1437,
+      "compiled_last_page": 1457
+    },
+    {
+      "level": 91,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIII_Level_91_Advanced_Bend_Intonation_Unison_Oblique_Bends_Vibrato_Architecture_Expressive_Timing_and_Dynamic_Attack.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIII_Level_91_Advanced_Bend_Intonation_Unison_Oblique_Bends_Vibrato_Architecture_Expressive_Timing_and_Dynamic_Attack.pdf",
+      "txt_sha256": "0fac712a8e4ac90d43fc218bb0b68063f139c53523c4c28c442921b8e1f118b7",
+      "pdf_sha256": "653762bdb591329d04a382df20b6bd57bbe8050e971cf5d081bc549ba5374fc1",
+      "txt_lines": 37,
+      "pdf_pages": 17,
+      "compiled_first_page": 1459,
+      "compiled_last_page": 1475
+    },
+    {
+      "level": 92,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIII_Level_92_Rakes_Grace_Notes_Double_Stop_Slides_Harmonics_Volume_Swells_Muted_Attacks_and_Articulation_Chains.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIII_Level_92_Rakes_Grace_Notes_Double_Stop_Slides_Harmonics_Volume_Swells_Muted_Attacks_and_Articulation_Chains.pdf",
+      "txt_sha256": "67ddb7a03c84f727f78ced578853b21b2ecf22eb81a72deedfe1d16bd9ab8e1a",
+      "pdf_sha256": "c2068c5c2a52366fcd53526a0ae32a82a4aaabde9252be17599726bf8f01beff",
+      "txt_lines": 44,
+      "pdf_pages": 16,
+      "compiled_first_page": 1476,
+      "compiled_last_page": 1491
+    },
+    {
+      "level": 93,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIII_Level_93_Compound_Expressive_Phrasing_Double_Stop_Bends_Harmonic_Punctuation_Tonal_Contrast_Feedback_and_Long_Form_Articulation_Arcs.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIII_Level_93_Compound_Expressive_Phrasing_Double_Stop_Bends_Harmonic_Punctuation_Tonal_Contrast_Feedback_and_Long_Form_Articulation_Arcs.pdf",
+      "txt_sha256": "edb2b97ff26363ab23ee0cc483a1683eaeefd3b9e90172940364bb6fed4042b4",
+      "pdf_sha256": "a8727330b19e2babf3314890cd255a3dcc10b94d23dd7b0337fb5a7396b9b602",
+      "txt_lines": 43,
+      "pdf_pages": 18,
+      "compiled_first_page": 1492,
+      "compiled_last_page": 1509
+    },
+    {
+      "level": 94,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIII_Level_94_Expressive_Performance_Synthesis_Emotional_Contour_Dynamic_Tonal_Orchestration_Restraint_and_Complete_Solo_Capstone.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIII_Level_94_Expressive_Performance_Synthesis_Emotional_Contour_Dynamic_Tonal_Orchestration_Restraint_and_Complete_Solo_Capstone.pdf",
+      "txt_sha256": "c145149fba43a2f8836ae64a7569f369aa6dcc88b0e7beefce02e0d4aeddab48",
+      "pdf_sha256": "1743888569b5ea38659d7310af764df0bca4c969ed9a1e633ac106d2fc67965f",
+      "txt_lines": 44,
+      "pdf_pages": 20,
+      "compiled_first_page": 1510,
+      "compiled_last_page": 1529
+    },
+    {
+      "level": 95,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIV_Level_95_Scaffolded_Repertoire_Integration_Form_Harmony_Groove_Lead_Roles_Cues_and_Complete_Piece_Performance.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_95_Scaffolded_Repertoire_Integration_Form_Harmony_Groove_Lead_Roles_Cues_and_Complete_Piece_Performance.pdf",
+      "txt_sha256": "b28552dbc6a2f09eaf5541729d516d0d9919fa45ff7ce81f010b7bb057b359e5",
+      "pdf_sha256": "638e55f373be98699d3653ae19a4d6b416e5e413269886b887d73e837f6c022c",
+      "txt_lines": 45,
+      "pdf_pages": 18,
+      "compiled_first_page": 1531,
+      "compiled_last_page": 1548
+    },
+    {
+      "level": 96,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIV_Level_96_Chart_to_Performance_Repertoire_Reconstruction_Selective_Transcription_Independent_Voicing_Style_Decisions_and_Rehearsal_Planning.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_96_Chart_to_Performance_Repertoire_Reconstruction_Selective_Transcription_Independent_Voicing_Style_Decisions_and_Rehearsal_Planning.pdf",
+      "txt_sha256": "2d2b8e84da6fd16994d078cd779bc8c963a7b1b5e4cbee03e360de97cb80c54b",
+      "pdf_sha256": "51435c2e4537fccb536a6ba109d73db1a317247cbd4206ad3d67a5d4f986283f",
+      "txt_lines": 44,
+      "pdf_pages": 18,
+      "compiled_first_page": 1549,
+      "compiled_last_page": 1566
+    },
+    {
+      "level": 97,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIV_Level_97_Recording_Led_Repertoire_Reconstruction_Audio_to_Form_Harmony_Groove_Riffs_Arrangement_and_Performance.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_97_Recording_Led_Repertoire_Reconstruction_Audio_to_Form_Harmony_Groove_Riffs_Arrangement_and_Performance.pdf",
+      "txt_sha256": "afb5b139ae7f24a1ce62b6deed53e4c5d09970e87f67be5024b25894f3ba506d",
+      "pdf_sha256": "208d88c99d8c1c81d68ff2dcb3b396b1092153254ef280fe567e1b3c3741b307",
+      "txt_lines": 43,
+      "pdf_pages": 19,
+      "compiled_first_page": 1567,
+      "compiled_last_page": 1585
+    },
+    {
+      "level": 98,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIV_Level_98_Repertoire_Adaptation_Transposition_Ensemble_Roles_Acoustic_Electric_Conversion_Simplification_and_Alternate_Performance_Versions.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_98_Repertoire_Adaptation_Transposition_Ensemble_Roles_Acoustic_Electric_Conversion_Simplification_and_Alternate_Performance_Versions.pdf",
+      "txt_sha256": "1b0fdba1e4988adb02d54b2acc8c4141646db8940b7e4f27deff439d6957b2a0",
+      "pdf_sha256": "055bb7557770c83e1b2aebb3114c832f81774bf52034cce9c9270589c6057e56",
+      "txt_lines": 46,
+      "pdf_pages": 20,
+      "compiled_first_page": 1586,
+      "compiled_last_page": 1605
+    },
+    {
+      "level": 99,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XIV_Level_99_Repertoire_Set_Construction_Sequencing_Between_Song_Transitions_Endurance_Memory_Recovery_Gear_Discipline_and_Live_Set_Capstone.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XIV_Level_99_Repertoire_Set_Construction_Sequencing_Between_Song_Transitions_Endurance_Memory_Recovery_Gear_Discipline_and_Live_Set_Capstone.pdf",
+      "txt_sha256": "d34701b178b277b568f1c988de6566ab6381925946341b74488cee765f5f7e39",
+      "pdf_sha256": "85c864fc95ae36ef70e826fe4acb13a7c7ea042d7cc384446c12faa76d4d754b",
+      "txt_lines": 42,
+      "pdf_pages": 21,
+      "compiled_first_page": 1606,
+      "compiled_last_page": 1626
+    },
+    {
+      "level": 100,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XV_Level_100_Motif_Generation_Harmonic_Constraints_Bass_First_Melody_First_Writing_and_Eight_Bar_Composition.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XV_Level_100_Motif_Generation_Harmonic_Constraints_Bass_First_Melody_First_Writing_and_Eight_Bar_Composition.pdf",
+      "txt_sha256": "d9d156ed64317d7567dcb57bbdaa630afb3861da43a70a77f25fbf8613b867d5",
+      "pdf_sha256": "4d4efa497b1fe782a89cbb22e935ea5cdf9d3ec6b7c94c609b5a36b631fb6a31",
+      "txt_lines": 48,
+      "pdf_pages": 21,
+      "compiled_first_page": 1628,
+      "compiled_last_page": 1648
+    },
+    {
+      "level": 101,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XV_Level_101_Larger_Form_Composition_AB_Sections_Verse_Chorus_Bridges_Transitions_Thematic_Return_and_32_Bar_Originals.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XV_Level_101_Larger_Form_Composition_AB_Sections_Verse_Chorus_Bridges_Transitions_Thematic_Return_and_32_Bar_Originals.pdf",
+      "txt_sha256": "8ad7e8e8ad58090b44da4bed3b141d45b4b76fd1d7a0182c0a22d3dd0f20c282",
+      "pdf_sha256": "e184d9e8f8681d6d5b1ad3f9d1ab30d12b2fb7215756f2cae26b6c535f79698f",
+      "txt_lines": 51,
+      "pdf_pages": 21,
+      "compiled_first_page": 1649,
+      "compiled_last_page": 1669
+    },
+    {
+      "level": 102,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XV_Level_102_Arrangement_and_Orchestration_for_Original_Music_Multiple_Guitar_Roles_Bass_Inner_Voices_Groove_Dynamics_Solo_Sections_and_Demo_Ready_Arrangements.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XV_Level_102_Arrangement_and_Orchestration_for_Original_Music_Multiple_Guitar_Roles_Bass_Inner_Voices_Groove_Dynamics_Solo_Sections_and_Demo_Ready_Arrangements.pdf",
+      "txt_sha256": "40aefd7f4dacc0fb00159a48ea3492a0d00f41f2680975faf9b37d78ad510e3c",
+      "pdf_sha256": "c42209560424e894540fc2bc3e066b4b337d644cc07c33d28c1142f558e4358d",
+      "txt_lines": 51,
+      "pdf_pages": 22,
+      "compiled_first_page": 1670,
+      "compiled_last_page": 1691
+    },
+    {
+      "level": 103,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XV_Level_103_Improvisational_Composition_Real_Time_Form_Motif_Memory_Live_Reharmonization_Controlled_Repetition_Spontaneous_Transitions_and_Coherent_Arcs.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XV_Level_103_Improvisational_Composition_Real_Time_Form_Motif_Memory_Live_Reharmonization_Controlled_Repetition_Spontaneous_Transitions_and_Coherent_Arcs.pdf",
+      "txt_sha256": "2775ad4adbb6eeac6ba3bc9fe418b23ce215f614dabcac8ca4f0d9a8f988a3be",
+      "pdf_sha256": "ab27ec74f01e30657627be901e39e9a383c30a33ca80389988c5d2d3f2249d5b",
+      "txt_lines": 50,
+      "pdf_pages": 23,
+      "compiled_first_page": 1692,
+      "compiled_last_page": 1714
+    },
+    {
+      "level": 104,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Section_XV_Level_104_Complete_Original_Work_Production_Compose_Arrange_Revise_Rehearse_Record_Critique_and_Finalize.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Section_XV_Level_104_Complete_Original_Work_Production_Compose_Arrange_Revise_Rehearse_Record_Critique_and_Finalize.pdf",
+      "txt_sha256": "423796924890455084cf958e2b67ae173028a48bd846fa44d14951e8600259d2",
+      "pdf_sha256": "15c67144a0f47883b46822e32cce12c413b6a0db9e1f0d77c7615b3d0454c3d8",
+      "txt_lines": 47,
+      "pdf_pages": 22,
+      "compiled_first_page": 1715,
+      "compiled_last_page": 1736
+    },
+    {
+      "level": 105,
+      "txt": "Notes/music/guitar project/TXT version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.txt",
+      "pdf": "Notes/music/guitar project/PDF version/Guitar_Exercises_Level_105_Final_Musicianship_Capstone_Complete_105_Level_Core_Curriculum.pdf",
+      "txt_sha256": "793cf5eab18d4501b7b1d7317caeb89b91719e4b71d7cadff9f905afb4a56bf5",
+      "pdf_sha256": "e8642650a58154eb0ec2985e05ea2a48bdd417d4d5fc1ac4cd08591d13538a5b",
+      "txt_lines": 61,
+      "pdf_pages": 34,
+      "compiled_first_page": 1738,
+      "compiled_last_page": 1771
+    }
+  ],
+  "compiled": {
+    "path": "Notes/music/guitar project/PDF version/output/pdf/Guitar_Complete_105_Level_Printable_Collection.pdf",
+    "sha256": "522c69965b8038af99d061465171067f31265d5d93f70f64ca57bd3803c8f093",
+    "pages": 1777,
+    "bookmarks": [
+      {
+        "title": "Introduction & practice guide",
+        "page": 2
+      },
+      {
+        "title": "Curriculum route map",
+        "page": 3
+      },
+      {
+        "title": "Table of contents",
+        "page": 4
+      },
+      {
+        "title": "Section I - Finger Coordination & Position Control",
+        "page": 5
+      },
+      {
+        "title": "Level 001 - Finger-permutation foundation",
+        "page": 6
+      },
+      {
+        "title": "Level 002 - Two-string transfer",
+        "page": 10
+      },
+      {
+        "title": "Level 003 - Odd-count string transfer",
+        "page": 20
+      },
+      {
+        "title": "Level 004 - Three-string relay",
+        "page": 39
+      },
+      {
+        "title": "Level 005 - One-string-skip transfer",
+        "page": 49
+      },
+      {
+        "title": "Level 006 - Odd-count string-skip transfer",
+        "page": 59
+      },
+      {
+        "title": "Level 007 - Three-string skip relay",
+        "page": 78
+      },
+      {
+        "title": "Level 008 - Two-position ladder",
+        "page": 88
+      },
+      {
+        "title": "Level 009 - Mid-pattern position transfer",
+        "page": 98
+      },
+      {
+        "title": "Level 010 - Odd-count position transfer",
+        "page": 108
+      },
+      {
+        "title": "Level 011 - Three-position relay",
+        "page": 127
+      },
+      {
+        "title": "Section II - Major Scales Across the Neck",
+        "page": 137
+      },
+      {
+        "title": "Level 012 - Major scale: one-fret neck ladder",
+        "page": 138
+      },
+      {
+        "title": "Level 013 - Major scale: two octaves, six strings",
+        "page": 144
+      },
+      {
+        "title": "Level 014 - Three-note rolling sequence: one octave",
+        "page": 151
+      },
+      {
+        "title": "Level 015 - Three-note rolling sequence: two octaves",
+        "page": 158
+      },
+      {
+        "title": "Level 016 - Four-note rolling sequence: one octave",
+        "page": 168
+      },
+      {
+        "title": "Level 017 - Four-note rolling sequence: two octaves",
+        "page": 175
+      },
+      {
+        "title": "Level 018 - Major-scale diatonic thirds",
+        "page": 185
+      },
+      {
+        "title": "Level 019 - Major-scale diatonic triads",
+        "page": 195
+      },
+      {
+        "title": "Level 020 - Major-scale synthesis circuit",
+        "page": 205
+      },
+      {
+        "title": "Section III - Natural Minor Across the Neck",
+        "page": 236
+      },
+      {
+        "title": "Level 021 - Natural minor: one-fret neck ladder",
+        "page": 237
+      },
+      {
+        "title": "Level 022 - Natural minor: two octaves, six strings",
+        "page": 243
+      },
+      {
+        "title": "Level 023 - Three-note rolling sequence: one octave",
+        "page": 250
+      },
+      {
+        "title": "Level 024 - Three-note rolling sequence: two octaves",
+        "page": 257
+      },
+      {
+        "title": "Level 025 - Four-note rolling sequence: one octave",
+        "page": 267
+      },
+      {
+        "title": "Level 026 - Four-note rolling sequence: two octaves",
+        "page": 274
+      },
+      {
+        "title": "Level 027 - Natural-minor diatonic thirds",
+        "page": 284
+      },
+      {
+        "title": "Level 028 - Natural-minor diatonic triads",
+        "page": 294
+      },
+      {
+        "title": "Level 029 - Natural-minor synthesis circuit",
+        "page": 304
+      },
+      {
+        "title": "Section IV - Major Pentatonic: Maps to Phrases",
+        "page": 335
+      },
+      {
+        "title": "Level 030 - Major pentatonic: one-octave neck ladder",
+        "page": 336
+      },
+      {
+        "title": "Level 031 - Major pentatonic: two octaves, six strings",
+        "page": 342
+      },
+      {
+        "title": "Level 032 - Three-note roll and five-note cycle",
+        "page": 349
+      },
+      {
+        "title": "Level 033 - Interval pairs and melodic skips",
+        "page": 365
+      },
+      {
+        "title": "Level 034 - Five-position connection in A",
+        "page": 381
+      },
+      {
+        "title": "Level 035 - Horizontal string lanes and controlled shifts",
+        "page": 393
+      },
+      {
+        "title": "Level 036 - Legato, slides, bends, releases and vibrato",
+        "page": 406
+      },
+      {
+        "title": "Level 037 - I-IV-V chord targets and voice leading",
+        "page": 420
+      },
+      {
+        "title": "Level 038 - Call and response: improvisation synthesis",
+        "page": 435
+      },
+      {
+        "title": "Section V - Minor Pentatonic & Blues",
+        "page": 453
+      },
+      {
+        "title": "Level 039 - F# minor pentatonic: re-centering",
+        "page": 454
+      },
+      {
+        "title": "Level 040 - F# minor pentatonic: harmony and phrasing",
+        "page": 466
+      },
+      {
+        "title": "Level 041 - A minor pentatonic: five-position map",
+        "page": 482
+      },
+      {
+        "title": "Level 042 - A minor pentatonic: movement and articulation",
+        "page": 496
+      },
+      {
+        "title": "Level 043 - A blues scale and blue-note control",
+        "page": 514
+      },
+      {
+        "title": "Level 044 - Blues resolution, licks and turnarounds",
+        "page": 531
+      },
+      {
+        "title": "Level 045 - Shuffle rhythm and twelve-bar form",
+        "page": 550
+      },
+      {
+        "title": "Level 046 - A7-D7-E7 targets and guide tones",
+        "page": 568
+      },
+      {
+        "title": "Level 047 - Major/minor pentatonic color mixing",
+        "page": 588
+      },
+      {
+        "title": "Level 048 - Blues call and response: synthesis",
+        "page": 608
+      },
+      {
+        "title": "Section VI - Chords, Harmony & Rhythm Guitar",
+        "page": 630
+      },
+      {
+        "title": "Level 049 - Chord mechanics, muting and open chords",
+        "page": 631
+      },
+      {
+        "title": "Level 050 - Chord transitions and uninterrupted progressions",
+        "page": 651
+      },
+      {
+        "title": "Level 051 - Movable barre chords and root finding",
+        "page": 671
+      },
+      {
+        "title": "Level 052 - Major/minor triad inversions: top three strings",
+        "page": 691
+      },
+      {
+        "title": "Level 053 - Triads across four adjacent string sets",
+        "page": 711
+      },
+      {
+        "title": "Level 054 - CAGED: chords, triads, roots and scale tones",
+        "page": 731
+      },
+      {
+        "title": "Level 055 - Major-key harmony and transposition",
+        "page": 751
+      },
+      {
+        "title": "Level 056 - Natural-minor harmony and dominant preparation",
+        "page": 771
+      },
+      {
+        "title": "Level 057 - Seventh chords, shells and ii-V-I voice leading",
+        "page": 791
+      },
+      {
+        "title": "Level 058 - Sixteenth-note rhythm guitar and comping",
+        "page": 811
+      },
+      {
+        "title": "Section VII - Arpeggios & Chord-Tone Soloing",
+        "page": 831
+      },
+      {
+        "title": "Level 059 - Triad arpeggios, inversions and picking systems",
+        "page": 832
+      },
+      {
+        "title": "Level 060 - Seventh arpeggios, guide tones and sweeps",
+        "page": 852
+      },
+      {
+        "title": "Level 061 - Chord-tone soloing, approaches and enclosures",
+        "page": 872
+      },
+      {
+        "title": "Level 062 - Diagonal arpeggios and full-neck motifs",
+        "page": 892
+      },
+      {
+        "title": "Level 063 - Crosspicking, hybrid picking and endurance",
+        "page": 912
+      },
+      {
+        "title": "Level 064 - Long-form arpeggio solos and key changes",
+        "page": 932
+      },
+      {
+        "title": "Section VIII - Harmonic Minor & Dominant Resolution",
+        "page": 952
+      },
+      {
+        "title": "Level 065 - Harmonic minor: construction and resolution",
+        "page": 953
+      },
+      {
+        "title": "Level 066 - Harmonic minor: five positions and routes",
+        "page": 973
+      },
+      {
+        "title": "Level 067 - Harmonic minor: sequences and chord overlays",
+        "page": 993
+      },
+      {
+        "title": "Level 068 - Phrygian dominant and diminished synthesis",
+        "page": 1013
+      },
+      {
+        "title": "Section IX - Melodic Minor & Applied Dominants",
+        "page": 1033
+      },
+      {
+        "title": "Level 069 - Melodic minor: construction and harmony",
+        "page": 1034
+      },
+      {
+        "title": "Level 070 - Melodic minor: maps and directional descents",
+        "page": 1054
+      },
+      {
+        "title": "Level 071 - Melodic minor: sequences and mode functions",
+        "page": 1074
+      },
+      {
+        "title": "Level 072 - Lydian dominant, altered and substitutions",
+        "page": 1094
+      },
+      {
+        "title": "Section X - Hearing, Modulation & Performance",
+        "page": 1114
+      },
+      {
+        "title": "Level 073 - Modulation and key-center navigation",
+        "page": 1115
+      },
+      {
+        "title": "Level 074 - Odd groupings and rhythmic displacement",
+        "page": 1135
+      },
+      {
+        "title": "Level 075 - Repertoire analysis and performance cues",
+        "page": 1155
+      },
+      {
+        "title": "Level 076 - Transcription and ear-led reconstruction",
+        "page": 1175
+      },
+      {
+        "title": "Level 077 - Hearing intervals, functions and guide tones",
+        "page": 1195
+      },
+      {
+        "title": "Level 078 - Ear-led improvisation and role switching",
+        "page": 1215
+      },
+      {
+        "title": "Level 079 - Complete performance and improvisation",
+        "page": 1235
+      },
+      {
+        "title": "Section XI - Chord Melody & Independent Voices",
+        "page": 1255
+      },
+      {
+        "title": "Level 080 - Chord melody and independent voices",
+        "page": 1256
+      },
+      {
+        "title": "Level 081 - Moving inner voices and expanded voicings",
+        "page": 1276
+      },
+      {
+        "title": "Level 082 - Walking bass and solo-guitar arrangements",
+        "page": 1296
+      },
+      {
+        "title": "Level 083 - Melody harmonization and reharmonization",
+        "page": 1316
+      },
+      {
+        "title": "Level 084 - Complete solo-guitar arrangement capstone",
+        "page": 1336
+      },
+      {
+        "title": "Section XII - Groove & Stylistic Rhythm",
+        "page": 1351
+      },
+      {
+        "title": "Level 085 - Pocket, note length and drum/bass lock",
+        "page": 1352
+      },
+      {
+        "title": "Level 086 - Funk and R&B groove vocabulary",
+        "page": 1367
+      },
+      {
+        "title": "Level 087 - Reggae, ska, soul, disco and Motown",
+        "page": 1382
+      },
+      {
+        "title": "Level 088 - Rock, hard rock and metal grooves",
+        "page": 1402
+      },
+      {
+        "title": "Level 089 - Country, Americana and hybrid picking",
+        "page": 1417
+      },
+      {
+        "title": "Level 090 - Swing, shuffle and interlocking grooves",
+        "page": 1437
+      },
+      {
+        "title": "Section XIII - Expression & Articulation",
+        "page": 1458
+      },
+      {
+        "title": "Level 091 - Bend intonation, vibrato and expressive timing",
+        "page": 1459
+      },
+      {
+        "title": "Level 092 - Rakes, harmonics and articulation chains",
+        "page": 1476
+      },
+      {
+        "title": "Level 093 - Compound phrasing and tonal contrast",
+        "page": 1492
+      },
+      {
+        "title": "Level 094 - Expressive performance synthesis",
+        "page": 1510
+      },
+      {
+        "title": "Section XIV - Repertoire & Live Performance",
+        "page": 1530
+      },
+      {
+        "title": "Level 095 - Scaffolded repertoire integration",
+        "page": 1531
+      },
+      {
+        "title": "Level 096 - Chart-to-performance reconstruction",
+        "page": 1549
+      },
+      {
+        "title": "Level 097 - Recording-led repertoire reconstruction",
+        "page": 1567
+      },
+      {
+        "title": "Level 098 - Repertoire adaptation and transposition",
+        "page": 1586
+      },
+      {
+        "title": "Level 099 - Set construction and live performance",
+        "page": 1606
+      },
+      {
+        "title": "Section XV - Composition & Finished Original Work",
+        "page": 1627
+      },
+      {
+        "title": "Level 100 - Motifs and eight-bar composition",
+        "page": 1628
+      },
+      {
+        "title": "Level 101 - Larger forms and thematic return",
+        "page": 1649
+      },
+      {
+        "title": "Level 102 - Arrangement and orchestration",
+        "page": 1670
+      },
+      {
+        "title": "Level 103 - Improvisational composition",
+        "page": 1692
+      },
+      {
+        "title": "Level 104 - Complete original-work production",
+        "page": 1715
+      },
+      {
+        "title": "Final capstone - Integrated Musicianship Examination",
+        "page": 1737
+      },
+      {
+        "title": "Level 105 - Final musicianship examination",
+        "page": 1738
+      },
+      {
+        "title": "Printable practice tools",
+        "page": 1772
+      },
+      {
+        "title": "01 - Fretboard note map",
+        "page": 1772
+      },
+      {
+        "title": "02 - Scale and chord formulas",
+        "page": 1773
+      },
+      {
+        "title": "03 - Practice session log",
+        "page": 1774
+      },
+      {
+        "title": "04 - 105-level progress tracker",
+        "page": 1775
+      },
+      {
+        "title": "05 - Performance and composition planner",
+        "page": 1776
+      },
+      {
+        "title": "06 - Blank tablature workbench",
+        "page": 1777
+      }
+    ]
+  },
+  "historical_evidence": "WBS \u00a74.2 prior all-1751-page whitespace-normalized text match; not rerun by this manifest."
+}

@@ -1,0 +1,149 @@
+{
+  "version": "level015-rung04-extension-bundle.1",
+  "content_version": "curriculum-v1-level015-rung04-triplet-build-only.1",
+  "decision_sha256": "09c4ab91fa98b90f07b330e6712d55497c4ca83495d89de9668e0f2930fc8246",
+  "profile_sha256": "e0ce76967f5b128a95f943b0413b943cc7fb337b951f1c2d5a725be1a5758913",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/parallel-02/level015-r04-installed-r01/packet/package.json",
+    "profile": "Build/parallel-02/level015-r04-installed-r01/packet/expected-profile.json",
+    "registry": "Build/parallel-02/level015-r04-installed-r01/packet/identity-registry.json"
+  },
+  "files": [
+    {
+      "path": "Build/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/timing-overlay.json",
+      "bytes": 28350,
+      "sha256": "dfec96ca2c638fe26aded34b1a1ae553318697964e1f7000cd58024b41cc5626"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-installed-r01/packet/candidate-allocation.json",
+      "bytes": 4851,
+      "sha256": "72b65a5dbf297fc4218851c7daf999eb9bd290a565245dab66e23420e6c46e83"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-installed-r01/packet/expected-profile.json",
+      "bytes": 90698,
+      "sha256": "e0ce76967f5b128a95f943b0413b943cc7fb337b951f1c2d5a725be1a5758913"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-installed-r01/packet/identity-registry.json",
+      "bytes": 1283,
+      "sha256": "7bab6bf2aad67c49516e3df65c15a46aba8af8d290977ce65a6734753f205d6b"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-installed-r01/packet/package.json",
+      "bytes": 77463,
+      "sha256": "29677c3eba7a1667474bae5ee51d0d8ee9af80f429b62d05ae4468046e7c364c"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-native-candidate-r01/allocation-baseline.json",
+      "bytes": 101,
+      "sha256": "69d846eeb4df29c0c3fc5571475314601c7cada8be2e582943c5924ed92c2e70"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-native-candidate-r01/candidate-allocation.json",
+      "bytes": 4851,
+      "sha256": "72b65a5dbf297fc4218851c7daf999eb9bd290a565245dab66e23420e6c46e83"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-native-candidate-r01/expected-profile.json",
+      "bytes": 90720,
+      "sha256": "77b475ba5e8a9d73d891ae351894ad2e6ff3728ab04c81c7013b10e3dd983dd1"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-native-candidate-r01/identity-baseline.json",
+      "bytes": 436,
+      "sha256": "65d55f7117349b050750b6c8bc5337b69807e625acf22cbafc6b5ff1f21d4dd6"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-native-candidate-r01/identity-registry.json",
+      "bytes": 1283,
+      "sha256": "7bab6bf2aad67c49516e3df65c15a46aba8af8d290977ce65a6734753f205d6b"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-native-candidate-r01/lineage-baseline.json",
+      "bytes": 55,
+      "sha256": "93c7d42e37ae94d28316ca242b017c5e810230b1fb86e12805829ad9552dfee9"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-native-candidate-r01/package.json",
+      "bytes": 77463,
+      "sha256": "29677c3eba7a1667474bae5ee51d0d8ee9af80f429b62d05ae4468046e7c364c"
+    },
+    {
+      "path": "Build/parallel-02/level015-r04-native-candidate-r01/source-to-event-map.json",
+      "bytes": 41828,
+      "sha256": "888a30b4c01077ecdaf544bb476e8f1a65db161940c32c13b0d922784da4512e"
+    },
+    {
+      "path": "Build/parallel-08/2.3.1.1.1-level015-whole-r01/candidate-01.json",
+      "bytes": 559471,
+      "sha256": "bff1da256722d18dff4c564032a74947fa56cbd3af460b3733537380dc9d804b"
+    },
+    {
+      "path": "Content/runtime/level015-extension-v1/Results/20260906T184530Z-2.4.1.1.1-r01-evidence/plan.json",
+      "bytes": 24880,
+      "sha256": "cb3c3f7a47343ac0255dbdb8bf53411af6dd7b929c101b04d00ed62d6e3f637a"
+    },
+    {
+      "path": "Content/runtime/level015-extension-v1/Results/20260912T100538Z-2.1.1.2.1-r02-evidence/schema-freeze.json",
+      "bytes": 2737,
+      "sha256": "0659fa962a5c933a2bcf3045772b6fe5b05b4deefb3511f5dcb68af51088de95"
+    },
+    {
+      "path": "Content/runtime/level015-rung04-extension-v1/installed-resource-plan.json",
+      "bytes": 533,
+      "sha256": "c171347a1dc5e39fc5013a2ba514e9c34e134b153bef1b49d2df2da685999d99"
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "bytes": 30825,
+      "sha256": "9c3e2b980079fb3a4eca7affe9bc948a2e58cab15f256766976451ac08d53a5e"
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "bytes": 42020,
+      "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514"
+    },
+    {
+      "path": "Results/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/producer-r01/artifact-manifest.json",
+      "bytes": 2413,
+      "sha256": "cf16b8117349caaf3cfe5382b93d210871807386d13c260d0ebe5a81b1cec22d"
+    },
+    {
+      "path": "Results/level-oracle/repairs-r01/level015-rung04-relative-timing-r01/review-r01/review-report.md",
+      "bytes": 4958,
+      "sha256": "cbb2ec952199356c49f3e7fbc3aa15472f167f3e8783ec6032e207ca364c5619"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r04-native-review-r01/artifact-manifest.json",
+      "bytes": 7627,
+      "sha256": "c13d867682ffeaa7ce8f08b9024961970f4e51f4b96026fc2954788e8efd3a07"
+    },
+    {
+      "path": "Results/manager-resume-r01/level015-r04-native-review-r01/review-report.md",
+      "bytes": 6052,
+      "sha256": "7d8e8ecfabd72ecb2a01bff656537869ab2fa0be17d34feaaca8bf9049e63aff"
+    },
+    {
+      "path": "Results/primary/20260927T0900Z-level015-r04-private-native-adoption.md",
+      "bytes": 2245,
+      "sha256": "84d39891ea3eed3538a7766017ebfb5ce75002f2febd8593d6792c38d1d5cc70"
+    },
+    {
+      "path": "agent-curriculum-decision.md",
+      "bytes": 2165,
+      "sha256": "c2d85ba2a58afa65ddd4d4dab473ef61fbb5952fe570fa04846e622c68283f43"
+    },
+    {
+      "path": "decision.json",
+      "bytes": 2914,
+      "sha256": "09c4ab91fa98b90f07b330e6712d55497c4ca83495d89de9668e0f2930fc8246"
+    },
+    {
+      "path": "installed-resource-plan.json",
+      "bytes": 533,
+      "sha256": "c171347a1dc5e39fc5013a2ba514e9c34e134b153bef1b49d2df2da685999d99"
+    }
+  ]
+}

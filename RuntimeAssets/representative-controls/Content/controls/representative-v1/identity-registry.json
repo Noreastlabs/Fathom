@@ -1,0 +1,540 @@
+{
+  "identity_version": 1,
+  "entities": [
+    {
+      "id": "fg:course:000001",
+      "kind": "course",
+      "parent": null,
+      "label": "Fathom Guitar105"
+    },
+    {
+      "id": "fg:workbook:000001",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level1"
+    },
+    {
+      "id": "fg:module:000001",
+      "kind": "module",
+      "parent": "fg:workbook:000001",
+      "label": "Exercise0011212 ascending opening"
+    },
+    {
+      "id": "fg:item:000001",
+      "kind": "item",
+      "parent": "fg:module:000001",
+      "label": "Exercise0011212 full selected directions"
+    },
+    {
+      "id": "fg:workbook:000003",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level3"
+    },
+    {
+      "id": "fg:module:000002",
+      "kind": "module",
+      "parent": "fg:workbook:000003",
+      "label": "ModeA Exercise001 first transfer"
+    },
+    {
+      "id": "fg:item:000002",
+      "kind": "item",
+      "parent": "fg:module:000002",
+      "label": "ModeA Exercise001 full selected directions"
+    },
+    {
+      "id": "fg:workbook:000012",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level12"
+    },
+    {
+      "id": "fg:module:000003",
+      "kind": "module",
+      "parent": "fg:workbook:000012",
+      "label": "Rung01 A major16-note cell"
+    },
+    {
+      "id": "fg:item:000003",
+      "kind": "item",
+      "parent": "fg:module:000003",
+      "label": "Rung01 A major16-note cell"
+    },
+    {
+      "id": "fg:workbook:000015",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level15"
+    },
+    {
+      "id": "fg:module:000004",
+      "kind": "module",
+      "parent": "fg:workbook:000015",
+      "label": "First rolling triplet / upper-octave context"
+    },
+    {
+      "id": "fg:item:000004",
+      "kind": "item",
+      "parent": "fg:module:000004",
+      "label": "First rolling triplet / upper-octave context"
+    },
+    {
+      "id": "fg:workbook:000029",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level29"
+    },
+    {
+      "id": "fg:module:000005",
+      "kind": "module",
+      "parent": "fg:workbook:000029",
+      "label": "Source-authored continuation correction"
+    },
+    {
+      "id": "fg:item:000005",
+      "kind": "item",
+      "parent": "fg:module:000005",
+      "label": "Source-authored continuation correction"
+    },
+    {
+      "id": "fg:workbook:000039",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level39"
+    },
+    {
+      "id": "fg:module:000006",
+      "kind": "module",
+      "parent": "fg:workbook:000039",
+      "label": "P1 drone comparison / dual degree contexts"
+    },
+    {
+      "id": "fg:item:000006",
+      "kind": "item",
+      "parent": "fg:module:000006",
+      "label": "P1 drone comparison / dual degree contexts"
+    },
+    {
+      "id": "fg:workbook:000048",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level48"
+    },
+    {
+      "id": "fg:module:000007",
+      "kind": "module",
+      "parent": "fg:workbook:000048",
+      "label": "P1 call/response excerpt and full assessment"
+    },
+    {
+      "id": "fg:item:000007",
+      "kind": "item",
+      "parent": "fg:module:000007",
+      "label": "P1 call/response excerpt and full assessment"
+    },
+    {
+      "id": "fg:workbook:000049",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level49"
+    },
+    {
+      "id": "fg:module:000008",
+      "kind": "module",
+      "parent": "fg:workbook:000049",
+      "label": "E and Em simultaneous six-string voicings"
+    },
+    {
+      "id": "fg:item:000008",
+      "kind": "item",
+      "parent": "fg:module:000008",
+      "label": "E and Em simultaneous six-string voicings"
+    },
+    {
+      "id": "fg:workbook:000058",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level58"
+    },
+    {
+      "id": "fg:module:000009",
+      "kind": "module",
+      "parent": "fg:workbook:000058",
+      "label": "A1 beat-only contact mask"
+    },
+    {
+      "id": "fg:item:000009",
+      "kind": "item",
+      "parent": "fg:module:000009",
+      "label": "A1 beat-only contact mask"
+    },
+    {
+      "id": "fg:workbook:000074",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level74"
+    },
+    {
+      "id": "fg:module:000010",
+      "kind": "module",
+      "parent": "fg:workbook:000074",
+      "label": "Source3:2 and4:3 phrases"
+    },
+    {
+      "id": "fg:item:000010",
+      "kind": "item",
+      "parent": "fg:module:000010",
+      "label": "Source3:2 and4:3 phrases"
+    },
+    {
+      "id": "fg:workbook:000083",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level83"
+    },
+    {
+      "id": "fg:module:000011",
+      "kind": "module",
+      "parent": "fg:workbook:000083",
+      "label": "ModulesI–J fixed melody/table and rubric"
+    },
+    {
+      "id": "fg:item:000011",
+      "kind": "item",
+      "parent": "fg:module:000011",
+      "label": "ModulesI–J fixed melody/table and rubric"
+    },
+    {
+      "id": "fg:workbook:000097",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level97"
+    },
+    {
+      "id": "fg:module:000012",
+      "kind": "module",
+      "parent": "fg:workbook:000097",
+      "label": "Unfamiliar recording capstone / full rubric"
+    },
+    {
+      "id": "fg:item:000012",
+      "kind": "item",
+      "parent": "fg:module:000012",
+      "label": "Unfamiliar recording capstone / full rubric"
+    },
+    {
+      "id": "fg:workbook:000105",
+      "kind": "workbook",
+      "parent": "fg:course:000001",
+      "label": "Legacy Level105"
+    },
+    {
+      "id": "fg:module:000013",
+      "kind": "module",
+      "parent": "fg:workbook:000105",
+      "label": "Final examination / graduation rubric"
+    },
+    {
+      "id": "fg:item:000013",
+      "kind": "item",
+      "parent": "fg:module:000013",
+      "label": "Final examination / graduation rubric"
+    },
+    {
+      "id": "fg:variant:000001",
+      "kind": "variant",
+      "parent": "fg:item:000001",
+      "label": "ascending-D"
+    },
+    {
+      "id": "fg:variant:000002",
+      "kind": "variant",
+      "parent": "fg:item:000001",
+      "label": "ascending-U"
+    },
+    {
+      "id": "fg:variant:000003",
+      "kind": "variant",
+      "parent": "fg:item:000001",
+      "label": "descending-D"
+    },
+    {
+      "id": "fg:variant:000004",
+      "kind": "variant",
+      "parent": "fg:item:000001",
+      "label": "descending-U"
+    },
+    {
+      "id": "fg:variant:000005",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "sixteenths-ascending-D-after_crossing"
+    },
+    {
+      "id": "fg:variant:000006",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "sixteenths-ascending-D-even"
+    },
+    {
+      "id": "fg:variant:000007",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "sixteenths-ascending-U-after_crossing"
+    },
+    {
+      "id": "fg:variant:000008",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "sixteenths-ascending-U-even"
+    },
+    {
+      "id": "fg:variant:000009",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "sixteenths-descending-D-after_crossing"
+    },
+    {
+      "id": "fg:variant:000010",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "sixteenths-descending-D-even"
+    },
+    {
+      "id": "fg:variant:000011",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "sixteenths-descending-U-after_crossing"
+    },
+    {
+      "id": "fg:variant:000012",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "sixteenths-descending-U-even"
+    },
+    {
+      "id": "fg:variant:000013",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "triplets-ascending-D-after_crossing"
+    },
+    {
+      "id": "fg:variant:000014",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "triplets-ascending-D-even"
+    },
+    {
+      "id": "fg:variant:000015",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "triplets-ascending-U-after_crossing"
+    },
+    {
+      "id": "fg:variant:000016",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "triplets-ascending-U-even"
+    },
+    {
+      "id": "fg:variant:000017",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "triplets-descending-D-after_crossing"
+    },
+    {
+      "id": "fg:variant:000018",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "triplets-descending-D-even"
+    },
+    {
+      "id": "fg:variant:000019",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "triplets-descending-U-after_crossing"
+    },
+    {
+      "id": "fg:variant:000020",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "triplets-descending-U-even"
+    },
+    {
+      "id": "fg:variant:000021",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "quintuplets-ascending-D-after_crossing"
+    },
+    {
+      "id": "fg:variant:000022",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "quintuplets-ascending-D-even"
+    },
+    {
+      "id": "fg:variant:000023",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "quintuplets-ascending-U-after_crossing"
+    },
+    {
+      "id": "fg:variant:000024",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "quintuplets-ascending-U-even"
+    },
+    {
+      "id": "fg:variant:000025",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "quintuplets-descending-D-after_crossing"
+    },
+    {
+      "id": "fg:variant:000026",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "quintuplets-descending-D-even"
+    },
+    {
+      "id": "fg:variant:000027",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "quintuplets-descending-U-after_crossing"
+    },
+    {
+      "id": "fg:variant:000028",
+      "kind": "variant",
+      "parent": "fg:item:000002",
+      "label": "quintuplets-descending-U-even"
+    },
+    {
+      "id": "fg:variant:000029",
+      "kind": "variant",
+      "parent": "fg:item:000003",
+      "label": "connected-D"
+    },
+    {
+      "id": "fg:variant:000030",
+      "kind": "variant",
+      "parent": "fg:item:000003",
+      "label": "connected-U"
+    },
+    {
+      "id": "fg:variant:000031",
+      "kind": "variant",
+      "parent": "fg:item:000003",
+      "label": "pause-D"
+    },
+    {
+      "id": "fg:variant:000032",
+      "kind": "variant",
+      "parent": "fg:item:000003",
+      "label": "pause-U"
+    },
+    {
+      "id": "fg:variant:000033",
+      "kind": "variant",
+      "parent": "fg:item:000004",
+      "label": "triplets-D"
+    },
+    {
+      "id": "fg:variant:000034",
+      "kind": "variant",
+      "parent": "fg:item:000004",
+      "label": "triplets-U"
+    },
+    {
+      "id": "fg:variant:000035",
+      "kind": "variant",
+      "parent": "fg:item:000004",
+      "label": "sextuplets-half-marking-D"
+    },
+    {
+      "id": "fg:variant:000036",
+      "kind": "variant",
+      "parent": "fg:item:000004",
+      "label": "sextuplets-half-marking-U"
+    },
+    {
+      "id": "fg:variant:000037",
+      "kind": "variant",
+      "parent": "fg:item:000005",
+      "label": "navigation"
+    },
+    {
+      "id": "fg:variant:000038",
+      "kind": "variant",
+      "parent": "fg:item:000006",
+      "label": "A-major"
+    },
+    {
+      "id": "fg:variant:000039",
+      "kind": "variant",
+      "parent": "fg:item:000006",
+      "label": "F#-minor"
+    },
+    {
+      "id": "fg:variant:000040",
+      "kind": "variant",
+      "parent": "fg:item:000007",
+      "label": "P1-legend-review"
+    },
+    {
+      "id": "fg:variant:000041",
+      "kind": "variant",
+      "parent": "fg:item:000008",
+      "label": "E"
+    },
+    {
+      "id": "fg:variant:000042",
+      "kind": "variant",
+      "parent": "fg:item:000008",
+      "label": "Em"
+    },
+    {
+      "id": "fg:variant:000043",
+      "kind": "variant",
+      "parent": "fg:item:000009",
+      "label": "A1-mask"
+    },
+    {
+      "id": "fg:variant:000044",
+      "kind": "variant",
+      "parent": "fg:item:000010",
+      "label": "overview"
+    },
+    {
+      "id": "fg:variant:000045",
+      "kind": "variant",
+      "parent": "fg:item:000010",
+      "label": "three-against-two"
+    },
+    {
+      "id": "fg:variant:000046",
+      "kind": "variant",
+      "parent": "fg:item:000010",
+      "label": "four-against-three"
+    },
+    {
+      "id": "fg:variant:000047",
+      "kind": "variant",
+      "parent": "fg:item:000011",
+      "label": "fixed-melody-task"
+    },
+    {
+      "id": "fg:variant:000048",
+      "kind": "variant",
+      "parent": "fg:item:000012",
+      "label": "48-bar-capstone"
+    },
+    {
+      "id": "fg:variant:000049",
+      "kind": "variant",
+      "parent": "fg:item:000013",
+      "label": "final-exam"
+    }
+  ],
+  "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber."
+}

@@ -1,0 +1,42 @@
+{
+  "case": "Level80 Module A Cmaj7 E-F-G-E, Pass 1 only",
+  "status": "private producer proposal; independent review pending",
+  "printed_facts": [
+    {"fact": "Level80 prioritizes top melody, then bass, guide tones and extensions", "authority": "TXT lines 7-11"},
+    {"fact": "Cmaj7 study melody E-F-G-E, with ascending then resolving contour", "authority": "TXT line 27 and PDF physical page 3"},
+    {"fact": "Study pattern is chord - melody - chord - melody", "authority": "PDF physical page 3"},
+    {"fact": "Pass 1 is melody only; Passes 2-4 introduce sustained bass/guide and voicings", "authority": "PDF physical page 3"},
+    {"fact": "The page 3 High-e/B route is written x-5-5-3", "authority": "PDF physical page 3; not enough to determine four exact melody contacts"},
+    {"fact": "Page 2 Cmaj7 x-3-5-4-5-3 is a reference voicing under a separate drill", "authority": "PDF physical page 2; no express binding to page 3 Module A"}
+  ],
+  "arithmetic_deductions": [
+    "Four printed melody note names imply four target positions, without printed metric placement.",
+    "Standard tuning plus authored high-e frets 0-1-3-0 gives E4-F4-G4-E4 (MIDI 64-65-67-64).",
+    "The literal page 2 grip x-3-5-4-5-3 sounds C3-G3-B3-E4-G4; its uppermost G4 masks an intended E4 upper melody."
+  ],
+  "fathom_authored_choices": {
+    "route": "high-e string 0-1-3-0, one note per slot",
+    "fingers": ["O", 1, 3, "O"],
+    "attack": "picked",
+    "onsets_q": [0, 1, 2, 3],
+    "durations_q": [1, 1, 1, 1],
+    "release": "stop each note at the next target onset; final note ends at q4",
+    "meter": "4/4 illustrative",
+    "tempo_bpm": 72,
+    "timbre": "dry clean reference tone",
+    "tuning_open_midi_low_to_high": [40, 45, 50, 55, 59, 64],
+    "capo": 0,
+    "scope": "Pass 1 melody-only diagnostic; the printed chord/melody alternation is retained as the broader study plan, but no chord body is sounded or claimed in Pass 1"
+  },
+  "structural_boundary": "A sounded chord on slots 1 and 3 would contradict the page 3 label Pass 1: melody only. A four-note melody-only rendering cannot itself establish chord-melody alternation or the complete Module A study.",
+  "event_authority": {
+    "fg:item:080901:event:0001": {"pitch_name": "printed E; PDF p3 and TXT line 27", "contact_octave_finger_attack_timing_release": "Fathom-authored Pass 1 choice"},
+    "fg:item:080901:event:0002": {"pitch_name": "printed F; PDF p3 and TXT line 27", "contact_octave_finger_attack_timing_release": "Fathom-authored Pass 1 choice"},
+    "fg:item:080901:event:0003": {"pitch_name": "printed G; PDF p3 and TXT line 27", "contact_octave_finger_attack_timing_release": "Fathom-authored Pass 1 choice"},
+    "fg:item:080901:event:0004": {"pitch_name": "printed E; PDF p3 and TXT line 27", "contact_octave_finger_attack_timing_release": "Fathom-authored Pass 1 choice"}
+  },
+  "originals": {
+    "txt_sha256": "e2297c8404a4041af1289e095fcace5012e5079698b0d7c32ff1bf77808de8b6",
+    "pdf_sha256": "cf99966ce9d5bd155d738dd30866a26fe0c30e2d633107393cf856bcb29c9afc"
+  }
+}

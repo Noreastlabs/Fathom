@@ -1,0 +1,1532 @@
+{
+  "authority_artifacts": [
+    {
+      "path": "Results/primary/20260906124133Z-2.1.1.1.1-r01-evidence/identity-manifest.json",
+      "role": "source_manifest",
+      "sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe"
+    },
+    {
+      "path": "Results/primary/20260906T182131Z-2.1.1.1.1-r02-results.md",
+      "role": "source_acceptance",
+      "sha256": "e908e9c1fa1f17ffce70b671f23eade4c08afc9d50b43f7b8fb7000aa39195b9"
+    },
+    {
+      "path": "Results/primary/20260912T100538Z-2.1.1.2.1-r02-evidence/schema-freeze.json",
+      "role": "current_schema_freeze",
+      "sha256": "0659fa962a5c933a2bcf3045772b6fe5b05b4deefb3511f5dcb68af51088de95"
+    },
+    {
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/allocation01/cumulative-registry.json",
+      "role": "identity_baseline",
+      "sha256": "ceef5633b0fba148189f277a046763301ba5d7cd70bab5d0701b07d1e3af2791"
+    },
+    {
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/allocation01/cumulative-allocation.json",
+      "role": "allocation_baseline",
+      "sha256": "3b3f6217fc35ac091201f99efcc43763a7def134b152cd22b1e5d3141cd61a59"
+    },
+    {
+      "path": "Results/primary/20260912T202956Z-2.3.1.1.1-r13-evidence/handoff01/lineage-baseline.json",
+      "role": "lineage_baseline",
+      "sha256": "2205ba66ddfd002dd3402b33272be949b5c8a22d83932c4e7c8b4345f48bfdf4"
+    },
+    {
+      "path": "Results/primary/20260912T200254Z-2.3.1.1.1-r12-evidence/validation01/report.json",
+      "role": "predecessor_validation",
+      "sha256": "20d92eabeef1ded57fe2cbdc0a6f5b3af915277e6765989aefaec4fa44d81cec"
+    },
+    {
+      "path": "Build/parallel-02/level004-ex003-case-bound-r01/packet/candidate-allocation.json",
+      "role": "candidate_identity_allocation",
+      "sha256": "7dd5168c703317297f692a4d047d4eaef3cccde16125cd43750fdd82c1944466"
+    }
+  ],
+  "classification": "converted_candidate_reference",
+  "degree_roots": {
+    "A-major": {
+      "basis": "Accepted4.1 model-contract/fixture-map; A pitch class; no octave inferred",
+      "root_pitch_class": 9
+    },
+    "F#-minor": {
+      "basis": "Accepted4.1 model-contract/fixture-map; F# pitch class; major/perfect degree lattice plus source alteration",
+      "root_pitch_class": 6
+    }
+  },
+  "event_sources": {
+    "fg:item:000446:event:0001": "L4-TXT60-74",
+    "fg:item:000446:event:0002": "L4-TXT60-74",
+    "fg:item:000446:event:0003": "L4-TXT60-74",
+    "fg:item:000446:event:0004": "L4-TXT60-74",
+    "fg:item:000446:event:0005": "L4-TXT60-74",
+    "fg:item:000446:event:0006": "L4-TXT60-74",
+    "fg:item:000446:event:0007": "L4-TXT60-74",
+    "fg:item:000446:event:0008": "L4-TXT60-74",
+    "fg:item:000446:event:0009": "L4-TXT60-74",
+    "fg:item:000446:event:0010": "L4-TXT60-74",
+    "fg:item:000446:event:0011": "L4-TXT60-74",
+    "fg:item:000446:event:0012": "L4-TXT60-74",
+    "fg:item:000446:event:0013": "L4-TXT60-74",
+    "fg:item:000446:event:0014": "L4-TXT60-74",
+    "fg:item:000446:event:0015": "L4-TXT60-74",
+    "fg:item:000446:event:0016": "L4-TXT60-74",
+    "fg:item:000446:event:0017": "L4-TXT60-74",
+    "fg:item:000446:event:0018": "L4-TXT60-74",
+    "fg:item:000446:event:0019": "L4-TXT60-74",
+    "fg:item:000446:event:0020": "L4-TXT60-74",
+    "fg:item:000446:event:0021": "L4-TXT60-74",
+    "fg:item:000446:event:0022": "L4-TXT60-74",
+    "fg:item:000446:event:0023": "L4-TXT60-74",
+    "fg:item:000446:event:0024": "L4-TXT60-74",
+    "fg:item:000446:event:0025": "L4-TXT60-74",
+    "fg:item:000446:event:0026": "L4-TXT60-74",
+    "fg:item:000446:event:0027": "L4-TXT60-74",
+    "fg:item:000446:event:0028": "L4-TXT60-74",
+    "fg:item:000446:event:0029": "L4-TXT60-74",
+    "fg:item:000446:event:0030": "L4-TXT60-74",
+    "fg:item:000446:event:0031": "L4-TXT60-74",
+    "fg:item:000446:event:0032": "L4-TXT60-74"
+  },
+  "profile_version": "expected-profile.1",
+  "reference_package": {
+    "content_version": "level004-ex003-rev1-reference.1",
+    "records": [
+      {
+        "ambiguities": [
+          "Triplet/quintuplet beat units require explicit supported configuration; no universal grouping selected."
+        ],
+        "authored_text_refs": [
+          "L4-TXT1-22",
+          "L4-PDF1",
+          "L4-TXT25-25",
+          "L4-TXT60-74"
+        ],
+        "content_revision": 1,
+        "context": {
+          "authored_progression_ref": "L4-TXT1-22",
+          "capo": 0,
+          "local_code": "003",
+          "pick_continues_at_turn": true,
+          "pick_start_variants": [
+            "D",
+            "U"
+          ],
+          "route": "ascending directly into descending; complete32-event variants",
+          "tuning_open_midi": [
+            40,
+            45,
+            50,
+            55,
+            59,
+            64
+          ]
+        },
+        "control_scope": {
+          "basis_refs": [
+            "L4-TXT1-22",
+            "L4-PDF1",
+            "L4-TXT25-25",
+            "L4-TXT60-74"
+          ],
+          "extent": "complete_selected_case",
+          "local_case": "Exercise003 1214 three-string relay",
+          "source_event_count": 32,
+          "unresolved": [
+            "Triplet/quintuplet beat units require explicit supported configuration; no universal grouping selected."
+          ],
+          "whole_workbook_complete": false
+        },
+        "events": [
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0001",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 45,
+            "onset_q": null,
+            "spelling": null,
+            "string": 1,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0002",
+            "finger": 2,
+            "fret": 6,
+            "kind": "note",
+            "midi": 51,
+            "onset_q": null,
+            "spelling": null,
+            "string": 2,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0003",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 50,
+            "onset_q": null,
+            "spelling": null,
+            "string": 2,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0004",
+            "finger": 4,
+            "fret": 8,
+            "kind": "note",
+            "midi": 58,
+            "onset_q": null,
+            "spelling": null,
+            "string": 3,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0005",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 50,
+            "onset_q": null,
+            "spelling": null,
+            "string": 2,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0006",
+            "finger": 2,
+            "fret": 6,
+            "kind": "note",
+            "midi": 56,
+            "onset_q": null,
+            "spelling": null,
+            "string": 3,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0007",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 55,
+            "onset_q": null,
+            "spelling": null,
+            "string": 3,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0008",
+            "finger": 4,
+            "fret": 8,
+            "kind": "note",
+            "midi": 63,
+            "onset_q": null,
+            "spelling": null,
+            "string": 4,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0009",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 55,
+            "onset_q": null,
+            "spelling": null,
+            "string": 3,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0010",
+            "finger": 2,
+            "fret": 6,
+            "kind": "note",
+            "midi": 61,
+            "onset_q": null,
+            "spelling": null,
+            "string": 4,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0011",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 60,
+            "onset_q": null,
+            "spelling": null,
+            "string": 4,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0012",
+            "finger": 4,
+            "fret": 8,
+            "kind": "note",
+            "midi": 67,
+            "onset_q": null,
+            "spelling": null,
+            "string": 5,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0013",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 60,
+            "onset_q": null,
+            "spelling": null,
+            "string": 4,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0014",
+            "finger": 2,
+            "fret": 6,
+            "kind": "note",
+            "midi": 65,
+            "onset_q": null,
+            "spelling": null,
+            "string": 5,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0015",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 64,
+            "onset_q": null,
+            "spelling": null,
+            "string": 5,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0016",
+            "finger": 4,
+            "fret": 8,
+            "kind": "note",
+            "midi": 72,
+            "onset_q": null,
+            "spelling": null,
+            "string": 6,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0017",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 69,
+            "onset_q": null,
+            "spelling": null,
+            "string": 6,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0018",
+            "finger": 2,
+            "fret": 6,
+            "kind": "note",
+            "midi": 65,
+            "onset_q": null,
+            "spelling": null,
+            "string": 5,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0019",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 64,
+            "onset_q": null,
+            "spelling": null,
+            "string": 5,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0020",
+            "finger": 4,
+            "fret": 8,
+            "kind": "note",
+            "midi": 63,
+            "onset_q": null,
+            "spelling": null,
+            "string": 4,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0021",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 64,
+            "onset_q": null,
+            "spelling": null,
+            "string": 5,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0022",
+            "finger": 2,
+            "fret": 6,
+            "kind": "note",
+            "midi": 61,
+            "onset_q": null,
+            "spelling": null,
+            "string": 4,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0023",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 60,
+            "onset_q": null,
+            "spelling": null,
+            "string": 4,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0024",
+            "finger": 4,
+            "fret": 8,
+            "kind": "note",
+            "midi": 58,
+            "onset_q": null,
+            "spelling": null,
+            "string": 3,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0025",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 60,
+            "onset_q": null,
+            "spelling": null,
+            "string": 4,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0026",
+            "finger": 2,
+            "fret": 6,
+            "kind": "note",
+            "midi": 56,
+            "onset_q": null,
+            "spelling": null,
+            "string": 3,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0027",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 55,
+            "onset_q": null,
+            "spelling": null,
+            "string": 3,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0028",
+            "finger": 4,
+            "fret": 8,
+            "kind": "note",
+            "midi": 53,
+            "onset_q": null,
+            "spelling": null,
+            "string": 2,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0029",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 55,
+            "onset_q": null,
+            "spelling": null,
+            "string": 3,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0030",
+            "finger": 2,
+            "fret": 6,
+            "kind": "note",
+            "midi": 51,
+            "onset_q": null,
+            "spelling": null,
+            "string": 2,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0031",
+            "finger": 1,
+            "fret": 5,
+            "kind": "note",
+            "midi": 50,
+            "onset_q": null,
+            "spelling": null,
+            "string": 2,
+            "tie_from": null
+          },
+          {
+            "attack": "picked",
+            "degree_contexts": {},
+            "duration_q": null,
+            "event_id": "fg:item:000446:event:0032",
+            "finger": 4,
+            "fret": 8,
+            "kind": "note",
+            "midi": 48,
+            "onset_q": null,
+            "spelling": null,
+            "string": 1,
+            "tie_from": null
+          }
+        ],
+        "id": "fg:item:000446",
+        "kind": "notation",
+        "legacy_level": 4,
+        "lineage": {
+          "kind": "new"
+        },
+        "module_id": "fg:module:000446",
+        "normalization": [
+          {
+            "basis": "ActualLevel4 TXT/PDF andGOAL8 delegatedfaithfulrepresentation; humanCurriculum review remainsPending",
+            "kind": "representation_metadata",
+            "text": "Set1, source1+2+1 relay: first pass lightly accents landing notes2 and4; second pass keeps allfour notes equal in volume and duration. Source directly joins ASCEND/DESCEND without resetting hands/pick, then repeats with opposite starting stroke. Retain muting unused strings and both relaxed landings, relative tempo/set/two-day conditions, first-straight16ths and later triplet/quintuplet instructions. Variant availability is source configuration, not proof that prerequisite crossing stability or source completion occurred."
+          }
+        ],
+        "resource_requirements": [],
+        "rubric": null,
+        "runtime_eligible": false,
+        "source_refs": [
+          "L4-TXT1-22",
+          "L4-PDF1",
+          "L4-TXT25-25",
+          "L4-TXT60-74"
+        ],
+        "status": "converted_candidate",
+        "timing": {
+          "basis": "No timing inferred from ASCII spacing",
+          "status": "unresolved",
+          "unit": "quarter"
+        },
+        "title": "Exercise003 1214 three-string relay",
+        "variants": [
+          {
+            "accent_policy": "after_crossing",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 5,
+              "source_label": "quintuplets per authored session grouping"
+            },
+            "id": "fg:variant:003306",
+            "label": "quintuplets-up_and_down-D-after_crossing",
+            "pick_start": "D",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": [
+              "Authored grouping count retained; explicit metrical beat-unit configuration required."
+            ]
+          },
+          {
+            "accent_policy": "even",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 5,
+              "source_label": "quintuplets per authored session grouping"
+            },
+            "id": "fg:variant:003307",
+            "label": "quintuplets-up_and_down-D-even",
+            "pick_start": "D",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": [
+              "Authored grouping count retained; explicit metrical beat-unit configuration required."
+            ]
+          },
+          {
+            "accent_policy": "after_crossing",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 5,
+              "source_label": "quintuplets per authored session grouping"
+            },
+            "id": "fg:variant:003308",
+            "label": "quintuplets-up_and_down-U-after_crossing",
+            "pick_start": "U",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": [
+              "Authored grouping count retained; explicit metrical beat-unit configuration required."
+            ]
+          },
+          {
+            "accent_policy": "even",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 5,
+              "source_label": "quintuplets per authored session grouping"
+            },
+            "id": "fg:variant:003309",
+            "label": "quintuplets-up_and_down-U-even",
+            "pick_start": "U",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": [
+              "Authored grouping count retained; explicit metrical beat-unit configuration required."
+            ]
+          },
+          {
+            "accent_policy": "after_crossing",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": [
+                1,
+                1
+              ],
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 4,
+              "source_label": "sixteenths per authored session grouping"
+            },
+            "id": "fg:variant:003298",
+            "label": "sixteenths-up_and_down-D-after_crossing",
+            "pick_start": "D",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": []
+          },
+          {
+            "accent_policy": "even",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": [
+                1,
+                1
+              ],
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 4,
+              "source_label": "sixteenths per authored session grouping"
+            },
+            "id": "fg:variant:003299",
+            "label": "sixteenths-up_and_down-D-even",
+            "pick_start": "D",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": []
+          },
+          {
+            "accent_policy": "after_crossing",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": [
+                1,
+                1
+              ],
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 4,
+              "source_label": "sixteenths per authored session grouping"
+            },
+            "id": "fg:variant:003300",
+            "label": "sixteenths-up_and_down-U-after_crossing",
+            "pick_start": "U",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": []
+          },
+          {
+            "accent_policy": "even",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": [
+                1,
+                1
+              ],
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 4,
+              "source_label": "sixteenths per authored session grouping"
+            },
+            "id": "fg:variant:003301",
+            "label": "sixteenths-up_and_down-U-even",
+            "pick_start": "U",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": []
+          },
+          {
+            "accent_policy": "after_crossing",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 3,
+              "source_label": "triplets per authored session grouping"
+            },
+            "id": "fg:variant:003302",
+            "label": "triplets-up_and_down-D-after_crossing",
+            "pick_start": "D",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": [
+              "Authored grouping count retained; explicit metrical beat-unit configuration required."
+            ]
+          },
+          {
+            "accent_policy": "even",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 3,
+              "source_label": "triplets per authored session grouping"
+            },
+            "id": "fg:variant:003303",
+            "label": "triplets-up_and_down-D-even",
+            "pick_start": "D",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": [
+              "Authored grouping count retained; explicit metrical beat-unit configuration required."
+            ]
+          },
+          {
+            "accent_policy": "after_crossing",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 3,
+              "source_label": "triplets per authored session grouping"
+            },
+            "id": "fg:variant:003304",
+            "label": "triplets-up_and_down-U-after_crossing",
+            "pick_start": "U",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": [
+              "Authored grouping count retained; explicit metrical beat-unit configuration required."
+            ]
+          },
+          {
+            "accent_policy": "even",
+            "event_ids": [
+              "fg:item:000446:event:0001",
+              "fg:item:000446:event:0002",
+              "fg:item:000446:event:0003",
+              "fg:item:000446:event:0004",
+              "fg:item:000446:event:0005",
+              "fg:item:000446:event:0006",
+              "fg:item:000446:event:0007",
+              "fg:item:000446:event:0008",
+              "fg:item:000446:event:0009",
+              "fg:item:000446:event:0010",
+              "fg:item:000446:event:0011",
+              "fg:item:000446:event:0012",
+              "fg:item:000446:event:0013",
+              "fg:item:000446:event:0014",
+              "fg:item:000446:event:0015",
+              "fg:item:000446:event:0016",
+              "fg:item:000446:event:0017",
+              "fg:item:000446:event:0018",
+              "fg:item:000446:event:0019",
+              "fg:item:000446:event:0020",
+              "fg:item:000446:event:0021",
+              "fg:item:000446:event:0022",
+              "fg:item:000446:event:0023",
+              "fg:item:000446:event:0024",
+              "fg:item:000446:event:0025",
+              "fg:item:000446:event:0026",
+              "fg:item:000446:event:0027",
+              "fg:item:000446:event:0028",
+              "fg:item:000446:event:0029",
+              "fg:item:000446:event:0030",
+              "fg:item:000446:event:0031",
+              "fg:item:000446:event:0032"
+            ],
+            "grouping": {
+              "beat_unit_q": null,
+              "kind": "even_subdivision",
+              "marking_factor": [
+                1,
+                1
+              ],
+              "notes_per_beat": 3,
+              "source_label": "triplets per authored session grouping"
+            },
+            "id": "fg:variant:003305",
+            "label": "triplets-up_and_down-U-even",
+            "pick_start": "U",
+            "pick_start_origin": "source_authored",
+            "role": "notation_practice",
+            "route": "up_and_down",
+            "source_refs": [
+              "L4-TXT1-22",
+              "L4-PDF1",
+              "L4-TXT25-25",
+              "L4-TXT60-74"
+            ],
+            "tail_pause": null,
+            "unresolved": [
+              "Authored grouping count retained; explicit metrical beat-unit configuration required."
+            ]
+          }
+        ],
+        "workbook_id": "fg:workbook:000004"
+      }
+    ],
+    "schema_version": "1.0.0-curriculum-candidate",
+    "source_acceptance": "Results/primary/20260906T182131Z-2.1.1.1.1-r02-results.md",
+    "source_manifest_sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe",
+    "sources": {
+      "L4-PDF1": {
+        "format": "pdf",
+        "page": 1,
+        "path": "Notes/music/guitar project/PDF version/108_Finger_Permutations_Level_4_Three_String_Relay.pdf",
+        "sha256": "b24cad79148b8165b74cbd3662031c2ad0227f0e856aa955d03c88db31dbafb1",
+        "text": "108 Finger Permutations - Level 4\nThree-String Relay: 1+2+1 Two-Crossing Control\nLevel 3 moved one adjacent-string crossing. Level 4 adds a second crossing while keeping the fret position and string spacing fixed.\n1. Same fretting map\n1 = index / fret 5\n2 = middle / fret 6\n3 = ring / fret 7\n4 = pinky / fret 8\nThe four-digit code stays unchanged.\n2. New movement rule\nCode note 1: first string\nCode notes 2-3: middle string\nCode note 4: third string\nMove through adjacent three-string groups.\nThere is still no string skip.\n3. Picking objective\nCrossings occur after notes 1 and 3.\nA downstroke start makes both landings upstrokes.\nAn upstroke start makes both landings downstrokes.\nKeep both landings even and relaxed.\nMute every unused string.\nWorked example - code 1234\nPlay note 1 on the first string, notes 2-3 on the middle string, and note 4 on the third string.\nASCEND: E/A/D -> G/B/e\ne|--------|--------|--------|------8-|\nB|--------|--------|------8-|--6-7---|\nG|--------|------8-|--6-7---|5-------|\nD|------8-|--6-7---|5-------|--------|\nA|--6-7---|5-------|--------|--------|\nE|5-------|--------|--------|--------|\nDESCEND: e/B/G -> D/A/E\ne|5-------|--------|--------|--------|\nB|--6-7---|5-------|--------|--------|\nG|------8-|--6-7---|5-------|--------|\nD|--------|------8-|--6-7---|5-------|\nA|--------|--------|------8-|--6-7---|\nE|--------|--------|--------|------8-|\nFIRST PASS\nLightly accent landing notes 2 and 4 so both crossings are deliberate.\nSECOND PASS\nRemove the accents and make all four notes equal in volume and duration.\nPlay ASCEND directly into DESCEND without resetting the hands or the pick.\nPractice protocol\n1\nChoose one 12-exercise set.\n2\nStart 10-15 BPM below your clean\nLevel 3 tempo.\n3\nPlay ASCEND directly into DESCEND.\n4\nRepeat with the opposite starting\npick stroke.\n5\nFirst accent notes 2 and 4; then\nequalize all four notes.\n6\nThree clean loops: add 2 BPM\nnext session.\n7\nTwo errors or rising tension:\nreduce 4-6 BPM.\nAdvance after the complete set is clean with both pick starts\non two separate days.\nStandard tuning. Fifth position. 1+2+1 across three adjacent strings; no string skip or position shift.\nPage 1 of 10\n",
+        "text_sha256": "ba7d21ec9887b3af510c22ffc3ce55134c0351e73e0e3caa14a91cbad0ed0846"
+      },
+      "L4-TXT1-22": {
+        "first_line": 1,
+        "format": "txt",
+        "last_line": 22,
+        "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_4_Three_String_Relay.txt",
+        "sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a",
+        "text": "108 FINGER PERMUTATIONS - LEVEL 4: THREE-STRING RELAY\n1+2+1 two-crossing control in standard tuning.\nFifth position: 1=index/fret 5, 2=middle/fret 6, 3=ring/fret 7, 4=pinky/fret 8.\n\nMOVEMENT RULE\nFor every adjacent three-string group, play code note 1 on the first string, code notes 2-3 on the middle string,\nand code note 4 on the third string. The 1+2+1 description refers to note counts, not finger numbers.\nAscend through E/A/D, A/D/G, D/G/B, G/B/e. Descend through e/B/G, B/G/D, G/D/A, D/A/E.\nThe four-digit code order never changes. There is no string skip or position shift yet.\n\nWHY THIS IS LEVEL 4\nLevels 2 and 3 used one adjacent-string crossing per four-note code. Level 4 adds a second crossing.\nWith a downstroke start, notes 2 and 4 land on upstrokes. With an upstroke start, both land on downstrokes.\nPracticing both starts exposes both pick-escape directions while the fretting position remains fixed.\n\nPRACTICE RULE\nUse one 12-exercise set per session. Start 10-15 BPM below your clean Level 3 tempo.\nPlay ASCEND directly into DESCEND, then repeat the entire exercise with the opposite starting pick stroke.\nFirst pass: lightly accent landing notes 2 and 4. Second pass: make all four notes equal in volume and duration.\nUse straight 16ths first. Reintroduce triplet and quintuplet groupings only after the crossings are stable.\nAfter three clean loops, add 2 BPM next session. After two errors or rising tension, reduce 4-6 BPM.\nAdvance after the full set is clean with both pick starts on two separate days.",
+        "text_sha256": "4a85d074421c73f93acf1905a684dc4d6b3ab41c8d339ca801081228bd138d8c"
+      },
+      "L4-TXT25-25": {
+        "first_line": 25,
+        "format": "txt",
+        "last_line": 25,
+        "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_4_Three_String_Relay.txt",
+        "sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a",
+        "text": "SET 1 OF 9 - EXERCISES 001-012",
+        "text_sha256": "239b1881cfc47b7066c6e07958e765815a8d0c156dd3f618706dc2d55330e51a"
+      },
+      "L4-TXT60-74": {
+        "first_line": 60,
+        "format": "txt",
+        "last_line": 74,
+        "path": "Notes/music/guitar project/TXT version/108_Finger_Permutations_Level_4_Three_String_Relay.txt",
+        "sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a",
+        "text": "Exercise 003: 1214\nASCEND\ne|--------|--------|--------|------8-|\nB|--------|--------|------8-|--6-5---|\nG|--------|------8-|--6-5---|5-------|\nD|------8-|--6-5---|5-------|--------|\nA|--6-5---|5-------|--------|--------|\nE|5-------|--------|--------|--------|\nDESCEND\ne|5-------|--------|--------|--------|\nB|--6-5---|5-------|--------|--------|\nG|------8-|--6-5---|5-------|--------|\nD|--------|------8-|--6-5---|5-------|\nA|--------|--------|------8-|--6-5---|\nE|--------|--------|--------|------8-|",
+        "text_sha256": "0aaff9702cbfeaad40a573be876a96b42161bbf0657f0a5546b45adbd6ae73cf"
+      }
+    }
+  },
+  "reference_registry": {
+    "entities": [
+      {
+        "id": "fg:course:000001",
+        "kind": "course",
+        "label": "Fathom Guitar105",
+        "parent": null
+      },
+      {
+        "id": "fg:workbook:000004",
+        "kind": "workbook",
+        "label": "Level4 three-string relay",
+        "parent": "fg:course:000001"
+      },
+      {
+        "id": "fg:module:000446",
+        "kind": "module",
+        "label": "Exercise003 1214",
+        "parent": "fg:workbook:000004"
+      },
+      {
+        "id": "fg:item:000446",
+        "kind": "item",
+        "label": "Exercise003 1214 up and down",
+        "parent": "fg:module:000446"
+      },
+      {
+        "id": "fg:variant:003298",
+        "kind": "variant",
+        "label": "sixteenths-up_and_down-D-after_crossing",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003299",
+        "kind": "variant",
+        "label": "sixteenths-up_and_down-D-even",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003300",
+        "kind": "variant",
+        "label": "sixteenths-up_and_down-U-after_crossing",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003301",
+        "kind": "variant",
+        "label": "sixteenths-up_and_down-U-even",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003302",
+        "kind": "variant",
+        "label": "triplets-up_and_down-D-after_crossing",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003303",
+        "kind": "variant",
+        "label": "triplets-up_and_down-D-even",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003304",
+        "kind": "variant",
+        "label": "triplets-up_and_down-U-after_crossing",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003305",
+        "kind": "variant",
+        "label": "triplets-up_and_down-U-even",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003306",
+        "kind": "variant",
+        "label": "quintuplets-up_and_down-D-after_crossing",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003307",
+        "kind": "variant",
+        "label": "quintuplets-up_and_down-D-even",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003308",
+        "kind": "variant",
+        "label": "quintuplets-up_and_down-U-after_crossing",
+        "parent": "fg:item:000446"
+      },
+      {
+        "id": "fg:variant:003309",
+        "kind": "variant",
+        "label": "quintuplets-up_and_down-U-even",
+        "parent": "fg:item:000446"
+      }
+    ],
+    "identity_version": 1,
+    "rules": "Opaque allocated IDs never recomputed from titles, file paths, local code, position in navigation or content hash; parent edges may change only with reviewed provenance. Workbook initial allocations reflect frozen source identities, never renumber."
+  },
+  "resource_plan": {
+    "path": "installed-resource-plan.json",
+    "sha256": "e63f693adab680b1582d1e8390f78f5da5e92abac79bc8682f590ea286a7bffd",
+    "entry_ids": [],
+    "availability": "required_unsupplied"
+  }
+}

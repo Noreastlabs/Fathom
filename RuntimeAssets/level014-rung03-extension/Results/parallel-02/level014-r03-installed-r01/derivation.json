@@ -1,0 +1,23 @@
+{
+  "schema": "p02.level014-r03.installed-derivation.1",
+  "source_sha256": {
+    "package": "d498dac23f30d0e5a5502bd44017b2af9bd21012890983c2ebc54375362c0841",
+    "profile": "46149c196a6b9b470585b3fa0abca881382a0b2ed9630e85dce5ba5e955e9915",
+    "registry": "f19a21ced38907291550497b04c075a894f70a92ac67fd90bcb5875780fc37ed",
+    "allocation": "2a4db1fe3d82e4deaea0859a622e849c2ae70951b1337547c147ceb677581e7a"
+  },
+  "derived_sha256": {
+    "package": "d498dac23f30d0e5a5502bd44017b2af9bd21012890983c2ebc54375362c0841",
+    "profile": "311713a3503eec26e208e796d85d1e1c7b97fa37184915d33609ec8ae7a367d4",
+    "registry": "f19a21ced38907291550497b04c075a894f70a92ac67fd90bcb5875780fc37ed",
+    "resource_adapter": "37f37a400a2ff9b019d3b787405b5bcce528fc3fcf0323c8544c0896ce9971ee"
+  },
+  "allowed_differences": [
+    "expected_profile.resource_plan local adapter path/hash only"
+  ],
+  "all_36_events_preserved": true,
+  "source_timing_preserved": true,
+  "runtime_eligible_still_false": true,
+  "resource_entries": 16,
+  "supplied_resources": 0
+}

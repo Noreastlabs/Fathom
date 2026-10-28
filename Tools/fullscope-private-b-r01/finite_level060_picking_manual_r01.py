@@ -1,0 +1,83 @@
+"""Eight source-bound manual comparison contracts; no runtime admission."""
+from pathlib import Path
+from datetime import datetime,timezone
+from collections import Counter
+import copy,hashlib,importlib.util,json,re,resource,time
+import pdfplumber
+ROOT=Path(__file__).resolve().parents[2];PROTO=ROOT/'Tools/fullscope-private-b-r01/finite_level060_remaining_families_manual_r01.py';assert hashlib.sha256(PROTO.read_bytes()).hexdigest()=='c86f0768ae414f6f30abb4a1d41177a3d4722fa49fed3efc8a0847fbc9000218'
+s=importlib.util.spec_from_file_location('proto',PROTO);h=importlib.util.module_from_spec(s);s.loader.exec_module(h)
+compact,rh,sha,pin,checkpin,save,norm,module=h.compact,h.rh,h.sha,h.pin,h.checkpin,h.save,h.norm,h.module
+BASE,FOLD,VALIDATOR=h.BASE,h.FOLD,h.VALIDATOR
+NAME='finite-level060-picking-manual-r01';RES=ROOT/'Results/fullscope-private-b-r01'/NAME;OUT=ROOT/'Build/fullscope-private-b-r01'/NAME;PREV=ROOT/'Results/fullscope-private-b-r01/finite-level060-remaining-families-manual-r01/handoff.json';PACKET=h.PACKET
+PINS=[(BASE,'3a367221ea2f831c7774720730a9876eb59bb2656766336047270c8e0ae22ce8'),(FOLD,'f182c4c6a48140d0c7dc7a0a370e96ac862965f6859f0b6c5234137d85479d9d'),(VALIDATOR,'eaf1c992bd43ebe597ee77af9a42f708356c720cec57a9dcf7759581bf8166fa'),(PREV,'2bd0d8f35738d129a35b984409a165301a0aba1ba87e0b8ab05c32e7e87ecc88'),(PACKET,'adb0ca4e0a02e07832772bbb4180c7e1a57888076fde3e9d619f3224581d0794'),(PROTO,'c86f0768ae414f6f30abb4a1d41177a3d4722fa49fed3efc8a0847fbc9000218')]
+RULE='Each representative shape receives three passes: an eight-note strict-alternate mirror, an eight-note economy mirror, and two seven-note no-repeat loops. The second seven-note loop begins with the opposite stroke.'
+COMPARE='COMPARE PICKING SYSTEMS WITHOUT CHANGING FRETS, TEMPO, NOTE LENGTH, OR DYNAMICS'
+MIRROR=[0,1,2,3,3,2,1,0];LOOP=[0,1,2,3,2,1,0];ALT=list('DUDUDUDU');ECO=list('DDDDUUUU');SEVEN=list('DUDUDUDUDUDUDU')
+selection=h.selection;workflow_state=h.workflow_state
+
+def contract(old,data):
+ members=data['members'];guides=[members[3]['role'],members[2]['role']]
+ steps=[{'order':1,'action':'name_root_quality_spelling_zone_and_prepare_accented_guides','chord':data['chord'],'spelling':data['spelling'],'active_strings':[x['string'] for x in members],'guide_tone_members':{x['role']:x for x in members if x['role'] in guides},'guide_order_from_explicit_selection':True,'source_shape':data['source_shape'],'guide_source':{'physical_page':1,'bbox':[552,162,748,183]},'outside_printed30':True,'numeric_accent_strength':None},
+ {'order':2,'action':'perform_one_preparatory_blocked_chord_then_printed_alternate_mirror','preparatory_blocked_members':members,'source_shape':data['source_shape'],'blocked_outside_printed30':True,'event_orders':list(range(1,9)),'picks':ALT,'source_boundary':{'physical_page':1,'exact_text':h.BOUNDARY}},
+ {'order':3,'action':'user_report_alternate_note_separation_reliable_before_economy','automatic_detection':False,'needs_retry_or_stopped_ends_workflow':True,'source':{'physical_page':1,'exact_text':h.BOUNDARY}},
+ {'order':4,'action':'perform_printed_economy_mirror_with_same_comparison_conditions','event_orders':list(range(9,17)),'picks':ECO,'release_each_string_before_next_begins':True,'held_conditions':['frets','tempo','note_length','dynamics'],'source':{'physical_page':11,'exact_text':COMPARE}},
+ {'order':5,'action':'perform_two_continuous_seven_note_no_top_repeat_loops','event_orders':list(range(17,31)),'loop_event_orders':[list(range(17,24)),list(range(24,31))],'loop_starts':['D','U'],'picks':SEVEN,'no_pause_or_response_between_loops':True,'held_conditions':['frets','tempo','note_length','dynamics'],'source':{'physical_page':11,'exact_text':RULE}},
+ {'order':6,'action':'user_report_unchanged_frets_tempo_note_length_dynamics_and_string_separation','comparison_conditions':['frets','tempo','note_length','dynamics'],'acknowledged_is_user_report_only':True,'automatic_detection':False}]
+ return {'schema':'fathom.private-manual-picking-comparison.v1','package_key':old['package_key'],'steps':steps,'guide_roles':guides,'required_silent_work':{'source_page':1,'formations':56,'required_user_report':'user_reports_complete','automatic_assessment':False},'printed_attacks':30,'printed_memberships':30,'source_passes':[8,8,14],'extra_preparatory_blocked_attacks':1,'extra_guide_preparation_attacks':2,'preparation_not_printed_inventory':True,'physical_boundary':{'source_page':1,'exact_text':h.BOUNDARY,'user_reported_stop_is_terminal':True,'automatic_detection':False},'source_required_practice_duty':{'physical_page':20,'exact_text':h.GATE,'completed':None},'response_contract':{'function':'workflow_state','validator':pin(VALIDATOR),'responses':['acknowledged','needs_retry','stopped'],'meaning':'User report only; no measured performance, mastery, Attempt or credit.'},'broader_both_starts_required_by_source':None,'fixed_bpm':None,'acoustic_gate':None,'runtime_admitted':False,'grants_credit':False,'automated_assessment':False}
+def make(old,data):
+ new=copy.deepcopy(old);new['source_refs'][0]['locator']=data['locator'];new['source_payload']['txt_excerpt']=data['literal'];new['source_payload']['source_discrepancy']=[{'class':'exact_txt_correspondence_verified','prior_diagnostic':old['source_payload']['source_discrepancy'],'decision':'Original TXT5-line shape/pick/count contract corresponds exactly to original PDF11 card.'}];new['implementation']['kind']='manual_picking_system_comparison';new['implementation']['manual_execution_contract']=contract(old,data);new['implementation']['context_tasks'][2]['instruction']=RULE;return new
+def verify(old,new,data):assert new==make(old,data),'EXACT_CONTRACT';assert new['implementation']['events']==old['implementation']['events'] and new['timing_authority']==old['timing_authority'],'UNCHANGED_MUSIC_CLOCK'
+def main():
+ timer=time.monotonic();utc=datetime.now(timezone.utc).isoformat()
+ for p,d in PINS:assert sha(p)==d,'PIN'
+ assert not (RES/'handoff.json').exists() and not (OUT/'implementation-overlay.jsonl').exists(),'OUTPUT_EXISTS';RES.mkdir(parents=True,exist_ok=True);OUT.mkdir(parents=True,exist_ok=True)
+ idx,prior,eff,cat,used,ops=module(FOLD,'fold').fold_chain(BASE,PREV);assert len(used)==486 and ops==580;entries=[x for x in idx['children'] if x['level']==60 and 58<=x['line']<=65];olds=[eff[x['package_key']] for x in entries];assert len(olds)==8 and all(x['package_key'] not in used and rh(eff[x['package_key']])==x['record_sha256'] and cat[x['package_key']]=='implementation_or_interpretation_pending' for x in entries)
+ refs=olds[0]['source_refs']
+ for r in refs:checkpin(r)
+ txt=(ROOT/refs[0]['path']).read_text().splitlines();ctx=json.loads((ROOT/refs[2]['path']).read_text());preps=[];data=[];checks=[]
+ with pdfplumber.open(ROOT/refs[1]['path']) as pdf:
+  pages={i+1:p.extract_text(x_tolerance=1) for i,p in enumerate(pdf.pages)};assert len(pages)==20
+  for n,t in pages.items():assert norm(t)==norm(next(x['text'] for x in ctx['pdf_pages'] if x['physical_page']==n))
+  assert RULE in norm(pages[11]) and COMPARE in norm(pages[11]) and h.BOUNDARY in norm(pages[1]) and h.GATE in norm(pages[20]);guide=pdf.pages[0].crop((552,162,748,183)).extract_text(x_tolerance=1);assert norm(guide)=='The third and seventh carry function. Accent them before adding roots, fifths, scales, or speed.'
+  for old in olds:
+   crop=pdf.pages[10].crop(old['implementation']['source_scope']['locator']['derived_bbox']).extract_text(x_tolerance=1);assert crop==old['implementation']['source_scope']['pdf_excerpt'];lines=crop.splitlines();m=re.fullmatch(r'(.+) - ([EA])-root family - frets ([0-9-]+)',lines[0]);assert m;chord,family,fretstr=m.groups();frets=list(map(int,fretstr.split('-')));strings=[6,5,4,3] if family=='E' else [5,4,3,2]
+   assert lines[1:]==['ALT D U D U | D U D U','ECO D D D D | U U U U','7-NT D U D U D U D | U D U D U D U','COUNT 8 + 8 + 14 = 30 attacks']
+   literal=[f'{chord} {family}-root frets {fretstr}','ALT: D U D U | D U D U','ECO: D D D D | U U U U','7-note loop: D U D U D U D | U D U D U D U','30 attacks total. Keep every string separate.'];hits=[i for i in range(len(txt)-4) if txt[i:i+5]==literal];assert len(hits)==1
+   candidates=[ent for ent in idx['children'] if ent['level']==60 and 2<=ent['line']<=57 and eff[ent['package_key']]['implementation']['events'][0]['chord']==chord and eff[ent['package_key']]['implementation']['events'][0]['members'][0]['string']==strings[0] and eff[ent['package_key']]['implementation']['events'][0]['members'][0]['fret']==frets[0]];assert len(candidates)==1;shape=eff[candidates[0]['package_key']];members=shape['implementation']['events'][0]['members'];assert [x['fret'] for x in members]==frets and [x['string'] for x in members]==strings
+   # Reference original blocked-correction source record, not an unlocated effective row.
+   shape_contract=shape['implementation']['manual_execution_contract'];fr=shape_contract['family_audit_contract'];checkpin(fr);fam=json.loads((ROOT/fr['path']).read_text());case=next(x for x in fam['source_cases'] if x['package_key']==shape['package_key']);sr=case['source_record'];checkpin(sr);pre=json.loads((ROOT/sr['path']).read_text().splitlines()[sr['line']-1]);assert rh(pre)==sr['record_sha256'] and pre['implementation']['events']==shape['implementation']['events'];sc=pre['implementation']['source_scope'];shape_crop=pdf.pages[sc['locator']['physical_page']-1].crop(sc['locator']['derived_bbox']).extract_text(x_tolerance=1);assert norm(shape_crop)==norm(sc['pdf_excerpt']);grid=h.parse_grid(shape_crop)
+   for mem,g in zip(members,grid[:4]):assert {k:mem[k] for k in g if k!='pick'}=={k:g[k] for k in g if k!='pick'}
+   source_line=pre['implementation']['events'][0]['source']['txt_line'];source_text=pre['implementation']['events'][0]['source']['txt_text'];assert txt[source_line-1]==source_text;assert h.parse_grid('\n'.join(txt[source_line-1:source_line+7]))==grid
+   ev=old['implementation']['events'];assert len(ev)==30
+   expected=[('ALT',MIRROR,ALT),('ECO',MIRROR,ECO),('7-NT',LOOP*2,SEVEN)];k=0
+   for system,pattern,picks in expected:
+    for pos,pick in zip(pattern,picks):e=ev[k];assert e['order']==k+1 and e['system']==system and e['string']==strings[pos] and e['fret']==frets[pos] and e['pick']==pick and e['onset_q'] is None and e['duration_q'] is None;k+=1
+   datum={'chord':chord,'spelling':case['spelling'],'members':members,'source_shape':sr,'locator':{'line_start':hits[0]+1,'line_end':hits[0]+5},'literal':'\n'.join(literal)};data.append(datum);preps.append(sr);checks.append({'key':old['package_key'],'PDF11_bbox':old['implementation']['source_scope']['locator']['derived_bbox'],'TXT_locator':datum['locator'],'source_shape':sr,'shape_original_pdf_page':sc['locator']['physical_page'],'shape_original_txt_line':source_line,'loop_boundary_event23':'D','loop_boundary_event24':'U','passes':[8,8,14]})
+ rows=[];changes=[];refusals=[];states=choices=0
+ for ent,old,d in zip(entries,olds,data):
+  new=make(old,d);verify(old,new,d);ct=new['implementation']['manual_execution_contract'];good={'package_key':old['package_key'],'contract_sha256':rh(ct),'silent56_report':'user_reports_complete','guide_role_order':ct['guide_roles']}
+  for g in [ct['guide_roles'],ct['guide_roles'][::-1]]:assert selection(ct,dict(good,guide_role_order=g))['guide_role_order']==g;choices+=1
+  complete=[{'step':i+1,'response':'acknowledged'} for i in range(6)]
+  for a,state in [([],'IN_PROGRESS'),(complete,'USER_REPORTED_STEPS_FINISHED'),([{'step':1,'response':'stopped'}],'STOPPED'),([{'step':1,'response':'needs_retry'}],'NEEDS_RETRY')]:assert workflow_state(ct,good,a)['state']==state;states+=1
+  assert workflow_state(ct,None,[])['state']=='AWAITING_SELECTION';assert workflow_state(ct,good,complete[:2])['next_step']['order']==3 and workflow_state(ct,good,complete[:3])['next_step']['order']==4 and workflow_state(ct,good,complete[:4])['next_step']['event_orders']==list(range(17,31));states+=4
+  for label,r,a in [('stale',dict(good,contract_sha256='0'*64),[]),('wrong_key',dict(good,package_key='x'),[]),('silent_incomplete',dict(good,silent56_report='incomplete'),[]),('silent_bool',dict(good,silent56_report=True),[]),('wrong_guide',dict(good,guide_role_order=['R','5']),[]),('extra_start',dict(good,start_stroke='U'),[]),('before_choice',None,complete[:1]),('skip_reliability',good,complete[:2]+[complete[3]]),('retry_then_economy',good,complete[:2]+[{'step':3,'response':'needs_retry'},complete[3]]),('stop_then_continue',good,[{'step':1,'response':'stopped'},complete[1]]),('bool_step',good,[{'step':True,'response':'acknowledged'}])]:
+   try:workflow_state(ct,r,a)
+   except AssertionError:refusals.append({'key':old['package_key'],'reason':label})
+   else:raise AssertionError('WORKFLOW_REFUSAL_FAILED')
+  rows.append(new);changes.append({'package_key':old['package_key'],'source_identity':old['source_identity'],'base_record_sha256':rh(old),'overlay_line':len(rows),'overlay_record_sha256':rh(new),'old_category':cat[old['package_key']],'new_category':'complete_manual_nonplayback_contract'})
+ corruptions=[]
+ for n in range(8):
+  for label,mut in [('reset_second_loop_D',lambda x:x['implementation']['events'][23].update(pick='D')),('lost_top_no_repeat',lambda x:x['implementation']['events'][20].update(string=x['implementation']['events'][19]['string'])),('changed_economy',lambda x:x['implementation']['events'][9].update(pick='U')),('invent_time',lambda x:x['implementation']['events'][0].update(duration_q=[1,1])),('lost_gate',lambda x:x['implementation']['manual_execution_contract']['steps'].pop(2)),('pause_between_loops',lambda x:x['implementation']['manual_execution_contract']['steps'][4].update(no_pause_or_response_between_loops=False)),('remove_dynamics',lambda x:x['implementation']['manual_execution_contract']['steps'][5]['comparison_conditions'].remove('dynamics')),('claim_mastery',lambda x:x['implementation']['manual_execution_contract']['source_required_practice_duty'].update(completed=True))]:
+   bad=copy.deepcopy(rows[n]);mut(bad)
+   try:verify(olds[n],bad,data[n])
+   except AssertionError:corruptions.append({'key':bad['package_key'],'reason':label})
+   else:raise AssertionError('CORRUPTION_ACCEPTED')
+ keys={x['package_key'] for x in entries};other=lambda:rh([[x['package_key'],rh(eff[x['package_key']])] for x in idx['children'] if x['package_key'] not in keys]);before=other()
+ for d,row in zip(changes,rows):key=d['package_key'];eff[key]=row;cat[key]=d['new_category'];used.add(key)
+ identity=[[x['package_key'],eff[x['package_key']]['source_identity']] for x in idx['children']];assert len(eff)==2133 and len(used)==494 and rh(identity)==idx['ordered_identity_sha256'] and other()==before;cats=dict(Counter(cat.values()));assert cats=={'timed_source_event_contract':507,'complete_manual_nonplayback_contract':667,'implementation_or_interpretation_pending':828,'performer_choice_missing_fixed_realization':125,'demonstrated_source_conflict':6}
+ for p,d in PINS:assert sha(p)==d
+ for r in [*refs,*preps]:checkpin(r)
+ packet=OUT/'implementation-overlay.jsonl';packet.write_text(''.join(compact(r)+'\n' for r in rows));save(RES/'targeted-validation.json',{'result':'PASS','source_checks':checks,'all20_pages_match_context':True,'guide_source_pdf1_bbox':[552,162,748,183],'guide_source_text':guide,'preserved_attacks_memberships':240,'guide_choices':choices,'workflow_states':states,'workflow_refusals':refusals,'content_refusals':corruptions,'unchanged_other_rows':2125,'unchanged_other_records_sha256':before,'final_input_drift':0,'native_gui_broad_qa':'NOT_RUN'})
+ save(RES/'handoff.json',{'schema_version':2,'status':'8 complete selected manual picking-comparison contracts; B IN_PROGRESS','start_utc':utc,'end_utc':datetime.now(timezone.utc).isoformat(),'converter_seconds':round(time.monotonic()-timer,3),'process_peak_rss_bytes':resource.getrusage(resource.RUSAGE_SELF).ru_maxrss,'base_index':pin(BASE),'prior_overlay_handoff':pin(PREV),'overlay':pin(packet),'changes':changes,'effective_categories':cats,'effective_child_count':2133,'effective_overlay_record_count':494,'unique_replaced_children':494,'total_replacement_operations':588,'ordered_identity_sha256':rh(identity),'source_shape_preimages':preps,'source_inputs':[{k:r[k] for k in ['path','bytes','sha256']} for r in refs],'outside_child_ambiguities_unchanged':6,'level57_unresolved_records_unchanged':6,'new_native_valid':0,'new_integrated':0,'new_independently_reviewed':0,'new_accepted':0})
+ print(compact({'handoff':pin(RES/'handoff.json'),'overlay':pin(packet),'categories':cats,'guide_choices':choices,'states':states,'workflow_refusals':len(refusals),'content_refusals':len(corruptions)}))
+if __name__=='__main__':main()

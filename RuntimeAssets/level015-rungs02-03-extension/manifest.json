@@ -1,0 +1,109 @@
+{
+  "version": "level015-rungs02-03-extension-bundle.1",
+  "content_version": "curriculum-v1-level015-rungs02-03-triplet-build-only.1",
+  "decision_sha256": "5dfbfbf9f9d5da0b2f24a9f56071fb1ea9679f8741919f0fa9d1de13a44798a7",
+  "profile_sha256": "da69d066f491b542aab085a594a20208f6e3db8bd10e3bef4c30fa451485b8a4",
+  "entries": {
+    "decision": "decision.json",
+    "package": "Build/parallel-02/level015-r02-r03-installed-r01/packet/package.json",
+    "registry": "Build/parallel-02/level015-r02-r03-installed-r01/packet/identity-registry.json",
+    "profile": "Build/parallel-02/level015-r02-r03-installed-r01/packet/expected-profile.json"
+  },
+  "files": [
+    {
+      "path": "decision.json",
+      "bytes": 2837,
+      "sha256": "5dfbfbf9f9d5da0b2f24a9f56071fb1ea9679f8741919f0fa9d1de13a44798a7"
+    },
+    {
+      "path": "rung02-agent-curriculum-decision.md",
+      "bytes": 3317,
+      "sha256": "41859b28c4d2fde1f72b40552aa85ea078c7d7a737a56ae21e0c7ec32fe06586"
+    },
+    {
+      "path": "rung03-agent-curriculum-decision.md",
+      "bytes": 3383,
+      "sha256": "24c4b1a19f03c0feae8704c0867be36b05bd12cec34b58d7a822c6c5ce91e79c"
+    },
+    {
+      "path": "Content/runtime/level015-rungs02-03-extension-v1/installed-resource-plan.json",
+      "bytes": 495,
+      "sha256": "eed6d3007f436de50a330eb35495ff50b457952140601f9a84dec850e4aa9af4"
+    },
+    {
+      "path": "Build/parallel-02/level015-r02-r03-installed-r01/packet/package.json",
+      "bytes": 150598,
+      "sha256": "06664715e244183a3b8d76eff4c16705f9f9256815abe1ddc4a5d1304d15a9fd"
+    },
+    {
+      "path": "Build/parallel-02/level015-r02-r03-installed-r01/packet/identity-registry.json",
+      "bytes": 1991,
+      "sha256": "3bea886d3bd11160f16eeea45f780f0c63d7249b84cbc523e2be7ca1990f9f92"
+    },
+    {
+      "path": "Build/parallel-02/level015-r02-r03-installed-r01/packet/expected-profile.json",
+      "bytes": 173045,
+      "sha256": "da69d066f491b542aab085a594a20208f6e3db8bd10e3bef4c30fa451485b8a4"
+    },
+    {
+      "path": "Build/parallel-02/level015-r02-r03-canonical-native-r01/run-r01/combined/package.json",
+      "bytes": 150598,
+      "sha256": "06664715e244183a3b8d76eff4c16705f9f9256815abe1ddc4a5d1304d15a9fd"
+    },
+    {
+      "path": "Build/parallel-02/level015-r02-r03-canonical-native-r01/run-r01/combined/identity-registry.json",
+      "bytes": 1991,
+      "sha256": "3bea886d3bd11160f16eeea45f780f0c63d7249b84cbc523e2be7ca1990f9f92"
+    },
+    {
+      "path": "Build/parallel-02/level015-r02-r03-canonical-native-r01/run-r01/combined/expected-profile.json",
+      "bytes": 173025,
+      "sha256": "0e14aea6009ab20a3c5703e307caece153d5533711d53226e5c8252668eb1f48"
+    },
+    {
+      "path": "Build/parallel-02/level015-r02-r03-canonical-native-r01/run-r01/combined/candidate-allocation.json",
+      "bytes": 9343,
+      "sha256": "ee00c92cf7f5b488ce78396fcd96b0cdf27201609e792c3beb3d370b855601fd"
+    },
+    {
+      "path": "Notes/music/guitar project/PDF version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.pdf",
+      "bytes": 30825,
+      "sha256": "9c3e2b980079fb3a4eca7affe9bc948a2e58cab15f256766976451ac08d53a5e"
+    },
+    {
+      "path": "Notes/music/guitar project/TXT version/Scale_Exercises_Section_II_Level_15_Major_Scale_Three_Note_Rolling_Sequence_Two_Octave_Six_String_Neck_Ladder.txt",
+      "bytes": 42020,
+      "sha256": "896937c0d5040c8e7590364433e141bbe7f6da419e063a8ed2590666d5a2c514"
+    },
+    {
+      "path": "Results/20260906124133Z-2.1.1.1.1-r01-evidence/identity-manifest.json",
+      "bytes": 85171,
+      "sha256": "e856ef05e610b9be51f33aac661a900301f747a9259bfcbd951b756a247504fe"
+    },
+    {
+      "path": "Results/20260906T182131Z-2.1.1.1.1-r02-results.md",
+      "bytes": 3485,
+      "sha256": "e908e9c1fa1f17ffce70b671f23eade4c08afc9d50b43f7b8fb7000aa39195b9"
+    },
+    {
+      "path": "Results/20260912T100538Z-2.1.1.2.1-r02-evidence/schema-freeze.json",
+      "bytes": 2737,
+      "sha256": "0659fa962a5c933a2bcf3045772b6fe5b05b4deefb3511f5dcb68af51088de95"
+    },
+    {
+      "path": "Build/level-oracle/exercise-implementation-r01/level015-rungs02-03/producer-r01/rung02/identity-baseline.json",
+      "bytes": 378,
+      "sha256": "cd2a5c2ae7f472618d1a4d3129be7e72401a841db2fc95db552215107bf4bf35"
+    },
+    {
+      "path": "Build/level-oracle/exercise-implementation-r01/level015-rungs02-03/producer-r01/rung02/allocation-baseline.json",
+      "bytes": 88,
+      "sha256": "32c936b9d8f1723c58f8f67c7a46c97de80e34d84b60133b429be14592bc9e28"
+    },
+    {
+      "path": "Build/level-oracle/exercise-implementation-r01/level015-rungs02-03/producer-r01/rung02/lineage-baseline.json",
+      "bytes": 46,
+      "sha256": "d0bb0eeba0b7484b513a0e44784b34b1fc3f42c5cd0f2596ac678a94ffded932"
+    }
+  ]
+}

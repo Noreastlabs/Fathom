@@ -1,0 +1,247 @@
+SCALE EXERCISES - SECTION III, LEVEL 21
+NATURAL MINOR ONE-FRET NECK LADDER: A TO A
+
+PURPOSE
+Learn one compact one-octave natural-minor shape, move the complete hand-and-thumb frame exactly one fret,
+and repeat through every natural-minor key. Begin with A natural minor at low-E fret 5, climb to A natural
+minor at fret 17, then reverse and return one fret at a time.
+
+PARALLEL MAJOR VS NATURAL MINOR
+A major:         A B C# D E F# G# A
+A natural minor: A B C  D E F  G  A
+The 3rd, 6th, and 7th are each lowered one fret: 3 -> b3, 6 -> b6, 7 -> b7.
+
+NATURAL-MINOR FORMULA
+Degrees:   1 2 b3 4 5 b6 b7 8
+Intervals: whole - half - whole - whole - half - whole - whole
+
+COMPACT ONE-OCTAVE SHAPE - ROOT FRET R ON LOW E
+Low E string: R, R+2, R+3          Fingers 1,3,4
+A string:     R, R+2, R+3          Fingers 1,3,4
+D string:     R, R+2               Fingers 1,3
+The four-fret hand frame runs from R through R+3.
+Ascending notes per string: 3-3-2. Descending notes per string: 2-3-3.
+
+CELL AND PICKING RULE
+Play degrees 1-2-b3-4-5-b6-b7-8, then 8-b7-b6-5-4-b3-2-1. The octave root is repeated at the turn.
+This creates 16 notes, so the next key begins with the same alternate-picking orientation.
+D-start: D U D U D U D U | D U D U D U D U
+U-start: U D U D U D U D | U D U D U D U D
+Do not restart the pick cycle at the scale turn or at the one-fret shift.
+
+NECK ROUTE
+UP:   A(5) > Bb(6) > B(7) > C(8) > C#(9) > D(10) > Eb(11) > E(12) > F(13) > F#(14) > G(15) > G#(16) > A(17)
+DOWN: A(17) > G#(16) > G(15) > F#(14) > F(13) > E(12) > Eb(11) > D(10) > C#(9) > C(8) > B(7) > Bb(6) > A(5)
+
+PRACTICE RULE
+First compare A major and A natural minor and identify the lowered 3rd, 6th, and 7th. Then use 3-4
+neighboring natural-minor rungs. Play even eighth notes and pause one beat after each 16-note cell.
+During the pause, release pressure and move the complete frame one fret. Repeat with both pick starts.
+Then remove the pause, connect the ladder, reverse at fret 17, and return to fret 5.
+Add 2 BPM after three clean round trips. Reduce 4-6 BPM after two errors, dragged shift noise, or rising tension.
+Advance after the complete route is clean with both pick starts on two separate days.
+
+================================================================================================================
+RUNG 01 OF 13 - A NATURAL MINOR - ROOT ON LOW E FRET 5 - FRAME 5-8
+Scale tones: A B C D E F G A
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------5--7--7--5--------------------|
+A  |---------5--7--8--------------8--7--5-----------|
+E  |5--7--8--------------------------------8--7--5--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 02 OF 13 - BB NATURAL MINOR - ROOT ON LOW E FRET 6 - FRAME 6-9
+Scale tones: Bb C Db Eb F Gb Ab Bb
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------6--8--8--6--------------------|
+A  |---------6--8--9--------------9--8--6-----------|
+E  |6--8--9--------------------------------9--8--6--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 03 OF 13 - B NATURAL MINOR - ROOT ON LOW E FRET 7 - FRAME 7-10
+Scale tones: B C# D E F# G A B
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------7--9--9--7--------------------|
+A  |---------7--9--10-------------10-9--7-----------|
+E  |7--9--10-------------------------------10-9--7--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 04 OF 13 - C NATURAL MINOR - ROOT ON LOW E FRET 8 - FRAME 8-11
+Scale tones: C D Eb F G Ab Bb C
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------8--10-10-8--------------------|
+A  |---------8--10-11-------------11-10-8-----------|
+E  |8--10-11-------------------------------11-10-8--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 05 OF 13 - C# NATURAL MINOR - ROOT ON LOW E FRET 9 - FRAME 9-12
+Scale tones: C# D# E F# G# A B C#
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------9--11-11-9--------------------|
+A  |---------9--11-12-------------12-11-9-----------|
+E  |9--11-12-------------------------------12-11-9--|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 06 OF 13 - D NATURAL MINOR - ROOT ON LOW E FRET 10 - FRAME 10-13
+Scale tones: D E F G A Bb C D
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------10-12-12-10-------------------|
+A  |---------10-12-13-------------13-12-10----------|
+E  |10-12-13-------------------------------13-12-10-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 07 OF 13 - EB NATURAL MINOR - ROOT ON LOW E FRET 11 - FRAME 11-14
+Scale tones: Eb F Gb Ab Bb Cb Db Eb
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------11-13-13-11-------------------|
+A  |---------11-13-14-------------14-13-11----------|
+E  |11-13-14-------------------------------14-13-11-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 08 OF 13 - E NATURAL MINOR - ROOT ON LOW E FRET 12 - FRAME 12-15
+Scale tones: E F# G A B C D E
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------12-14-14-12-------------------|
+A  |---------12-14-15-------------15-14-12----------|
+E  |12-14-15-------------------------------15-14-12-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 09 OF 13 - F NATURAL MINOR - ROOT ON LOW E FRET 13 - FRAME 13-16
+Scale tones: F G Ab Bb C Db Eb F
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------13-15-15-13-------------------|
+A  |---------13-15-16-------------16-15-13----------|
+E  |13-15-16-------------------------------16-15-13-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 10 OF 13 - F# NATURAL MINOR - ROOT ON LOW E FRET 14 - FRAME 14-17
+Scale tones: F# G# A B C# D E F#
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------14-16-16-14-------------------|
+A  |---------14-16-17-------------17-16-14----------|
+E  |14-16-17-------------------------------17-16-14-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 11 OF 13 - G NATURAL MINOR - ROOT ON LOW E FRET 15 - FRAME 15-18
+Scale tones: G A Bb C D Eb F G
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------15-17-17-15-------------------|
+A  |---------15-17-18-------------18-17-15----------|
+E  |15-17-18-------------------------------18-17-15-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 12 OF 13 - G# NATURAL MINOR - ROOT ON LOW E FRET 16 - FRAME 16-19
+Scale tones: G# A# B C# D# E F# G#
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------16-18-18-16-------------------|
+A  |---------16-18-19-------------19-18-16----------|
+E  |16-18-19-------------------------------19-18-16-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+================================================================================================================
+RUNG 13 OF 13 - A NATURAL MINOR - OCTAVE - ROOT ON LOW E FRET 17 - FRAME 17-20
+Scale tones: A B C D E F G A
+16-note cell: ascend 1-8, repeat the octave root, descend 8-1.
+Deg|1--2--b3-4--5--b6-b7-8--8--b7-b6-5--4--b3-2--1--|
+Fng|1--3--4--1--3--4--1--3--3--1--4--3--1--4--3--1--|
+e  |------------------------------------------------|
+B  |------------------------------------------------|
+G  |------------------------------------------------|
+D  |------------------17-19-19-17-------------------|
+A  |---------17-19-20-------------20-19-17----------|
+E  |17-19-20-------------------------------20-19-17-|
+Finish on the low root, release pressure, and move the entire frame one fret in the route direction.
+
+FULL ROUND-TRIP CHALLENGE
+1. Start with A natural minor at fret 5.
+2. Play all 13 cells without restarting the alternate-picking cycle.
+3. Reverse at fret 17 and return through rungs 12-01.
+4. Name each key and say the root before its first note.
+5. Repeat with the opposite starting stroke.
+One complete route contains 25 cells x 16 notes = 400 picked notes.
+
+CLEAN-ROUND STANDARD
+No open strings, no dragged shift noise, no missing accidental, no hesitation at the 3-3-2 crossings,
+and no tempo change at the one-fret relocations.
+
+AFTER THE BASIC LADDER IS CLEAN
+Parallel contrast: play one A-major cell, then one A-natural-minor cell; hear and locate b3, b6, and b7.
+Accent rotation: accent degrees 1, then b3, then 5, then b7 without changing the fingering.
+Rhythm: eighth notes, straight sixteenths, then four-note bursts with one beat of rest between keys.
+Direction: begin some sessions at fret 17 and descend first.
+Random entry: choose any root fret from 5-17, name the minor key, play its cell, then continue either way.
+
+MASTERY GATE
+Complete the full route with both pick starts on two separate days. Name every key, preserve the minor-scale
+formula, keep equal note length and volume, and recover the correct key after a deliberate random stop.

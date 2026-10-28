@@ -1,0 +1,25 @@
+{
+  "availability": "required_unsupplied",
+  "entry_ids": [
+    "R39",
+    "R48",
+    "R73",
+    "R74",
+    "R75",
+    "R76",
+    "R77",
+    "R78",
+    "R79",
+    "R95",
+    "R96",
+    "R97A",
+    "R97B",
+    "R97C",
+    "R99",
+    "R105"
+  ],
+  "original_plan_path": "Results/primary/20260906T184530Z-2.4.1.1.1-r01-evidence/plan.json",
+  "original_plan_sha256": "cb3c3f7a47343ac0255dbdb8bf53411af6dd7b929c101b04d00ed62d6e3f637a",
+  "resources": [],
+  "schema": "fathom-unsupplied-resource-adapter.1"
+}

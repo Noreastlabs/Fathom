@@ -1,0 +1,220 @@
+GUITAR EXERCISES - SECTION X, LEVEL 79
+COMPLETE-PERFORMANCE IMPROVISATION: LONG-FORM DYNAMIC ARCS, MULTI-KEY NAVIGATION, RHYTHMIC DISPLACEMENT, ENSEMBLE CUES, AND EAR-LED RECOVERY
+
+PURPOSE
+Combine Section X skills inside one continuous 48-bar performance. Preserve pulse, form, key center, role, harmonic targets, rhythmic identity, cues, dynamics, and recovery without restarting.
+
+CONTROL HIERARCHY
+1. Pulse / bar count
+2. Section / cue
+3. Key center / harmony
+4. Role: accompaniment or lead
+5. Structural target
+6. Register / density
+7. Articulation / ornament
+
+COMPLETE WRITTEN WORKLOAD: 1,200 events plus the uninterrupted capstone take.
+
+====================================================================================================================
+MASTER 48-BAR FORM
+====================================================================================================================
+INTRO bars 1-4 | C major | Cmaj7 | Am7 | Dm7 | G7 | dynamic p | role roots/shells | exit cue: establish pulse
+VERSE A bars 5-12 | C major | Cmaj7 | Am7 | Dm7 | G7 | Cmaj7 | A7 | Dm7 | G7 | dynamic mp | role comp | exit cue: motif appears
+PRE bars 13-16 | C -> G | Am7 | D7 | Gmaj7 | D7 | dynamic mf | role triads | exit cue: pivot to G
+CHORUS bars 17-24 | G major | Gmaj7 | Cmaj7 | Em7 | D7 | Gmaj7 | Cmaj7 | D7 | D7 | dynamic f | role open comp/lead answers | exit cue: first peak
+VERSE B bars 25-32 | G -> A minor | Gmaj7 | Em7 | Am7 | D7 | Cmaj7 | B7 | Em7 | E7 | dynamic mp | role sparse comp | exit cue: prepare minor
+BRIDGE bars 33-40 | A minor | Am7 | Dm7 | E7 | Am7 | Fmaj7 | Bm7b5 | E7 | Am7 | dynamic mf -> f | role guide tones/lead | exit cue: second peak
+FINALE bars 41-48 | A minor -> C/G | Dm7 | G7 | Cmaj7 | A7 | Dm7 | G7 | Cmaj7 | Gmaj7 | dynamic f -> pp | role role mix | exit cue: resolve and release
+
+====================================================================================================================
+MODULE A - LONG-FORM DYNAMIC ARC
+====================================================================================================================
+1-4 | Intro | p | 1-2 contacts/bar | low | leave maximum space
+5-12 | Verse A | mp | 4 contacts/bar | low-mid | steady comp; no fills until bar 8
+13-16 | Pre | mf | 4-6 contacts/bar | middle | rise register each bar
+17-24 | Chorus | f | 6-8 contacts/bar | wide | open voicings; short lead answers
+25-32 | Verse B | mp | 2-4 contacts/bar | middle | drop density immediately
+33-40 | Bridge | mf -> f | 4-7 contacts/bar | middle-high | build to second peak
+41-44 | Finale A | f | 6 contacts/bar | high | maintain energy
+45-48 | Finale B | mf -> pp | 4 -> 1 | descending | release into final tonic
+Practice the arc first with roots only, then shells, then full arrangement. Dynamics must remain audible when note count is reduced.
+
+====================================================================================================================
+MODULE B - MULTI-KEY NAVIGATION
+====================================================================================================================
+C major: Cmaj7 -> target E (3). Sing, silently locate, then play in two registers.
+C major: A7 -> target C# (3). Sing, silently locate, then play in two registers.
+C major: G7 -> target B (3). Sing, silently locate, then play in two registers.
+C -> G: D7 -> target F# (3 of V/G). Sing, silently locate, then play in two registers.
+G major: Gmaj7 -> target B (3). Sing, silently locate, then play in two registers.
+G major: D7 -> target F# (3). Sing, silently locate, then play in two registers.
+G -> Em: B7 -> target D# (3 of V/Em). Sing, silently locate, then play in two registers.
+E minor: Em7 -> target G (b3). Sing, silently locate, then play in two registers.
+E minor -> Am: E7 -> target G# (3 of V/Am). Sing, silently locate, then play in two registers.
+A minor: Am7 -> target C (b3). Sing, silently locate, then play in two registers.
+A minor: E7 -> target G# (3). Sing, silently locate, then play in two registers.
+A minor: Bm7b5 -> target F (b5). Sing, silently locate, then play in two registers.
+A minor -> C: G7 -> target B (3 of V/C). Sing, silently locate, then play in two registers.
+C major: Cmaj7 -> target E (3). Sing, silently locate, then play in two registers.
+C major: A7 -> target C# (3 of V/ii). Sing, silently locate, then play in two registers.
+C major: Dm7 -> target F (b3). Sing, silently locate, then play in two registers.
+C -> G: D7 -> target F# (3). Sing, silently locate, then play in two registers.
+G major: Gmaj7 -> target B (3). Sing, silently locate, then play in two registers.
+Final close: Cmaj7 -> target C (R). Sing, silently locate, then play in two registers.
+Final close: Gmaj7 -> target G (R). Sing, silently locate, then play in two registers.
+Recovery: D7 -> target C (b7). Sing, silently locate, then play in two registers.
+Recovery: E7 -> target D (b7). Sing, silently locate, then play in two registers.
+Recovery: A7 -> target G (b7). Sing, silently locate, then play in two registers.
+Recovery: B7 -> target A (b7). Sing, silently locate, then play in two registers.
+
+PIVOT / DOMINANT CHAINS
+C -> G: Am7 -> D7 -> Gmaj7 | voice 1 C -> C -> B | voice 2 E -> F# -> F#
+G -> Em: Cmaj7 -> B7 -> Em7 | voice 1 B -> A -> G | voice 2 E -> D# -> E
+Em -> Am: Dm7 -> E7 -> Am7 | voice 1 F -> G# -> A | voice 2 C -> D -> C
+Am -> C: Dm7 -> G7 -> Cmaj7 | voice 1 F -> F -> E | voice 2 C -> B -> B
+C -> Dm tonicize: Cmaj7 -> A7 -> Dm7 | voice 1 E -> C# -> D | voice 2 B -> G -> A
+C -> G close: Am7 -> D7 -> Gmaj7 | voice 1 C -> C -> B | voice 2 E -> F# -> F#
+
+====================================================================================================================
+MODULE C - RHYTHMIC DISPLACEMENT
+====================================================================================================================
+Motif: C-E-G-B-A-G-E-D
+1. Start on beat 1; keep the Cmaj7 barline and chord change fixed.
+2. Start on e of 1; keep the Cmaj7 barline and chord change fixed.
+3. Start on & of 1; keep the Cmaj7 barline and chord change fixed.
+4. Start on a of 1; keep the Cmaj7 barline and chord change fixed.
+5. Start on beat 2; keep the Cmaj7 barline and chord change fixed.
+6. Start on & of 2; keep the Cmaj7 barline and chord change fixed.
+7. Start on beat 4; keep the Cmaj7 barline and chord change fixed.
+8. Start on & of 4; keep the Cmaj7 barline and chord change fixed.
+
+Section devices: group of 3, group of 5, 3+3+2, one-bar quintuplets, sixteenth-note metric displacement, then straight-time release.
+
+====================================================================================================================
+MODULE D - ENSEMBLE CUES
+====================================================================================================================
+Head nod | lead time next bar | response change section | if missed: roots/shells until next landmark
+Hand lift | lead time 2 beats | response prepare held hit | if missed: roots/shells until next landmark
+Eye contact | lead time next phrase | response role handoff | if missed: roots/shells until next landmark
+Drum fill | lead time end of fill | response enter next section | if missed: roots/shells until next landmark
+Bass walk-up | lead time next bar | response raise register | if missed: roots/shells until next landmark
+Held chord | lead time release cue | response stop density; sustain | if missed: roots/shells until next landmark
+Two-hit figure | lead time immediate | response match ensemble hits | if missed: roots/shells until next landmark
+Count "4" | lead time next bar | response new section | if missed: roots/shells until next landmark
+Unexpected extra bar | lead time one bar | response repeat minimal motif | if missed: roots/shells until next landmark
+Early chorus cue | lead time next bar | response skip planned fill | if missed: roots/shells until next landmark
+Late solo cue | lead time one bar | response continue comping | if missed: roots/shells until next landmark
+Cutoff cue | lead time immediate | response mute cleanly | if missed: roots/shells until next landmark
+
+CUE-TO-ROLE CONVERSION
+Visual nod: COMP -> LEAD. finish shell; sing next target; enter high register. Keep the current bar count.
+Visual nod: LEAD -> COMP. resolve by beat 3; reform chord. Keep the current bar count.
+Drum fill: COMP -> HIT. mute groove; match final ensemble hit. Keep the current bar count.
+Held chord: LEAD -> SILENCE. resolve to guide tone; stop adding notes. Keep the current bar count.
+Bass walk-up: COMP -> HIGH COMP. move to upper triad on next bar. Keep the current bar count.
+Count cue: SILENCE -> LEAD. pre-hear beat-one target during count. Keep the current bar count.
+Cutoff: ANY -> SILENCE. release pressure and mute. Keep the current bar count.
+Extra bar: ANY -> MINIMAL. repeat one root/guide-tone idea only. Keep the current bar count.
+
+====================================================================================================================
+MODULE E - SPONTANEOUS ROLE SWITCHING
+====================================================================================================================
+C major: Cmaj7-Am7-Dm7-G7 | role map C C L L | C=comp, L=lead
+C major: Cmaj7-Am7-Dm7-G7 | role map L C C L | C=comp, L=lead
+G major: Gmaj7-Em7-Am7-D7 | role map C L L C | C=comp, L=lead
+G major: Gmaj7-Cmaj7-Em7-D7 | role map L L C C | C=comp, L=lead
+A minor: Am7-Dm7-E7-Am7 | role map C C L C | C=comp, L=lead
+A minor: Bm7b5-E7-Am7-Am7 | role map L C L C | C=comp, L=lead
+C -> G: Am7-D7-Gmaj7-Gmaj7 | role map C L C L | C=comp, L=lead
+Em -> Am: Dm7-E7-Am7-Am7 | role map L C C L | C=comp, L=lead
+
+DENSITY / REGISTER MATRIX
+Sparse comp -> dense lead: outgoing 1 shell/bar; incoming 5 tones/bar; register low -> high
+Dense comp -> sparse lead: outgoing 8th stabs; incoming 2 tones/bar; register mid -> mid
+Low comp -> high lead: outgoing roots/shells; incoming 4-tone motif; register low -> high
+High comp -> low lead: outgoing triads; incoming bass-register arpeggio; register high -> low
+Muted comp -> open lead: outgoing dead/short; incoming sustained; register mid
+Open comp -> muted lead: outgoing sustain; incoming short targets; register mid
+Straight comp -> displaced lead: outgoing quarters; incoming motif offset by 16th; register mid-high
+Odd comp -> straight lead: outgoing 3+3+2; incoming quarter-note targets; register mid
+
+====================================================================================================================
+MODULE F - EAR-LED RECOVERY
+====================================================================================================================
+Wrong scale note: immediate repair = nearest chord tone; next action = continue pulse.
+Wrong chord quality: immediate repair = root + third shell; next action = restore quality.
+Lost target: immediate repair = sing chord 3rd; next action = one decisive attack.
+Missed cue: immediate repair = current root; next action = wait next landmark.
+Lost bar count: immediate repair = roots only; next action = locate section cadence.
+Noisy sweep: immediate repair = single note; next action = resume simpler picking.
+Failed displacement: immediate repair = straight quarters; next action = restore grid.
+Missed modulation: immediate repair = destination dominant; next action = confirm new tonic.
+Lead overruns handoff: immediate repair = stop early; next action = reform comp chord.
+Comp misses lead cue: immediate repair = single guide tone; next action = begin lead next beat.
+Unknown extra bar: immediate repair = repeat motif; next action = do not invent harmony.
+Memory blank: immediate repair = silence + count; next action = enter at next structural bar.
+
+RANDOMIZED SCENARIOS
+Verse bar 7: wrong chord: play root on beat 3; correct on next bar; continue through the section exit.
+Pre bar 15: missed D7 target: sing F#; land before Gmaj7; continue through the section exit.
+Chorus bar 22: pick drops pattern: switch to quarter-note triads; continue through the section exit.
+Verse B bar 30: cue arrives early: skip fill; prepare B7; continue through the section exit.
+Bridge bar 37: G# missed: play E7 root/third shell; resolve to A; continue through the section exit.
+Bridge bar 39: lost count: roots only; identify bar 40 Am; continue through the section exit.
+Finale bar 44: displacement fails: return to straight eighths; continue through the section exit.
+Final bar: cutoff missed: mute immediately; do not add corrective strum; continue through the section exit.
+
+====================================================================================================================
+MODULE G - SECTION STUDIES
+====================================================================================================================
+Bars 1-12: Intro + Verse A
+| Cmaj7 | Am7 | Dm7 | G7 |
+| Cmaj7 | Am7 | Dm7 | G7 |
+| Cmaj7 | A7 | Dm7 | G7 |
+Bars 13-16: Pre
+| Am7 | D7 | Gmaj7 | D7 |
+Bars 17-24: Chorus
+| Gmaj7 | Cmaj7 | Em7 | D7 |
+| Gmaj7 | Cmaj7 | D7 | D7 |
+Bars 25-32: Verse B
+| Gmaj7 | Em7 | Am7 | D7 |
+| Cmaj7 | B7 | Em7 | E7 |
+Bars 33-40: Bridge
+| Am7 | Dm7 | E7 | Am7 |
+| Fmaj7 | Bm7b5 | E7 | Am7 |
+Bars 41-48: Finale
+| Dm7 | G7 | Cmaj7 | A7 |
+| Dm7 | G7 | Cmaj7 | Gmaj7 |
+
+====================================================================================================================
+MODULE H - 48-BAR COMPLETE-PERFORMANCE CAPSTONE
+====================================================================================================================
+Pass 1: roots only.
+Pass 2: accompaniment only.
+Pass 3: printed role map.
+Pass 4: partner randomizes three role cues.
+Pass 5: free orchestration while preserving harmonic targets and section dynamics.
+
+Required events: one full-beat rest in Intro; C# over A7; F# over D7 before G; two Chorus role handoffs; D# over B7; G# over E7; F over Bm7b5; one displaced motif in Finale; sustained final Gmaj7.
+
+====================================================================================================================
+SCORING
+====================================================================================================================
+Pulse / time: 0 lost | 1 recoverable | 2 stable
+Form / bar count: 0 lost | 1 one error | 2 secure
+Key-center navigation: 0 unclear | 1 partial | 2 audible
+Chord-function targets: 0 missed | 1 mixed | 2 clear
+Rhythmic displacement: 0 breaks form | 1 unstable | 2 controlled
+Cue response: 0 missed | 1 late | 2 immediate
+Role switching: 0 interrupts | 1 functional | 2 musical
+Dynamic / register arc: 0 flat | 1 partial | 2 shaped
+Ear-led recovery: 0 restart | 1 rough | 2 preserves form
+
+PASSING STANDARD
+16/18 or better on two separate days. No zero in pulse, form, cue response, or recovery.
+
+SECTION X COMPLETION
+The player can now combine repertoire analysis, transcription, functional hearing, modulation, odd rhythmic grouping, cue response, ear-led improvisation, role switching, and structural recovery inside complete performances.
+
+NEXT LEVEL
+Level 80 begins chord melody and independent-voice control: melody on top, guide tones inside, bass movement below, and simultaneous accompaniment/lead execution.

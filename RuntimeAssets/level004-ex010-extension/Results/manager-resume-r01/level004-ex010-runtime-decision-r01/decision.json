@@ -1,0 +1,41 @@
+{
+  "accepted_product_count_changed": false,
+  "canonical_body_sha256": "cadee315f9e0f0099beb7a61c41d775f6bc98af66aa7fc2349945cc6b4045a34",
+  "canonical_item": "fg:item:000453",
+  "canonical_module": "fg:module:000453",
+  "case": "printed:l004:set-1-of-9-exercises-001-012:exercise-010-1312",
+  "content_revision": 1,
+  "credit_granted": false,
+  "curriculum_adoption_sha256": "46a01cd5fd2b9b08d7084979a7d43fb8950d9c1588eb1621567260b6648b67c3",
+  "decision": "PRODUCT_RUNTIME_ACCEPT_PROSPECTIVE_CONDITIONAL_ONLY",
+  "duration_q": "1/4",
+  "end_q": 8,
+  "installed_admitted_now": false,
+  "metric_author": "Fathom-relative-quarter-grid",
+  "onset_q": "(ordinal-1)/4",
+  "private_native_adoption_sha256": "930544980dfb219c7b736cc41c64d1d4d2128a1e6201fe467eff48b0ef5d159e",
+  "refuse": [
+    "changed_source_or_body_or_revision_or_decision_or_content_version_or_allowlist",
+    "other_ten_ex010_variants",
+    "unadmitted_neighbor_ex011",
+    "copied_ex008_or_ex009_route",
+    "fixed_bpm_or_acoustic_sustain_or_mastery_or_credit"
+  ],
+  "requires": [
+    "manager_adoption",
+    "serialized_p02_version_bound_allowlist_and_installed_candidate",
+    "installed_learn_practice_session_attempt_no_credit_refusal_two_restart_proof",
+    "different_agent_installed_review"
+  ],
+  "runtime_eligible_now": false,
+  "schema": "fathom-product-runtime-prospective-decision.1",
+  "scope": "second_even_straight_sixteenth_D_U_only",
+  "selected_memberships": 64,
+  "selected_variants": [
+    "fg:variant:003383",
+    "fg:variant:003385"
+  ],
+  "source_adoption_sha256": "b24090027a3c227cccfd66a113bd2c5c53cce7c8902ca9024a3ad81ad97c1438",
+  "source_pdf_sha256": "b24cad79148b8165b74cbd3662031c2ad0227f0e856aa955d03c88db31dbafb1",
+  "source_txt_sha256": "4c90d79866f42125a7aa8785e803462864dbb88b2ecfa856438bf49f922f3d9a"
+}

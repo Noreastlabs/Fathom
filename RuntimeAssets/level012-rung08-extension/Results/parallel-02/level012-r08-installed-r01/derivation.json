@@ -1,0 +1,30 @@
+{
+  "allowed_differences": [
+    "four exact canonical identities including event prefixes",
+    "content_version",
+    "canonical candidate allocation authority and hash",
+    "local unsupplied resource adapter path and hash"
+  ],
+  "derived_sha256": {
+    "allocation": "142dc521a775ccbbae99b6e59dc7392e67b005ba19cfea9c0dd6550c47df062f",
+    "package": "ccc58d75f0eb0c7c5e2e556cdb6e13a9ddc835f10fc606ae740f56970ae9f8b2",
+    "profile": "02d5f00f9874014e56a670907331c51bb501973309452146480db0c6a5913f3d",
+    "registry": "c1d1a34a0eb27e5ef393001f3ef57e2fdd73fe7d1b6d7a7c6a4f2cae63ed04dd",
+    "resource_adapter": "46c3eae8c870630ccc7e2d1bb522c08cf3b8daa4755994a7e64002913161f287"
+  },
+  "resource_availability": "required_unsupplied",
+  "resource_entry_count": 16,
+  "runtime_eligible_still_false": true,
+  "schema": "fathom-r08-exact-installed-derivation.1",
+  "selected_item": "fg:item:001178",
+  "selected_variants": [
+    "fg:variant:007694",
+    "fg:variant:007695"
+  ],
+  "source_facts_preserved": true,
+  "source_sha256": {
+    "package": "ba630bedbcec2755c62ef8666850ce2c19dc4cb2d7759a8edaa90f8eb177e123",
+    "profile": "477a9c58c1148f21d1d7864a6f0cfb5c068623fc09d0f79df04458cafff0192e",
+    "registry": "fd4e905d0f436f2817689bd28dd83e5f64b77b0c2eb5b33e63633bff800cd6fe"
+  }
+}
