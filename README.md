@@ -4,7 +4,7 @@
 
 **Offline guitar practice, source reading and recoverable local work—with private planning prose separated from the runtime.**
 
-> **Full content, publication pending.** This candidate retains the functional curriculum and does not use empty lesson interfaces. Known private planning/review prose and verifier artifacts are archived separately. This repository is private and the project source is licensed under [AGPL-3.0](LICENSE). Public redistribution of original/derived curriculum and compliance for third-party components still require resolution; source licensing alone does not establish those rights.
+> **Full content, publication pending.** This candidate retains the functional curriculum and does not use empty lesson interfaces. Known private planning/review prose and verifier artifacts are archived separately. This repository is private and the project source is licensed under [AGPL-3.0](LICENSE). The owner confirms that the entire curriculum and exercises were generated for Fathom and are free to use. Separately identifiable third-party dependencies and assets retain their own licenses and obligations.
 
 [User guide](docs/user-guide.md) · [Build](docs/development.md) · [Architecture](docs/architecture.md) · [Data & recovery](docs/data-and-recovery.md) · [Publication status](docs/licensing.md)
 
@@ -33,9 +33,16 @@ The [v0.0.1 macOS arm64 local prerelease, revision 20261104-r01](https://github.
 5. Copy `Fathom.app` to a new destination, for example your home **Applications** folder, and give it a distinct name such as **Fathom 0.0.1 Local.app**. Keep the previous copy; choose another name if that destination already exists. This ZIP has no privileged installer or automatic launch.
 6. Open the new copy normally in Finder and follow its named-profile/onboarding/recovery choices. Do not run two copies against the same profile. Stop if the profile is busy or recovery is unresolved.
 
-**If macOS blocks opening:** stop and obtain an appropriately Developer ID-signed and notarized build. The recorded Gatekeeper assessment returned an internal Code Signing subsystem error, so acceptance or rejection was not established; a downloaded/quarantined copy may be blocked. Do not disable Gatekeeper, remove quarantine attributes, re-sign the app to bypass checks or change security policy. No clean-Mac download/open test is claimed.
+**If macOS warns that the developer cannot be verified or Apple cannot check the app for malicious software:** this build is not notarized. Only if you trust the downloaded app and its source, and have verified the checksums above, you can use Apple's app-specific approval procedure:
 
-The attached installation and verification records describe the original packaging-time evidence. Keep this package private until the unresolved curriculum redistribution and third-party compliance decisions below are settled.
+1. Try opening this Fathom copy normally in Finder first, then dismiss the warning.
+2. Open **System Settings → Privacy & Security**, scroll to **Security**, and click **Open Anyway** for Fathom.
+3. When the warning returns, confirm **Open** only if you still trust this app and its source. macOS saves an exception for this app. If the option is unavailable or the Mac is managed, contact the administrator or obtain a Developer ID-signed and notarized build.
+
+This procedure is for the unverified-developer/notarization warning. If macOS reports malware, says the app **will damage your computer**, or says it **is damaged**, stop; do not use these steps to override that warning. Obtain a fresh verified build or contact the developer. Do not globally disable Gatekeeper, remove quarantine attributes or re-sign the app to bypass checks. See [Apple's guidance on opening apps safely](https://support.apple.com/en-us/102445).
+
+The recorded Gatekeeper assessment returned an internal Code Signing subsystem error, so acceptance or rejection was not established. No clean-Mac download/open test or successful app-specific approval is claimed. The attached installation and verification records describe the original packaging-time evidence; their curriculum-rights statements predate the owner's clarification below.
+
 
 ## Build locally
 
@@ -79,12 +86,12 @@ An uncertain save may have happened. Keep its original owner, operation and immu
 
 ## Publication decisions
 
-Project source is licensed under [AGPL-3.0](LICENSE). The retained modified JUCE 9.0.1 dependency states AGPLv3/commercial options and includes third-party notices. The project license does not independently grant rights to original/derived curriculum or establish satisfaction of all dependency distribution obligations.
+Project source is licensed under [AGPL-3.0](LICENSE). The retained modified JUCE 9.0.1 dependency states AGPLv3/commercial options and includes third-party notices. The owner confirms that the entire curriculum and exercises were generated for Fathom and are free to use. This clarification does not change the licenses of separately identifiable third-party dependencies or assets, or establish satisfaction of their distribution obligations.
 
-Confirm authority for implementation/prompts/rules/fixtures and original/derived curriculum, verify the applicable project/JUCE distribution obligations and compliance before public distribution. Genuine curriculum/source interpretation remains retained private content pending those decisions. Clean packaging and engineering checks do not grant redistribution rights.
+The Fathom-generated curriculum and exercises are not an unresolved publication-rights blocker. Before public distribution, verify the applicable project/JUCE obligations and any separately identifiable third-party asset licenses. Clean packaging and engineering checks do not establish third-party license compliance.
 
 
-The 137,376,520-byte runtime definition file has narrow [Git LFS tracking and clone/build instructions](docs/git-lfs.md). Local clean/index-pointer/smudge verification passes with the working bytes and integrity pins unchanged; no remote or global Git settings were changed. The supplied folder is fully hydrated and builds offline. Future hosting LFS availability, quota/budget and remote object availability remain unverified; project/JUCE/content publication decisions also remain open.
+The 137,376,520-byte runtime definition file has narrow [Git LFS tracking and clone/build instructions](docs/git-lfs.md). Local clean/index-pointer/smudge verification passes with the working bytes and integrity pins unchanged; no remote or global Git settings were changed. The supplied folder is fully hydrated and builds offline. Future hosting LFS availability, quota/budget and remote object availability remain unverified; project/JUCE and separately identifiable third-party licensing compliance still require verification before public distribution.
 
 ## Verification limits
 
