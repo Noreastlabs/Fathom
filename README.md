@@ -4,7 +4,7 @@
 
 **Offline guitar practice, source reading and recoverable local work—with private planning prose separated from the runtime.**
 
-> **Full content, publication pending.** This candidate retains the functional curriculum and does not use empty lesson interfaces. Known private planning/review prose and verifier artifacts are archived separately. This repository is private and the project source is licensed under [AGPL-3.0](LICENSE). The owner confirms that the entire curriculum and exercises were generated for Fathom and are free to use. Separately identifiable third-party dependencies and assets retain their own licenses and obligations.
+> **Full content, development prerelease.** This candidate retains the functional curriculum and does not use empty lesson interfaces. Known private planning/review prose and verifier artifacts are archived separately. This repository is public and the project source is licensed under [AGPL-3.0](LICENSE). The owner confirms that the entire curriculum and exercises were generated for Fathom and are free to use. Separately identifiable third-party dependencies and assets retain their own licenses and obligations.
 
 [User guide](docs/user-guide.md) · [Build](docs/development.md) · [Architecture](docs/architecture.md) · [Data & recovery](docs/data-and-recovery.md) · [Publication status](docs/licensing.md)
 
@@ -22,7 +22,7 @@ New Guided entry stays disabled; retained originals keep their protected resolut
 
 ## Install the macOS development package
 
-The [v0.0.1 macOS arm64 local prerelease, revision 20261104-r01](https://github.com/Noreastlabs/Fathom/releases/tag/v0.0.1-macos-arm64-local-20261104-r01) includes a ready-built `Fathom.app` in a ZIP. No compiler, CMake, Python, Git or Git LFS is needed to use this package. While this repository is private, downloads require GitHub access to it.
+The [v0.0.1 macOS arm64 local prerelease, revision 20261104-r01](https://github.com/Noreastlabs/Fathom/releases/tag/v0.0.1-macos-arm64-local-20261104-r01) includes a ready-built `Fathom.app` in a ZIP. No compiler, CMake, Python, Git or Git LFS is needed to use this package. The release and its assets are publicly downloadable without repository membership.
 
 **Requirements and limits:** Apple silicon Mac (arm64); this binary does not support Intel Macs. macOS 11.0 is declared by the executable but is not a tested minimum. The packaging record names macOS 26.5.2 as the prior build host. Clean installation, first launch, native UI/audio and profile migration/recovery were not verified for this package. It is ad-hoc integrity signed only, with no trusted Developer ID signature or notarization. Making the repository public would allow downloads, but would not make macOS trust the app or guarantee that it opens.
 
@@ -88,7 +88,7 @@ An uncertain save may have happened. Keep its original owner, operation and immu
 
 Project source is licensed under [AGPL-3.0](LICENSE). The retained modified JUCE 9.0.1 dependency states AGPLv3/commercial options and includes third-party notices. The owner confirms that the entire curriculum and exercises were generated for Fathom and are free to use. This clarification does not change the licenses of separately identifiable third-party dependencies or assets, or establish satisfaction of their distribution obligations.
 
-The Fathom-generated curriculum and exercises are not an unresolved publication-rights blocker. Before public distribution, verify the applicable project/JUCE obligations and any separately identifiable third-party asset licenses. Clean packaging and engineering checks do not establish third-party license compliance.
+The Fathom-generated curriculum and exercises are not an unresolved publication-rights blocker. Public availability does not establish compliance with applicable project/JUCE obligations or any separately identifiable third-party asset licenses; those obligations still require verification. Clean packaging and engineering checks do not establish third-party license compliance.
 
 
 The 137,376,520-byte runtime definition file has narrow [Git LFS tracking and clone/build instructions](docs/git-lfs.md). Local clean/index-pointer/smudge verification passes with the working bytes and integrity pins unchanged; no remote or global Git settings were changed. The supplied folder is fully hydrated and builds offline. Future hosting LFS availability, quota/budget and remote object availability remain unverified; project/JUCE and separately identifiable third-party licensing compliance still require verification before public distribution.
